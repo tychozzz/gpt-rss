@@ -303,9 +303,9 @@ onMounted(() => {
 
     <!-- 固定右侧 -->
     <div class="tip-box">
-      <van-icon class="tip-icon" name="bars" />
-      <van-icon class="tip-icon" name="https://lty-image-bed.oss-cn-shenzhen.aliyuncs.com/blog/Github.svg" />
-      <van-icon class="tip-icon" name="arrow-up" @click="toTop"/>
+      <van-icon class="tip-icon" name="arrow-up" />
+      <van-icon class="tip-icon" name="arrow-up" />
+      <van-icon class="tip-icon" name="arrow-up" />
     </div>
 
     <!-- 文章列表 -->
@@ -384,6 +384,6 @@ onMounted(() => {
   border-radius: 2rem;
   cursor: pointer;
   background-color: #f8f8f8;
-  margin-top: 1rem;
+  margin-top: .5rem;
 }
 </style>

@@ -250,7 +250,7 @@ const onSearch = () => {
   handleSearch()
 }
 
-const onCancle = () => {
+const onClear = () => {
   console.log(keyword.value)
   keyword.value = ''
   handleSearch()
@@ -297,16 +297,9 @@ onMounted(() => {
   <div class="container">
     <!-- 搜索框 -->
     <van-search class="search-box" v-model="keyword" placeholder="搜索 AI 技术文章" shape="round" show-action @search="onSearch"
-      @cancel="onCancle">
+      @clear="onClear">
 
     </van-search>
-
-    <!-- 固定右侧 -->
-    <div class="tip-box">
-      <van-icon class="tip-icon" name="bars" />
-      <van-icon class="tip-icon" name="https://lty-image-bed.oss-cn-shenzhen.aliyuncs.com/blog/Github.svg" />
-      <van-icon class="tip-icon" name="arrow-up" @click="toTop"/>
-    </div>
 
     <!-- 文章列表 -->
     <div class="article-box">
@@ -364,26 +357,5 @@ onMounted(() => {
 .empty .icon {
   color: #007fff;
   font-size: 3.125rem
-}
-
-.tip-box {
-  display: flex;
-  flex-direction: column;
-  position: fixed;
-  bottom: 3.25rem;
-  right: 5%;
-  z-index: 9
-}
-
-.tip-icon {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 2.5rem;
-  height: 2.5rem;
-  border-radius: 2rem;
-  cursor: pointer;
-  background-color: #f8f8f8;
-  margin-top: 1rem;
 }
 </style>

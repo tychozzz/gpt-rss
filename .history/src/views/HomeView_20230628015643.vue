@@ -24,7 +24,7 @@ const articleList = ref<Article[]>([
   {
     "title": "前端 UI 框架 Svelte 4 正式发布",
     "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615255&idx=1&sn=c460ea1eb81a7ee0407eb6f7deffc22f&chksm=8022a7d6b7552ec0c3f72c03110cd7ce9b034f19d638585eef1ce31e9d2f741062e33e472e8d#rd",
-    "date": "2023-06-25",
+    "date": "2023-06-25", 
     "author": "前端技术"
   },
   {
@@ -250,13 +250,14 @@ const onSearch = () => {
   handleSearch()
 }
 
-const onCancle = () => {
+const onClear = () => {
   console.log(keyword.value)
   keyword.value = ''
   handleSearch()
 }
 
 const handleSearch = () => {
+  console.log(keyword.value)
   displayedArticleList.value = []
   router.replace({
     path: '/',
@@ -273,7 +274,7 @@ const handleSearch = () => {
       displayedArticleList.value.push({
         link: item.link,
         date: item.date,
-        title: item.title.replace(reg, `<span style="color: #f44336">$1</span>`),
+        title: item.title.replace(reg, `<span class="red">$1</span>`),
         author: item.author
       })
     }
@@ -288,7 +289,7 @@ const toTop = () => {
 onMounted(() => {
   // 加载
   const { k } = router.currentRoute.value.query
-  keyword.value = k
+  keyword.value = k.toString()
   handleSearch()
 })
 </script>
@@ -297,33 +298,26 @@ onMounted(() => {
   <div class="container">
     <!-- 搜索框 -->
     <van-search class="search-box" v-model="keyword" placeholder="搜索 AI 技术文章" shape="round" show-action @search="onSearch"
-      @cancel="onCancle">
+      @clear="onClear">
 
     </van-search>
 
-    <!-- 固定右侧 -->
-    <div class="tip-box">
-      <van-icon class="tip-icon" name="bars" />
-      <van-icon class="tip-icon" name="https://lty-image-bed.oss-cn-shenzhen.aliyuncs.com/blog/Github.svg" />
-      <van-icon class="tip-icon" name="arrow-up" @click="toTop"/>
+    <!-- 未搜到文章时的提示 -->
+    <div class="empty">
+      <van-icon name="info-o" class="icon" />
+      <div style="margin-top: 1rem;">没有搜索到文章，换个关键词试试</div>
+      <div style="margin-top: .5rem;">或者手动筛选～</div>
     </div>
 
     <!-- 文章列表 -->
     <div class="article-box">
-      <!-- 未搜到文章时的提示 -->
-      <div class="empty" v-if="!displayedArticleList.length">
-        <van-icon name="info-o" class="icon" />
-        <div style="margin-top: 1rem;">没有搜索到文章，换个关键词试试</div>
-        <div style="margin-top: .5rem;">或者手动筛选～</div>
-      </div>
-
       <van-cell-group>
         <van-cell v-for="(item, index) in displayedArticleList" :key="index" :title="item.title" is-link :url="item.link">
           <template #title>
             <div v-html="item.title"></div>
           </template>
           <template #label>
-            <div>{{ item.date }}<span style="margin-left: .625rem;">{{ item.author }}</span></div>
+            <div>{{ item.date }}<span style="margin-left: .625rem;">{{item.author}}</span></div>
           </template>
         </van-cell>
       </van-cell-group>
@@ -364,26 +358,5 @@ onMounted(() => {
 .empty .icon {
   color: #007fff;
   font-size: 3.125rem
-}
-
-.tip-box {
-  display: flex;
-  flex-direction: column;
-  position: fixed;
-  bottom: 3.25rem;
-  right: 5%;
-  z-index: 9
-}
-
-.tip-icon {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 2.5rem;
-  height: 2.5rem;
-  border-radius: 2rem;
-  cursor: pointer;
-  background-color: #f8f8f8;
-  margin-top: 1rem;
 }
 </style>

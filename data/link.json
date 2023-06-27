@@ -1,0 +1,772 @@
+[
+  {
+    "title": "Node-Weekly",
+    "items": [
+      {
+        "title": "Let's get debugging",
+        "link": "https://nodeweekly.com/issues/490",
+        "date": "2023-06-13"
+      },
+      {
+        "title": "Hands on with Node's new built-in test runner",
+        "link": "https://nodeweekly.com/issues/489",
+        "date": "2023-06-06"
+      },
+      {
+        "title": "All the ways to use Postgres from Node",
+        "link": "https://nodeweekly.com/issues/488",
+        "date": "2023-05-30"
+      },
+      {
+        "title": "Node.js 20 is fast(er)",
+        "link": "https://nodeweekly.com/issues/487",
+        "date": "2023-05-23"
+      },
+      {
+        "title": "MS's new tool for digging deep into V8",
+        "link": "https://nodeweekly.com/issues/486",
+        "date": "2023-05-16"
+      },
+      {
+        "title": "Getting recursive with Node 20.1",
+        "link": "https://nodeweekly.com/issues/485",
+        "date": "2023-05-09"
+      },
+      {
+        "title": "Running Node.js on the iPad?",
+        "link": "https://nodeweekly.com/issues/484",
+        "date": "2023-05-02"
+      },
+      {
+        "title": "Performance with Rust-y Node addons",
+        "link": "https://nodeweekly.com/issues/483",
+        "date": "2023-04-25"
+      },
+      {
+        "title": "Node v20 released",
+        "link": "https://nodeweekly.com/issues/482",
+        "date": "2023-04-18"
+      },
+      {
+        "title": "The state of Node.js in 2023",
+        "link": "https://nodeweekly.com/issues/481",
+        "date": "2023-04-11"
+      },
+      {
+        "title": "Optimizing npm script performance",
+        "link": "https://nodeweekly.com/issues/480",
+        "date": "2023-03-30"
+      },
+      {
+        "title": "Node.js challengers gaining ground",
+        "link": "https://nodeweekly.com/issues/479",
+        "date": "2023-03-23"
+      },
+      {
+        "title": "Shell-free scripting from Node",
+        "link": "https://nodeweekly.com/issues/478",
+        "date": "2023-03-16"
+      },
+      {
+        "title": "Taking flight with Feathers 5",
+        "link": "https://nodeweekly.com/issues/477",
+        "date": "2023-03-09"
+      },
+      {
+        "title": "Playing in the sandbox",
+        "link": "https://nodeweekly.com/issues/476",
+        "date": "2023-03-02"
+      },
+      {
+        "title": "Single executable apps come to Node core",
+        "link": "https://nodeweekly.com/issues/475",
+        "date": "2023-02-23"
+      },
+      {
+        "title": "Automatic integration tests for Express apps",
+        "link": "https://nodeweekly.com/issues/474",
+        "date": "2023-02-16"
+      },
+      {
+        "title": "Node gets a new URL parser",
+        "link": "https://nodeweekly.com/issues/473",
+        "date": "2023-02-09"
+      },
+      {
+        "title": "SQL in your JavaScript",
+        "link": "https://nodeweekly.com/issues/472",
+        "date": "2023-02-02"
+      },
+      {
+        "title": "Automating the desktop with Node",
+        "link": "https://nodeweekly.com/issues/471",
+        "date": "2023-01-26"
+      },
+      {
+        "title": "We're going on a memory leak hunt",
+        "link": "https://nodeweekly.com/issues/470",
+        "date": "2023-01-19"
+      },
+      {
+        "title": "Comparing Node.js job schedulers",
+        "link": "https://nodeweekly.com/issues/469",
+        "date": "2023-01-12"
+      },
+      {
+        "title": "Music to our ears",
+        "link": "https://nodeweekly.com/issues/468",
+        "date": "2023-01-05"
+      },
+      {
+        "title": "The best of Node Weekly in 2022",
+        "link": "https://nodeweekly.com/issues/467",
+        "date": "2022-12-15"
+      },
+      {
+        "title": "The official npm site gets a code explorer",
+        "link": "https://nodeweekly.com/issues/466",
+        "date": "2022-12-08"
+      },
+      {
+        "title": "Lots of Electron news",
+        "link": "https://nodeweekly.com/issues/465",
+        "date": "2022-12-01"
+      },
+      {
+        "title": "An npm package naming pitfall",
+        "link": "https://nodeweekly.com/issues/464",
+        "date": "2022-11-24"
+      },
+      {
+        "title": "Now npm fans can walk the Deno-saur",
+        "link": "https://nodeweekly.com/issues/463",
+        "date": "2022-11-17"
+      },
+      {
+        "title": "It's all about security",
+        "link": "https://nodeweekly.com/issues/462",
+        "date": "2022-11-10"
+      },
+      {
+        "title": "Getting Rusty with Node, but in a good way",
+        "link": "https://nodeweekly.com/issues/461",
+        "date": "2022-11-03"
+      },
+      {
+        "title": "Node 18 goes LTS",
+        "link": "https://nodeweekly.com/issues/460",
+        "date": "2022-10-27"
+      },
+      {
+        "title": "Node 19 released",
+        "link": "https://nodeweekly.com/issues/459",
+        "date": "2022-10-20"
+      },
+      {
+        "title": "✂️ Cutting away the unused parts of your project",
+        "link": "https://nodeweekly.com/issues/458",
+        "date": "2022-10-13"
+      },
+      {
+        "title": "Digging into dependencies with npm query",
+        "link": "https://nodeweekly.com/issues/457",
+        "date": "2022-10-06"
+      },
+      {
+        "title": "Keep calm and carry on (using Node)",
+        "link": "https://nodeweekly.com/issues/456",
+        "date": "2022-09-29"
+      },
+      {
+        "title": "The Node testing framework we were sleeping on",
+        "link": "https://nodeweekly.com/issues/455",
+        "date": "2022-09-22"
+      },
+      {
+        "title": "Creating an npm package in 2022",
+        "link": "https://nodeweekly.com/issues/454",
+        "date": "2022-09-15"
+      },
+      {
+        "title": "Using ML to rewrite a test suite to Playwright",
+        "link": "https://nodeweekly.com/issues/453",
+        "date": "2022-09-08"
+      },
+      {
+        "title": "The ins and outs of 'bin' scripts",
+        "link": "https://nodeweekly.com/issues/452",
+        "date": "2022-09-01"
+      },
+      {
+        "title": "Popular Node.js practices to reconsider",
+        "link": "https://nodeweekly.com/issues/451",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "Native modules become 'built-ins'",
+        "link": "https://nodeweekly.com/issues/450",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "A new way to query your dependencies.",
+        "link": "https://nodeweekly.com/issues/449",
+        "date": "2022-08-04"
+      },
+      {
+        "title": "Using Rust to build Node modules",
+        "link": "https://nodeweekly.com/issues/448",
+        "date": "2022-07-28"
+      },
+      {
+        "title": "cd /home/nodejs/news",
+        "link": "https://nodeweekly.com/issues/447",
+        "date": "2022-07-21"
+      },
+      {
+        "title": "Node 18.6 and custom ESM loaders",
+        "link": "https://nodeweekly.com/issues/446",
+        "date": "2022-07-14"
+      },
+      {
+        "title": "All's shell that ends shell.",
+        "link": "https://nodeweekly.com/issues/445",
+        "date": "2022-07-07"
+      },
+      {
+        "title": "Should Node.js support Web Workers?",
+        "link": "https://nodeweekly.com/issues/444",
+        "date": "2022-06-30"
+      },
+      {
+        "title": "Node.js in the stream.",
+        "link": "https://nodeweekly.com/issues/443",
+        "date": "2022-06-23"
+      },
+      {
+        "title": "Node 16 to duck out early in September 2023",
+        "link": "https://nodeweekly.com/issues/442",
+        "date": "2022-06-16"
+      },
+      {
+        "title": "A big week for Fastify",
+        "link": "https://nodeweekly.com/issues/441",
+        "date": "2022-06-09"
+      },
+      {
+        "title": "util.parseArgs arrives in Node 18.3",
+        "link": "https://nodeweekly.com/issues/440",
+        "date": "2022-06-02"
+      },
+      {
+        "title": "TypeScript 4.7 supports ES modules in Node.js",
+        "link": "https://nodeweekly.com/issues/439",
+        "date": "2022-05-26"
+      },
+      {
+        "title": "Node 16 LTS now on AWS Lambda",
+        "link": "https://nodeweekly.com/issues/438",
+        "date": "2022-05-19"
+      },
+      {
+        "title": "The one with the npm security stories",
+        "link": "https://nodeweekly.com/issues/437",
+        "date": "2022-05-12"
+      },
+      {
+        "title": "Node's new CLI test runner",
+        "link": "https://nodeweekly.com/issues/436",
+        "date": "2022-05-05"
+      },
+      {
+        "title": "Now Node 16 gets the Fetch API too",
+        "link": "https://nodeweekly.com/issues/435",
+        "date": "2022-04-28"
+      },
+      {
+        "title": "Node.js 18 released",
+        "link": "https://nodeweekly.com/issues/434",
+        "date": "2022-04-21"
+      },
+      {
+        "title": "Wild wild property access",
+        "link": "https://nodeweekly.com/issues/433",
+        "date": "2022-04-14"
+      },
+      {
+        "title": "The one with the epic code and tools section",
+        "link": "https://nodeweekly.com/issues/432",
+        "date": "2022-04-07"
+      },
+      {
+        "title": "A roundup of what's new in Node.js core",
+        "link": "https://nodeweekly.com/issues/431",
+        "date": "2022-03-31"
+      },
+      {
+        "title": "A collection of proficient Node.js dev practices",
+        "link": "https://nodeweekly.com/issues/430",
+        "date": "2022-03-24"
+      },
+      {
+        "title": "Damage caused by package-based protest",
+        "link": "https://nodeweekly.com/issues/429",
+        "date": "2022-03-17"
+      },
+      {
+        "title": "What hides in your node_modules?",
+        "link": "https://nodeweekly.com/issues/428",
+        "date": "2022-03-10"
+      },
+      {
+        "title": "Using 'execa' to run other processes",
+        "link": "https://nodeweekly.com/issues/427",
+        "date": "2022-03-03"
+      },
+      {
+        "title": "Node gains HTTPS module import support",
+        "link": "https://nodeweekly.com/issues/426",
+        "date": "2022-02-24"
+      },
+      {
+        "title": "Express 5 now in beta",
+        "link": "https://nodeweekly.com/issues/425",
+        "date": "2022-02-17"
+      },
+      {
+        "title": "Writing an SD card driver in TypeScript",
+        "link": "https://nodeweekly.com/issues/424",
+        "date": "2022-02-10"
+      },
+      {
+        "title": "That's so fetch",
+        "link": "https://nodeweekly.com/issues/423",
+        "date": "2022-02-03"
+      },
+      {
+        "title": "Doing the opposite of Jim Cramer with Node",
+        "link": "https://nodeweekly.com/issues/422",
+        "date": "2022-01-27"
+      },
+      {
+        "title": "Eleventy 1.0",
+        "link": "https://nodeweekly.com/issues/421",
+        "date": "2022-01-20"
+      },
+      {
+        "title": "📦 Broken packages",
+        "link": "https://nodeweekly.com/issues/420",
+        "date": "2022-01-13"
+      },
+      {
+        "title": "Looking back at Node.js in 2021",
+        "link": "https://nodeweekly.com/issues/419",
+        "date": "2021-12-23"
+      },
+      {
+        "title": "Shell scripting in Node with zx",
+        "link": "https://nodeweekly.com/issues/418",
+        "date": "2021-12-16"
+      },
+      {
+        "title": "Security",
+        "link": "https://nodeweekly.com/issues/417",
+        "date": "2021-12-09"
+      },
+      {
+        "title": "One dev's journey from Node to Rust",
+        "link": "https://nodeweekly.com/issues/416",
+        "date": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript-Weekly",
+    "items": [
+      {
+        "title": "11 years of JavaScript on top",
+        "link": "https://javascriptweekly.com/issues/643",
+        "date": "2023-06-15"
+      },
+      {
+        "title": "Douglas Crockford calls JavaScript 'smelly.'",
+        "link": "https://javascriptweekly.com/issues/642",
+        "date": "2023-06-08"
+      },
+      {
+        "title": "Bundle-time macros with Bun",
+        "link": "https://javascriptweekly.com/issues/641",
+        "date": "2023-06-01"
+      },
+      {
+        "title": "Microsoft shrunk the TypeScript",
+        "link": "https://javascriptweekly.com/issues/640",
+        "date": "2023-05-25"
+      },
+      {
+        "title": "jQuery lives on; major changes teased",
+        "link": "https://javascriptweekly.com/issues/639",
+        "date": "2023-05-18"
+      },
+      {
+        "title": "Why Svelte is converting TypeScript to JSDoc",
+        "link": "https://javascriptweekly.com/issues/638",
+        "date": "2023-05-11"
+      },
+      {
+        "title": "'It's a miracle anything about this ecosystem works at all.'",
+        "link": "https://javascriptweekly.com/issues/637",
+        "date": "2023-05-04"
+      },
+      {
+        "title": "Did you know JavaScript is trademarked?",
+        "link": "https://javascriptweekly.com/issues/636",
+        "date": "2023-04-27"
+      },
+      {
+        "title": "On the origin of packages",
+        "link": "https://javascriptweekly.com/issues/635",
+        "date": "2023-04-20"
+      },
+      {
+        "title": "The return of ECMAScript 2023 (and Angular)",
+        "link": "https://javascriptweekly.com/issues/634",
+        "date": "2023-04-13"
+      },
+      {
+        "title": "JavaScript on your schedule",
+        "link": "https://javascriptweekly.com/issues/633",
+        "date": "2023-04-06"
+      },
+      {
+        "title": "Import maps go universal",
+        "link": "https://javascriptweekly.com/issues/632",
+        "date": "2023-03-31"
+      },
+      {
+        "title": "Playwright now offers a UI mode",
+        "link": "https://javascriptweekly.com/issues/631",
+        "date": "2023-03-24"
+      },
+      {
+        "title": "Transformers: JavaScript in Disguise",
+        "link": "https://javascriptweekly.com/issues/630",
+        "date": "2023-03-17"
+      },
+      {
+        "title": "New JavaScript features of the past few years",
+        "link": "https://javascriptweekly.com/issues/629",
+        "date": "2023-03-10"
+      },
+      {
+        "title": "Garbage collector experiments",
+        "link": "https://javascriptweekly.com/issues/628",
+        "date": "2023-03-03"
+      },
+      {
+        "title": "ECMAScript 2023 for President",
+        "link": "https://javascriptweekly.com/issues/627",
+        "date": "2023-02-24"
+      },
+      {
+        "title": "JavaScript sans build systems?",
+        "link": "https://javascriptweekly.com/issues/626",
+        "date": "2023-02-17"
+      },
+      {
+        "title": "Bringing JavaScript to WebAssembly",
+        "link": "https://javascriptweekly.com/issues/625",
+        "date": "2023-02-10"
+      },
+      {
+        "title": "Ways to remove event listeners",
+        "link": "https://javascriptweekly.com/issues/624",
+        "date": "2023-02-03"
+      },
+      {
+        "title": "Astro 2.0 and TypeScript 5.0 beta",
+        "link": "https://javascriptweekly.com/issues/623",
+        "date": "2023-01-27"
+      },
+      {
+        "title": "Why document.write() is bad",
+        "link": "https://javascriptweekly.com/issues/622",
+        "date": "2023-01-20"
+      },
+      {
+        "title": "Java-Script Jarre",
+        "link": "https://javascriptweekly.com/issues/621",
+        "date": "2023-01-13"
+      },
+      {
+        "title": "Looking at both 2022 and 2023",
+        "link": "https://javascriptweekly.com/issues/620",
+        "date": "2023-01-06"
+      },
+      {
+        "title": "A new jQuery release for Xmas",
+        "link": "https://javascriptweekly.com/issues/619",
+        "date": "2022-12-16"
+      },
+      {
+        "title": "Vite 4.0 released",
+        "link": "https://javascriptweekly.com/issues/618",
+        "date": "2022-12-09"
+      },
+      {
+        "title": "Splitting up sentences with Intl.Segmenter",
+        "link": "https://javascriptweekly.com/issues/617",
+        "date": "2022-12-02"
+      },
+      {
+        "title": "JavaScript Vocoder Puccini",
+        "link": "https://javascriptweekly.com/issues/616",
+        "date": "2022-11-25"
+      },
+      {
+        "title": "Nuxt 3.0, TypeScript 4.9, Angular 15..",
+        "link": "https://javascriptweekly.com/issues/615",
+        "date": "2022-11-18"
+      },
+      {
+        "title": "Rome wasn't rewritten in a day",
+        "link": "https://javascriptweekly.com/issues/614",
+        "date": "2022-11-11"
+      },
+      {
+        "title": "Is Turbopack really 10x faster than Vite?",
+        "link": "https://javascriptweekly.com/issues/613",
+        "date": "2022-11-04"
+      },
+      {
+        "title": "Turbo-charged incremental bundling au Rust",
+        "link": "https://javascriptweekly.com/issues/612",
+        "date": "2022-10-28"
+      },
+      {
+        "title": "🪜 Decorating with Dr. Axel",
+        "link": "https://javascriptweekly.com/issues/611",
+        "date": "2022-10-21"
+      },
+      {
+        "title": "Node to keep an eye on your code",
+        "link": "https://javascriptweekly.com/issues/610",
+        "date": "2022-10-14"
+      },
+      {
+        "title": "Axios turns 1.0; TypeScript turns 10",
+        "link": "https://javascriptweekly.com/issues/609",
+        "date": "2022-10-07"
+      },
+      {
+        "title": "How TypeScript 4.9 satisfies",
+        "link": "https://javascriptweekly.com/issues/608",
+        "date": "2022-09-30"
+      },
+      {
+        "title": "Extractors for ECMAScript",
+        "link": "https://javascriptweekly.com/issues/607",
+        "date": "2022-09-23"
+      },
+      {
+        "title": "Seven weird ways to call a JavaScript function",
+        "link": "https://javascriptweekly.com/issues/606",
+        "date": "2022-09-16"
+      },
+      {
+        "title": "Anyone know Larry Ellison?",
+        "link": "https://javascriptweekly.com/issues/605",
+        "date": "2022-09-09"
+      },
+      {
+        "title": "David's handy JS debugging tip",
+        "link": "https://javascriptweekly.com/issues/604",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "The future JavaScript features at TC39",
+        "link": "https://javascriptweekly.com/issues/603",
+        "date": "2022-08-26"
+      },
+      {
+        "title": "A way to automatically generate regexes from examples",
+        "link": "https://javascriptweekly.com/issues/602",
+        "date": "2022-08-12"
+      },
+      {
+        "title": "Genius misuse of WOFF 2 and Brotli to win a JavaScript contest.",
+        "link": "https://javascriptweekly.com/issues/601",
+        "date": "2022-08-05"
+      },
+      {
+        "title": "Douglas Crockford on 'retiring' JavaScript",
+        "link": "https://javascriptweekly.com/issues/600",
+        "date": "2022-07-29"
+      },
+      {
+        "title": "Common JavaScript issues developers face",
+        "link": "https://javascriptweekly.com/issues/599",
+        "date": "2022-07-22"
+      },
+      {
+        "title": "Vite 3, or in French: quick, quick, quick.",
+        "link": "https://javascriptweekly.com/issues/598",
+        "date": "2022-07-15"
+      },
+      {
+        "title": "An all-in-Bun JavaScript runtime.",
+        "link": "https://javascriptweekly.com/issues/597",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "Celebrating Svelte",
+        "link": "https://javascriptweekly.com/issues/596",
+        "date": "2022-07-01"
+      },
+      {
+        "title": "What's new in ECMAScript 2022?",
+        "link": "https://javascriptweekly.com/issues/595",
+        "date": "2022-06-24"
+      },
+      {
+        "title": "AbortController, your newest friend",
+        "link": "https://javascriptweekly.com/issues/594",
+        "date": "2022-06-17"
+      },
+      {
+        "title": "Mathematics is the music of reason.",
+        "link": "https://javascriptweekly.com/issues/593",
+        "date": "2022-06-10"
+      },
+      {
+        "title": "Sure, you can make games in Word with JavaScript now.",
+        "link": "https://javascriptweekly.com/issues/592",
+        "date": "2022-06-03"
+      },
+      {
+        "title": "Airbnb's uncommon route to faster JS builds",
+        "link": "https://javascriptweekly.com/issues/591",
+        "date": "2022-05-27"
+      },
+      {
+        "title": "Getting animated",
+        "link": "https://javascriptweekly.com/issues/590",
+        "date": "2022-05-20"
+      },
+      {
+        "title": "19 hours of D3.js??",
+        "link": "https://javascriptweekly.com/issues/589",
+        "date": "2022-05-13"
+      },
+      {
+        "title": "A 2022 take on TodoMVC in plain JS",
+        "link": "https://javascriptweekly.com/issues/588",
+        "date": "2022-05-06"
+      },
+      {
+        "title": "Let's build a JavaScript bundler",
+        "link": "https://javascriptweekly.com/issues/587",
+        "date": "2022-04-29"
+      },
+      {
+        "title": "Node.js 18, WebAssembly 2.0, and Ember 4.3",
+        "link": "https://javascriptweekly.com/issues/586",
+        "date": "2022-04-22"
+      },
+      {
+        "title": "On function composition in JavaScript",
+        "link": "https://javascriptweekly.com/issues/585",
+        "date": "2022-04-15"
+      },
+      {
+        "title": "Format JavaScript as the Romans do?",
+        "link": "https://javascriptweekly.com/issues/584",
+        "date": "2022-04-08"
+      },
+      {
+        "title": "Time to get decorating",
+        "link": "https://javascriptweekly.com/issues/583",
+        "date": "2022-04-01"
+      },
+      {
+        "title": "React 18 due any day now..",
+        "link": "https://javascriptweekly.com/issues/582",
+        "date": "2022-03-25"
+      },
+      {
+        "title": "Getting creative with JavaScript",
+        "link": "https://javascriptweekly.com/issues/581",
+        "date": "2022-03-18"
+      },
+      {
+        "title": "Bringing static type syntax into JavaScript itself",
+        "link": "https://javascriptweekly.com/issues/580",
+        "date": "2022-03-11"
+      },
+      {
+        "title": "TypeScript 2.6 released",
+        "link": "https://javascriptweekly.com/issues/579",
+        "date": "2022-03-04"
+      },
+      {
+        "title": "How to read the spec behind JavaScript",
+        "link": "https://javascriptweekly.com/issues/578",
+        "date": "2022-02-25"
+      },
+      {
+        "title": "The State of JS results are in",
+        "link": "https://javascriptweekly.com/issues/577",
+        "date": "2022-02-18"
+      },
+      {
+        "title": "The seven figure JavaScript app",
+        "link": "https://javascriptweekly.com/issues/576",
+        "date": "2022-02-11"
+      },
+      {
+        "title": "Get decorating with Babel 7.17.0",
+        "link": "https://javascriptweekly.com/issues/575",
+        "date": "2022-02-04"
+      },
+      {
+        "title": "Etsy moved from React to Preact",
+        "link": "https://javascriptweekly.com/issues/574",
+        "date": "2022-01-28"
+      },
+      {
+        "title": "NaNNaNNaNNaN Batman",
+        "link": "https://javascriptweekly.com/issues/573",
+        "date": "2022-01-21"
+      },
+      {
+        "title": "Parcel.js 2.2 and Eleventy 1.0",
+        "link": "https://javascriptweekly.com/issues/572",
+        "date": "2022-01-14"
+      },
+      {
+        "title": "The rising stars of JS in 2021",
+        "link": "https://javascriptweekly.com/issues/571",
+        "date": "2022-01-07"
+      },
+      {
+        "title": "The JavaScript 2021 megamix",
+        "link": "https://javascriptweekly.com/issues/570",
+        "date": "2021-12-24"
+      },
+      {
+        "title": "Array.prototype.groupBy",
+        "link": "https://javascriptweekly.com/issues/569",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "Cutting down on JavaScript",
+        "link": "https://javascriptweekly.com/issues/568",
+        "date": "2021-12-10"
+      },
+      {
+        "title": "Happy 26th birthday to JavaScript",
+        "link": "https://javascriptweekly.com/issues/567",
+        "date": "2021-12-03"
+      }
+    ]
+  }
+]
