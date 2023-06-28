@@ -27,8 +27,6 @@ const handleUpdate = () => {
 const handleFeed = () => {
   rssJson = fs.readJsonSync(RSS_PATH)
   linksJson = fs.readJsonSync(LINKS_PATH)
-  console.log(rssJson)
-  console.log(linksJson)
   newData = {
     length: 0,
     titles: [],
@@ -37,7 +35,8 @@ const handleFeed = () => {
   }
   
   const tasks = rssJson.map((rssItem, rssIndex) => ((callback) => {
-    ((async () => {
+    (async () => {
+      console.log("start ...")
       const feed = await fetch(rssItem)
       if (feed) {
         const items = linksJson[rssIndex]?.items || []
@@ -73,14 +72,15 @@ const handleFeed = () => {
         }
       }
       callback(null)
-    }))
+    })()
   }))
 
   Async.series(tasks, async() => {
+    console.log("async")
     if(newData.length) {
       fs.outputJsonSync(LINKS_PATH, linksJson)
-      handleCommit()
       await writemd(newData, linksJson)
+      handleCommit()
       utils.logSuccess(`更新成功，更新内容 ${newData.length} 条`)
     } else {
       utils.logSuccess("无需更新")
