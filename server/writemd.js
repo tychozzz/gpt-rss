@@ -12,12 +12,14 @@ const {
   TAGS_MD_PATH,
   TAGS_TEMPLATE_PATH,
   DETAILS_TEMPLATE_PATH,
+  CATEGORIES_TEMPLATE_PATH,
+  CATEGORIES_PATH
 } = utils.PATH
 
 /**
  * 渲染 README.md 文件
  */
-async function handleREADME(newData, linksJson) {
+async function handleREADME(newData) {
   let content = fs.readFileSync(README_TEMPLATE_PATH)
 
   let compiled = _.template(content.toString())
@@ -26,14 +28,30 @@ async function handleREADME(newData, linksJson) {
 
   content = compiled({
     homePage,
-    feedUrl: `${homePage}/atom.xml`,
+    newData,
+    currentDate,
+  })
+
+  fs.writeFileSync(README_PATH, content, 'utf-8')
+}
+
+/**
+ * 渲染 CATEGORIES.md 文件
+ */
+async function handleCATEGORIES(newData, linksJson) {
+  let content = fs.readFileSync(CATEGORIES_TEMPLATE_PATH)
+
+  let compiled = _.template(content.toString())
+  const currentDate = utils.getNowDate()
+
+  content = compiled({
     newData,
     linksJson,
     currentDate,
     formatTitle: utils.formatTitle,
   })
 
-  fs.writeFileSync(README_PATH, content, 'utf-8')
+  fs.writeFileSync(CATEGORIES_PATH, content, 'utf-8')
 }
 
 /**
@@ -108,7 +126,8 @@ function handleDetails(newData, linksJson) {
 }
 
 module.exports = async function (newData, linksJson) {
-  await handleREADME(newData, linksJson)
+  await handleREADME(newData)
+  await handleCATEGORIES(newData, linksJson)
   handleTags(newData, linksJson)
   handleDetails(newData, linksJson)
 }

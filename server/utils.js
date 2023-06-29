@@ -13,6 +13,8 @@ const README_TEMPLATE_PATH   = path.join(RESP_PATH + '/templates/README.md')
 const TAGS_MD_PATH           = path.join(RESP_PATH + '/TAGS.md')
 const TAGS_TEMPLATE_PATH     = path.join(RESP_PATH + '/templates/TAGS.md')
 const DETAILS_TEMPLATE_PATH  = path.join(RESP_PATH + '/templates/DETAILS.md')
+const CATEGORIES_TEMPLATE_PATH = path.join(RESP_PATH + '/templates/CATEGORIES.md')
+const CATEGORIES_PATH = path.join(RESP_PATH + '/CATEGORIES.md')
 
 module.exports = {
   /**
@@ -29,6 +31,8 @@ module.exports = {
     TAGS_MD_PATH,
     TAGS_TEMPLATE_PATH,
     DETAILS_TEMPLATE_PATH,
+    CATEGORIES_PATH,
+    CATEGORIES_TEMPLATE_PATH
   },
 
   getLogPrefix() {
