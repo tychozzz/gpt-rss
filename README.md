@@ -1,4 +1,4 @@
-<div align="center"><img width="100" src="/assets/rss.gif" /><h1>Front-End RSS</h1>
+<div align="center"><img width="100" src="https://lty-image-bed.oss-cn-shenzhen.aliyuncs.com/blog/openai.webp" /><h1>GPT RSS</h1>
 定时抓取前沿 AI / GPT / LLM 文章
 </div>
 
