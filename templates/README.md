@@ -26,9 +26,7 @@
 
 :alarm_clock: 更新时间: <%= obj.currentDate %>
 
-:rocket: 更新条数: +<%= obj.newData.length %>
-
-![](/assets/dot.png) 表示有更新
+:rocket: 更新条数: +<%= obj.newData.length %> - ![](/assets/dot.png) 表示有更新
 
 ## 查看文章
 
