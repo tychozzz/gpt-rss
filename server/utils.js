@@ -89,6 +89,6 @@ module.exports = {
     }
   },
   async getHomePage() {
-    return 'https://knowledge-base.cn'
+    return 'https://www.gpt-rss.com/'
   }
 }
