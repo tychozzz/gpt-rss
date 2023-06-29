@@ -1,0 +1,17 @@
+:alarm_clock: 更新时间: 2023-06-29 13:03:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+
+## AIGC研修社
+
+
+
+
+- [2023-06-28-成本直降70％的秘密：这些企业找到了一种高性价比的AI打开方式](https://posts.careerengine.us/p/649bc064bd616e52c0011c8b) 
+- [2023-06-28-北工大校友Cheng-Zhang获SIGGRAPH最佳博士论文奖](https://posts.careerengine.us/p/649bc064bd616e52c0011c7f) 
+- [2023-06-28-理解指向，说出坐标，Shikra开启多模态大模型参考对话新维度](https://posts.careerengine.us/p/649bc082d5caf15347363a81) 
+- [2023-06-28-具身AI的实验：一个团队的Alexa-Prize夺冠历程](https://posts.careerengine.us/p/649bc083d5caf15347363a9b) 
+- [2023-06-28-DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89) 
+- [2023-06-27-ChatGPT时代，很想问问AI这些金融难题何解？](https://posts.careerengine.us/p/649a69555762e843a7c32288) 
+- [2023-06-27-这场WAIC高端闭门会，我们将深度探讨大模型与智能驾驶如何碰撞](https://posts.careerengine.us/p/649a6968a3870a445ba69ee0) 
+- [2023-06-27-四插槽庞大体积、功耗最高600W，英伟达RTX-4090-Ti谍照再现身](https://posts.careerengine.us/p/649a6969a3870a445ba69ee8) 
+- [2023-06-27-基于信息论的校准技术，CML让多模态机器学习更可靠](https://posts.careerengine.us/p/649a697cfba2fd44a974741f) 
+- [2023-06-27-当医学插上人工智能的翅膀](https://posts.careerengine.us/p/649a697dfba2fd44a9747427) 

@@ -1,10 +1,34 @@
 [
   {
-    "title": "Node-Weekly",
-    "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml"
+    "title": "机器之心",
+    "rss": "https://rsshub.app/wechat/ce/5b0cc833f3a2e44bb474843d"
   },
   {
-    "title": "JavaScript-Weekly",
-    "rss": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
+    "title": "量子位",
+    "rss": "https://rsshub.app/wechat/ce/599d7c52f2145121d1aa4698"
+  },
+  {
+    "title": "新智元",
+    "rss": "https://rsshub.app/wechat/ce/567acc0e293075543d000001"
+  },
+  {
+    "title": "腾讯AI实验室",
+    "rss": "https://rsshub.app/wechat/ce/5b508e0a6f6d445da2107d4c"
+  },
+  {
+    "title": "PaperWeekly",
+    "rss": "https://rsshub.app/wechat/ce/5921378656a6c216d7b62715"
+  },
+  {
+    "title": "我爱自然语言处理",
+    "rss": "https://www.52nlp.cn/feed"
+  },
+  {
+    "title": "AIGC研修社",
+    "rss": "https://rsshub.app/wechat/ce/5b0cc833f3a2e44bb474843d"
+  },
+  {
+    "title": "ChatGPT",
+    "rss": "https://rsshub.app/openai/chatgpt/release-notes"
   }
 ]
