@@ -1,5 +1,23 @@
-<div align="center"><img width="100" src="https://lty-image-bed.oss-cn-shenzhen.aliyuncs.com/blog/openai.webp" /><h1>GPT RSS</h1>
-定时抓取前沿 AI / GPT / LLM 文章
+<p align="center">
+  <img width="100" src="https://lty-image-bed.oss-cn-shenzhen.aliyuncs.com/blog/openai.webp" />
+</p>
+<div align="center">
+ 
+# GPT RSS
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable-next-line MD036 -->
+✨ 定时抓取前沿 AIGC / GPT / LLM 文章 ✨
+<!-- prettier-ignore-end -->
+
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/ltyzzzxxx/gpt-rss?display_name=tag" />
+  <img src="https://img.shields.io/github/stars/ltyzzzxxx/gpt-rss" />
+  <img src="https://img.shields.io/github/forks/ltyzzzxxx/gpt-rss" />
+  <img src="https://img.shields.io/github/issues/ltyzzzxxx/gpt-rss" />
+  <img src="https://img.shields.io/badge/license-Apache%20-yellow.svg" />
+</p>
+
 </div>
 
 ## 
