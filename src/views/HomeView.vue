@@ -4,7 +4,7 @@ import { useRouter } from 'vue-router'
 import links from '../../data/links.json'
 import rss from '../../data/rss.json'
 import tags from '../../data/tags.json'
-import dayjs from 'dayjs'
+import * as dayjs from 'dayjs'
 import { renderToSimpleStream } from 'vue/server-renderer'
 import { match } from 'assert'
 

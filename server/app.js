@@ -1,8 +1,9 @@
 const later = require('later')
 
-const handleUpdate = require('../update')
+const handleUpdate = require('./update')
 
 later.date.localTime()
+console.log("定时任务开始执行...")
 later.setInterval(handleUpdate, {
   schedules: [
     { h: [06], m: [00] },
