@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { onMounted, ref } from 'vue'
+import { onMounted, ref, computed } from 'vue'
 import { useRouter } from 'vue-router'
 import links from '../../data/links.json'
 import rss from '../../data/rss.json'
@@ -276,6 +276,8 @@ const router = useRouter()
 
 const showPopup = ref<boolean>(false)
 
+const isLoad = ref<boolean>(false)
+
 const onSearch = () => {
   console.log(keyword.value)
   handleSearch()
@@ -308,7 +310,8 @@ const handleFilter = (item: any) => {
 }
 
 const handleSearch = () => {
-  displayedArticleList.value = []
+  let tmpList = articleList.value
+  articleList.value = []
   router.replace({
     path: '/',
     query: keyword.value ? { k: keyword.value } : {}
@@ -317,18 +320,18 @@ const handleSearch = () => {
     const matches = keyword.value.match(/^\[(时间|来源|分类)\]\s(.+)/)
     const matchValue = matches && matches[2] ? matches && matches[2] : ""
     if (matches && datesMap.get(matchValue)) {
-      displayedArticleList.value = datesMap.get(matchValue) || []
-      console.log(displayedArticleList.value)
+      articleList.value = datesMap.get(matchValue) || []
+      console.log(articleList.value)
     } else if (matches && rssMap[matchValue]) {
-      displayedArticleList.value = rssMap[matchValue]
+      articleList.value = rssMap[matchValue]
     } else if (matches && tagsMap.get(matchValue)) {
-      displayedArticleList.value = tagsMap.get(matchValue) || []
+      articleList.value = tagsMap.get(matchValue) || []
     } else {
       // eslint-disable-next-line
       let reg = new RegExp('(' + keyword.value.replace(/([?\[\]])/g, '\\$1') + ')', 'gi')
-      articleList.value.forEach((item) => {
+      tmpList.forEach((item) => {
         if (reg && reg.test(item.title)) {
-          displayedArticleList.value.push({
+          articleList.value.push({
             link: item.link,
             date: item.date,
             title: item.title.replace(reg, `<span style="color: #f44336">$1</span>`),
@@ -338,14 +341,20 @@ const handleSearch = () => {
       })
     }
   } else {
-    displayedArticleList.value = articleList.value
+    articleList.value = tmpList
     return
   }
   toTop()
+  pageNo.value = 1
+  loadMore()
 }
 
 const toTop = () => {
   window.scrollTo(0, 0)
+}
+
+const gotoGithub = () => {
+  window.location.href = "https://github.com/ltyzzzxxx/gpt-rss"
 }
 
 const doShowPopup = () => {
@@ -400,6 +409,25 @@ const loadData = async () => {
     })
   })
   articleList.value = articleList.value.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+  isLoad.value = true
+}
+
+const isBusy = computed(() => {
+  const allLen = articleList.value.length
+  const displayedLen = displayedArticleList.value.length
+  return (allLen < pageSize.value || (displayedLen && displayedArticleList.value[displayedLen - 1].link === articleList.value[allLen - 1].link)) ? true : false
+})
+
+const pageSize = ref<number>(20)
+const pageNo = ref<number>(1)
+
+const loadMore = () => {
+  if (isBusy.value) {
+    console.log("数据加载完毕")
+  } else {
+    displayedArticleList.value = articleList.value.slice(0, pageNo.value * pageSize.value)
+    pageNo.value += 1
+  }
 }
 
 onMounted(() => {
@@ -421,7 +449,7 @@ onMounted(() => {
     </van-search>
 
     <!-- 左侧筛选框 -->
-    <van-popup v-model:show="showPopup" class="my-popup" position="left" >
+    <van-popup v-model:show="showPopup" class="my-popup" position="left">
       <van-cell-group title="发布时间">
         <template #title>
           <div class="title-box"><van-icon name="underway-o" />发布时间</div>
@@ -445,14 +473,15 @@ onMounted(() => {
     <!-- 固定右侧 -->
     <div class="tip-box">
       <van-icon class="tip-icon" name="bars" @click="doShowPopup" />
-      <van-icon class="tip-icon" name="https://lty-image-bed.oss-cn-shenzhen.aliyuncs.com/blog/Github.svg" />
+      <van-icon class="tip-icon" name="https://lty-image-bed.oss-cn-shenzhen.aliyuncs.com/blog/Github.svg" @click="gotoGithub"/>
       <van-icon class="tip-icon" name="arrow-up" @click="toTop" />
     </div>
 
     <!-- 文章列表 -->
-    <div class="article-box">
+    <div class="article-box" v-infinite-scroll="loadMore" :infinite-scroll-immediate-check="false"
+      :infinite-scroll-disabled="isBusy" :infinite-scroll-watch-disabled="isBusy" infinite-scroll-distance="20">
       <!-- 未搜到文章时的提示 -->
-      <div class="empty" v-if="!displayedArticleList.length">
+      <div class="empty" v-if="isLoad && !displayedArticleList.length">
         <van-icon name="info-o" class="icon" />
         <div style="margin-top: 1rem;">没有搜索到文章，换个关键词试试</div>
         <div style="margin-top: .5rem;">或者手动筛选～</div>
@@ -468,6 +497,9 @@ onMounted(() => {
           </template>
         </van-cell>
       </van-cell-group>
+
+      <van-loading style="margin-top: 1.25rem; display: flex; justify-content: center; align-items: center;" v-if="displayedArticleList.length && !isBusy && isLoad">加载中...</van-loading>
+      <van-divider v-if="displayedArticleList.length && isBusy">没有更多了~</van-divider>
     </div>
   </div>
 </template>
