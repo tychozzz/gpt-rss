@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-30 23:00:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-01 06:00:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## LLM
 
@@ -11,10 +11,11 @@
 - [2023-06-29-抖音团队在用的大模型服务平台「火山方舟」，我们也上手体验了一把](https://posts.careerengine.us/p/649d830118d7e102119accc2) 
 - [2023-06-29-过去三个月，LLaMA系模型发展如何？指令微调的核心问题又是什么？](https://posts.careerengine.us/p/649d831d6e582e02c4aa990b) 
 - [2023-06-28-理解指向，说出坐标，Shikra开启多模态大模型参考对话新维度](https://posts.careerengine.us/p/649bc082d5caf15347363a81) 
+- [2023-06-30-“高校在大模型领域是不太可能跟企业竞争的”-|-CCF-C³@联想](https://posts.careerengine.us/p/649ec12c146a052c4cf59730) 
 - [2023-06-29-大模型时代的OCR，“CPU”-的味道更重了](https://posts.careerengine.us/p/649d7414a0f1fe3e730b3171) 
-- [2023-06-28-羊驼家族大模型集体进化！32k上下文追平GPT-4，田渊栋团队出品](https://posts.careerengine.us/p/649c07b2803349503bfcd9dc) 
-- [2023-06-28-1天训完45亿参数大模型！高校计算能力首次比肩科技巨头](https://posts.careerengine.us/p/649c07b1803349503bfcd9ca) 
 - [2023-06-28-大模型们参加2023高考了，成绩单已出炉](https://posts.careerengine.us/p/649c07b0803349503bfcd9c2) 
+- [2023-06-28-1天训完45亿参数大模型！高校计算能力首次比肩科技巨头](https://posts.careerengine.us/p/649c07b1803349503bfcd9ca) 
+- [2023-06-28-羊驼家族大模型集体进化！32k上下文追平GPT-4，田渊栋团队出品](https://posts.careerengine.us/p/649c07b2803349503bfcd9dc) 
 - [2023-06-27-中科院版「分割一切」模型来了，比Meta原版提速50倍-|-GitHub-2.4K+星](https://posts.careerengine.us/p/649a988b4ef2753b67fe097d) 
 - [2023-06-30-浙大滨江院Om中心发布首个大规模图文配对遥感数据集，让通用基础模型也能服务遥感领域](https://posts.careerengine.us/p/649ec10212fcbb2b4f2f898c) 
 - [2023-06-30-ACL-2023-|-达摩院、NTU提出多视图压缩表示，显著提升预训练语言模型鲁棒性](https://posts.careerengine.us/p/649ec10312fcbb2b4f2f89c0) 

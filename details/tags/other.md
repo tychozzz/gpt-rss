@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-30 23:00:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-01 06:00:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -10,8 +10,10 @@
 - [2023-06-28-北工大校友Cheng-Zhang获SIGGRAPH最佳博士论文奖](https://posts.careerengine.us/p/649bc064bd616e52c0011c7f) 
 - [2023-06-27-当医学插上人工智能的翅膀](https://posts.careerengine.us/p/649a697dfba2fd44a9747427) 
 - [2023-06-27-四插槽庞大体积、功耗最高600W，英伟达RTX-4090-Ti谍照再现身](https://posts.careerengine.us/p/649a6969a3870a445ba69ee8) 
-- [2023-06-29-中国天眼再立新功！发现纳赫兹引力波存在关键证据](https://posts.careerengine.us/p/649d742dd905e33ebbfb90d0) 
+- [2023-06-30-预测超长蛋白质这事，CPU赢了](https://posts.careerengine.us/p/649ec12c146a052c4cf59740) 
+- [2023-06-30-Mathemetica-35周年！从天才物理学家到“自大狂”，创始人Wolfram的传奇经历](https://posts.careerengine.us/p/649ec12d146a052c4cf59756) 
 - [2023-06-29-美团20亿100％收购光年之外！王兴接住清华上铺兄弟，账上资本2.8亿美元](https://posts.careerengine.us/p/649d742dd905e33ebbfb90be) 
+- [2023-06-29-中国天眼再立新功！发现纳赫兹引力波存在关键证据](https://posts.careerengine.us/p/649d742dd905e33ebbfb90d0) 
 - [2023-06-28-探索“视”界-放眼未来CIVC-2023第一届中国工业视觉大会顺利举办](https://posts.careerengine.us/p/649c07b3803349503bfcd9e4) 
 - [2023-06-27-边喷火边跳踢踏舞，机器狗最新技能爆火全网！网友直呼真·热狗](https://posts.careerengine.us/p/649a989c976e613b9ef2656a) 
 - [2019-09-05-手机支付OUT啦！亚马逊测试刷“手”支付，剁手只需0.3秒](https://posts.careerengine.us/p/5d709246fb6a6b1cde294055) 

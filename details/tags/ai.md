@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-30 23:00:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-01 06:00:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -15,11 +15,14 @@
 - [2023-06-28-成本直降70％的秘密：这些企业找到了一种高性价比的AI打开方式](https://posts.careerengine.us/p/649bc064bd616e52c0011c8b) 
 - [2023-06-27-这场WAIC高端闭门会，我们将深度探讨大模型与智能驾驶如何碰撞](https://posts.careerengine.us/p/649a6968a3870a445ba69ee0) 
 - [2023-06-27-ChatGPT时代，很想问问AI这些金融难题何解？](https://posts.careerengine.us/p/649a69555762e843a7c32288) 
+- [2023-06-30-AI被自己骗了！生成照骗轻松逃过AI鉴别器法眼，马斯克机器女友、3米巨人都「成真」了](https://posts.careerengine.us/p/649ec12c146a052c4cf59738) 
+- [2023-06-30-加速AI推理，探索英特尔®-至强®-可扩展处理器在OCR应用落地方面的实践](https://posts.careerengine.us/p/649ec153b32c752d42ffd64d) 
+- [2023-06-30-当大模型时代到来，如何借助-AI-驱动生命科学与医药创新](https://posts.careerengine.us/p/649ec153b32c752d42ffd655) 
 - [2023-06-29-这，才是普通玩家入局AIGC的正确姿势](https://posts.careerengine.us/p/649d7414a0f1fe3e730b317b) 
-- [2023-06-28-火山引擎给大模型造大底座！MiniMax、智谱AI等已登陆](https://posts.careerengine.us/p/649c078b564b874f22898a46) 
 - [2023-06-28-哈佛计算机系王牌项目，要请AI来当导师了](https://posts.careerengine.us/p/649c078a564b874f22898a3e) 
-- [2023-06-27-141家上市大厂被AI耍了！谷歌意外成帮凶](https://posts.careerengine.us/p/649a988a4ef2753b67fe0974) 
+- [2023-06-28-火山引擎给大模型造大底座！MiniMax、智谱AI等已登陆](https://posts.careerengine.us/p/649c078b564b874f22898a46) 
 - [2023-06-27-62人大模型公司卖了93亿元！AIGC最大收购案诞生：华人联创，两年估值翻6倍](https://posts.careerengine.us/p/649a987d833a5c3b0871b950) 
+- [2023-06-27-141家上市大厂被AI耍了！谷歌意外成帮凶](https://posts.careerengine.us/p/649a988a4ef2753b67fe0974) 
 - [2019-09-04-AI诈骗电话克隆声音，这个CEO被骗173万](https://posts.careerengine.us/p/5d6f47d2c00985114dbdcbb2) 
 - [2019-09-03-开学AI登场！南京高校用人脸识别查考勤管理学生，还敢逃课、玩手机？](https://posts.careerengine.us/p/5d6defc9a357cf24d4eaaa64) 
 - [2022-04-06-腾讯AI-Lab披露可信AI研究进展，解读20余项原创工作](https://posts.careerengine.us/p/62caad346192fa60dfb10248) 

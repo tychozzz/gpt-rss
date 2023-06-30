@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-06-30 23:00:09，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-01 06:00:14，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AIGC研修社](#aigc研修社)  
 - [ChatGPT](#chatgpt)  
@@ -52,22 +52,26 @@
 </summary>
 
 
-- [2023-06-29-大模型时代的OCR，“CPU”-的味道更重了](https://posts.careerengine.us/p/649d7414a0f1fe3e730b3171)  
-- [2023-06-29-这，才是普通玩家入局AIGC的正确姿势](https://posts.careerengine.us/p/649d7414a0f1fe3e730b317b)  
-- [2023-06-29-中国天眼再立新功！发现纳赫兹引力波存在关键证据](https://posts.careerengine.us/p/649d742dd905e33ebbfb90d0)  
-- [2023-06-29-ChatGPT做的简历戳中HR心巴，小伙刚毕业就拿下梦想offer！](https://posts.careerengine.us/p/649d742dd905e33ebbfb90b6)  
-- [2023-06-29-英伟达H100杀疯了：11分钟训完GPT-3，霸榜8项测试，集群性能逼近线性增长](https://posts.careerengine.us/p/649d742dd905e33ebbfb90c6)  
+- [2023-06-30-“高校在大模型领域是不太可能跟企业竞争的”-|-CCF-C³@联想](https://posts.careerengine.us/p/649ec12c146a052c4cf59730) ![](/assets/new.png)  
+- [2023-06-30-AI被自己骗了！生成照骗轻松逃过AI鉴别器法眼，马斯克机器女友、3米巨人都「成真」了](https://posts.careerengine.us/p/649ec12c146a052c4cf59738) ![](/assets/new.png)  
+- [2023-06-30-预测超长蛋白质这事，CPU赢了](https://posts.careerengine.us/p/649ec12c146a052c4cf59740) ![](/assets/new.png)  
+- [2023-06-30-Mathemetica-35周年！从天才物理学家到“自大狂”，创始人Wolfram的传奇经历](https://posts.careerengine.us/p/649ec12d146a052c4cf59756) ![](/assets/new.png)  
+- [2023-06-30-加速AI推理，探索英特尔®-至强®-可扩展处理器在OCR应用落地方面的实践](https://posts.careerengine.us/p/649ec153b32c752d42ffd64d) ![](/assets/new.png)  
+- [2023-06-30-当大模型时代到来，如何借助-AI-驱动生命科学与医药创新](https://posts.careerengine.us/p/649ec153b32c752d42ffd655) ![](/assets/new.png)  
 - [2023-06-29-美团20亿100％收购光年之外！王兴接住清华上铺兄弟，账上资本2.8亿美元](https://posts.careerengine.us/p/649d742dd905e33ebbfb90be)  
-- [2023-06-28-探索“视”界-放眼未来CIVC-2023第一届中国工业视觉大会顺利举办](https://posts.careerengine.us/p/649c07b3803349503bfcd9e4)  
-- [2023-06-28-羊驼家族大模型集体进化！32k上下文追平GPT-4，田渊栋团队出品](https://posts.careerengine.us/p/649c07b2803349503bfcd9dc)  
-- [2023-06-28-1天训完45亿参数大模型！高校计算能力首次比肩科技巨头](https://posts.careerengine.us/p/649c07b1803349503bfcd9ca)  
-- [2023-06-28-大模型们参加2023高考了，成绩单已出炉](https://posts.careerengine.us/p/649c07b0803349503bfcd9c2)  
-- [2023-06-28-火山引擎给大模型造大底座！MiniMax、智谱AI等已登陆](https://posts.careerengine.us/p/649c078b564b874f22898a46)  
+- [2023-06-29-英伟达H100杀疯了：11分钟训完GPT-3，霸榜8项测试，集群性能逼近线性增长](https://posts.careerengine.us/p/649d742dd905e33ebbfb90c6)  
+- [2023-06-29-ChatGPT做的简历戳中HR心巴，小伙刚毕业就拿下梦想offer！](https://posts.careerengine.us/p/649d742dd905e33ebbfb90b6)  
+- [2023-06-29-中国天眼再立新功！发现纳赫兹引力波存在关键证据](https://posts.careerengine.us/p/649d742dd905e33ebbfb90d0)  
+- [2023-06-29-这，才是普通玩家入局AIGC的正确姿势](https://posts.careerengine.us/p/649d7414a0f1fe3e730b317b)  
+- [2023-06-29-大模型时代的OCR，“CPU”-的味道更重了](https://posts.careerengine.us/p/649d7414a0f1fe3e730b3171)  
 - [2023-06-28-哈佛计算机系王牌项目，要请AI来当导师了](https://posts.careerengine.us/p/649c078a564b874f22898a3e)  
-- [2023-06-27-边喷火边跳踢踏舞，机器狗最新技能爆火全网！网友直呼真·热狗](https://posts.careerengine.us/p/649a989c976e613b9ef2656a)  
-- [2023-06-27-中科院版「分割一切」模型来了，比Meta原版提速50倍-|-GitHub-2.4K+星](https://posts.careerengine.us/p/649a988b4ef2753b67fe097d)  
-- [2023-06-27-141家上市大厂被AI耍了！谷歌意外成帮凶](https://posts.careerengine.us/p/649a988a4ef2753b67fe0974)  
+- [2023-06-28-火山引擎给大模型造大底座！MiniMax、智谱AI等已登陆](https://posts.careerengine.us/p/649c078b564b874f22898a46)  
+- [2023-06-28-大模型们参加2023高考了，成绩单已出炉](https://posts.careerengine.us/p/649c07b0803349503bfcd9c2)  
+- [2023-06-28-1天训完45亿参数大模型！高校计算能力首次比肩科技巨头](https://posts.careerengine.us/p/649c07b1803349503bfcd9ca)  
+- [2023-06-28-羊驼家族大模型集体进化！32k上下文追平GPT-4，田渊栋团队出品](https://posts.careerengine.us/p/649c07b2803349503bfcd9dc)  
+- [2023-06-28-探索“视”界-放眼未来CIVC-2023第一届中国工业视觉大会顺利举办](https://posts.careerengine.us/p/649c07b3803349503bfcd9e4)  
 - [2023-06-27-62人大模型公司卖了93亿元！AIGC最大收购案诞生：华人联创，两年估值翻6倍](https://posts.careerengine.us/p/649a987d833a5c3b0871b950)  
+- [2023-06-27-141家上市大厂被AI耍了！谷歌意外成帮凶](https://posts.careerengine.us/p/649a988a4ef2753b67fe0974)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -114,10 +118,10 @@
 </summary>
 
 
-- [2023-06-30-田渊栋团队最新研究：不到1000步微调，将LLaMA上下文扩展到32K](https://posts.careerengine.us/p/649ec10212fcbb2b4f2f8994) ![](/assets/new.png)  
-- [2023-06-30-浙大滨江院Om中心发布首个大规模图文配对遥感数据集，让通用基础模型也能服务遥感领域](https://posts.careerengine.us/p/649ec10212fcbb2b4f2f898c) ![](/assets/new.png)  
-- [2023-06-30-科研实习-|-北京大学网络信息处理实验室招聘NLP研究型实习生](https://posts.careerengine.us/p/649ec10312fcbb2b4f2f899c) ![](/assets/new.png)  
-- [2023-06-30-ACL-2023-|-达摩院、NTU提出多视图压缩表示，显著提升预训练语言模型鲁棒性](https://posts.careerengine.us/p/649ec10312fcbb2b4f2f89c0) ![](/assets/new.png)  
+- [2023-06-30-田渊栋团队最新研究：不到1000步微调，将LLaMA上下文扩展到32K](https://posts.careerengine.us/p/649ec10212fcbb2b4f2f8994)  
+- [2023-06-30-浙大滨江院Om中心发布首个大规模图文配对遥感数据集，让通用基础模型也能服务遥感领域](https://posts.careerengine.us/p/649ec10212fcbb2b4f2f898c)  
+- [2023-06-30-科研实习-|-北京大学网络信息处理实验室招聘NLP研究型实习生](https://posts.careerengine.us/p/649ec10312fcbb2b4f2f899c)  
+- [2023-06-30-ACL-2023-|-达摩院、NTU提出多视图压缩表示，显著提升预训练语言模型鲁棒性](https://posts.careerengine.us/p/649ec10312fcbb2b4f2f89c0)  
 - [2023-06-29-向量数据库再迎新变化！头部公司产品更新引热议，开启大模型落地新范式](https://posts.careerengine.us/p/649d11f22a6d1145e347e4f4)  
 - [2023-06-29-YouKu-mPLUG最大中文视频数据集和Benchmark，助力多模态大型模型发展](https://posts.careerengine.us/p/649d11f12a6d1145e347e4d8)  
 - [2023-06-29-杭州内推-|-中科院医学所人工智能与智慧医疗中心招聘研究员/博后/算法工程师/RA](https://posts.careerengine.us/p/649d11f12a6d1145e347e4e0)  
