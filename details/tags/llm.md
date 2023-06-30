@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-30 12:51:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-30 20:23:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## LLM
 
@@ -7,8 +7,9 @@
 
 
 
-- [2023-06-29-抖音团队在用的大模型服务平台「火山方舟」，我们也上手体验了一把](https://posts.careerengine.us/p/649d830118d7e102119accc2) 
+- [2023-06-30-类GPT模型训练提速26.5％，清华朱军等人用INT4算法加速神经网络训练](https://posts.careerengine.us/p/649e6a444841a970abf4feaa) 
 - [2023-06-29-过去三个月，LLaMA系模型发展如何？指令微调的核心问题又是什么？](https://posts.careerengine.us/p/649d831d6e582e02c4aa990b) 
+- [2023-06-29-抖音团队在用的大模型服务平台「火山方舟」，我们也上手体验了一把](https://posts.careerengine.us/p/649d830118d7e102119accc2) 
 - [2023-06-28-理解指向，说出坐标，Shikra开启多模态大模型参考对话新维度](https://posts.careerengine.us/p/649bc082d5caf15347363a81) 
 - [2023-06-29-大模型时代的OCR，“CPU”-的味道更重了](https://posts.careerengine.us/p/649d7414a0f1fe3e730b3171) 
 - [2023-06-28-羊驼家族大模型集体进化！32k上下文追平GPT-4，田渊栋团队出品](https://posts.careerengine.us/p/649c07b2803349503bfcd9dc) 
@@ -26,6 +27,7 @@
 - [2023-03-20-探索大语言模型垂直化训练技术和应用-陈运文](https://www.52nlp.cn/%e8%be%be%e8%a7%82%e6%95%b0%e6%8d%ae%e9%99%88%e8%bf%90%e6%96%87%ef%bc%9a%e6%8e%a2%e7%b4%a2%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%ef%bc%8c%e5%af%b9%e7%97%87%e4%b8%8b%e8%8d%af) 
 - [2023-03-16-复旦邱锡鹏：深度剖析-ChatGPT-类大语言模型的关键技术](https://www.52nlp.cn/%e5%a4%8d%e6%97%a6%e9%82%b1%e9%94%a1%e9%b9%8f%ef%bc%9a%e6%b7%b1%e5%ba%a6%e5%89%96%e6%9e%90-chatgpt-%e7%b1%bb%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e5%85%b3%e9%94%ae%e6%8a%80%e6%9c%af) 
 - [2022-12-22-多模型结合的等长拼写纠错|全国中文纠错大赛冠军方案](https://www.52nlp.cn/%e5%a4%9a%e6%a8%a1%e5%9e%8b%e7%bb%93%e5%90%88%e7%9a%84%e7%ad%89%e9%95%bf%e6%8b%bc%e5%86%99%e7%ba%a0%e9%94%99%e5%85%a8%e5%9b%bd%e4%b8%ad%e6%96%87%e7%ba%a0%e9%94%99%e5%a4%a7%e8%b5%9b%e5%86%a0%e5%86%9b) 
-- [2023-06-29-抖音团队在用的大模型服务平台「火山方舟」，我们也上手体验了一把](https://posts.careerengine.us/p/649d830118d7e102119accc2) 
+- [2023-06-30-类GPT模型训练提速26.5％，清华朱军等人用INT4算法加速神经网络训练](https://posts.careerengine.us/p/649e6a444841a970abf4feaa) 
 - [2023-06-29-过去三个月，LLaMA系模型发展如何？指令微调的核心问题又是什么？](https://posts.careerengine.us/p/649d831d6e582e02c4aa990b) 
+- [2023-06-29-抖音团队在用的大模型服务平台「火山方舟」，我们也上手体验了一把](https://posts.careerengine.us/p/649d830118d7e102119accc2) 
 - [2023-06-28-理解指向，说出坐标，Shikra开启多模态大模型参考对话新维度](https://posts.careerengine.us/p/649bc082d5caf15347363a81) 
