@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-30 20:32:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-30 20:44:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -7,14 +7,14 @@
 
 
 
-- [2023-06-30-亚马逊云科技，定义了生成式AI的生产力](https://posts.careerengine.us/p/649e6a277100e3704be7739f) 
-- [2023-06-30-大模型帮陶哲轩解题、证明数学定理：数学真要成为首个借助AI实现突破的学科了？](https://posts.careerengine.us/p/649e6a277100e3704be77397) 
-- [2023-06-30-大模型时代数据和隐私问题何解？来WAIC这场学术交流会听权威学者观点洞察](https://posts.careerengine.us/p/649e6a444841a970abf4fec3) 
 - [2023-06-30-OpenAI遭起诉：训练ChatGPT，涉嫌窃取数百万用户信息](https://posts.careerengine.us/p/649e6a444841a970abf4febb) 
-- [2023-06-28-成本直降70％的秘密：这些企业找到了一种高性价比的AI打开方式](https://posts.careerengine.us/p/649bc064bd616e52c0011c8b) 
+- [2023-06-30-大模型时代数据和隐私问题何解？来WAIC这场学术交流会听权威学者观点洞察](https://posts.careerengine.us/p/649e6a444841a970abf4fec3) 
+- [2023-06-30-大模型帮陶哲轩解题、证明数学定理：数学真要成为首个借助AI实现突破的学科了？](https://posts.careerengine.us/p/649e6a277100e3704be77397) 
+- [2023-06-30-亚马逊云科技，定义了生成式AI的生产力](https://posts.careerengine.us/p/649e6a277100e3704be7739f) 
 - [2023-06-28-具身AI的实验：一个团队的Alexa-Prize夺冠历程](https://posts.careerengine.us/p/649bc083d5caf15347363a9b) 
-- [2023-06-27-ChatGPT时代，很想问问AI这些金融难题何解？](https://posts.careerengine.us/p/649a69555762e843a7c32288) 
+- [2023-06-28-成本直降70％的秘密：这些企业找到了一种高性价比的AI打开方式](https://posts.careerengine.us/p/649bc064bd616e52c0011c8b) 
 - [2023-06-27-这场WAIC高端闭门会，我们将深度探讨大模型与智能驾驶如何碰撞](https://posts.careerengine.us/p/649a6968a3870a445ba69ee0) 
+- [2023-06-27-ChatGPT时代，很想问问AI这些金融难题何解？](https://posts.careerengine.us/p/649a69555762e843a7c32288) 
 - [2023-06-29-这，才是普通玩家入局AIGC的正确姿势](https://posts.careerengine.us/p/649d7414a0f1fe3e730b317b) 
 - [2023-06-28-火山引擎给大模型造大底座！MiniMax、智谱AI等已登陆](https://posts.careerengine.us/p/649c078b564b874f22898a46) 
 - [2023-06-28-哈佛计算机系王牌项目，要请AI来当导师了](https://posts.careerengine.us/p/649c078a564b874f22898a3e) 
