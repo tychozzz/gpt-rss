@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-06-30 20:25:18。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-06-30 20:32:22。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -33,14 +33,14 @@
 
 
 
-- [【机器之心】OpenAI遭起诉：训练ChatGPT，涉嫌窃取数百万用户信息](https://posts.careerengine.us/p/649e6a444841a970abf4febb)
-- [【机器之心】大模型时代数据和隐私问题何解？来WAIC这场学术交流会听权威学者观点洞察](https://posts.careerengine.us/p/649e6a444841a970abf4fec3)
-- [【机器之心】大模型帮陶哲轩解题、证明数学定理：数学真要成为首个借助AI实现突破的学科了？](https://posts.careerengine.us/p/649e6a277100e3704be77397)
 - [【机器之心】亚马逊云科技，定义了生成式AI的生产力](https://posts.careerengine.us/p/649e6a277100e3704be7739f)
-- [【机器之心】具身AI的实验：一个团队的Alexa-Prize夺冠历程](https://posts.careerengine.us/p/649bc083d5caf15347363a9b)
+- [【机器之心】大模型帮陶哲轩解题、证明数学定理：数学真要成为首个借助AI实现突破的学科了？](https://posts.careerengine.us/p/649e6a277100e3704be77397)
+- [【机器之心】大模型时代数据和隐私问题何解？来WAIC这场学术交流会听权威学者观点洞察](https://posts.careerengine.us/p/649e6a444841a970abf4fec3)
+- [【机器之心】OpenAI遭起诉：训练ChatGPT，涉嫌窃取数百万用户信息](https://posts.careerengine.us/p/649e6a444841a970abf4febb)
 - [【机器之心】成本直降70％的秘密：这些企业找到了一种高性价比的AI打开方式](https://posts.careerengine.us/p/649bc064bd616e52c0011c8b)
-- [【机器之心】这场WAIC高端闭门会，我们将深度探讨大模型与智能驾驶如何碰撞](https://posts.careerengine.us/p/649a6968a3870a445ba69ee0)
+- [【机器之心】具身AI的实验：一个团队的Alexa-Prize夺冠历程](https://posts.careerengine.us/p/649bc083d5caf15347363a9b)
 - [【机器之心】ChatGPT时代，很想问问AI这些金融难题何解？](https://posts.careerengine.us/p/649a69555762e843a7c32288)
+- [【机器之心】这场WAIC高端闭门会，我们将深度探讨大模型与智能驾驶如何碰撞](https://posts.careerengine.us/p/649a6968a3870a445ba69ee0)
 - [【量子位】这，才是普通玩家入局AIGC的正确姿势](https://posts.careerengine.us/p/649d7414a0f1fe3e730b317b)
 - [【量子位】火山引擎给大模型造大底座！MiniMax、智谱AI等已登陆](https://posts.careerengine.us/p/649c078b564b874f22898a46)
 - [【量子位】哈佛计算机系王牌项目，要请AI来当导师了](https://posts.careerengine.us/p/649c078a564b874f22898a3e)
@@ -70,8 +70,8 @@
 
 
 - [【机器之心】类GPT模型训练提速26.5％，清华朱军等人用INT4算法加速神经网络训练](https://posts.careerengine.us/p/649e6a444841a970abf4feaa)
-- [【机器之心】抖音团队在用的大模型服务平台「火山方舟」，我们也上手体验了一把](https://posts.careerengine.us/p/649d830118d7e102119accc2)
 - [【机器之心】过去三个月，LLaMA系模型发展如何？指令微调的核心问题又是什么？](https://posts.careerengine.us/p/649d831d6e582e02c4aa990b)
+- [【机器之心】抖音团队在用的大模型服务平台「火山方舟」，我们也上手体验了一把](https://posts.careerengine.us/p/649d830118d7e102119accc2)
 - [【机器之心】理解指向，说出坐标，Shikra开启多模态大模型参考对话新维度](https://posts.careerengine.us/p/649bc082d5caf15347363a81)
 - [【量子位】大模型时代的OCR，“CPU”-的味道更重了](https://posts.careerengine.us/p/649d7414a0f1fe3e730b3171)
 - [【量子位】羊驼家族大模型集体进化！32k上下文追平GPT-4，田渊栋团队出品](https://posts.careerengine.us/p/649c07b2803349503bfcd9dc)
@@ -307,11 +307,11 @@
 
 
 
-- [【机器之心】不到1000步微调，将LLaMA上下文扩展到32K，田渊栋团队最新研究](https://posts.careerengine.us/p/649d830118d7e102119accd2)
 - [【机器之心】在对比学习中引入显式跨图像相似度建模能力，中南大学显著提高无监督表征的泛化能力](https://posts.careerengine.us/p/649d831d6e582e02c4aa9903)
+- [【机器之心】不到1000步微调，将LLaMA上下文扩展到32K，田渊栋团队最新研究](https://posts.careerengine.us/p/649d830118d7e102119accd2)
 - [【机器之心】北工大校友Cheng-Zhang获SIGGRAPH最佳博士论文奖](https://posts.careerengine.us/p/649bc064bd616e52c0011c7f)
-- [【机器之心】当医学插上人工智能的翅膀](https://posts.careerengine.us/p/649a697dfba2fd44a9747427)
 - [【机器之心】四插槽庞大体积、功耗最高600W，英伟达RTX-4090-Ti谍照再现身](https://posts.careerengine.us/p/649a6969a3870a445ba69ee8)
+- [【机器之心】当医学插上人工智能的翅膀](https://posts.careerengine.us/p/649a697dfba2fd44a9747427)
 - [【量子位】中国天眼再立新功！发现纳赫兹引力波存在关键证据](https://posts.careerengine.us/p/649d742dd905e33ebbfb90d0)
 - [【量子位】美团20亿100％收购光年之外！王兴接住清华上铺兄弟，账上资本2.8亿美元](https://posts.careerengine.us/p/649d742dd905e33ebbfb90be)
 - [【量子位】探索“视”界-放眼未来CIVC-2023第一届中国工业视觉大会顺利举办](https://posts.careerengine.us/p/649c07b3803349503bfcd9e4)
