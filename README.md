@@ -24,9 +24,9 @@
 
 在线浏览：[https://www.gpt-rss.com/](https://www.gpt-rss.com/)
 
-:alarm_clock: 更新时间: 2023-06-30 20:23:07
+:alarm_clock: 更新时间: 2023-06-30 20:25:18
 
-:rocket: 更新条数: +10 - ![](/assets/dot.png) 表示有更新
+:rocket: 更新条数: +1 - ![](/assets/dot.png) 表示有更新
 
 ## 查看文章
 
