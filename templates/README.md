@@ -24,6 +24,8 @@
 
 在线浏览：[<%= obj.homePage %>](<%= obj.homePage %>)
 
+备用网站：[https://gpt-rss.vercel.app/](https://gpt-rss.vercel.app/)
+
 :alarm_clock: 更新时间: <%= obj.currentDate %>
 
 :rocket: 更新条数: +<%= obj.newData.length %> - ![](/assets/dot.png) 表示有更新

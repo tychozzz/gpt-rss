@@ -24,6 +24,8 @@
 
 在线浏览：[https://www.gpt-rss.com/](https://www.gpt-rss.com/)
 
+备用网站：[https://gpt-rss.vercel.app/](https://gpt-rss.vercel.app/)
+
 :alarm_clock: 更新时间: 2023-06-30 20:32:22
 
 :rocket: 更新条数: +1 - ![](/assets/dot.png) 表示有更新
