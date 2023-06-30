@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-06-30 20:44:05。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-06-30 23:00:09。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -78,17 +78,17 @@
 - [【量子位】1天训完45亿参数大模型！高校计算能力首次比肩科技巨头](https://posts.careerengine.us/p/649c07b1803349503bfcd9ca)
 - [【量子位】大模型们参加2023高考了，成绩单已出炉](https://posts.careerengine.us/p/649c07b0803349503bfcd9c2)
 - [【量子位】中科院版「分割一切」模型来了，比Meta原版提速50倍-|-GitHub-2.4K+星](https://posts.careerengine.us/p/649a988b4ef2753b67fe097d)
-- [【PaperWeekly】YouKu-mPLUG最大中文视频数据集和Benchmark，助力多模态大型模型发展](https://posts.careerengine.us/p/649d11f12a6d1145e347e4d8)
+- [【PaperWeekly】浙大滨江院Om中心发布首个大规模图文配对遥感数据集，让通用基础模型也能服务遥感领域](https://posts.careerengine.us/p/649ec10212fcbb2b4f2f898c)
+- [【PaperWeekly】ACL-2023-|-达摩院、NTU提出多视图压缩表示，显著提升预训练语言模型鲁棒性](https://posts.careerengine.us/p/649ec10312fcbb2b4f2f89c0)
 - [【PaperWeekly】向量数据库再迎新变化！头部公司产品更新引热议，开启大模型落地新范式](https://posts.careerengine.us/p/649d11f22a6d1145e347e4f4)
-- [【PaperWeekly】科研实习-|-耶鲁大学Bioinfo实验室及NLP实验室招聘LLM方向暑期科研实习生](https://posts.careerengine.us/p/649c0e3f94b82a73c3a5a945)
-- [【PaperWeekly】CVPR-2023-|-小红书提出OvarNet模型：开集预测的新SOTA，“万物识别”有了新玩法](https://posts.careerengine.us/p/649c0e3f94b82a73c3a5a966)
+- [【PaperWeekly】YouKu-mPLUG最大中文视频数据集和Benchmark，助力多模态大型模型发展](https://posts.careerengine.us/p/649d11f12a6d1145e347e4d8)
 - [【PaperWeekly】对话双塔——腾讯视频中的粗排相关性模型](https://posts.careerengine.us/p/649c0e15f79f2d72ed64d44e)
-- [【PaperWeekly】教科书级数据is-All-you-Need：1.3B小模型逆袭大模型的秘密](https://posts.careerengine.us/p/649921673d11bd04f2ffc54e)
+- [【PaperWeekly】CVPR-2023-|-小红书提出OvarNet模型：开集预测的新SOTA，“万物识别”有了新玩法](https://posts.careerengine.us/p/649c0e3f94b82a73c3a5a966)
+- [【PaperWeekly】科研实习-|-耶鲁大学Bioinfo实验室及NLP实验室招聘LLM方向暑期科研实习生](https://posts.careerengine.us/p/649c0e3f94b82a73c3a5a945)
 - [【PaperWeekly】​ICML-2023-|-Unleashing-Mask：挖掘模型的分布外检测能力](https://posts.careerengine.us/p/64992159f1b05504afb66c59)
+- [【PaperWeekly】教科书级数据is-All-you-Need：1.3B小模型逆袭大模型的秘密](https://posts.careerengine.us/p/649921673d11bd04f2ffc54e)
 - [【我爱自然语言处理】新浪张俊林：大语言模型的涌现能力——现象与解释](https://www.52nlp.cn/%e6%96%b0%e6%b5%aa%e5%bc%a0%e4%bf%8a%e6%9e%97%ef%bc%9a%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e6%b6%8c%e7%8e%b0%e8%83%bd%e5%8a%9b-%e7%8e%b0%e8%b1%a1%e4%b8%8e%e8%a7%a3)
 - [【我爱自然语言处理】探索大语言模型垂直化训练技术和应用-陈运文](https://www.52nlp.cn/%e8%be%be%e8%a7%82%e6%95%b0%e6%8d%ae%e9%99%88%e8%bf%90%e6%96%87%ef%bc%9a%e6%8e%a2%e7%b4%a2%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%ef%bc%8c%e5%af%b9%e7%97%87%e4%b8%8b%e8%8d%af)
-- [【我爱自然语言处理】复旦邱锡鹏：深度剖析-ChatGPT-类大语言模型的关键技术](https://www.52nlp.cn/%e5%a4%8d%e6%97%a6%e9%82%b1%e9%94%a1%e9%b9%8f%ef%bc%9a%e6%b7%b1%e5%ba%a6%e5%89%96%e6%9e%90-chatgpt-%e7%b1%bb%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e5%85%b3%e9%94%ae%e6%8a%80%e6%9c%af)
-- [【我爱自然语言处理】多模型结合的等长拼写纠错|全国中文纠错大赛冠军方案](https://www.52nlp.cn/%e5%a4%9a%e6%a8%a1%e5%9e%8b%e7%bb%93%e5%90%88%e7%9a%84%e7%ad%89%e9%95%bf%e6%8b%bc%e5%86%99%e7%ba%a0%e9%94%99%e5%85%a8%e5%9b%bd%e4%b8%ad%e6%96%87%e7%ba%a0%e9%94%99%e5%a4%a7%e8%b5%9b%e5%86%a0%e5%86%9b)
 - [......【查看更多】......](/details/tags/llm.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -324,9 +324,9 @@
 - [【新智元】GitHub开学大礼包：近50种专业开发者工具，最高节省32万！](https://posts.careerengine.us/p/5d6c99490ab8e3505f4ca5ae)
 - [【新智元】IEEE-WIE首次在中国举行领导力峰会，就等你来！](https://posts.careerengine.us/p/5d6b41dd790f085ec56caa01)
 - [【新智元】大盘点-|-性能最强的目标检测算法](https://posts.careerengine.us/p/5d2408838491be42195e3c5c)
+- [【PaperWeekly】田渊栋团队最新研究：不到1000步微调，将LLaMA上下文扩展到32K](https://posts.careerengine.us/p/649ec10212fcbb2b4f2f8994)
+- [【PaperWeekly】科研实习-|-北京大学网络信息处理实验室招聘NLP研究型实习生](https://posts.careerengine.us/p/649ec10312fcbb2b4f2f899c)
 - [【PaperWeekly】杭州内推-|-中科院医学所人工智能与智慧医疗中心招聘研究员/博后/算法工程师/RA](https://posts.careerengine.us/p/649d11f12a6d1145e347e4e0)
-- [【PaperWeekly】导师放养如何投顶会？发paper怎么少走弯路？](https://posts.careerengine.us/p/649a75e3a7a52c7fa0764943)
-- [【PaperWeekly】2023年C4-人工智能创意赛启动报名，《流浪地球》都来了！](https://posts.careerengine.us/p/649921502c15f4048c33755f)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

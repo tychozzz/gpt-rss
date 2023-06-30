@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-30 20:44:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-30 23:00:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -22,10 +22,12 @@
 - [2019-09-02-GitHub开学大礼包：近50种专业开发者工具，最高节省32万！](https://posts.careerengine.us/p/5d6c99490ab8e3505f4ca5ae) 
 - [2019-09-01-IEEE-WIE首次在中国举行领导力峰会，就等你来！](https://posts.careerengine.us/p/5d6b41dd790f085ec56caa01) 
 - [2019-07-09-大盘点-|-性能最强的目标检测算法](https://posts.careerengine.us/p/5d2408838491be42195e3c5c) 
+- [2023-06-30-田渊栋团队最新研究：不到1000步微调，将LLaMA上下文扩展到32K](https://posts.careerengine.us/p/649ec10212fcbb2b4f2f8994) 
+- [2023-06-30-科研实习-|-北京大学网络信息处理实验室招聘NLP研究型实习生](https://posts.careerengine.us/p/649ec10312fcbb2b4f2f899c) 
 - [2023-06-29-杭州内推-|-中科院医学所人工智能与智慧医疗中心招聘研究员/博后/算法工程师/RA](https://posts.careerengine.us/p/649d11f12a6d1145e347e4e0) 
 - [2023-06-27-导师放养如何投顶会？发paper怎么少走弯路？](https://posts.careerengine.us/p/649a75e3a7a52c7fa0764943) 
-- [2023-06-26-2023年C4-人工智能创意赛启动报名，《流浪地球》都来了！](https://posts.careerengine.us/p/649921502c15f4048c33755f) 
 - [2023-06-26-博后招募-|-新加坡科技设计大学林媚霞老师课题组招聘最优化方向博后/RA](https://posts.careerengine.us/p/64992170ed849f050d729797) 
+- [2023-06-26-2023年C4-人工智能创意赛启动报名，《流浪地球》都来了！](https://posts.careerengine.us/p/649921502c15f4048c33755f) 
 - [2022-12-22-中文语法纠错全国大赛获奖分享：基于多轮机制的中文语法纠错](https://www.52nlp.cn/%e4%b8%ad%e6%96%87%e8%af%ad%e6%b3%95%e7%ba%a0%e9%94%99%e5%85%a8%e5%9b%bd%e5%a4%a7%e8%b5%9b%e8%8e%b7%e5%a5%96%e5%88%86%e4%ba%ab%ef%bc%9a%e5%9f%ba%e4%ba%8e%e5%a4%9a%e8%bd%ae%e6%9c%ba%e5%88%b6%e7%9a%84) 
 - [2022-12-21-文字语义纠错技术探索与实践-张健](https://www.52nlp.cn/%e6%96%87%e5%ad%97%e8%af%ad%e4%b9%89%e7%ba%a0%e9%94%99%e6%8a%80%e6%9c%af%e6%8e%a2%e7%b4%a2%e4%b8%8e%e5%ae%9e%e8%b7%b5-%e5%bc%a0%e5%81%a5) 
 - [2022-12-14-海量文本中挖掘人物关联关系核心技术介绍](https://www.52nlp.cn/%e6%b5%b7%e9%87%8f%e6%96%87%e6%9c%ac%e4%b8%ad%e6%8c%96%e6%8e%98%e4%ba%ba%e7%89%a9%e5%85%b3%e8%81%94%e5%85%b3%e7%b3%bb%e6%a0%b8%e5%bf%83%e6%8a%80%e6%9c%af%e4%bb%8b%e7%bb%8d) 
