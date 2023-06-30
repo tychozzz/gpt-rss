@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "api/*.js",
+      "src": "server/app.js",
       "use": "@vercel/node"
     },
     {
@@ -12,12 +12,12 @@
   ],
   "routes": [
     {
-      "src": "/u/(?<id>[^/]*)",
-      "dest": "site/api/index.js?id=$id"
+      "src": "/server/app",
+      "dest": "server/app.js"
     },
     {
       "src": "/(.*)",
-      "dest": "site/$1"
+      "dest": "$1"
     }
   ]
 }
