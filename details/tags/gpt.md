@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-01 18:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-02 06:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## GPT
 
@@ -16,3 +16,4 @@
 - [2023-03-27-“国产类-ChatGPT-”所存在的差距与挑战-专家圆桌](https://www.52nlp.cn/%e5%9b%bd%e4%ba%a7%e7%b1%bb-chatgpt-%e6%89%80%e5%ad%98%e5%9c%a8%e7%9a%84%e5%b7%ae%e8%b7%9d%e4%b8%8e%e6%8c%91%e6%88%98-%e4%b8%93%e5%ae%b6%e5%9c%86%e6%a1%8c) 
 - [2023-07-01-「羊驼」们走到哪一步了？研究表明：最好的能达到GPT-4性能的68％](https://posts.careerengine.us/p/649fae29b391bb5c56315e48) 
 - [2023-06-29-英伟达H100用11分钟训完GPT-3，PyTorch创始人：不要只看时间](https://posts.careerengine.us/p/649d830118d7e102119accca) 
+- [2023-06-28-引领手机向“全知全能”进化！iOS版ChatGPT推出联网模式：集成Bing搜索功能，仅对付费用户开放](https://posts.careerengine.us/p/649bc6e35945ed760ee3f089) 

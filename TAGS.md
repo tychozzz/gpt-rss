@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-01 18:00:31。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-02 06:00:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -112,8 +112,9 @@
 - [【PaperWeekly】文末送书-|-系统讲解ChatGPT核心原理，教你构建高质量的提示指令](https://posts.careerengine.us/p/649c0e3e94b82a73c3a5a93d)
 - [【我爱自然语言处理】中科院张家俊：ChatGPT中的提示与指令学习](https://www.52nlp.cn/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%bc%a0%e5%ae%b6%e4%bf%8a%ef%bc%9achatgpt%e4%b8%ad%e7%9a%84%e6%8f%90%e7%a4%ba%e4%b8%8e%e6%8c%87%e4%bb%a4%e5%ad%a6%e4%b9%a0)
 - [【我爱自然语言处理】“国产类-ChatGPT-”所存在的差距与挑战-专家圆桌](https://www.52nlp.cn/%e5%9b%bd%e4%ba%a7%e7%b1%bb-chatgpt-%e6%89%80%e5%ad%98%e5%9c%a8%e7%9a%84%e5%b7%ae%e8%b7%9d%e4%b8%8e%e6%8c%91%e6%88%98-%e4%b8%93%e5%ae%b6%e5%9c%86%e6%a1%8c)
-- [【AIGC研修社】「羊驼」们走到哪一步了？研究表明：最好的能达到GPT-4性能的68％](https://posts.careerengine.us/p/649fae29b391bb5c56315e48)
-- [【AIGC研修社】英伟达H100用11分钟训完GPT-3，PyTorch创始人：不要只看时间](https://posts.careerengine.us/p/649d830118d7e102119accca)
+- [【AI前线】「羊驼」们走到哪一步了？研究表明：最好的能达到GPT-4性能的68％](https://posts.careerengine.us/p/649fae29b391bb5c56315e48)
+- [【AI前线】英伟达H100用11分钟训完GPT-3，PyTorch创始人：不要只看时间](https://posts.careerengine.us/p/649d830118d7e102119accca)
+- [【AI前线】引领手机向“全知全能”进化！iOS版ChatGPT推出联网模式：集成Bing搜索功能，仅对付费用户开放](https://posts.careerengine.us/p/649bc6e35945ed760ee3f089)
 - [......【查看更多】......](/details/tags/gpt.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -131,7 +132,7 @@
 
 
 - [【机器之心】DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89)
-- [【AIGC研修社】DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89)
+- [【AI前线】DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -182,7 +183,7 @@
 
 - [【机器之心】基于信息论的校准技术，CML让多模态机器学习更可靠](https://posts.careerengine.us/p/649a697cfba2fd44a974741f)
 - [【PaperWeekly】​ICML-2023-|-可证明的动态多模态融合框架：一个简单而有用的理论](https://posts.careerengine.us/p/649d11f12a6d1145e347e4e8)
-- [【AIGC研修社】基于信息论的校准技术，CML让多模态机器学习更可靠](https://posts.careerengine.us/p/649a697cfba2fd44a974741f)
+- [【AI前线】基于信息论的校准技术，CML让多模态机器学习更可靠](https://posts.careerengine.us/p/649a697cfba2fd44a974741f)
 - [......【查看更多】......](/details/tags/duomotai.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
