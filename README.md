@@ -26,9 +26,9 @@
 
 备用网站：[https://gpt-rss.vercel.app/](https://gpt-rss.vercel.app/)
 
-:alarm_clock: 更新时间: 2023-06-30 20:44:05
+:alarm_clock: 更新时间: 2023-07-01 06:00:14
 
-:rocket: 更新条数: +1 - ![](/assets/dot.png) 表示有更新
+:rocket: 更新条数: +6 - ![](/assets/dot.png) 表示有更新
 
 ## 查看文章
 
@@ -41,6 +41,10 @@
 - 采用 Vue3 与 Vant UI 组件库，支持 PC端/移动端 适配，支持搜索、筛选功能
 
 - 采用 Node.js 定时任务，每日定时更新文章
+
+## 贡献指南
+
+如果你有高质量的 GPT 相关的公众号、订阅号推荐，请提出 [Issue](https://github.com/ltyzzzxxx/gpt-rss/issues)，我会及时进行更新，感谢分享！
 
 ## 特别鸣谢
 
