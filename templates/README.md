@@ -42,6 +42,10 @@
 
 - 采用 Node.js 定时任务，每日定时更新文章
 
+## 贡献指南
+
+如果你有高质量的 GPT 相关的公众号、订阅号推荐，请提出 [Issue](https://github.com/ltyzzzxxx/gpt-rss/issues)，我会及时进行更新，感谢分享！
+
 ## 特别鸣谢
 
 感谢 [Front End RSS](https://github.com/ChanceYu/front-end-rss) 提供的开源项目
