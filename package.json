@@ -1,7 +1,8 @@
 {
   "name": "gpt-rss",
   "version": "0.0.0",
-  "private": true,
+  "description": "GPT RSS, 定时抓取前沿 AIGC/GPT/LLM 文章",
+  "author": "ltyzzz | 周三不Coding",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
