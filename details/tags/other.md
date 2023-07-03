@@ -1,23 +1,25 @@
-:alarm_clock: 更新时间: 2023-07-02 06:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-03 12:02:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
-- [2023-07-01-对未知物体进行6D追踪和3D重建，英伟达方法取得新SOTA，入选CVPR-2023](https://posts.careerengine.us/p/649fae28b391bb5c56315e38) 
+- [2023-07-02-推特「崩了」：不登录不让看、推文数量严格设上限，马斯克反复横跳](https://posts.careerengine.us/p/64a223c5b0b3e0356e1548c2) 
 - [2023-07-01-对话小鹏汽车刘毅林：城市场景的逻辑、挑战及前景](https://posts.careerengine.us/p/649fae4baab4f35d2c046fc4) 
-- [2023-06-29-在对比学习中引入显式跨图像相似度建模能力，中南大学显著提高无监督表征的泛化能力](https://posts.careerengine.us/p/649d831d6e582e02c4aa9903) 
+- [2023-07-01-对未知物体进行6D追踪和3D重建，英伟达方法取得新SOTA，入选CVPR-2023](https://posts.careerengine.us/p/649fae28b391bb5c56315e38) 
 - [2023-06-29-不到1000步微调，将LLaMA上下文扩展到32K，田渊栋团队最新研究](https://posts.careerengine.us/p/649d830118d7e102119accd2) 
+- [2023-06-29-在对比学习中引入显式跨图像相似度建模能力，中南大学显著提高无监督表征的泛化能力](https://posts.careerengine.us/p/649d831d6e582e02c4aa9903) 
 - [2023-06-28-北工大校友Cheng-Zhang获SIGGRAPH最佳博士论文奖](https://posts.careerengine.us/p/649bc064bd616e52c0011c7f) 
-- [2023-06-27-四插槽庞大体积、功耗最高600W，英伟达RTX-4090-Ti谍照再现身](https://posts.careerengine.us/p/649a6969a3870a445ba69ee8) 
 - [2023-06-27-当医学插上人工智能的翅膀](https://posts.careerengine.us/p/649a697dfba2fd44a9747427) 
-- [2023-07-01-孙正义投的独角兽爆雷！2千万用户95％是机器人，估值高达80亿](https://posts.careerengine.us/p/649fb0aeed871468dc5d2e95) 
+- [2023-06-27-四插槽庞大体积、功耗最高600W，英伟达RTX-4090-Ti谍照再现身](https://posts.careerengine.us/p/649a6969a3870a445ba69ee8) 
+- [2023-07-03-华为智慧搜索更好用了！上线智慧搜图，用人话就能找出“我的”图片](https://posts.careerengine.us/p/64a24306ffaa7a51a8fab017) 
 - [2023-07-01-只要你用ReLU，就是“浅度学习”：任意ReLU神经网络都有等效3层网络](https://posts.careerengine.us/p/649fb0d5d838d0696d3a7ef7) 
-- [2023-06-30-Mathemetica-35周年！从天才物理学家到“自大狂”，创始人Wolfram的传奇经历](https://posts.careerengine.us/p/649ec12d146a052c4cf59756) 
+- [2023-07-01-孙正义投的独角兽爆雷！2千万用户95％是机器人，估值高达80亿](https://posts.careerengine.us/p/649fb0aeed871468dc5d2e95) 
 - [2023-06-30-预测超长蛋白质这事，CPU赢了](https://posts.careerengine.us/p/649ec12c146a052c4cf59740) 
-- [2023-06-29-中国天眼再立新功！发现纳赫兹引力波存在关键证据](https://posts.careerengine.us/p/649d742dd905e33ebbfb90d0) 
+- [2023-06-30-Mathemetica-35周年！从天才物理学家到“自大狂”，创始人Wolfram的传奇经历](https://posts.careerengine.us/p/649ec12d146a052c4cf59756) 
 - [2023-06-29-美团20亿100％收购光年之外！王兴接住清华上铺兄弟，账上资本2.8亿美元](https://posts.careerengine.us/p/649d742dd905e33ebbfb90be) 
+- [2023-06-29-中国天眼再立新功！发现纳赫兹引力波存在关键证据](https://posts.careerengine.us/p/649d742dd905e33ebbfb90d0) 
 - [2023-06-28-探索“视”界-放眼未来CIVC-2023第一届中国工业视觉大会顺利举办](https://posts.careerengine.us/p/649c07b3803349503bfcd9e4) 
 - [2023-06-27-边喷火边跳踢踏舞，机器狗最新技能爆火全网！网友直呼真·热狗](https://posts.careerengine.us/p/649a989c976e613b9ef2656a) 
 - [2019-09-05-手机支付OUT啦！亚马逊测试刷“手”支付，剁手只需0.3秒](https://posts.careerengine.us/p/5d709246fb6a6b1cde294055) 
