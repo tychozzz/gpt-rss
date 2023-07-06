@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-05 21:00:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-06 12:00:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -46,12 +46,12 @@
 - [【机器之心】具身AI的实验：一个团队的Alexa-Prize夺冠历程](https://posts.careerengine.us/p/649bc083d5caf15347363a9b)
 - [【机器之心】ChatGPT时代，很想问问AI这些金融难题何解？](https://posts.careerengine.us/p/649a69555762e843a7c32288)
 - [【机器之心】这场WAIC高端闭门会，我们将深度探讨大模型与智能驾驶如何碰撞](https://posts.careerengine.us/p/649a6968a3870a445ba69ee0)
+- [【量子位】OpenAI开300万+年薪招「超级AI研究员」，投入20％总算力成立新部门，目标4年内「控制奥创」](https://posts.careerengine.us/p/64a63b17b6832c692eb65900)
+- [【量子位】MIT韩松创业两年被英伟达收购！3位联创都是清华校友，核心技术在256KB内存训练AI](https://posts.careerengine.us/p/64a63b29187afd69b7c4be00)
 - [【量子位】首个小学生AIGC课程来了！大模型使用从娃娃抓起](https://posts.careerengine.us/p/64a50a68269b326ee12fcfa1)
-- [【量子位】马斯克不让AI白嫖数据了：「封闭」推特，不登录不能看](https://posts.careerengine.us/p/649fb0afed871468dc5d2ea7)
-- [【量子位】表情最逼真机器人靠AIGC再进化！接入Stable-Diffusion学会用笔画画](https://posts.careerengine.us/p/649fb0aeed871468dc5d2e8d)
 - [【量子位】用AIGC搞药物发现，大分子那种，来自Bengio核心团队教授唐建新成果](https://posts.careerengine.us/p/649fb0aeed871468dc5d2e9d)
-- [【量子位】AI被自己骗了！生成照骗轻松逃过AI鉴别器法眼，马斯克机器女友、3米巨人都「成真」了](https://posts.careerengine.us/p/649ec12c146a052c4cf59738)
-- [【量子位】加速AI推理，探索英特尔®-至强®-可扩展处理器在OCR应用落地方面的实践](https://posts.careerengine.us/p/649ec153b32c752d42ffd64d)
+- [【量子位】表情最逼真机器人靠AIGC再进化！接入Stable-Diffusion学会用笔画画](https://posts.careerengine.us/p/649fb0aeed871468dc5d2e8d)
+- [【量子位】马斯克不让AI白嫖数据了：「封闭」推特，不登录不能看](https://posts.careerengine.us/p/649fb0afed871468dc5d2ea7)
 - [【量子位】当大模型时代到来，如何借助-AI-驱动生命科学与医药创新](https://posts.careerengine.us/p/649ec153b32c752d42ffd655)
 - [......【查看更多】......](/details/tags/ai.md)
 
@@ -83,12 +83,12 @@
 - [【机器之心】过去三个月，LLaMA系模型发展如何？指令微调的核心问题又是什么？](https://posts.careerengine.us/p/649d831d6e582e02c4aa990b)
 - [【机器之心】抖音团队在用的大模型服务平台「火山方舟」，我们也上手体验了一把](https://posts.careerengine.us/p/649d830118d7e102119accc2)
 - [【机器之心】理解指向，说出坐标，Shikra开启多模态大模型参考对话新维度](https://posts.careerengine.us/p/649bc082d5caf15347363a81)
-- [【量子位】开源多模态大模型哪家强？TOP12榜单来了，GitHub揽获2.2k+星](https://posts.careerengine.us/p/64a50a67269b326ee12fcf99)
-- [【量子位】王小川的大模型打造秘籍首次曝光：五步走，两个月炼成](https://posts.careerengine.us/p/64a50a68269b326ee12fcfb6)
+- [【量子位】一句话搞定数据分析，浙大全新大模型数据助手，连搜集都省了](https://posts.careerengine.us/p/64a63b29187afd69b7c4be10)
+- [【量子位】华为大模型登Nature正刊！审稿人：让人们重新审视预报模型的未来](https://posts.careerengine.us/p/64a63b29187afd69b7c4be08)
 - [【量子位】腾讯云大模型领域新动向！向量数据库作为独立产品推出，8月正式上架](https://posts.careerengine.us/p/64a50a68269b326ee12fcfab)
-- [【量子位】国内大模型，北京占一半-|-2023全球数字经济大会](https://posts.careerengine.us/p/64a3aaf1ec1ab068e2fa779e)
+- [【量子位】王小川的大模型打造秘籍首次曝光：五步走，两个月炼成](https://posts.careerengine.us/p/64a50a68269b326ee12fcfb6)
+- [【量子位】开源多模态大模型哪家强？TOP12榜单来了，GitHub揽获2.2k+星](https://posts.careerengine.us/p/64a50a67269b326ee12fcf99)
 - [【量子位】大模型中的「罗翔老师」！北大兔展联合团队搞出ChatLaw，发布即登顶热榜，可提供法律咨询](https://posts.careerengine.us/p/64a3aad81cf43a681c3f51fb)
-- [【量子位】李开复麾下大模型公司零一万物上线，数十位核心成员就位](https://posts.careerengine.us/p/64a24306ffaa7a51a8fab00e)
 - [......【查看更多】......](/details/tags/llm.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -108,10 +108,10 @@
 - [【机器之心】只有GPT-4可以自我改进，GPT-3.5都不行，MIT&微软代码生成实验新发现](https://posts.careerengine.us/p/64a3a407c40eed4505173245)
 - [【机器之心】「羊驼」们走到哪一步了？研究表明：最好的能达到GPT-4性能的68％](https://posts.careerengine.us/p/649fae29b391bb5c56315e48)
 - [【机器之心】英伟达H100用11分钟训完GPT-3，PyTorch创始人：不要只看时间](https://posts.careerengine.us/p/649d830118d7e102119accca)
-- [【量子位】医疗版ChatGPT直播评测！治疗方案与真人医生96％一致](https://posts.careerengine.us/p/64a50a4d757ccd6ea6bdfc68)
 - [【量子位】ChatGPT紧急下线联网模式，曾被曝能白嫖付费网页](https://posts.careerengine.us/p/64a50a67269b326ee12fcf91)
-- [【量子位】英伟达H100杀疯了：11分钟训完GPT-3，霸榜8项测试，集群性能逼近线性增长](https://posts.careerengine.us/p/649d742dd905e33ebbfb90c6)
+- [【量子位】医疗版ChatGPT直播评测！治疗方案与真人医生96％一致](https://posts.careerengine.us/p/64a50a4d757ccd6ea6bdfc68)
 - [【量子位】ChatGPT做的简历戳中HR心巴，小伙刚毕业就拿下梦想offer！](https://posts.careerengine.us/p/649d742dd905e33ebbfb90b6)
+- [【量子位】英伟达H100杀疯了：11分钟训完GPT-3，霸榜8项测试，集群性能逼近线性增长](https://posts.careerengine.us/p/649d742dd905e33ebbfb90c6)
 - [【PaperWeekly】文末送书-|-系统讲解ChatGPT核心原理，教你构建高质量的提示指令](https://posts.careerengine.us/p/649c0e3e94b82a73c3a5a93d)
 - [【我爱自然语言处理】中科院张家俊：ChatGPT中的提示与指令学习](https://www.52nlp.cn/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%bc%a0%e5%ae%b6%e4%bf%8a%ef%bc%9achatgpt%e4%b8%ad%e7%9a%84%e6%8f%90%e7%a4%ba%e4%b8%8e%e6%8c%87%e4%bb%a4%e5%ad%a6%e4%b9%a0)
 - [【我爱自然语言处理】“国产类-ChatGPT-”所存在的差距与挑战-专家圆桌](https://www.52nlp.cn/%e5%9b%bd%e4%ba%a7%e7%b1%bb-chatgpt-%e6%89%80%e5%ad%98%e5%9c%a8%e7%9a%84%e5%b7%ae%e8%b7%9d%e4%b8%8e%e6%8c%91%e6%88%98-%e4%b8%93%e5%ae%b6%e5%9c%86%e6%a1%8c)
@@ -326,14 +326,14 @@
 - [【机器之心】北工大校友Cheng-Zhang获SIGGRAPH最佳博士论文奖](https://posts.careerengine.us/p/649bc064bd616e52c0011c7f)
 - [【机器之心】四插槽庞大体积、功耗最高600W，英伟达RTX-4090-Ti谍照再现身](https://posts.careerengine.us/p/649a6969a3870a445ba69ee8)
 - [【机器之心】当医学插上人工智能的翅膀](https://posts.careerengine.us/p/649a697dfba2fd44a9747427)
-- [【量子位】「电子果蝇」惊动马斯克！背后是13万神经元全脑图谱，可在电脑上运行](https://posts.careerengine.us/p/64a3aaf2ec1ab068e2fa77ae)
+- [【量子位】挑战马斯克“农民”弟弟！上海交大工科博导带队种菜，三个月从入门到产量翻番](https://posts.careerengine.us/p/64a63b17b6832c692eb658f8)
 - [【量子位】小扎偷家马斯克！推特大乱Meta趁机火速上线竞品，后天即发布](https://posts.careerengine.us/p/64a3aad81cf43a681c3f5203)
+- [【量子位】「电子果蝇」惊动马斯克！背后是13万神经元全脑图谱，可在电脑上运行](https://posts.careerengine.us/p/64a3aaf2ec1ab068e2fa77ae)
 - [【量子位】华为智慧搜索更好用了！上线智慧搜图，用人话就能找出“我的”图片](https://posts.careerengine.us/p/64a24306ffaa7a51a8fab017)
-- [【量子位】只要你用ReLU，就是“浅度学习”：任意ReLU神经网络都有等效3层网络](https://posts.careerengine.us/p/649fb0d5d838d0696d3a7ef7)
 - [【量子位】孙正义投的独角兽爆雷！2千万用户95％是机器人，估值高达80亿](https://posts.careerengine.us/p/649fb0aeed871468dc5d2e95)
-- [【量子位】预测超长蛋白质这事，CPU赢了](https://posts.careerengine.us/p/649ec12c146a052c4cf59740)
+- [【量子位】只要你用ReLU，就是“浅度学习”：任意ReLU神经网络都有等效3层网络](https://posts.careerengine.us/p/649fb0d5d838d0696d3a7ef7)
 - [【量子位】Mathemetica-35周年！从天才物理学家到“自大狂”，创始人Wolfram的传奇经历](https://posts.careerengine.us/p/649ec12d146a052c4cf59756)
-- [【量子位】美团20亿100％收购光年之外！王兴接住清华上铺兄弟，账上资本2.8亿美元](https://posts.careerengine.us/p/649d742dd905e33ebbfb90be)
+- [【量子位】预测超长蛋白质这事，CPU赢了](https://posts.careerengine.us/p/649ec12c146a052c4cf59740)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
