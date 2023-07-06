@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-06 15:00:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-06 23:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -7,19 +7,21 @@
 
 
 
-- [2023-07-05-ChatGPT显示付费墙内容，OpenAI把联网功能关了，网友炸了](https://posts.careerengine.us/p/64a4f9ac588dea1ef98e8b0d) 
-- [2023-07-05-大模型自主智能体爆火，OpenAI也在暗中观察、发力，这是内部人的分析博客](https://posts.careerengine.us/p/64a4f9ac588dea1ef98e8b17) 
+- [2023-07-06-微软新出热乎论文：Transformer扩展到10亿token](https://posts.careerengine.us/p/64a6c0d8c7a0f65860093f18) 
+- [2023-07-06-四年、投入20％计算资源，OpenAI成立专门团队构建解决对齐问题的超强AI](https://posts.careerengine.us/p/64a6c0e17019ab589620542e) 
 - [2023-07-05-上交大&上海AI-lab研发胸部X-ray疾病诊断基础模型，成果入选Nature子刊](https://posts.careerengine.us/p/64a4f9ac588dea1ef98e8b05) 
-- [2023-07-02-全日程公布！你关心的大模型时代AI热点，我们请了多位AI大咖在这场WAIC论坛解答](https://posts.careerengine.us/p/64a223c5b0b3e0356e1548ba) 
+- [2023-07-05-大模型自主智能体爆火，OpenAI也在暗中观察、发力，这是内部人的分析博客](https://posts.careerengine.us/p/64a4f9ac588dea1ef98e8b17) 
+- [2023-07-05-ChatGPT显示付费墙内容，OpenAI把联网功能关了，网友炸了](https://posts.careerengine.us/p/64a4f9ac588dea1ef98e8b0d) 
 - [2023-07-02-NTU、上海AI-Lab整理300+论文：基于Transformer的视觉分割最新综述出炉](https://posts.careerengine.us/p/64a223c5b0b3e0356e1548ca) 
-- [2023-06-30-亚马逊云科技，定义了生成式AI的生产力](https://posts.careerengine.us/p/649e6a277100e3704be7739f) 
-- [2023-06-30-大模型帮陶哲轩解题、证明数学定理：数学真要成为首个借助AI实现突破的学科了？](https://posts.careerengine.us/p/649e6a277100e3704be77397) 
-- [2023-06-30-大模型时代数据和隐私问题何解？来WAIC这场学术交流会听权威学者观点洞察](https://posts.careerengine.us/p/649e6a444841a970abf4fec3) 
+- [2023-07-02-全日程公布！你关心的大模型时代AI热点，我们请了多位AI大咖在这场WAIC论坛解答](https://posts.careerengine.us/p/64a223c5b0b3e0356e1548ba) 
 - [2023-06-30-OpenAI遭起诉：训练ChatGPT，涉嫌窃取数百万用户信息](https://posts.careerengine.us/p/649e6a444841a970abf4febb) 
-- [2023-06-28-成本直降70％的秘密：这些企业找到了一种高性价比的AI打开方式](https://posts.careerengine.us/p/649bc064bd616e52c0011c8b) 
+- [2023-06-30-大模型时代数据和隐私问题何解？来WAIC这场学术交流会听权威学者观点洞察](https://posts.careerengine.us/p/649e6a444841a970abf4fec3) 
+- [2023-06-30-大模型帮陶哲轩解题、证明数学定理：数学真要成为首个借助AI实现突破的学科了？](https://posts.careerengine.us/p/649e6a277100e3704be77397) 
+- [2023-06-30-亚马逊云科技，定义了生成式AI的生产力](https://posts.careerengine.us/p/649e6a277100e3704be7739f) 
 - [2023-06-28-具身AI的实验：一个团队的Alexa-Prize夺冠历程](https://posts.careerengine.us/p/649bc083d5caf15347363a9b) 
-- [2023-06-27-ChatGPT时代，很想问问AI这些金融难题何解？](https://posts.careerengine.us/p/649a69555762e843a7c32288) 
+- [2023-06-28-成本直降70％的秘密：这些企业找到了一种高性价比的AI打开方式](https://posts.careerengine.us/p/649bc064bd616e52c0011c8b) 
 - [2023-06-27-这场WAIC高端闭门会，我们将深度探讨大模型与智能驾驶如何碰撞](https://posts.careerengine.us/p/649a6968a3870a445ba69ee0) 
+- [2023-06-27-ChatGPT时代，很想问问AI这些金融难题何解？](https://posts.careerengine.us/p/649a69555762e843a7c32288) 
 - [2023-07-06-OpenAI开300万+年薪招「超级AI研究员」，投入20％总算力成立新部门，目标4年内「控制奥创」](https://posts.careerengine.us/p/64a63b17b6832c692eb65900) 
 - [2023-07-06-MIT韩松创业两年被英伟达收购！3位联创都是清华校友，核心技术在256KB内存训练AI](https://posts.careerengine.us/p/64a63b29187afd69b7c4be00) 
 - [2023-07-05-首个小学生AIGC课程来了！大模型使用从娃娃抓起](https://posts.careerengine.us/p/64a50a68269b326ee12fcfa1) 

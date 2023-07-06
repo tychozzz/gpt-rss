@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-06 15:00:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-06 23:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## LLM
 
@@ -7,19 +7,22 @@
 
 
 
+- [2023-07-06-文心大模型升级3.5版本，有多强？我们帮你试了试](https://posts.careerengine.us/p/64a6c0d7c7a0f65860093f10) 
+- [2023-07-06-华为云盘古大模型登Nature：秒级完成气象预测，速度快10000多倍](https://posts.careerengine.us/p/64a6c0e17019ab5896205426) 
+- [2023-07-06-67个主题，11528-个问题，全新中文大模型多任务基准CMMLU发布](https://posts.careerengine.us/p/64a6c0e90d42a958ae00d19e) 
 - [2023-07-05-安卓手机上跑15亿参数大模型，12秒不到就推理完了](https://posts.careerengine.us/p/64a4f9ac588dea1ef98e8afd) 
-- [2023-07-04-达摩院发布大模型测试基准：GPT-4勉强及格，其他模型悉数落败](https://posts.careerengine.us/p/64a3a407c40eed4505173235) 
 - [2023-07-04-挤爆服务器，北大法律大模型ChatLaw火了：直接告诉你张三怎么判](https://posts.careerengine.us/p/64a3a407c40eed450517323d) 
-- [2023-07-03-第一个超越ChatGPT的开源模型来了？网友并不买账](https://posts.careerengine.us/p/64a25a3ad33c2c411c6b092a) 
-- [2023-07-03-坚持做行业大模型，竹间智能给大模型造了一座「模型工厂」](https://posts.careerengine.us/p/64a25a3bd33c2c411c6b0932) 
-- [2023-07-03-清华系面壁智能开源中文多模态大模型VisCPM-：支持对话文图双向生成，吟诗作画能力惊艳](https://posts.careerengine.us/p/64a25a3bd33c2c411c6b093d) 
+- [2023-07-04-达摩院发布大模型测试基准：GPT-4勉强及格，其他模型悉数落败](https://posts.careerengine.us/p/64a3a407c40eed4505173235) 
 - [2023-07-03-大型语言模型与知识图谱协同研究综述：两大技术优势互补](https://posts.careerengine.us/p/64a25a5aa1e9b241856b966f) 
-- [2023-07-02-RaptorX、AlphaFold、DeepAccNet、ESMFold…你都掌握了吗？一文总结生物制药必备经典模型（一）](https://posts.careerengine.us/p/64a223dfe0e0f035cd8166b7) 
+- [2023-07-03-清华系面壁智能开源中文多模态大模型VisCPM-：支持对话文图双向生成，吟诗作画能力惊艳](https://posts.careerengine.us/p/64a25a3bd33c2c411c6b093d) 
+- [2023-07-03-坚持做行业大模型，竹间智能给大模型造了一座「模型工厂」](https://posts.careerengine.us/p/64a25a3bd33c2c411c6b0932) 
+- [2023-07-03-第一个超越ChatGPT的开源模型来了？网友并不买账](https://posts.careerengine.us/p/64a25a3ad33c2c411c6b092a) 
 - [2023-07-02-支持跨语言、人声狗吠互换，仅利用最近邻的简单语音转换模型有多神奇](https://posts.careerengine.us/p/64a223c5b0b3e0356e1548b2) 
+- [2023-07-02-RaptorX、AlphaFold、DeepAccNet、ESMFold…你都掌握了吗？一文总结生物制药必备经典模型（一）](https://posts.careerengine.us/p/64a223dfe0e0f035cd8166b7) 
 - [2023-07-01-中科院计算所推出多语言大模型「百聆」，我们已经上手聊起来了（10个邀请码）](https://posts.careerengine.us/p/649fae29b391bb5c56315e40) 
 - [2023-06-30-类GPT模型训练提速26.5％，清华朱军等人用INT4算法加速神经网络训练](https://posts.careerengine.us/p/649e6a444841a970abf4feaa) 
-- [2023-06-29-过去三个月，LLaMA系模型发展如何？指令微调的核心问题又是什么？](https://posts.careerengine.us/p/649d831d6e582e02c4aa990b) 
 - [2023-06-29-抖音团队在用的大模型服务平台「火山方舟」，我们也上手体验了一把](https://posts.careerengine.us/p/649d830118d7e102119accc2) 
+- [2023-06-29-过去三个月，LLaMA系模型发展如何？指令微调的核心问题又是什么？](https://posts.careerengine.us/p/649d831d6e582e02c4aa990b) 
 - [2023-06-28-理解指向，说出坐标，Shikra开启多模态大模型参考对话新维度](https://posts.careerengine.us/p/649bc082d5caf15347363a81) 
 - [2023-07-06-一句话搞定数据分析，浙大全新大模型数据助手，连搜集都省了](https://posts.careerengine.us/p/64a63b29187afd69b7c4be10) 
 - [2023-07-06-华为大模型登Nature正刊！审稿人：让人们重新审视预报模型的未来](https://posts.careerengine.us/p/64a63b29187afd69b7c4be08) 
