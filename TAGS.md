@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-07 06:00:18。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-07 15:00:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -137,6 +137,7 @@
 
 - [【机器之心】DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89)
 - [【量子位】文心一言APP国区可下载！免费体验120+玩法，PPT大纲Excel公式一键生成](https://posts.careerengine.us/p/64a3aad81cf43a681c3f51f3)
+- [【AI前线】手机也能用文心一言了！百度文心一言-App-正式上架-iOS-平台](https://posts.careerengine.us/p/64a7a4792869b618fe665e61)
 - [【AI前线】DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89)
 - [......【查看更多】......](/details/tags/aigc.md)
 

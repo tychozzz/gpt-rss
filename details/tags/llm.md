@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-07 06:00:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-07 15:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## LLM
 
@@ -65,7 +65,7 @@
 - [2023-07-04-阿里首提前向训练框架：让大模型深度思考，可快速定制专属模型](https://posts.careerengine.us/p/64a3b0fcca2bf00a246b52c2) 
 - [2023-07-01-中科院计算所推出多语言大模型「百聆」，我们已经上手聊起来了（10个邀请码）](https://posts.careerengine.us/p/649fae29b391bb5c56315e40) 
 - [2023-06-30-类GPT模型训练提速26.5％，清华朱军等人用INT4算法加速神经网络训练](https://posts.careerengine.us/p/649e6a444841a970abf4feaa) 
-- [2023-06-29-抖音团队在用的大模型服务平台「火山方舟」，我们也上手体验了一把](https://posts.careerengine.us/p/649d830118d7e102119accc2) 
 - [2023-06-29-过去三个月，LLaMA系模型发展如何？指令微调的核心问题又是什么？](https://posts.careerengine.us/p/649d831d6e582e02c4aa990b) 
-- [2023-06-28-瞄准-B-端！腾讯云推多款行业大模型解决方案，打造模型应用商店](https://posts.careerengine.us/p/649bc70748edc6771b6251a1) 
+- [2023-06-29-抖音团队在用的大模型服务平台「火山方舟」，我们也上手体验了一把](https://posts.careerengine.us/p/649d830118d7e102119accc2) 
 - [2023-06-28-理解指向，说出坐标，Shikra开启多模态大模型参考对话新维度](https://posts.careerengine.us/p/649bc082d5caf15347363a81) 
+- [2023-06-28-瞄准-B-端！腾讯云推多款行业大模型解决方案，打造模型应用商店](https://posts.careerengine.us/p/649bc70748edc6771b6251a1) 

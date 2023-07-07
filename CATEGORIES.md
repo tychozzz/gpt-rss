@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-07 06:00:18，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-07 15:00:13，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -8,10 +8,10 @@
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
-- [ChatGPT](#chatgpt)![](/assets/dot.png)   
+- [AI前线](#ai前线)![](/assets/dot.png)   
+- [ChatGPT](#chatgpt)  
 
 ## 文章链接
 
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2023-07-06-梯度流（Gradient-Flow）：探索通往最小值之路](https://posts.careerengine.us/p/64a6df90d5ddfe7f09a06fff) ![](/assets/new.png)  
-- [2023-07-06-CVPR-2023-|-华科&MSRA新作：基于CLIP的轻量级开放词汇语义分割架构](https://posts.careerengine.us/p/64a6df90d5ddfe7f09a07007) ![](/assets/new.png)  
-- [2023-07-06-深圳内推-|-IDEA数字经济研究院招聘算法研究员、NLP/大模型算法实习生](https://posts.careerengine.us/p/64a6dfa476d2357f5e954a1f) ![](/assets/new.png)  
+- [2023-07-06-梯度流（Gradient-Flow）：探索通往最小值之路](https://posts.careerengine.us/p/64a6df90d5ddfe7f09a06fff)  
+- [2023-07-06-CVPR-2023-|-华科&MSRA新作：基于CLIP的轻量级开放词汇语义分割架构](https://posts.careerengine.us/p/64a6df90d5ddfe7f09a07007)  
+- [2023-07-06-深圳内推-|-IDEA数字经济研究院招聘算法研究员、NLP/大模型算法实习生](https://posts.careerengine.us/p/64a6dfa476d2357f5e954a1f)  
 - [2023-07-05-ACL-2023-|-GLUE-X：基于分布外泛化的自然语言理解模型测试集](https://posts.careerengine.us/p/64a5440f61e89b0f71f6212f)  
 - [2023-07-05-全新中文大模型多任务基准CMMLU：评估中文多任务语言理解能力](https://posts.careerengine.us/p/64a54402474c130f43064618)  
 - [2023-07-05-科学计算前沿，邀你共同探讨！AI-for-Science交流会来了！](https://posts.careerengine.us/p/64a54402474c130f4306460f)  
@@ -170,26 +170,26 @@
 </summary>
 
 
-- [2023-07-06-ChatGPT联网搜索功能紧急下线！用户：钱都付了就给我看这个？](https://posts.careerengine.us/p/64a652506459526c1ee1af1a)  
+- [2023-07-07-AI-大模型竞争白热化，算力优化才是“超车点”？](https://posts.careerengine.us/p/64a7a471c0991c18d75198a7) ![](/assets/new.png)  
+- [2023-07-07-手机也能用文心一言了！百度文心一言-App-正式上架-iOS-平台](https://posts.careerengine.us/p/64a7a4792869b618fe665e61) ![](/assets/new.png)  
 - [2023-07-06-OpenAI-API-功能升级：ChatGPT-支持描述函数调用](https://posts.careerengine.us/p/64a652580c3a4b6c77e120d8)  
-- [2023-07-04-阿里首提前向训练框架：让大模型深度思考，可快速定制专属模型](https://posts.careerengine.us/p/64a3b0fcca2bf00a246b52c2)  
+- [2023-07-06-ChatGPT联网搜索功能紧急下线！用户：钱都付了就给我看这个？](https://posts.careerengine.us/p/64a652506459526c1ee1af1a)  
 - [2023-07-04-上架不到一周，Mozilla-的-AIGC-助手就被骂到停止开发！最老牌的互联网企业居然做不好大模型产品？](https://posts.careerengine.us/p/64a3b0d73008ac098ad2e51e)  
+- [2023-07-04-阿里首提前向训练框架：让大模型深度思考，可快速定制专属模型](https://posts.careerengine.us/p/64a3b0fcca2bf00a246b52c2)  
 - [2023-07-03-市值曾破10亿美元，但95％都是假用户、创始人带头造假还PUA员工，这家软银领投的独角兽公司也爆雷了….](https://posts.careerengine.us/p/64a260ad5c21705df6191913)  
 - [2023-07-02-阿里被曝转岗需先离职再入职；离职员工窃取源代码，半年狂赚-1.5-亿元；OpenAI因窃取私人数据遭集体诉讼｜AI一周资讯](https://posts.careerengine.us/p/64a259228977433bcb98bedd)  
-- [2023-07-01-剑拔弩张的-Databricks-和Snowflake，连用个Apache-Iceberg-都能掐架！](https://posts.careerengine.us/p/649fbb8bb3064b1dc8fc3d60)  
-- [2023-07-01-对未知物体进行6D追踪和3D重建，英伟达方法取得新SOTA，入选CVPR-2023](https://posts.careerengine.us/p/649fae28b391bb5c56315e38)  
-- [2023-07-01-「羊驼」们走到哪一步了？研究表明：最好的能达到GPT-4性能的68％](https://posts.careerengine.us/p/649fae29b391bb5c56315e48)  
-- [2023-07-01-中科院计算所推出多语言大模型「百聆」，我们已经上手聊起来了（10个邀请码）](https://posts.careerengine.us/p/649fae29b391bb5c56315e40)  
 - [2023-07-01-对话小鹏汽车刘毅林：城市场景的逻辑、挑战及前景](https://posts.careerengine.us/p/649fae4baab4f35d2c046fc4)  
-- [2023-06-30-用AIGC重构后的智能客服，能否淘到大模型时代的第一桶金？](https://posts.careerengine.us/p/649e69eeefec7c6f32afb6d0)  
-- [2023-06-30-AIGC-浪潮下，如何推动企业应用及落地？](https://posts.careerengine.us/p/649e69efefec7c6f32afb6d8)  
-- [2023-06-30-OpenAI遭起诉：训练ChatGPT，涉嫌窃取数百万用户信息](https://posts.careerengine.us/p/649e6a444841a970abf4febb)  
-- [2023-06-30-类GPT模型训练提速26.5％，清华朱军等人用INT4算法加速神经网络训练](https://posts.careerengine.us/p/649e6a444841a970abf4feaa)  
-- [2023-06-30-大模型时代数据和隐私问题何解？来WAIC这场学术交流会听权威学者观点洞察](https://posts.careerengine.us/p/649e6a444841a970abf4fec3)  
-- [2023-06-30-大模型帮陶哲轩解题、证明数学定理：数学真要成为首个借助AI实现突破的学科了？](https://posts.careerengine.us/p/649e6a277100e3704be77397)  
+- [2023-07-01-中科院计算所推出多语言大模型「百聆」，我们已经上手聊起来了（10个邀请码）](https://posts.careerengine.us/p/649fae29b391bb5c56315e40)  
+- [2023-07-01-「羊驼」们走到哪一步了？研究表明：最好的能达到GPT-4性能的68％](https://posts.careerengine.us/p/649fae29b391bb5c56315e48)  
+- [2023-07-01-对未知物体进行6D追踪和3D重建，英伟达方法取得新SOTA，入选CVPR-2023](https://posts.careerengine.us/p/649fae28b391bb5c56315e38)  
+- [2023-07-01-剑拔弩张的-Databricks-和Snowflake，连用个Apache-Iceberg-都能掐架！](https://posts.careerengine.us/p/649fbb8bb3064b1dc8fc3d60)  
 - [2023-06-30-亚马逊云科技，定义了生成式AI的生产力](https://posts.careerengine.us/p/649e6a277100e3704be7739f)  
-- [2023-06-29-OpenAI-又赢麻了！谷歌-DeepMind-创始人刚称-Gemini-能碾压-GPT-4，OpenAI-的挖人大计就出炉了](https://posts.careerengine.us/p/649d1842d357e566b81916fd)  
-- [2023-06-29-英伟达H100用11分钟训完GPT-3，PyTorch创始人：不要只看时间](https://posts.careerengine.us/p/649d830118d7e102119accca)  
+- [2023-06-30-大模型帮陶哲轩解题、证明数学定理：数学真要成为首个借助AI实现突破的学科了？](https://posts.careerengine.us/p/649e6a277100e3704be77397)  
+- [2023-06-30-大模型时代数据和隐私问题何解？来WAIC这场学术交流会听权威学者观点洞察](https://posts.careerengine.us/p/649e6a444841a970abf4fec3)  
+- [2023-06-30-类GPT模型训练提速26.5％，清华朱军等人用INT4算法加速神经网络训练](https://posts.careerengine.us/p/649e6a444841a970abf4feaa)  
+- [2023-06-30-OpenAI遭起诉：训练ChatGPT，涉嫌窃取数百万用户信息](https://posts.careerengine.us/p/649e6a444841a970abf4febb)  
+- [2023-06-30-AIGC-浪潮下，如何推动企业应用及落地？](https://posts.careerengine.us/p/649e69efefec7c6f32afb6d8)  
+- [2023-06-30-用AIGC重构后的智能客服，能否淘到大模型时代的第一桶金？](https://posts.careerengine.us/p/649e69eeefec7c6f32afb6d0)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -201,8 +201,8 @@
 </summary>
 
 
-- [2023-07-06-Code-interpreter-is-now-rolling-out-in-beta-on-web-July-6](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_398fb5df55) ![](/assets/new.png)  
-- [2023-07-03-Browsing-is-temporarily-disabled-July-3](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_91d1350d34) ![](/assets/new.png)  
+- [2023-07-06-Code-interpreter-is-now-rolling-out-in-beta-on-web-July-6](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_398fb5df55)  
+- [2023-07-03-Browsing-is-temporarily-disabled-July-3](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_91d1350d34)  
 - [2023-06-22-Browsing-and-search-on-mobile-June-22](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_b444a710ea)  
 - [2023-05-24-iOS-app-available-in-more-countries,-shared-links-in-alpha,-Bing-Plugin,-disable-history-on-iOS-May-24](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_461971b989)  
 - [2023-05-12-Web-browsing-and-Plugins-are-now-rolling-out-in-beta-May-12](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9894d7b0a4)  
