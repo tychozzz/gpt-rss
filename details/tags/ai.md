@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-08 15:00:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-08 21:00:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -50,6 +50,7 @@
 - [2022-04-06-腾讯AI-Lab披露可信AI研究进展，解读20余项原创工作](https://posts.careerengine.us/p/62caad346192fa60dfb10248) 
 - [2022-01-18-腾讯发布国内首份可解释-AI-报告：详解打开算法黑箱的理念与实践｜附报告下载](https://posts.careerengine.us/p/61e9363db8def616d683d0fc) 
 - [2020-09-25-腾讯发布业内首个AI安全攻击矩阵，最全「排雷图」拿走不谢](https://posts.careerengine.us/p/62cab0de86f8106f0c1c8409) 
+- [2023-07-08-最高年薪近56万！猎聘重磅发布2023最新AIGC就业趋势大数据报告](https://posts.careerengine.us/p/64a935e98c2020792cf8633e) 
 - [2023-07-05-科学计算前沿，邀你共同探讨！AI-for-Science交流会来了！](https://posts.careerengine.us/p/64a54402474c130f4306460f) 
 - [2023-06-27-揭开AI神秘面纱：精准识别机器生成文本，捍卫人工创作的最后防线！](https://posts.careerengine.us/p/649a75e6a7a52c7fa076495a) 
 - [2022-12-28-AIGC用于智能写作的技术综述](https://www.52nlp.cn/aigc%e7%94%a8%e4%ba%8e%e6%99%ba%e8%83%bd%e5%86%99%e4%bd%9c%e7%9a%84%e6%8a%80%e6%9c%af%e7%bb%bc%e8%bf%b0) 
