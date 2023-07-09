@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-09 15:00:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-09 21:00:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## GPT
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-07-09-ChatGPT神器Code-Interpreter终于开放，到底怎么用？这里有一份保姆级教程](https://posts.careerengine.us/p/64aa87f8fd87205cbcc53489) 
 - [2023-07-04-只有GPT-4可以自我改进，GPT-3.5都不行，MIT&微软代码生成实验新发现](https://posts.careerengine.us/p/64a3a407c40eed4505173245) 
 - [2023-07-01-「羊驼」们走到哪一步了？研究表明：最好的能达到GPT-4性能的68％](https://posts.careerengine.us/p/649fae29b391bb5c56315e48) 
 - [2023-06-29-英伟达H100用11分钟训完GPT-3，PyTorch创始人：不要只看时间](https://posts.careerengine.us/p/649d830118d7e102119accca) 

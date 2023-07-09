@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-09 15:00:23，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-09 21:00:23，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-07-08-领航未来，探索AI无尽前沿：2023年WAIC云帆奖得主揭晓](https://posts.careerengine.us/p/64a8f15ae2b63c3497eeb19a)  
-- [2023-07-08-大模型时代，解析周志华教授的「学件」思想：小模型也可做大事](https://posts.careerengine.us/p/64a8f15ae2b63c3497eeb18e)  
-- [2023-07-08-清华NLP实验室孙茂松教授招聘大模型方向博士、博士后、科研助理](https://posts.careerengine.us/p/64a8f17356a2e2354e54ec82)  
-- [2023-07-08-中科院、阿里出品FF3D，创建自定义风格化3D人像只需三分钟](https://posts.careerengine.us/p/64a8f17356a2e2354e54ec78)  
+- [2023-07-09-ChatGPT神器Code-Interpreter终于开放，到底怎么用？这里有一份保姆级教程](https://posts.careerengine.us/p/64aa87f8fd87205cbcc53489) ![](/assets/new.png)  
+- [2023-07-09-集中展示、探讨大模型年度热点，2023-WAIC-AI-开发者论坛成功举办](https://posts.careerengine.us/p/64aa88042888d65d530fd9f0) ![](/assets/new.png)  
+- [2023-07-09-OmegaFold、EquBind、RELATION、BIMODAL…你都掌握了吗？一文总结生物制药必备经典模型（二）](https://posts.careerengine.us/p/64aa88052888d65d530fda07) ![](/assets/new.png)  
+- [2023-07-09-给机器下「遗忘咒」？谷歌发起首个机器遗忘挑战赛](https://posts.careerengine.us/p/64aa88110dded95d9df53a98) ![](/assets/new.png)  
+- [2023-07-09-能抓取玻璃碎片、水下透明物，清华提出通用型透明物体抓取框架，成功率极高](https://posts.careerengine.us/p/64aa88110dded95d9df53aa0) ![](/assets/new.png)  
 - [2023-07-08-大语言模型的视觉天赋：GPT也能通过上下文学习解决视觉任务](https://posts.careerengine.us/p/64a8f17356a2e2354e54ec6f)  
-- [2023-07-07-GPT-4使用混合大模型？研究证明MoE+指令调优确实让大模型性能超群](https://posts.careerengine.us/p/64a7edad2d4f975cfe95c534)  
-- [2023-07-07-倒计时1天！来WAIC-AI开发者论坛学习大模型时代的AI热点主题](https://posts.careerengine.us/p/64a7eda453c50e5c86e11569)  
-- [2023-07-07-不作诗，只做事：华为盘古3.0，给大模型落地定了个调](https://posts.careerengine.us/p/64a7eda453c50e5c86e11571)  
-- [2023-07-07-一天之内，OpenAI有三件大事发生](https://posts.careerengine.us/p/64a7eda453c50e5c86e11579)  
-- [2023-07-07-内测了下阿里的AI画图，带来了点大厂的震撼](https://posts.careerengine.us/p/64a7ed9b1282e25c581a4838)  
+- [2023-07-08-中科院、阿里出品FF3D，创建自定义风格化3D人像只需三分钟](https://posts.careerengine.us/p/64a8f17356a2e2354e54ec78)  
+- [2023-07-08-清华NLP实验室孙茂松教授招聘大模型方向博士、博士后、科研助理](https://posts.careerengine.us/p/64a8f17356a2e2354e54ec82)  
+- [2023-07-08-大模型时代，解析周志华教授的「学件」思想：小模型也可做大事](https://posts.careerengine.us/p/64a8f15ae2b63c3497eeb18e)  
+- [2023-07-08-领航未来，探索AI无尽前沿：2023年WAIC云帆奖得主揭晓](https://posts.careerengine.us/p/64a8f15ae2b63c3497eeb19a)  
 - [2023-07-07-刚刚，国内的自主智能体OmBot发布了](https://posts.careerengine.us/p/64a7ed9b1282e25c581a4840)  
-- [2023-07-06-文心大模型升级3.5版本，有多强？我们帮你试了试](https://posts.careerengine.us/p/64a6c0d7c7a0f65860093f10)  
-- [2023-07-06-微软新出热乎论文：Transformer扩展到10亿token](https://posts.careerengine.us/p/64a6c0d8c7a0f65860093f18)  
-- [2023-07-06-华为云盘古大模型登Nature：秒级完成气象预测，速度快10000多倍](https://posts.careerengine.us/p/64a6c0e17019ab5896205426)  
-- [2023-07-06-四年、投入20％计算资源，OpenAI成立专门团队构建解决对齐问题的超强AI](https://posts.careerengine.us/p/64a6c0e17019ab589620542e)  
+- [2023-07-07-内测了下阿里的AI画图，带来了点大厂的震撼](https://posts.careerengine.us/p/64a7ed9b1282e25c581a4838)  
+- [2023-07-07-一天之内，OpenAI有三件大事发生](https://posts.careerengine.us/p/64a7eda453c50e5c86e11579)  
+- [2023-07-07-不作诗，只做事：华为盘古3.0，给大模型落地定了个调](https://posts.careerengine.us/p/64a7eda453c50e5c86e11571)  
+- [2023-07-07-倒计时1天！来WAIC-AI开发者论坛学习大模型时代的AI热点主题](https://posts.careerengine.us/p/64a7eda453c50e5c86e11569)  
+- [2023-07-07-GPT-4使用混合大模型？研究证明MoE+指令调优确实让大模型性能超群](https://posts.careerengine.us/p/64a7edad2d4f975cfe95c534)  
 - [2023-07-06-67个主题，11528-个问题，全新中文大模型多任务基准CMMLU发布](https://posts.careerengine.us/p/64a6c0e90d42a958ae00d19e)  
-- [2023-07-05-「分割一切」视频版来了：点几下鼠标，动态的人、物就圈出来了](https://posts.careerengine.us/p/64a4f9d09dc9b11f6100e21b)  
-- [2023-07-05-上交大&上海AI-lab研发胸部X-ray疾病诊断基础模型，成果入选Nature子刊](https://posts.careerengine.us/p/64a4f9ac588dea1ef98e8b05)  
-- [2023-07-05-安卓手机上跑15亿参数大模型，12秒不到就推理完了](https://posts.careerengine.us/p/64a4f9ac588dea1ef98e8afd)  
-- [2023-07-05-大模型自主智能体爆火，OpenAI也在暗中观察、发力，这是内部人的分析博客](https://posts.careerengine.us/p/64a4f9ac588dea1ef98e8b17)  
+- [2023-07-06-四年、投入20％计算资源，OpenAI成立专门团队构建解决对齐问题的超强AI](https://posts.careerengine.us/p/64a6c0e17019ab589620542e)  
+- [2023-07-06-华为云盘古大模型登Nature：秒级完成气象预测，速度快10000多倍](https://posts.careerengine.us/p/64a6c0e17019ab5896205426)  
+- [2023-07-06-微软新出热乎论文：Transformer扩展到10亿token](https://posts.careerengine.us/p/64a6c0d8c7a0f65860093f18)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2023-07-09-讯飞华为官宣联手：国产大模型只有基于自主创新算力底座才有大未来](https://posts.careerengine.us/p/64aa39bd90e28b23bea55588) ![](/assets/new.png)  
-- [2023-07-09-「5年内，人类程序员没了」，Stability-AI老板大胆预测，一众大佬狂怼：大错特错，都懒得解释](https://posts.careerengine.us/p/64aa39bd90e28b23bea55590) ![](/assets/new.png)  
-- [2023-07-09-谷歌AI正在吞食一切！爬取所有公开内容用于训练AI，隐私政策已更新](https://posts.careerengine.us/p/64aa39c6d9cf0623e4f565f3) ![](/assets/new.png)  
-- [2023-07-09-TF106报名-|-技术团队成长的关键因素是什么？](https://posts.careerengine.us/p/64aa39d6777ad6242e90d870) ![](/assets/new.png)  
-- [2023-07-09-爆火ChatGPT代码解释器食用指南，来了](https://posts.careerengine.us/p/64aa39d6777ad6242e90d868) ![](/assets/new.png)  
+- [2023-07-09-讯飞华为官宣联手：国产大模型只有基于自主创新算力底座才有大未来](https://posts.careerengine.us/p/64aa39bd90e28b23bea55588)  
+- [2023-07-09-「5年内，人类程序员没了」，Stability-AI老板大胆预测，一众大佬狂怼：大错特错，都懒得解释](https://posts.careerengine.us/p/64aa39bd90e28b23bea55590)  
+- [2023-07-09-谷歌AI正在吞食一切！爬取所有公开内容用于训练AI，隐私政策已更新](https://posts.careerengine.us/p/64aa39c6d9cf0623e4f565f3)  
+- [2023-07-09-TF106报名-|-技术团队成长的关键因素是什么？](https://posts.careerengine.us/p/64aa39d6777ad6242e90d870)  
+- [2023-07-09-爆火ChatGPT代码解释器食用指南，来了](https://posts.careerengine.us/p/64aa39d6777ad6242e90d868)  
 - [2023-07-08-孙茂松实验室缺人啦！专攻大模型方向，招聘长期有效](https://posts.careerengine.us/p/64a8eb0554846f16461b5593)  
 - [2023-07-08-克苏鲁高清AI视频爆火，背后模型已开源，Demo在线可玩，前特斯拉AI总监也来围观](https://posts.careerengine.us/p/64a8eb0554846f16461b559b)  
 - [2023-07-08-0代码微调大模型火了，只需5步，成本低至150块](https://posts.careerengine.us/p/64a8eae89223ea1603b51e96)  

@@ -1,23 +1,24 @@
-:alarm_clock: 更新时间: 2023-07-09 15:00:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-09 21:00:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2023-07-09-能抓取玻璃碎片、水下透明物，清华提出通用型透明物体抓取框架，成功率极高](https://posts.careerengine.us/p/64aa88110dded95d9df53aa0) 
 - [2023-07-07-刚刚，国内的自主智能体OmBot发布了](https://posts.careerengine.us/p/64a7ed9b1282e25c581a4840) 
 - [2023-07-05-「分割一切」视频版来了：点几下鼠标，动态的人、物就圈出来了](https://posts.careerengine.us/p/64a4f9d09dc9b11f6100e21b) 
-- [2023-07-04-你大脑中的画面，现在可以高清还原了](https://posts.careerengine.us/p/64a3a407c40eed4505173258) 
 - [2023-07-04-华为在手机上，率先实现本地端自然语言搜图功能](https://posts.careerengine.us/p/64a3a407c40eed450517324e) 
+- [2023-07-04-你大脑中的画面，现在可以高清还原了](https://posts.careerengine.us/p/64a3a407c40eed4505173258) 
 - [2023-07-03-13万个注释神经元，5300万个突触，普林斯顿大学等发布首个完整「成年果蝇」大脑连接组](https://posts.careerengine.us/p/64a25a3ad33c2c411c6b0922) 
 - [2023-07-02-推特「崩了」：不登录不让看、推文数量严格设上限，马斯克反复横跳](https://posts.careerengine.us/p/64a223c5b0b3e0356e1548c2) 
-- [2023-07-01-对话小鹏汽车刘毅林：城市场景的逻辑、挑战及前景](https://posts.careerengine.us/p/649fae4baab4f35d2c046fc4) 
 - [2023-07-01-对未知物体进行6D追踪和3D重建，英伟达方法取得新SOTA，入选CVPR-2023](https://posts.careerengine.us/p/649fae28b391bb5c56315e38) 
-- [2023-06-29-不到1000步微调，将LLaMA上下文扩展到32K，田渊栋团队最新研究](https://posts.careerengine.us/p/649d830118d7e102119accd2) 
+- [2023-07-01-对话小鹏汽车刘毅林：城市场景的逻辑、挑战及前景](https://posts.careerengine.us/p/649fae4baab4f35d2c046fc4) 
 - [2023-06-29-在对比学习中引入显式跨图像相似度建模能力，中南大学显著提高无监督表征的泛化能力](https://posts.careerengine.us/p/649d831d6e582e02c4aa9903) 
+- [2023-06-29-不到1000步微调，将LLaMA上下文扩展到32K，田渊栋团队最新研究](https://posts.careerengine.us/p/649d830118d7e102119accd2) 
 - [2023-06-28-北工大校友Cheng-Zhang获SIGGRAPH最佳博士论文奖](https://posts.careerengine.us/p/649bc064bd616e52c0011c7f) 
-- [2023-06-27-当医学插上人工智能的翅膀](https://posts.careerengine.us/p/649a697dfba2fd44a9747427) 
 - [2023-06-27-四插槽庞大体积、功耗最高600W，英伟达RTX-4090-Ti谍照再现身](https://posts.careerengine.us/p/649a6969a3870a445ba69ee8) 
+- [2023-06-27-当医学插上人工智能的翅膀](https://posts.careerengine.us/p/649a697dfba2fd44a9747427) 
 - [2023-07-09-TF106报名-|-技术团队成长的关键因素是什么？](https://posts.careerengine.us/p/64aa39d6777ad6242e90d870) 
 - [2023-07-07-推特竞品上线7小时用户破1000万，马斯克：竞争可以，但不要作弊！](https://posts.careerengine.us/p/64a806a82e843070bfbdcf8a) 
 - [2023-07-06-挑战马斯克“农民”弟弟！上海交大工科博导带队种菜，三个月从入门到产量翻番](https://posts.careerengine.us/p/64a63b17b6832c692eb658f8) 
