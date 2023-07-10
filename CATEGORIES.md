@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-10 18:00:15，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-10 21:00:17，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-07-10-思考一下，联邦学习可以训练大语言模型吗？](https://posts.careerengine.us/p/64abca84b3cf112692466276) ![](/assets/new.png)  
-- [2023-07-10-SIGGRAPH-2023论文奖公布，山大、港大获奖，北大、腾讯光子获提名](https://posts.careerengine.us/p/64abca84b3cf11269246627e) ![](/assets/new.png)  
-- [2023-07-10-苹果、俄勒冈州立提出AutoFocusFormer：摆脱传统栅格，采用自适应下采样的图像分割](https://posts.careerengine.us/p/64abca8f9679e226d11cfb2d) ![](/assets/new.png)  
-- [2023-07-10-将上下文长度扩展到256k，无限上下文版本的LongLLaMA来了？](https://posts.careerengine.us/p/64abca8f9679e226d11cfb1e) ![](/assets/new.png)  
-- [2023-07-10-对话蚂蚁韦韬：将用密态天空计算推动可信隐私计算应用的平等普惠](https://posts.careerengine.us/p/64abcb90bb111e2cab7702fe) ![](/assets/new.png)  
+- [2023-07-10-思考一下，联邦学习可以训练大语言模型吗？](https://posts.careerengine.us/p/64abca84b3cf112692466276)  
+- [2023-07-10-SIGGRAPH-2023论文奖公布，山大、港大获奖，北大、腾讯光子获提名](https://posts.careerengine.us/p/64abca84b3cf11269246627e)  
+- [2023-07-10-苹果、俄勒冈州立提出AutoFocusFormer：摆脱传统栅格，采用自适应下采样的图像分割](https://posts.careerengine.us/p/64abca8f9679e226d11cfb2d)  
+- [2023-07-10-将上下文长度扩展到256k，无限上下文版本的LongLLaMA来了？](https://posts.careerengine.us/p/64abca8f9679e226d11cfb1e)  
+- [2023-07-10-对话蚂蚁韦韬：将用密态天空计算推动可信隐私计算应用的平等普惠](https://posts.careerengine.us/p/64abcb90bb111e2cab7702fe)  
 - [2023-07-09-能抓取玻璃碎片、水下透明物，清华提出通用型透明物体抓取框架，成功率极高](https://posts.careerengine.us/p/64aa88110dded95d9df53aa0)  
 - [2023-07-09-给机器下「遗忘咒」？谷歌发起首个机器遗忘挑战赛](https://posts.careerengine.us/p/64aa88110dded95d9df53a98)  
 - [2023-07-09-OmegaFold、EquBind、RELATION、BIMODAL…你都掌握了吗？一文总结生物制药必备经典模型（二）](https://posts.careerengine.us/p/64aa88052888d65d530fda07)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2023-07-09-讯飞华为官宣联手：国产大模型只有基于自主创新算力底座才有大未来](https://posts.careerengine.us/p/64aa39bd90e28b23bea55588)  
-- [2023-07-09-「5年内，人类程序员没了」，Stability-AI老板大胆预测，一众大佬狂怼：大错特错，都懒得解释](https://posts.careerengine.us/p/64aa39bd90e28b23bea55590)  
-- [2023-07-09-谷歌AI正在吞食一切！爬取所有公开内容用于训练AI，隐私政策已更新](https://posts.careerengine.us/p/64aa39c6d9cf0623e4f565f3)  
-- [2023-07-09-TF106报名-|-技术团队成长的关键因素是什么？](https://posts.careerengine.us/p/64aa39d6777ad6242e90d870)  
+- [2023-07-10-李飞飞「具身智能」新成果！机器人接入大模型直接听懂人话，0预训练就能完成复杂指令](https://posts.careerengine.us/p/64abe66457815750e00a33c8) ![](/assets/new.png)  
+- [2023-07-10-探秘WAIC镇馆之宝：AI“钓鱼”AI，人类看戏](https://posts.careerengine.us/p/64abe66d3af4c150fe1a589c) ![](/assets/new.png)  
+- [2023-07-10-陈丹琦ACL学术报告来了！详解大模型「外挂」数据库7大方向3大挑战，3小时干货满满](https://posts.careerengine.us/p/64abe68239ec705179553ca8) ![](/assets/new.png)  
+- [2023-07-10-「目前最好的文生视频AI」来了！做广告、电影都不在话下，网友：很丝滑](https://posts.careerengine.us/p/64abe68d73207851a882308d) ![](/assets/new.png)  
+- [2023-07-10-谷歌医疗版ChatGPT已在诊所实测！可生成诊断做总结，多个指标和真人医生相当](https://posts.careerengine.us/p/64abe68e73207851a8823095) ![](/assets/new.png)  
+- [2023-07-10-12页线性代数笔记登GitHub热榜，还获得了Gilbert-Strang大神亲笔题词](https://posts.careerengine.us/p/64abe69a71562951d863c399) ![](/assets/new.png)  
 - [2023-07-09-爆火ChatGPT代码解释器食用指南，来了](https://posts.careerengine.us/p/64aa39d6777ad6242e90d868)  
-- [2023-07-08-孙茂松实验室缺人啦！专攻大模型方向，招聘长期有效](https://posts.careerengine.us/p/64a8eb0554846f16461b5593)  
-- [2023-07-08-克苏鲁高清AI视频爆火，背后模型已开源，Demo在线可玩，前特斯拉AI总监也来围观](https://posts.careerengine.us/p/64a8eb0554846f16461b559b)  
-- [2023-07-08-0代码微调大模型火了，只需5步，成本低至150块](https://posts.careerengine.us/p/64a8eae89223ea1603b51e96)  
-- [2023-07-08-ChatGPT被起诉索赔30亿！「未经允许收集并泄露个人信息」，16人匿名状告OpenAI](https://posts.careerengine.us/p/64a8eae79223ea1603b51e8c)  
-- [2023-07-08-阿里云不再把开发大模型当OKR，MaaS第一阶段竞争结束了](https://posts.careerengine.us/p/64a8ead14036101549c851c1)  
+- [2023-07-09-TF106报名-|-技术团队成长的关键因素是什么？](https://posts.careerengine.us/p/64aa39d6777ad6242e90d870)  
+- [2023-07-09-谷歌AI正在吞食一切！爬取所有公开内容用于训练AI，隐私政策已更新](https://posts.careerengine.us/p/64aa39c6d9cf0623e4f565f3)  
+- [2023-07-09-「5年内，人类程序员没了」，Stability-AI老板大胆预测，一众大佬狂怼：大错特错，都懒得解释](https://posts.careerengine.us/p/64aa39bd90e28b23bea55590)  
+- [2023-07-09-讯飞华为官宣联手：国产大模型只有基于自主创新算力底座才有大未来](https://posts.careerengine.us/p/64aa39bd90e28b23bea55588)  
 - [2023-07-08-比AlphaFold2快一个数量级！蛋白质通用大模型来了，13个任务取得SOTA丨百图生科&清华](https://posts.careerengine.us/p/64a8ead14036101549c851cc)  
-- [2023-07-07-商汤日日新大模型90天大升级！CEO现场整活，主打突破想象力](https://posts.careerengine.us/p/64a8069653f537706e406cb4)  
-- [2023-07-07-国产7nm全功能GPU上海发布！还有大模型加速卡、AIGC大模型一体机等6款新品](https://posts.careerengine.us/p/64a8069653f537706e406cac)  
-- [2023-07-07-华为最新大模型来了！盘古3.0问世，千亿参数规模3万亿tokens，放话「不作诗只做事」](https://posts.careerengine.us/p/64a8069e88f0b97096d8987c)  
-- [2023-07-07-1000000000！微软改进Transformer一次能记住这么多token了](https://posts.careerengine.us/p/64a806a82e843070bfbdcf82)  
-- [2023-07-07-推特竞品上线7小时用户破1000万，马斯克：竞争可以，但不要作弊！](https://posts.careerengine.us/p/64a806a82e843070bfbdcf8a)  
+- [2023-07-08-阿里云不再把开发大模型当OKR，MaaS第一阶段竞争结束了](https://posts.careerengine.us/p/64a8ead14036101549c851c1)  
+- [2023-07-08-ChatGPT被起诉索赔30亿！「未经允许收集并泄露个人信息」，16人匿名状告OpenAI](https://posts.careerengine.us/p/64a8eae79223ea1603b51e8c)  
+- [2023-07-08-0代码微调大模型火了，只需5步，成本低至150块](https://posts.careerengine.us/p/64a8eae89223ea1603b51e96)  
+- [2023-07-08-克苏鲁高清AI视频爆火，背后模型已开源，Demo在线可玩，前特斯拉AI总监也来围观](https://posts.careerengine.us/p/64a8eb0554846f16461b559b)  
+- [2023-07-08-孙茂松实验室缺人啦！专攻大模型方向，招聘长期有效](https://posts.careerengine.us/p/64a8eb0554846f16461b5593)  
 - [2023-07-07-德扑AI之父转投OpenAI！Science封面研究大牛，顶会拿到手软](https://posts.careerengine.us/p/64a806b0b5947770fe21c9e5)  
-- [2023-07-06-华为大模型登Nature正刊！审稿人：让人们重新审视预报模型的未来](https://posts.careerengine.us/p/64a63b29187afd69b7c4be08)  
-- [2023-07-06-MIT韩松创业两年被英伟达收购！3位联创都是清华校友，核心技术在256KB内存训练AI](https://posts.careerengine.us/p/64a63b29187afd69b7c4be00)  
-- [2023-07-06-一句话搞定数据分析，浙大全新大模型数据助手，连搜集都省了](https://posts.careerengine.us/p/64a63b29187afd69b7c4be10)  
+- [2023-07-07-推特竞品上线7小时用户破1000万，马斯克：竞争可以，但不要作弊！](https://posts.careerengine.us/p/64a806a82e843070bfbdcf8a)  
+- [2023-07-07-1000000000！微软改进Transformer一次能记住这么多token了](https://posts.careerengine.us/p/64a806a82e843070bfbdcf82)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
