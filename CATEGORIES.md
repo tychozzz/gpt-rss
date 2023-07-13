@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-12 21:00:14，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-13 12:00:34，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-07-12-彻底开源，免费商用，上海AI实验室把大模型门槛打下来](https://posts.careerengine.us/p/64ae8322055720388bd7b0d6) ![](/assets/new.png)  
-- [2023-07-12-ChatGPT最强竞品Claude2来了：代码、GRE成绩超越GPT-4，免费可用](https://posts.careerengine.us/p/64ae832be88df038af395b46) ![](/assets/new.png)  
-- [2023-07-12-Keras-3.0预览版迎来重大更新：适用于TensorFlow、JAX和PyTorch](https://posts.careerengine.us/p/64ae833de6d02a38d64065ff) ![](/assets/new.png)  
-- [2023-07-12-性价比超H100，英特尔发布中国版Gaudi2-AI加速卡](https://posts.careerengine.us/p/64ae833de6d02a38d6406607) ![](/assets/new.png)  
-- [2023-07-12-3D-AI生成出新玩法了：无需数小时，只要45秒，单张图片即可生成-3D模型](https://posts.careerengine.us/p/64ae83491dbf7b3968239220) ![](/assets/new.png)  
-- [2023-07-11-KDD-2023-|-第四范式开发用于分子性质预测的生成式3D预训练模型](https://posts.careerengine.us/p/64acddcb814b0a5a65975817)  
-- [2023-07-11-FudanNLP团队最新成果，借助RLHF实现人类对齐的MOSS-RLHF来了](https://posts.careerengine.us/p/64acddbec7f19a5a3b9bdb98)  
-- [2023-07-11-ACL-2023奖项公布：3篇最佳论文、39篇杰出论文，多家国内机构上榜](https://posts.careerengine.us/p/64acddbec7f19a5a3b9bdb80)  
-- [2023-07-11-终极「揭秘」：GPT-4模型架构、训练成本、数据集信息都被扒出来了](https://posts.careerengine.us/p/64acddb2568d055a071fa443)  
+- [2023-07-13-马斯克高调官宣AI公司，华人成创始团队主力：吴宇怀、Jimmy-Ba、杨格、张国栋、戴子航加盟](https://posts.careerengine.us/p/64af748579f23025a648fe5b) ![](/assets/new.png)  
+- [2023-07-13-WAIC-2023-|-新加坡国立大学尤洋教授-：AI大模型的挑战与系统优化](https://posts.careerengine.us/p/64af7492a0f1fc25dd570c62) ![](/assets/new.png)  
+- [2023-07-13-登顶刊Cell：中国科学家领衔发布猕猴大脑皮层细胞三维「地图」](https://posts.careerengine.us/p/64af7492a0f1fc25dd570c5a) ![](/assets/new.png)  
+- [2023-07-13-击败Stable-Diffusion-XL，商汤绘画大模型出手即大作，论文公开、免费试玩](https://posts.careerengine.us/p/64af749f09b1bc260eb34949) ![](/assets/new.png)  
+- [2023-07-13-MIT打造实验科学家的大模型助手，语音聊天就能开展实验](https://posts.careerengine.us/p/64af749f09b1bc260eb34940) ![](/assets/new.png)  
+- [2023-07-13-大家都在吐槽GPT-4变「笨」了，可能是架构重新设计惹的祸](https://posts.careerengine.us/p/64af74ad7d9f3e26505faf6c) ![](/assets/new.png)  
+- [2023-07-12-3D-AI生成出新玩法了：无需数小时，只要45秒，单张图片即可生成-3D模型](https://posts.careerengine.us/p/64ae83491dbf7b3968239220)  
+- [2023-07-12-性价比超H100，英特尔发布中国版Gaudi2-AI加速卡](https://posts.careerengine.us/p/64ae833de6d02a38d6406607)  
+- [2023-07-12-Keras-3.0预览版迎来重大更新：适用于TensorFlow、JAX和PyTorch](https://posts.careerengine.us/p/64ae833de6d02a38d64065ff)  
+- [2023-07-12-ChatGPT最强竞品Claude2来了：代码、GRE成绩超越GPT-4，免费可用](https://posts.careerengine.us/p/64ae832be88df038af395b46)  
+- [2023-07-12-彻底开源，免费商用，上海AI实验室把大模型门槛打下来](https://posts.careerengine.us/p/64ae8322055720388bd7b0d6)  
 - [2023-07-11-烧烤店主、断网大叔都能用，中国移动打造出了最接地气的行业大模型](https://posts.careerengine.us/p/64acddb2568d055a071fa44b)  
-- [2023-07-10-思考一下，联邦学习可以训练大语言模型吗？](https://posts.careerengine.us/p/64abca84b3cf112692466276)  
-- [2023-07-10-SIGGRAPH-2023论文奖公布，山大、港大获奖，北大、腾讯光子获提名](https://posts.careerengine.us/p/64abca84b3cf11269246627e)  
-- [2023-07-10-苹果、俄勒冈州立提出AutoFocusFormer：摆脱传统栅格，采用自适应下采样的图像分割](https://posts.careerengine.us/p/64abca8f9679e226d11cfb2d)  
-- [2023-07-10-将上下文长度扩展到256k，无限上下文版本的LongLLaMA来了？](https://posts.careerengine.us/p/64abca8f9679e226d11cfb1e)  
+- [2023-07-11-终极「揭秘」：GPT-4模型架构、训练成本、数据集信息都被扒出来了](https://posts.careerengine.us/p/64acddb2568d055a071fa443)  
+- [2023-07-11-ACL-2023奖项公布：3篇最佳论文、39篇杰出论文，多家国内机构上榜](https://posts.careerengine.us/p/64acddbec7f19a5a3b9bdb80)  
+- [2023-07-11-FudanNLP团队最新成果，借助RLHF实现人类对齐的MOSS-RLHF来了](https://posts.careerengine.us/p/64acddbec7f19a5a3b9bdb98)  
+- [2023-07-11-KDD-2023-|-第四范式开发用于分子性质预测的生成式3D预训练模型](https://posts.careerengine.us/p/64acddcb814b0a5a65975817)  
 - [2023-07-10-对话蚂蚁韦韬：将用密态天空计算推动可信隐私计算应用的平等普惠](https://posts.careerengine.us/p/64abcb90bb111e2cab7702fe)  
-- [2023-07-09-能抓取玻璃碎片、水下透明物，清华提出通用型透明物体抓取框架，成功率极高](https://posts.careerengine.us/p/64aa88110dded95d9df53aa0)  
-- [2023-07-09-给机器下「遗忘咒」？谷歌发起首个机器遗忘挑战赛](https://posts.careerengine.us/p/64aa88110dded95d9df53a98)  
-- [2023-07-09-OmegaFold、EquBind、RELATION、BIMODAL…你都掌握了吗？一文总结生物制药必备经典模型（二）](https://posts.careerengine.us/p/64aa88052888d65d530fda07)  
-- [2023-07-09-集中展示、探讨大模型年度热点，2023-WAIC-AI-开发者论坛成功举办](https://posts.careerengine.us/p/64aa88042888d65d530fd9f0)  
-- [2023-07-09-ChatGPT神器Code-Interpreter终于开放，到底怎么用？这里有一份保姆级教程](https://posts.careerengine.us/p/64aa87f8fd87205cbcc53489)  
+- [2023-07-10-将上下文长度扩展到256k，无限上下文版本的LongLLaMA来了？](https://posts.careerengine.us/p/64abca8f9679e226d11cfb1e)  
+- [2023-07-10-苹果、俄勒冈州立提出AutoFocusFormer：摆脱传统栅格，采用自适应下采样的图像分割](https://posts.careerengine.us/p/64abca8f9679e226d11cfb2d)  
+- [2023-07-10-SIGGRAPH-2023论文奖公布，山大、港大获奖，北大、腾讯光子获提名](https://posts.careerengine.us/p/64abca84b3cf11269246627e)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
