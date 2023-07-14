@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-14 21:00:17，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-15 06:00:16，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,12 +21,12 @@
 </summary>
 
 
-- [2023-07-14-京东大模型：「知识」就是力量](https://posts.careerengine.us/p/64b1374ca6643b4b55c21ad2) ![](/assets/new.png)  
-- [2023-07-14-Gzip+-kNN文本分类竟然击败Transformers：无需预训练、14行代码实现](https://posts.careerengine.us/p/64b13757c792d14b8a06de7e) ![](/assets/new.png)  
-- [2023-07-14-更强更通用：智源「悟道3.0」Emu多模态大模型开源，在多模态序列中「补全一切」](https://posts.careerengine.us/p/64b13757c792d14b8a06de88) ![](/assets/new.png)  
-- [2023-07-14-贾扬清新公司Lepton-AI曝光，ONNX联创、etcd作者加盟，产品内测中](https://posts.careerengine.us/p/64b137613b57e74bae33c7f9) ![](/assets/new.png)  
-- [2023-07-14-谷歌Bard史上最大升级：中文、识图、存档导出能力都来了](https://posts.careerengine.us/p/64b137613b57e74bae33c801) ![](/assets/new.png)  
-- [2023-07-14-「化腐朽为神奇」：Stability-AI又出新工具，草图瞬间精致，不同风格随心选](https://posts.careerengine.us/p/64b1376988bb7c4c1fefb87b) ![](/assets/new.png)  
+- [2023-07-14-京东大模型：「知识」就是力量](https://posts.careerengine.us/p/64b1374ca6643b4b55c21ad2)  
+- [2023-07-14-Gzip+-kNN文本分类竟然击败Transformers：无需预训练、14行代码实现](https://posts.careerengine.us/p/64b13757c792d14b8a06de7e)  
+- [2023-07-14-更强更通用：智源「悟道3.0」Emu多模态大模型开源，在多模态序列中「补全一切」](https://posts.careerengine.us/p/64b13757c792d14b8a06de88)  
+- [2023-07-14-贾扬清新公司Lepton-AI曝光，ONNX联创、etcd作者加盟，产品内测中](https://posts.careerengine.us/p/64b137613b57e74bae33c7f9)  
+- [2023-07-14-谷歌Bard史上最大升级：中文、识图、存档导出能力都来了](https://posts.careerengine.us/p/64b137613b57e74bae33c801)  
+- [2023-07-14-「化腐朽为神奇」：Stability-AI又出新工具，草图瞬间精致，不同风格随心选](https://posts.careerengine.us/p/64b1376988bb7c4c1fefb87b)  
 - [2023-07-13-大家都在吐槽GPT-4变「笨」了，可能是架构重新设计惹的祸](https://posts.careerengine.us/p/64af74ad7d9f3e26505faf6c)  
 - [2023-07-13-MIT打造实验科学家的大模型助手，语音聊天就能开展实验](https://posts.careerengine.us/p/64af749f09b1bc260eb34940)  
 - [2023-07-13-击败Stable-Diffusion-XL，商汤绘画大模型出手即大作，论文公开、免费试玩](https://posts.careerengine.us/p/64af749f09b1bc260eb34949)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-07-13-视觉大模型高效应用方法盘点（内附论文代码）](https://posts.careerengine.us/p/64af80822e5bbb6d9d27178f)  
-- [2023-07-13-AutoFocusFormer：摆脱传统栅格，采用自适应下采样的图像分割](https://posts.careerengine.us/p/64af808c7086b16dcc72c866)  
-- [2023-07-13-KDD-2023-|-SGIR：半监督的图不平衡回归](https://posts.careerengine.us/p/64af808c7086b16dcc72c85e)  
+- [2023-07-14-有奖注册！清华、UT-Austin教授在线分享：可穿戴式智能设备前沿研究与进展](https://posts.careerengine.us/p/64b15a5f4a116d25ce403c1e) ![](/assets/new.png)  
+- [2023-07-14-一文速览大语言模型在分子领域中的探索](https://posts.careerengine.us/p/64b15a5f4a116d25ce403c15) ![](/assets/new.png)  
+- [2023-07-14-CVPR-2023-|-完全无监督的视频物体分割-RCF](https://posts.careerengine.us/p/64b15a6c3997a325f88f230a) ![](/assets/new.png)  
+- [2023-07-14-博士申请-|-香港科大（广州）陈煌栒老师招收网络/信息物理系统与AI交叉领域全奖博士生](https://posts.careerengine.us/p/64b15a7783e14f2624864999) ![](/assets/new.png)  
 - [2023-07-13-博士申请-|-西湖大学曾坚阳教授招收人工智能与计算生物学方向博士生/实习生](https://posts.careerengine.us/p/64af809e2f120f6dfb294cfd)  
-- [2023-07-12-深圳内推-|-腾讯游戏全球数据洞察组招聘数据科学家暑期实习生](https://posts.careerengine.us/p/64ae31c4cd55877f33b37a11)  
-- [2023-07-12-极客欢聚，燃动夏日！开发者嘉年华等你来](https://posts.careerengine.us/p/64ae31b76e977f7e875bca71)  
+- [2023-07-13-KDD-2023-|-SGIR：半监督的图不平衡回归](https://posts.careerengine.us/p/64af808c7086b16dcc72c85e)  
+- [2023-07-13-AutoFocusFormer：摆脱传统栅格，采用自适应下采样的图像分割](https://posts.careerengine.us/p/64af808c7086b16dcc72c866)  
+- [2023-07-13-视觉大模型高效应用方法盘点（内附论文代码）](https://posts.careerengine.us/p/64af80822e5bbb6d9d27178f)  
 - [2023-07-12-腾讯AI-Lab发布多模态指令调优语言模型，支持图像、视频等四种不同模态](https://posts.careerengine.us/p/64ae31b76e977f7e875bca69)  
-- [2023-07-11-学弟用-ChatGPT-发了一篇顶会…](https://posts.careerengine.us/p/64ace52b7d7f74078357f1b5)  
-- [2023-07-11-​基于窗剪枝的去局部模糊Transformer，提升像质同时加速推理](https://posts.careerengine.us/p/64ace5380615df07a9c09321)  
-- [2023-07-11-GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316)  
+- [2023-07-12-极客欢聚，燃动夏日！开发者嘉年华等你来](https://posts.careerengine.us/p/64ae31b76e977f7e875bca71)  
+- [2023-07-12-深圳内推-|-腾讯游戏全球数据洞察组招聘数据科学家暑期实习生](https://posts.careerengine.us/p/64ae31c4cd55877f33b37a11)  
 - [2023-07-11-博士申请-|-香港科技大学（广州）陈雷院长招收数据科学方向全奖博士生](https://posts.careerengine.us/p/64ace543c6f00807daf5c638)  
-- [2023-07-10-博士申请-|-上海纽约大学谭桥宇老师招收机器学习方向全奖博士/博后/RA/实习生](https://posts.careerengine.us/p/64ab87c03671092f036b91f9)  
-- [2023-07-10-十分钟读懂Diffusion：图解Diffusion扩散模型](https://posts.careerengine.us/p/64ab87b65e433f2ed9c3c885)  
-- [2023-07-10-论文辅导-|-别再死磕C刊了，聪明人都开始发SCI论文了！](https://posts.careerengine.us/p/64ab87adab03a52e7a5fb777)  
+- [2023-07-11-GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316)  
+- [2023-07-11-​基于窗剪枝的去局部模糊Transformer，提升像质同时加速推理](https://posts.careerengine.us/p/64ace5380615df07a9c09321)  
+- [2023-07-11-学弟用-ChatGPT-发了一篇顶会…](https://posts.careerengine.us/p/64ace52b7d7f74078357f1b5)  
 - [2023-07-10-5小时get大模型时代提效神器：写出高价值大模型Prompt！](https://posts.careerengine.us/p/64ab87adab03a52e7a5fb76f)  
-- [2023-07-09-上海/深圳内推-|-微信技术架构部招聘机器学习/NLP算法工程师（可实习）](https://posts.careerengine.us/p/64aad77ebdacfd1d2c15d367)  
-- [2023-07-09-一文速览ICML-2023域自适应/域泛化相关论文](https://posts.careerengine.us/p/64aad77fbdacfd1d2c15d36f)  
+- [2023-07-10-论文辅导-|-别再死磕C刊了，聪明人都开始发SCI论文了！](https://posts.careerengine.us/p/64ab87adab03a52e7a5fb777)  
+- [2023-07-10-十分钟读懂Diffusion：图解Diffusion扩散模型](https://posts.careerengine.us/p/64ab87b65e433f2ed9c3c885)  
+- [2023-07-10-博士申请-|-上海纽约大学谭桥宇老师招收机器学习方向全奖博士/博后/RA/实习生](https://posts.careerengine.us/p/64ab87c03671092f036b91f9)  
 - [2023-07-09-大语言模型综述全新升级版：85页、600+篇参考文献](https://posts.careerengine.us/p/64aad77fbdacfd1d2c15d37e)  
-- [2023-07-08-博士申请-|-香港科技大学（广州）汤南、骆昱宇教授招收数据科学方向全奖博士生](https://posts.careerengine.us/p/64a935f55af685796deff7db)  
-- [2023-07-08-最高年薪近56万！猎聘重磅发布2023最新AIGC就业趋势大数据报告](https://posts.careerengine.us/p/64a935e98c2020792cf8633e)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

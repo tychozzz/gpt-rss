@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-14 21:00:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-15 06:00:16。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -121,8 +121,8 @@
 - [【量子位】ChatGPT紧急下线联网模式，曾被曝能白嫖付费网页](https://posts.careerengine.us/p/64a50a67269b326ee12fcf91)
 - [【量子位】英伟达H100杀疯了：11分钟训完GPT-3，霸榜8项测试，集群性能逼近线性增长](https://posts.careerengine.us/p/649d742dd905e33ebbfb90c6)
 - [【量子位】ChatGPT做的简历戳中HR心巴，小伙刚毕业就拿下梦想offer！](https://posts.careerengine.us/p/649d742dd905e33ebbfb90b6)
-- [【PaperWeekly】学弟用-ChatGPT-发了一篇顶会…](https://posts.careerengine.us/p/64ace52b7d7f74078357f1b5)
 - [【PaperWeekly】GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316)
+- [【PaperWeekly】学弟用-ChatGPT-发了一篇顶会…](https://posts.careerengine.us/p/64ace52b7d7f74078357f1b5)
 - [【PaperWeekly】文末送书-|-系统讲解ChatGPT核心原理，教你构建高质量的提示指令](https://posts.careerengine.us/p/649c0e3e94b82a73c3a5a93d)
 - [【我爱自然语言处理】中科院张家俊：ChatGPT中的提示与指令学习](https://www.52nlp.cn/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%bc%a0%e5%ae%b6%e4%bf%8a%ef%bc%9achatgpt%e4%b8%ad%e7%9a%84%e6%8f%90%e7%a4%ba%e4%b8%8e%e6%8c%87%e4%bb%a4%e5%ad%a6%e4%b9%a0)
 - [......【查看更多】......](/details/tags/gpt.md)
