@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-16 15:00:20。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-17 10:00:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -122,8 +122,8 @@
 - [【量子位】医疗版ChatGPT直播评测！治疗方案与真人医生96％一致](https://posts.careerengine.us/p/64a50a4d757ccd6ea6bdfc68)
 - [【量子位】ChatGPT做的简历戳中HR心巴，小伙刚毕业就拿下梦想offer！](https://posts.careerengine.us/p/649d742dd905e33ebbfb90b6)
 - [【量子位】英伟达H100杀疯了：11分钟训完GPT-3，霸榜8项测试，集群性能逼近线性增长](https://posts.careerengine.us/p/649d742dd905e33ebbfb90c6)
-- [【PaperWeekly】GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316)
 - [【PaperWeekly】学弟用-ChatGPT-发了一篇顶会…](https://posts.careerengine.us/p/64ace52b7d7f74078357f1b5)
+- [【PaperWeekly】GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316)
 - [【PaperWeekly】文末送书-|-系统讲解ChatGPT核心原理，教你构建高质量的提示指令](https://posts.careerengine.us/p/649c0e3e94b82a73c3a5a93d)
 - [......【查看更多】......](/details/tags/gpt.md)
 

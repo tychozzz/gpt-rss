@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-16 15:00:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-17 10:00:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -70,6 +70,8 @@
 - [2022-04-06-腾讯AI-Lab披露可信AI研究进展，解读20余项原创工作](https://posts.careerengine.us/p/62caad346192fa60dfb10248) 
 - [2022-01-18-腾讯发布国内首份可解释-AI-报告：详解打开算法黑箱的理念与实践｜附报告下载](https://posts.careerengine.us/p/61e9363db8def616d683d0fc) 
 - [2020-09-25-腾讯发布业内首个AI安全攻击矩阵，最全「排雷图」拿走不谢](https://posts.careerengine.us/p/62cab0de86f8106f0c1c8409) 
+- [2023-07-16-无需预训练、14行代码实现！Gzip+-kNN文本分类竟然击败Transformer](https://posts.careerengine.us/p/64b48b1a25692a0dd5f949ef) 
+- [2023-07-16-Naive-Bayes-is-All-You-Need？](https://posts.careerengine.us/p/64b48b0a9f24f60d950dc8cc) 
 - [2023-07-14-博士申请-|-香港科大（广州）陈煌栒老师招收网络/信息物理系统与AI交叉领域全奖博士生](https://posts.careerengine.us/p/64b15a7783e14f2624864999) 
 - [2023-07-12-腾讯AI-Lab发布多模态指令调优语言模型，支持图像、视频等四种不同模态](https://posts.careerengine.us/p/64ae31b76e977f7e875bca69) 
 - [2023-07-11-​基于窗剪枝的去局部模糊Transformer，提升像质同时加速推理](https://posts.careerengine.us/p/64ace5380615df07a9c09321) 

@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-16 15:00:20，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-17 10:00:17，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-07-16-一张截图生成iPhone应用、还能转成代码、创建网站，升级后谷歌Bard真成了](https://posts.careerengine.us/p/64b37a81149433457e8154f9) ![](/assets/new.png)  
-- [2023-07-16-MGM、MolGPT、PAR、Uni-Mol、K-Bert、MolCLR…你都掌握了吗？一文总结生物制药必备经典模型（三）](https://posts.careerengine.us/p/64b37a81149433457e815501) ![](/assets/new.png)  
-- [2023-07-16-蛋白质侧链预测新方法DiffPack：扩散模型也能精准预测侧链构象！](https://posts.careerengine.us/p/64b37a8ab08e2045ffc6ed6b) ![](/assets/new.png)  
-- [2023-07-16-获星1.9k，LLM微调神器Lamini上演速度与激情，免费可用](https://posts.careerengine.us/p/64b37a8ab08e2045ffc6ed63) ![](/assets/new.png)  
-- [2023-07-16-大语言模型综述全新出炉：51页论文带你盘点LLM领域专业化技术](https://posts.careerengine.us/p/64b37a8ab08e2045ffc6ed5b) ![](/assets/new.png)  
+- [2023-07-16-一张截图生成iPhone应用、还能转成代码、创建网站，升级后谷歌Bard真成了](https://posts.careerengine.us/p/64b37a81149433457e8154f9)  
+- [2023-07-16-MGM、MolGPT、PAR、Uni-Mol、K-Bert、MolCLR…你都掌握了吗？一文总结生物制药必备经典模型（三）](https://posts.careerengine.us/p/64b37a81149433457e815501)  
+- [2023-07-16-蛋白质侧链预测新方法DiffPack：扩散模型也能精准预测侧链构象！](https://posts.careerengine.us/p/64b37a8ab08e2045ffc6ed6b)  
+- [2023-07-16-获星1.9k，LLM微调神器Lamini上演速度与激情，免费可用](https://posts.careerengine.us/p/64b37a8ab08e2045ffc6ed63)  
+- [2023-07-16-大语言模型综述全新出炉：51页论文带你盘点LLM领域专业化技术](https://posts.careerengine.us/p/64b37a8ab08e2045ffc6ed5b)  
 - [2023-07-15-WAIC-2023-|-张俊林：大语言模型带来的交互方式变革](https://posts.careerengine.us/p/64b222484cc51649fdfbbd85)  
 - [2023-07-15-化学语言模型polyBERT，以前所未有的速度和准确性在聚合物「宇宙」中搜索所需聚合物](https://posts.careerengine.us/p/64b222484cc51649fdfbbd75)  
 - [2023-07-15-关于医学多模态大模型，你需要来学习这些最新研究](https://posts.careerengine.us/p/64b222484cc51649fdfbbd7d)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-07-14-有奖注册！清华、UT-Austin教授在线分享：可穿戴式智能设备前沿研究与进展](https://posts.careerengine.us/p/64b15a5f4a116d25ce403c1e)  
-- [2023-07-14-一文速览大语言模型在分子领域中的探索](https://posts.careerengine.us/p/64b15a5f4a116d25ce403c15)  
-- [2023-07-14-CVPR-2023-|-完全无监督的视频物体分割-RCF](https://posts.careerengine.us/p/64b15a6c3997a325f88f230a)  
+- [2023-07-16-无需预训练、14行代码实现！Gzip+-kNN文本分类竟然击败Transformer](https://posts.careerengine.us/p/64b48b1a25692a0dd5f949ef) ![](/assets/new.png)  
+- [2023-07-16-文末送书-|-大话机器学习——原理、算法、建模、代码30讲](https://posts.careerengine.us/p/64b48b0a9f24f60d950dc8d5) ![](/assets/new.png)  
+- [2023-07-16-Naive-Bayes-is-All-You-Need？](https://posts.careerengine.us/p/64b48b0a9f24f60d950dc8cc) ![](/assets/new.png)  
 - [2023-07-14-博士申请-|-香港科大（广州）陈煌栒老师招收网络/信息物理系统与AI交叉领域全奖博士生](https://posts.careerengine.us/p/64b15a7783e14f2624864999)  
-- [2023-07-13-博士申请-|-西湖大学曾坚阳教授招收人工智能与计算生物学方向博士生/实习生](https://posts.careerengine.us/p/64af809e2f120f6dfb294cfd)  
-- [2023-07-13-KDD-2023-|-SGIR：半监督的图不平衡回归](https://posts.careerengine.us/p/64af808c7086b16dcc72c85e)  
-- [2023-07-13-AutoFocusFormer：摆脱传统栅格，采用自适应下采样的图像分割](https://posts.careerengine.us/p/64af808c7086b16dcc72c866)  
+- [2023-07-14-CVPR-2023-|-完全无监督的视频物体分割-RCF](https://posts.careerengine.us/p/64b15a6c3997a325f88f230a)  
+- [2023-07-14-一文速览大语言模型在分子领域中的探索](https://posts.careerengine.us/p/64b15a5f4a116d25ce403c15)  
+- [2023-07-14-有奖注册！清华、UT-Austin教授在线分享：可穿戴式智能设备前沿研究与进展](https://posts.careerengine.us/p/64b15a5f4a116d25ce403c1e)  
 - [2023-07-13-视觉大模型高效应用方法盘点（内附论文代码）](https://posts.careerengine.us/p/64af80822e5bbb6d9d27178f)  
-- [2023-07-12-腾讯AI-Lab发布多模态指令调优语言模型，支持图像、视频等四种不同模态](https://posts.careerengine.us/p/64ae31b76e977f7e875bca69)  
-- [2023-07-12-极客欢聚，燃动夏日！开发者嘉年华等你来](https://posts.careerengine.us/p/64ae31b76e977f7e875bca71)  
+- [2023-07-13-AutoFocusFormer：摆脱传统栅格，采用自适应下采样的图像分割](https://posts.careerengine.us/p/64af808c7086b16dcc72c866)  
+- [2023-07-13-KDD-2023-|-SGIR：半监督的图不平衡回归](https://posts.careerengine.us/p/64af808c7086b16dcc72c85e)  
+- [2023-07-13-博士申请-|-西湖大学曾坚阳教授招收人工智能与计算生物学方向博士生/实习生](https://posts.careerengine.us/p/64af809e2f120f6dfb294cfd)  
 - [2023-07-12-深圳内推-|-腾讯游戏全球数据洞察组招聘数据科学家暑期实习生](https://posts.careerengine.us/p/64ae31c4cd55877f33b37a11)  
-- [2023-07-11-博士申请-|-香港科技大学（广州）陈雷院长招收数据科学方向全奖博士生](https://posts.careerengine.us/p/64ace543c6f00807daf5c638)  
-- [2023-07-11-GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316)  
-- [2023-07-11-​基于窗剪枝的去局部模糊Transformer，提升像质同时加速推理](https://posts.careerengine.us/p/64ace5380615df07a9c09321)  
+- [2023-07-12-极客欢聚，燃动夏日！开发者嘉年华等你来](https://posts.careerengine.us/p/64ae31b76e977f7e875bca71)  
+- [2023-07-12-腾讯AI-Lab发布多模态指令调优语言模型，支持图像、视频等四种不同模态](https://posts.careerengine.us/p/64ae31b76e977f7e875bca69)  
 - [2023-07-11-学弟用-ChatGPT-发了一篇顶会…](https://posts.careerengine.us/p/64ace52b7d7f74078357f1b5)  
-- [2023-07-10-5小时get大模型时代提效神器：写出高价值大模型Prompt！](https://posts.careerengine.us/p/64ab87adab03a52e7a5fb76f)  
-- [2023-07-10-论文辅导-|-别再死磕C刊了，聪明人都开始发SCI论文了！](https://posts.careerengine.us/p/64ab87adab03a52e7a5fb777)  
-- [2023-07-10-十分钟读懂Diffusion：图解Diffusion扩散模型](https://posts.careerengine.us/p/64ab87b65e433f2ed9c3c885)  
+- [2023-07-11-​基于窗剪枝的去局部模糊Transformer，提升像质同时加速推理](https://posts.careerengine.us/p/64ace5380615df07a9c09321)  
+- [2023-07-11-GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316)  
+- [2023-07-11-博士申请-|-香港科技大学（广州）陈雷院长招收数据科学方向全奖博士生](https://posts.careerengine.us/p/64ace543c6f00807daf5c638)  
 - [2023-07-10-博士申请-|-上海纽约大学谭桥宇老师招收机器学习方向全奖博士/博后/RA/实习生](https://posts.careerengine.us/p/64ab87c03671092f036b91f9)  
-- [2023-07-09-大语言模型综述全新升级版：85页、600+篇参考文献](https://posts.careerengine.us/p/64aad77fbdacfd1d2c15d37e)  
+- [2023-07-10-十分钟读懂Diffusion：图解Diffusion扩散模型](https://posts.careerengine.us/p/64ab87b65e433f2ed9c3c885)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
