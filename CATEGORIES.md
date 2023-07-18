@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-18 15:00:19，:rocket: 更新条数: +14， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-19 06:00:22，:rocket: 更新条数: +9， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-07-18-一个开源方案，极速预训练650亿参数LLaMA](https://posts.careerengine.us/p/64b61238de805261e6fd9732) ![](/assets/new.png)  
-- [2023-07-18-比标准Attention提速5-9倍，大模型都在用的FlashAttention-v2来了](https://posts.careerengine.us/p/64b61247165426628b548b16) ![](/assets/new.png)  
-- [2023-07-18-Transformer取代者登场！微软、清华刚推出RetNet：成本低、速度快、性能强](https://posts.careerengine.us/p/64b61247165426628b548b0e) ![](/assets/new.png)  
-- [2023-07-18-ChatGPT代码解释器与Jupyter-Notebook合体，编码能力更强了](https://posts.careerengine.us/p/64b612511ca8fb62cb1afec8) ![](/assets/new.png)  
-- [2023-07-18-能胜任统计学家？Transformers超强学习机制「自动算法选择」](https://posts.careerengine.us/p/64b612511ca8fb62cb1afed0) ![](/assets/new.png)  
-- [2023-07-17-速度提升数十倍，只需一张图一句话，谷歌新模型20秒即可实现变脸](https://posts.careerengine.us/p/64b4d3a1aab10d1bc9024cd4)  
-- [2023-07-17-Sam-Altman：大家如此喜爱Code-Interpreter！这是结合Midjourney的神奇用例](https://posts.careerengine.us/p/64b4d25df9c5be14d18bc8f9)  
-- [2023-07-17-今天，清华唐杰、上交卢策吾等AI学者获得第五届科学探索奖](https://posts.careerengine.us/p/64b4d25df9c5be14d18bc8f1)  
-- [2023-07-17-减少内存消耗、降低大模型训练成本，ACL杰出论文作者揭秘CAME优化器](https://posts.careerengine.us/p/64b4d25cf9c5be14d18bc8e9)  
-- [2023-07-17-将蛋白质语言模型扩展到千亿参数，深度解读百图生科、清华xTrimoPGLM模型](https://posts.careerengine.us/p/64b4d24d90674814828e90a4)  
+- [2023-07-19-更强的Llama-2开源，可直接商用：一夜之间，大模型格局变了](https://posts.careerengine.us/p/64b6ded40dcfa47c21b47313) ![](/assets/new.png)  
+- [2023-07-19-WAIC-2023-|-微软Office产品团队技术负责人蔡玮鑫：Copilot中大语言模型应用实践经验](https://posts.careerengine.us/p/64b6dedd7eea6b7c43f7cab5) ![](/assets/new.png)  
+- [2023-07-19-微软Office全家桶版GPT-4定价每月30美元，Azure牵手Llama-2](https://posts.careerengine.us/p/64b6dedd7eea6b7c43f7caad) ![](/assets/new.png)  
+- [2023-07-19-2023摩根大通博士奖学金名单公布，华人超3/5，西电、川大校友在列](https://posts.careerengine.us/p/64b6dee4002e6d7ca16b7c6e) ![](/assets/new.png)  
+- [2023-07-19-0参数量-+-0训练，3D点云分析方法Point-NN刷新多项SOTA](https://posts.careerengine.us/p/64b6def4d9609e7cd6cd1262) ![](/assets/new.png)  
+- [2023-07-18-能胜任统计学家？Transformers超强学习机制「自动算法选择」](https://posts.careerengine.us/p/64b612511ca8fb62cb1afed0)  
+- [2023-07-18-ChatGPT代码解释器与Jupyter-Notebook合体，编码能力更强了](https://posts.careerengine.us/p/64b612511ca8fb62cb1afec8)  
+- [2023-07-18-Transformer取代者登场！微软、清华刚推出RetNet：成本低、速度快、性能强](https://posts.careerengine.us/p/64b61247165426628b548b0e)  
+- [2023-07-18-比标准Attention提速5-9倍，大模型都在用的FlashAttention-v2来了](https://posts.careerengine.us/p/64b61247165426628b548b16)  
+- [2023-07-18-一个开源方案，极速预训练650亿参数LLaMA](https://posts.careerengine.us/p/64b61238de805261e6fd9732)  
 - [2023-07-17-上万张照片怎么找？百度网盘：你只管说，我们帮你找](https://posts.careerengine.us/p/64b4d23d444d8c144cfe2963)  
-- [2023-07-16-一张截图生成iPhone应用、还能转成代码、创建网站，升级后谷歌Bard真成了](https://posts.careerengine.us/p/64b37a81149433457e8154f9)  
-- [2023-07-16-MGM、MolGPT、PAR、Uni-Mol、K-Bert、MolCLR…你都掌握了吗？一文总结生物制药必备经典模型（三）](https://posts.careerengine.us/p/64b37a81149433457e815501)  
-- [2023-07-16-蛋白质侧链预测新方法DiffPack：扩散模型也能精准预测侧链构象！](https://posts.careerengine.us/p/64b37a8ab08e2045ffc6ed6b)  
-- [2023-07-16-获星1.9k，LLM微调神器Lamini上演速度与激情，免费可用](https://posts.careerengine.us/p/64b37a8ab08e2045ffc6ed63)  
+- [2023-07-17-将蛋白质语言模型扩展到千亿参数，深度解读百图生科、清华xTrimoPGLM模型](https://posts.careerengine.us/p/64b4d24d90674814828e90a4)  
+- [2023-07-17-减少内存消耗、降低大模型训练成本，ACL杰出论文作者揭秘CAME优化器](https://posts.careerengine.us/p/64b4d25cf9c5be14d18bc8e9)  
+- [2023-07-17-今天，清华唐杰、上交卢策吾等AI学者获得第五届科学探索奖](https://posts.careerengine.us/p/64b4d25df9c5be14d18bc8f1)  
+- [2023-07-17-Sam-Altman：大家如此喜爱Code-Interpreter！这是结合Midjourney的神奇用例](https://posts.careerengine.us/p/64b4d25df9c5be14d18bc8f9)  
+- [2023-07-17-速度提升数十倍，只需一张图一句话，谷歌新模型20秒即可实现变脸](https://posts.careerengine.us/p/64b4d3a1aab10d1bc9024cd4)  
 - [2023-07-16-大语言模型综述全新出炉：51页论文带你盘点LLM领域专业化技术](https://posts.careerengine.us/p/64b37a8ab08e2045ffc6ed5b)  
-- [2023-07-15-WAIC-2023-|-张俊林：大语言模型带来的交互方式变革](https://posts.careerengine.us/p/64b222484cc51649fdfbbd85)  
-- [2023-07-15-化学语言模型polyBERT，以前所未有的速度和准确性在聚合物「宇宙」中搜索所需聚合物](https://posts.careerengine.us/p/64b222484cc51649fdfbbd75)  
-- [2023-07-15-关于医学多模态大模型，你需要来学习这些最新研究](https://posts.careerengine.us/p/64b222484cc51649fdfbbd7d)  
-- [2023-07-15-字节团队提出猞猁Lynx模型：多模态LLMs理解认知生成类榜单SoTA](https://posts.careerengine.us/p/64b222484cc51649fdfbbd94)  
+- [2023-07-16-获星1.9k，LLM微调神器Lamini上演速度与激情，免费可用](https://posts.careerengine.us/p/64b37a8ab08e2045ffc6ed63)  
+- [2023-07-16-蛋白质侧链预测新方法DiffPack：扩散模型也能精准预测侧链构象！](https://posts.careerengine.us/p/64b37a8ab08e2045ffc6ed6b)  
+- [2023-07-16-MGM、MolGPT、PAR、Uni-Mol、K-Bert、MolCLR…你都掌握了吗？一文总结生物制药必备经典模型（三）](https://posts.careerengine.us/p/64b37a81149433457e815501)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,12 +52,12 @@
 </summary>
 
 
-- [2023-07-18-650亿参数大模型预训练方案开源可商用！LLaMA训练加速38％，来自明星开源项目](https://posts.careerengine.us/p/64b61a4a4325d31024f5affb) ![](/assets/new.png)  
-- [2023-07-18-Transformer后继有模！MSRA提出全新大模型基础架构：推理速度8倍提升，内存占用减少70％](https://posts.careerengine.us/p/64b61a55dcbfeb1044b72f71) ![](/assets/new.png)  
-- [2023-07-18-大模型挑选指南来了！涵盖六种情况下的选择方案，为你匹配最佳模型｜来自沃顿商学院教授](https://posts.careerengine.us/p/64b61a5c762377107281b959) ![](/assets/new.png)  
-- [2023-07-18-斯坦福博士独作！大模型训练速度再翻倍，还官宣加入明星创业公司当首席科学家](https://posts.careerengine.us/p/64b61a5c762377107281b961) ![](/assets/new.png)  
-- [2023-07-18-极少数据就能微调大模型，一文详解LoRA等方法的运作原理](https://posts.careerengine.us/p/64b61a6a534c4510b53ece8f) ![](/assets/new.png)  
-- [2023-07-18-中关村科学城科创大赛首场赋能活动成功举办](https://posts.careerengine.us/p/64b61a6b534c4510b53ece97) ![](/assets/new.png)  
+- [2023-07-18-650亿参数大模型预训练方案开源可商用！LLaMA训练加速38％，来自明星开源项目](https://posts.careerengine.us/p/64b61a4a4325d31024f5affb)  
+- [2023-07-18-Transformer后继有模！MSRA提出全新大模型基础架构：推理速度8倍提升，内存占用减少70％](https://posts.careerengine.us/p/64b61a55dcbfeb1044b72f71)  
+- [2023-07-18-大模型挑选指南来了！涵盖六种情况下的选择方案，为你匹配最佳模型｜来自沃顿商学院教授](https://posts.careerengine.us/p/64b61a5c762377107281b959)  
+- [2023-07-18-斯坦福博士独作！大模型训练速度再翻倍，还官宣加入明星创业公司当首席科学家](https://posts.careerengine.us/p/64b61a5c762377107281b961)  
+- [2023-07-18-极少数据就能微调大模型，一文详解LoRA等方法的运作原理](https://posts.careerengine.us/p/64b61a6a534c4510b53ece8f)  
+- [2023-07-18-中关村科学城科创大赛首场赋能活动成功举办](https://posts.careerengine.us/p/64b61a6b534c4510b53ece97)  
 - [2023-07-17-Meta用头显实现全身动作追踪！没有腿部信息，也可准确估计姿态](https://posts.careerengine.us/p/64b4f7f955d475600b269eb0)  
 - [2023-07-17-算力=生产力！IT支出每投入7块，就能拉动约207元GDP产出｜全球计算力指数评估报告](https://posts.careerengine.us/p/64b4f7e478f4115f533c6b0b)  
 - [2023-07-17-科学探索奖名单揭晓：清华唐杰北大数院丁剑在列，还有三体电视剧“丁仪”热议原型](https://posts.careerengine.us/p/64b4f7e378f4115f533c6afa)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-07-17-ICCV-2023-|-K400首次90％准确率！UniFormerV2开源：基于ViT的高效视频识别](https://posts.careerengine.us/p/64b4bf89525e6e2f6c3e61ea)  
-- [2023-07-17-总奖金池高达31万！第八届信也科技杯算法大赛火爆上线！](https://posts.careerengine.us/p/64b4bf89525e6e2f6c3e61e1)  
-- [2023-07-17-ACL-2023-|-增强语法纠错系统的可解释能力](https://posts.careerengine.us/p/64b4bf89525e6e2f6c3e61f2)  
+- [2023-07-18-ChatGPT检测攻与守：我们该如何应对AI以假乱真？](https://posts.careerengine.us/p/64b6acdae433cb56e2f3b66d) ![](/assets/new.png)  
+- [2023-07-18-科研实习-|-清华——鹏城SIG课题组招收机器人学习方向科研实习生](https://posts.careerengine.us/p/64b6aceb1300d056f6da39d1) ![](/assets/new.png)  
+- [2023-07-18-中科大和上海AI-Lab提出FreeDrag：无需点跟踪即可稳定拖动语义内容](https://posts.careerengine.us/p/64b6acec1300d056f6da39d9) ![](/assets/new.png)  
+- [2023-07-18-北京内推-|-蚂蚁网商银行智能引擎算法团队招聘研究型/校招实习生](https://posts.careerengine.us/p/64b6acf792645757319793a2) ![](/assets/new.png)  
 - [2023-07-17-北京内推-|-航天信息招聘大语言模型算法研究实习生（2023年暑期）](https://posts.careerengine.us/p/64b4bf9eb895af2fcb4c431f)  
-- [2023-07-16-Naive-Bayes-is-All-You-Need？](https://posts.careerengine.us/p/64b48b0a9f24f60d950dc8cc)  
-- [2023-07-16-文末送书-|-大话机器学习——原理、算法、建模、代码30讲](https://posts.careerengine.us/p/64b48b0a9f24f60d950dc8d5)  
+- [2023-07-17-ACL-2023-|-增强语法纠错系统的可解释能力](https://posts.careerengine.us/p/64b4bf89525e6e2f6c3e61f2)  
+- [2023-07-17-总奖金池高达31万！第八届信也科技杯算法大赛火爆上线！](https://posts.careerengine.us/p/64b4bf89525e6e2f6c3e61e1)  
+- [2023-07-17-ICCV-2023-|-K400首次90％准确率！UniFormerV2开源：基于ViT的高效视频识别](https://posts.careerengine.us/p/64b4bf89525e6e2f6c3e61ea)  
 - [2023-07-16-无需预训练、14行代码实现！Gzip+-kNN文本分类竟然击败Transformer](https://posts.careerengine.us/p/64b48b1a25692a0dd5f949ef)  
-- [2023-07-14-有奖注册！清华、UT-Austin教授在线分享：可穿戴式智能设备前沿研究与进展](https://posts.careerengine.us/p/64b15a5f4a116d25ce403c1e)  
-- [2023-07-14-一文速览大语言模型在分子领域中的探索](https://posts.careerengine.us/p/64b15a5f4a116d25ce403c15)  
-- [2023-07-14-CVPR-2023-|-完全无监督的视频物体分割-RCF](https://posts.careerengine.us/p/64b15a6c3997a325f88f230a)  
+- [2023-07-16-文末送书-|-大话机器学习——原理、算法、建模、代码30讲](https://posts.careerengine.us/p/64b48b0a9f24f60d950dc8d5)  
+- [2023-07-16-Naive-Bayes-is-All-You-Need？](https://posts.careerengine.us/p/64b48b0a9f24f60d950dc8cc)  
 - [2023-07-14-博士申请-|-香港科大（广州）陈煌栒老师招收网络/信息物理系统与AI交叉领域全奖博士生](https://posts.careerengine.us/p/64b15a7783e14f2624864999)  
-- [2023-07-13-博士申请-|-西湖大学曾坚阳教授招收人工智能与计算生物学方向博士生/实习生](https://posts.careerengine.us/p/64af809e2f120f6dfb294cfd)  
-- [2023-07-13-KDD-2023-|-SGIR：半监督的图不平衡回归](https://posts.careerengine.us/p/64af808c7086b16dcc72c85e)  
-- [2023-07-13-AutoFocusFormer：摆脱传统栅格，采用自适应下采样的图像分割](https://posts.careerengine.us/p/64af808c7086b16dcc72c866)  
+- [2023-07-14-CVPR-2023-|-完全无监督的视频物体分割-RCF](https://posts.careerengine.us/p/64b15a6c3997a325f88f230a)  
+- [2023-07-14-一文速览大语言模型在分子领域中的探索](https://posts.careerengine.us/p/64b15a5f4a116d25ce403c15)  
+- [2023-07-14-有奖注册！清华、UT-Austin教授在线分享：可穿戴式智能设备前沿研究与进展](https://posts.careerengine.us/p/64b15a5f4a116d25ce403c1e)  
 - [2023-07-13-视觉大模型高效应用方法盘点（内附论文代码）](https://posts.careerengine.us/p/64af80822e5bbb6d9d27178f)  
-- [2023-07-12-腾讯AI-Lab发布多模态指令调优语言模型，支持图像、视频等四种不同模态](https://posts.careerengine.us/p/64ae31b76e977f7e875bca69)  
-- [2023-07-12-极客欢聚，燃动夏日！开发者嘉年华等你来](https://posts.careerengine.us/p/64ae31b76e977f7e875bca71)  
+- [2023-07-13-AutoFocusFormer：摆脱传统栅格，采用自适应下采样的图像分割](https://posts.careerengine.us/p/64af808c7086b16dcc72c866)  
+- [2023-07-13-KDD-2023-|-SGIR：半监督的图不平衡回归](https://posts.careerengine.us/p/64af808c7086b16dcc72c85e)  
+- [2023-07-13-博士申请-|-西湖大学曾坚阳教授招收人工智能与计算生物学方向博士生/实习生](https://posts.careerengine.us/p/64af809e2f120f6dfb294cfd)  
 - [2023-07-12-深圳内推-|-腾讯游戏全球数据洞察组招聘数据科学家暑期实习生](https://posts.careerengine.us/p/64ae31c4cd55877f33b37a11)  
-- [2023-07-11-博士申请-|-香港科技大学（广州）陈雷院长招收数据科学方向全奖博士生](https://posts.careerengine.us/p/64ace543c6f00807daf5c638)  
-- [2023-07-11-GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -174,9 +174,9 @@
 </summary>
 
 
-- [2023-07-18-Azure-与-OpenAI-联手，为政府机构提供人工智能解决方案](https://posts.careerengine.us/p/64b624e717d77a3b2fc76143) ![](/assets/new.png)  
-- [2023-07-18-号称业界最强！Meta发布全新文生图模型，实力碾压Stable-Diffusion、Midjourney](https://posts.careerengine.us/p/64b624e717d77a3b2fc7613b) ![](/assets/new.png)  
-- [2023-07-18-探讨大模型趋势对行业数据平台的影响-｜ArchSummit](https://posts.careerengine.us/p/64b624efb0129c3b50606df6) ![](/assets/new.png)  
+- [2023-07-18-Azure-与-OpenAI-联手，为政府机构提供人工智能解决方案](https://posts.careerengine.us/p/64b624e717d77a3b2fc76143)  
+- [2023-07-18-号称业界最强！Meta发布全新文生图模型，实力碾压Stable-Diffusion、Midjourney](https://posts.careerengine.us/p/64b624e717d77a3b2fc7613b)  
+- [2023-07-18-探讨大模型趋势对行业数据平台的影响-｜ArchSummit](https://posts.careerengine.us/p/64b624efb0129c3b50606df6)  
 - [2023-07-17-拖欠天价遣散费、业务一直亏损，内忧外患的-Twitter-还能走多远？](https://posts.careerengine.us/p/64b4d388c861701b0290d801)  
 - [2023-07-17-小白大挑战：24-小时内用-ChatGPT-和-Next.js-开发开源项目，吸引上万用户！](https://posts.careerengine.us/p/64b4d388c861701b0290d809)  
 - [2023-07-16-淘宝天猫取消“P级”制；Meta将发布商用版LLaMA，短期内不会收费；OpenAI将用美联社的报道训练模型-|-AI一周资讯](https://posts.careerengine.us/p/64b4a744bf1df12aedda4ea3)  
