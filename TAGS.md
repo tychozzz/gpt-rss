@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-19 06:00:22。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-19 15:00:16。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -113,17 +113,17 @@
 - [【机器之心】只有GPT-4可以自我改进，GPT-3.5都不行，MIT&微软代码生成实验新发现](https://posts.careerengine.us/p/64a3a407c40eed4505173245)
 - [【机器之心】「羊驼」们走到哪一步了？研究表明：最好的能达到GPT-4性能的68％](https://posts.careerengine.us/p/649fae29b391bb5c56315e48)
 - [【机器之心】英伟达H100用11分钟训完GPT-3，PyTorch创始人：不要只看时间](https://posts.careerengine.us/p/649d830118d7e102119accca)
+- [【量子位】清华造了个游戏公司！十余个ChatGPT上岗，7分钟开发一款游戏](https://posts.careerengine.us/p/64b78739a11ebe118568be6a)
 - [【量子位】Science：ChatGPT缩小了打工人的差距](https://posts.careerengine.us/p/64b4f7e378f4115f533c6af2)
 - [【量子位】ChatGPT时代程序员生存指南，这四步很关键｜IEEE-Spectrum](https://posts.careerengine.us/p/64b227054f9ec3642a050046)
 - [【量子位】全球首款ChatGPT自行车！中国制造，公司成立2年已融千万美元](https://posts.careerengine.us/p/64b0f6ce9060e54e971aad37)
-- [【量子位】牛津剑桥「打脸」允许使用ChatGPT，还手把手教授教程](https://posts.careerengine.us/p/64ae2ef01925a86e0a578864)
-- [【量子位】实测ChatGPT最强插件：0经验5分钟开发游戏](https://posts.careerengine.us/p/64ae2ee487086d6d8beeefbd)
 - [【量子位】ChatGPT最强竞品重磅升级，免费可用！第一手实测在此，网友：有个性](https://posts.careerengine.us/p/64ae2ec88987b96d15edb2e9)
+- [【量子位】实测ChatGPT最强插件：0经验5分钟开发游戏](https://posts.careerengine.us/p/64ae2ee487086d6d8beeefbd)
+- [【量子位】牛津剑桥「打脸」允许使用ChatGPT，还手把手教授教程](https://posts.careerengine.us/p/64ae2ef01925a86e0a578864)
 - [【量子位】谷歌医疗版ChatGPT已在诊所实测！可生成诊断做总结，多个指标和真人医生相当](https://posts.careerengine.us/p/64abe68e73207851a8823095)
 - [【量子位】爆火ChatGPT代码解释器食用指南，来了](https://posts.careerengine.us/p/64aa39d6777ad6242e90d868)
-- [【量子位】医疗版ChatGPT直播评测！治疗方案与真人医生96％一致](https://posts.careerengine.us/p/64a50a4d757ccd6ea6bdfc68)
 - [【量子位】ChatGPT紧急下线联网模式，曾被曝能白嫖付费网页](https://posts.careerengine.us/p/64a50a67269b326ee12fcf91)
-- [【量子位】英伟达H100杀疯了：11分钟训完GPT-3，霸榜8项测试，集群性能逼近线性增长](https://posts.careerengine.us/p/649d742dd905e33ebbfb90c6)
+- [【量子位】医疗版ChatGPT直播评测！治疗方案与真人医生96％一致](https://posts.careerengine.us/p/64a50a4d757ccd6ea6bdfc68)
 - [【量子位】ChatGPT做的简历戳中HR心巴，小伙刚毕业就拿下梦想offer！](https://posts.careerengine.us/p/649d742dd905e33ebbfb90b6)
 - [......【查看更多】......](/details/tags/gpt.md)
 
