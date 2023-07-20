@@ -1,17 +1,17 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-19 15:00:16，:rocket: 更新条数: +11， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-20 08:00:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
-- [ChatGPT](#chatgpt)  
+- [AI前线](#ai前线)  
+- [ChatGPT](#chatgpt)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -52,12 +52,12 @@
 </summary>
 
 
-- [2023-07-19-华为天才少年透露研究课题！背后存储团队发布两大新品，均面向大模型](https://posts.careerengine.us/p/64b7872940cec510bfab14d7) ![](/assets/new.png)  
-- [2023-07-19-开源大模型重击OpenAI！小扎放出LLaMA2炸裂科技圈，联手微软高通冲击市场格局](https://posts.careerengine.us/p/64b7872940cec510bfab14e0) ![](/assets/new.png)  
-- [2023-07-19-清华造了个游戏公司！十余个ChatGPT上岗，7分钟开发一款游戏](https://posts.careerengine.us/p/64b78739a11ebe118568be6a) ![](/assets/new.png)  
-- [2023-07-19-爆火论文“14行代码打败BERT”出现反转！改掉bug性能秒变最差](https://posts.careerengine.us/p/64b7874338510811b18bc1c5) ![](/assets/new.png)  
-- [2023-07-19-AIGC明星独角兽爆雷：100美元买断合伙人15％股份，CEO这波操作闪瞎网友](https://posts.careerengine.us/p/64b7874338510811b18bc1ce) ![](/assets/new.png)  
-- [2023-07-19-AI学语言与人脑极为相似！新研究证明：语言并非人类与生特有的能力，机器也能学丨Nature子刊](https://posts.careerengine.us/p/64b7874f6765b111d302bddf) ![](/assets/new.png)  
+- [2023-07-19-华为天才少年透露研究课题！背后存储团队发布两大新品，均面向大模型](https://posts.careerengine.us/p/64b7872940cec510bfab14d7)  
+- [2023-07-19-开源大模型重击OpenAI！小扎放出LLaMA2炸裂科技圈，联手微软高通冲击市场格局](https://posts.careerengine.us/p/64b7872940cec510bfab14e0)  
+- [2023-07-19-清华造了个游戏公司！十余个ChatGPT上岗，7分钟开发一款游戏](https://posts.careerengine.us/p/64b78739a11ebe118568be6a)  
+- [2023-07-19-爆火论文“14行代码打败BERT”出现反转！改掉bug性能秒变最差](https://posts.careerengine.us/p/64b7874338510811b18bc1c5)  
+- [2023-07-19-AIGC明星独角兽爆雷：100美元买断合伙人15％股份，CEO这波操作闪瞎网友](https://posts.careerengine.us/p/64b7874338510811b18bc1ce)  
+- [2023-07-19-AI学语言与人脑极为相似！新研究证明：语言并非人类与生特有的能力，机器也能学丨Nature子刊](https://posts.careerengine.us/p/64b7874f6765b111d302bddf)  
 - [2023-07-18-中关村科学城科创大赛首场赋能活动成功举办](https://posts.careerengine.us/p/64b61a6b534c4510b53ece97)  
 - [2023-07-18-极少数据就能微调大模型，一文详解LoRA等方法的运作原理](https://posts.careerengine.us/p/64b61a6a534c4510b53ece8f)  
 - [2023-07-18-斯坦福博士独作！大模型训练速度再翻倍，还官宣加入明星创业公司当首席科学家](https://posts.careerengine.us/p/64b61a5c762377107281b961)  
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2023-07-19-招人啦！旷视-MegEagle-创视者计划启动！](https://posts.careerengine.us/p/64b77b62f2387d4a824b2fa4) ![](/assets/new.png)  
-- [2023-07-19-让Attention提速9倍！FlashAttention燃爆显存，Transformer上下文长度史诗级提升](https://posts.careerengine.us/p/64b77b6c42d5f34aac07a1c2) ![](/assets/new.png)  
-- [2023-07-19-​ACL-2023-|-AD-KD：归因驱动的预训练语言模型知识蒸馏框架](https://posts.careerengine.us/p/64b77b6d42d5f34aac07a1ca) ![](/assets/new.png)  
-- [2023-07-19-北京内推-|-京东智能客服团队招聘计算机视觉算法实习生](https://posts.careerengine.us/p/64b77b77c22c224b05a87160) ![](/assets/new.png)  
+- [2023-07-19-招人啦！旷视-MegEagle-创视者计划启动！](https://posts.careerengine.us/p/64b77b62f2387d4a824b2fa4)  
+- [2023-07-19-让Attention提速9倍！FlashAttention燃爆显存，Transformer上下文长度史诗级提升](https://posts.careerengine.us/p/64b77b6c42d5f34aac07a1c2)  
+- [2023-07-19-​ACL-2023-|-AD-KD：归因驱动的预训练语言模型知识蒸馏框架](https://posts.careerengine.us/p/64b77b6d42d5f34aac07a1ca)  
+- [2023-07-19-北京内推-|-京东智能客服团队招聘计算机视觉算法实习生](https://posts.careerengine.us/p/64b77b77c22c224b05a87160)  
 - [2023-07-18-北京内推-|-蚂蚁网商银行智能引擎算法团队招聘研究型/校招实习生](https://posts.careerengine.us/p/64b6acf792645757319793a2)  
 - [2023-07-18-中科大和上海AI-Lab提出FreeDrag：无需点跟踪即可稳定拖动语义内容](https://posts.careerengine.us/p/64b6acec1300d056f6da39d9)  
 - [2023-07-18-科研实习-|-清华——鹏城SIG课题组招收机器人学习方向科研实习生](https://posts.careerengine.us/p/64b6aceb1300d056f6da39d1)  
@@ -174,7 +174,7 @@
 </summary>
 
 
-- [2023-07-19-要想用好GPT，我们必须跑得比“黑客”更快](https://posts.careerengine.us/p/64b7761a9abc2e2bac944827) ![](/assets/new.png)  
+- [2023-07-19-要想用好GPT，我们必须跑得比“黑客”更快](https://posts.careerengine.us/p/64b7761a9abc2e2bac944827)  
 - [2023-07-18-探讨大模型趋势对行业数据平台的影响-｜ArchSummit](https://posts.careerengine.us/p/64b624efb0129c3b50606df6)  
 - [2023-07-18-号称业界最强！Meta发布全新文生图模型，实力碾压Stable-Diffusion、Midjourney](https://posts.careerengine.us/p/64b624e717d77a3b2fc7613b)  
 - [2023-07-18-Azure-与-OpenAI-联手，为政府机构提供人工智能解决方案](https://posts.careerengine.us/p/64b624e717d77a3b2fc76143)  
@@ -205,6 +205,7 @@
 </summary>
 
 
+- [2023-07-19-Higher-message-limits-for-GPT-4-July-19](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e65b44764b) ![](/assets/new.png)  
 - [2023-07-06-Code-interpreter-is-now-rolling-out-in-beta-on-web-July-6](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_398fb5df55)  
 - [2023-07-03-Browsing-is-temporarily-disabled-July-3](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_91d1350d34)  
 - [2023-06-22-Browsing-and-search-on-mobile-June-22](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_b444a710ea)  
