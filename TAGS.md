@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-25 15:01:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-25 18:00:19。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -118,8 +118,8 @@
 - [【机器之心】「羊驼」们走到哪一步了？研究表明：最好的能达到GPT-4性能的68％](https://posts.careerengine.us/p/649fae29b391bb5c56315e48)
 - [【机器之心】英伟达H100用11分钟训完GPT-3，PyTorch创始人：不要只看时间](https://posts.careerengine.us/p/649d830118d7e102119accca)
 - [【量子位】安卓版ChatGPT要来了！](https://posts.careerengine.us/p/64bb57b8b7737237effa9a29)
-- [【量子位】GPT-4计算能力差怎么破？把它当小学生，保证结果跟计算器一样准](https://posts.careerengine.us/p/64ba2acd902f4e4bb9b9cf58)
 - [【量子位】ChatGPT支持个人定制！告别大段提示词，只需先和它做好自我介绍](https://posts.careerengine.us/p/64ba2ac40a801e4b986cbd55)
+- [【量子位】GPT-4计算能力差怎么破？把它当小学生，保证结果跟计算器一样准](https://posts.careerengine.us/p/64ba2acd902f4e4bb9b9cf58)
 - [【量子位】苹果AppleGPT来了，市值猛增710亿美元](https://posts.careerengine.us/p/64b8c9b5d7d4ee28fea7b9cb)
 - [【量子位】清华造了个游戏公司！十余个ChatGPT上岗，7分钟开发一款游戏](https://posts.careerengine.us/p/64b78739a11ebe118568be6a)
 - [【量子位】Science：ChatGPT缩小了打工人的差距](https://posts.careerengine.us/p/64b4f7e378f4115f533c6af2)
@@ -285,6 +285,7 @@
 
 
 - [【机器之心】SIGGRAPH-2023论文奖公布，山大、港大获奖，北大、腾讯光子获提名](https://posts.careerengine.us/p/64abca84b3cf11269246627e)
+- [【量子位】这个让你「看片更爽」的领域，腾讯一次拿了15个世界冠军](https://posts.careerengine.us/p/64bf4d5953865c5f905707ec)
 - [【PaperWeekly】深圳内推-|-腾讯游戏全球数据洞察组招聘数据科学家暑期实习生](https://posts.careerengine.us/p/64ae31c4cd55877f33b37a11)
 - [......【查看更多】......](/details/tags/tencent.md)
 
