@@ -1,17 +1,17 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-25 18:00:19，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-26 06:00:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
-- [ChatGPT](#chatgpt)  
+- [AI前线](#ai前线)  
+- [ChatGPT](#chatgpt)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2023-07-25-这个让你「看片更爽」的领域，腾讯一次拿了15个世界冠军](https://posts.careerengine.us/p/64bf4d5953865c5f905707ec) ![](/assets/new.png)  
-- [2023-07-25-WAIC十大AI商业落地趋势：大模型新玩家融资难度升级，云计算洗牌战来了](https://posts.careerengine.us/p/64bf4d5953865c5f905707e4) ![](/assets/new.png)  
-- [2023-07-25-9块9的AI写真，真能革了照相馆的命？](https://posts.careerengine.us/p/64bf4d5953865c5f905707f4) ![](/assets/new.png)  
-- [2023-07-25-马斯克行动力Max：推特一夜变X，连总部标志都开拆了](https://posts.careerengine.us/p/64bf4d6f1497ad5fe938df0f) ![](/assets/new.png)  
-- [2023-07-25-沈向洋周明杨格大模型激辩：继续爆堆参数，大模型能出现新的「智能涌现」吗？](https://posts.careerengine.us/p/64bf4d701497ad5fe938df1f) ![](/assets/new.png)  
+- [2023-07-25-这个让你「看片更爽」的领域，腾讯一次拿了15个世界冠军](https://posts.careerengine.us/p/64bf4d5953865c5f905707ec)  
+- [2023-07-25-WAIC十大AI商业落地趋势：大模型新玩家融资难度升级，云计算洗牌战来了](https://posts.careerengine.us/p/64bf4d5953865c5f905707e4)  
+- [2023-07-25-9块9的AI写真，真能革了照相馆的命？](https://posts.careerengine.us/p/64bf4d5953865c5f905707f4)  
+- [2023-07-25-马斯克行动力Max：推特一夜变X，连总部标志都开拆了](https://posts.careerengine.us/p/64bf4d6f1497ad5fe938df0f)  
+- [2023-07-25-沈向洋周明杨格大模型激辩：继续爆堆参数，大模型能出现新的「智能涌现」吗？](https://posts.careerengine.us/p/64bf4d701497ad5fe938df1f)  
 - [2023-07-24-虚幻引擎5再现《失控玩家》！游戏NPC在线怀疑人生](https://posts.careerengine.us/p/64be1a223f96892063b81827)  
 - [2023-07-24-GPT-4里套娃LLaMA-2！OpenAI创始成员周末爆改「羊驼宝宝」，GitHub一日千星](https://posts.careerengine.us/p/64be1a194e3c272031f2ff18)  
 - [2023-07-24-马斯克弃掉推特「小蓝鸟」！新logo今晚上线，还拿出压箱底域名](https://posts.careerengine.us/p/64be1a194e3c272031f2ff20)  
@@ -175,7 +175,7 @@
 </summary>
 
 
-- [2023-07-25-第一批因AIGC裁掉自家员工的老板该后悔了？](https://posts.careerengine.us/p/64bf68c806166c716cd431d6) ![](/assets/new.png)  
+- [2023-07-25-第一批因AIGC裁掉自家员工的老板该后悔了？](https://posts.careerengine.us/p/64bf68c806166c716cd431d6)  
 - [2023-07-24-比-JDK-最高快-170-倍，蚂蚁集团开源高性能多语言序列化框架-Fury](https://posts.careerengine.us/p/64be0e408a1ae1572a4cb7c7)  
 - [2023-07-24-使用AI工作后觉得自己像“小白鼠”：工资不变，工作量超级加倍](https://posts.careerengine.us/p/64be0e408a1ae1572a4cb7be)  
 - [2023-07-23-中芯国际董事长辞职；最高年薪600万！多名前OPPO哲库骨干加入国内自动驾驶公司；蒋凡重回阿里合伙人-|-AI一周资讯](https://posts.careerengine.us/p/64bcbbdf46ab9675ac434488)  
@@ -206,6 +206,7 @@
 </summary>
 
 
+- [2023-07-25-Introducing-the-ChatGPT-app-for-Android-July-25](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_74577ea413) ![](/assets/new.png)  
 - [2023-07-20-Custom-instructions-is-rolling-out-in-beta-July-20](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_647a58ba8a)  
 - [2023-07-19-Higher-message-limits-for-GPT-4-July-19](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e65b44764b)  
 - [2023-07-06-Code-interpreter-is-now-rolling-out-in-beta-on-web-July-6](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_398fb5df55)  
