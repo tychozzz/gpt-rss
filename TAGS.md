@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-26 15:00:16。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-27 06:00:15。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -252,6 +252,7 @@
 
 
 
+- [【PaperWeekly】北京内推-|-微软亚洲互联网工程院微软搜索广告算法团队招聘NLP算法实习生](https://posts.careerengine.us/p/64c13ff093b8c152f8e07f19)
 - [......【查看更多】......](/details/tags/microsoft.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
