@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-27 18:00:17，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-28 06:00:15，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,12 +21,12 @@
 </summary>
 
 
-- [2023-07-27-大模型=缸中之脑？通院朱松纯团队剖析AGI关键缺失](https://posts.careerengine.us/p/64c203c8eee3d1540f5e855a) ![](/assets/new.png)  
-- [2023-07-27-首个室温常压超导掀全球热度，数万人正在围观这个中国团队的复现进度](https://posts.careerengine.us/p/64c203c8eee3d1540f5e8562) ![](/assets/new.png)  
-- [2023-07-27-开源文生图模型再进化，Stable-Diffusion-XL-1.0登场，出图效果不输Midjourney](https://posts.careerengine.us/p/64c203d78aa3235448a09907) ![](/assets/new.png)  
-- [2023-07-27-对标Llama-2，OpenAI开源模型G3PO已在路上](https://posts.careerengine.us/p/64c203d78aa3235448a098f7) ![](/assets/new.png)  
-- [2023-07-27-Llama-2第二波划重点：过于「谨慎」、代码生成改进空间大](https://posts.careerengine.us/p/64c203ea21b87f547b5ac0f6) ![](/assets/new.png)  
-- [2023-07-27-Nature封面：AI提高自动驾驶夜视能力，检测黑夜、雾天场景和白天一样](https://posts.careerengine.us/p/64c203ea21b87f547b5ac0e7) ![](/assets/new.png)  
+- [2023-07-27-大模型=缸中之脑？通院朱松纯团队剖析AGI关键缺失](https://posts.careerengine.us/p/64c203c8eee3d1540f5e855a)  
+- [2023-07-27-首个室温常压超导掀全球热度，数万人正在围观这个中国团队的复现进度](https://posts.careerengine.us/p/64c203c8eee3d1540f5e8562)  
+- [2023-07-27-开源文生图模型再进化，Stable-Diffusion-XL-1.0登场，出图效果不输Midjourney](https://posts.careerengine.us/p/64c203d78aa3235448a09907)  
+- [2023-07-27-对标Llama-2，OpenAI开源模型G3PO已在路上](https://posts.careerengine.us/p/64c203d78aa3235448a098f7)  
+- [2023-07-27-Llama-2第二波划重点：过于「谨慎」、代码生成改进空间大](https://posts.careerengine.us/p/64c203ea21b87f547b5ac0f6)  
+- [2023-07-27-Nature封面：AI提高自动驾驶夜视能力，检测黑夜、雾天场景和白天一样](https://posts.careerengine.us/p/64c203ea21b87f547b5ac0e7)  
 - [2023-07-26-KDD-2023-|-GPT时代医学AI新赛道：16万张图片、70万问答对的临床问答数据集MIMIC-Diff-VQA发布](https://posts.careerengine.us/p/64c0a8689bff72303f5d5589)  
 - [2023-07-26-中国最权威的NLP学术会议即将开幕，五大特邀报告公布](https://posts.careerengine.us/p/64c0a8679bff72303f5d5581)  
 - [2023-07-26-MSU世界视频编码器大赛放榜，腾讯包揽全场冠军](https://posts.careerengine.us/p/64c0a8679bff72303f5d5571)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-07-26-​语言模型输出端共享Embedding的重新探索](https://posts.careerengine.us/p/64c13fdc2986f752c36890b1)  
+- [2023-07-27-ICCV-2023-|-动态蛇形卷积（Dynamic-Snake-Convolution）用于管状结构分割](https://posts.careerengine.us/p/64c28d953243ab3bf1ed42bc) ![](/assets/new.png)  
+- [2023-07-27-博士申请-|-佛罗里达大学邵尉老师招收深度学习/CV/医学影像方向全奖博士生](https://posts.careerengine.us/p/64c28da85edca83c47d843ed) ![](/assets/new.png)  
+- [2023-07-27-北京内推-|-百度搜索策略部招聘生成式大模型/搜索排序方向算法工程师](https://posts.careerengine.us/p/64c28da95edca83c47d843f5) ![](/assets/new.png)  
 - [2023-07-26-北京内推-|-微软亚洲互联网工程院微软搜索广告算法团队招聘NLP算法实习生](https://posts.careerengine.us/p/64c13ff093b8c152f8e07f19)  
-- [2023-07-25-北京内推-|-腾讯机器学习平台部招聘AI大模型方向实习生](https://posts.careerengine.us/p/64bf5cb0ea34903451d423c9)  
-- [2023-07-25-ICML-2023-|-清华团队提出使用低维优化求解器求解高维/大规模优化问题](https://posts.careerengine.us/p/64bf5c9a4a0ea833e1f29459)  
-- [2023-07-25-求助！研二发不出论文！](https://posts.careerengine.us/p/64bf5c9a4a0ea833e1f29461)  
-- [2023-07-25-国内首个SIGGRAPH最佳论文奖！山东大学提出全新点云法向估计算法](https://posts.careerengine.us/p/64bf5c994a0ea833e1f29451)  
+- [2023-07-26-​语言模型输出端共享Embedding的重新探索](https://posts.careerengine.us/p/64c13fdc2986f752c36890b1)  
 - [2023-07-25-博后招募-|-香港城市大学多尺度自动化与机器人实验室招聘机器人专业博士后](https://posts.careerengine.us/p/64c13fee93b8c152f8e07f11)  
-- [2023-07-24-ACL-2023-Findings-|-概率句法角度的Transformer诠释](https://posts.careerengine.us/p/64be09e12121913cb443d0ba)  
-- [2023-07-24-并行科技即将上线超万P超算架构大模型算力](https://posts.careerengine.us/p/64be09e12121913cb443d0b1)  
-- [2023-07-24-ICCV-2023-|-PVT++：通用的端对端预测性跟踪框架](https://posts.careerengine.us/p/64be09eb4da88e3ce60a4173)  
+- [2023-07-25-国内首个SIGGRAPH最佳论文奖！山东大学提出全新点云法向估计算法](https://posts.careerengine.us/p/64bf5c994a0ea833e1f29451)  
+- [2023-07-25-求助！研二发不出论文！](https://posts.careerengine.us/p/64bf5c9a4a0ea833e1f29461)  
+- [2023-07-25-ICML-2023-|-清华团队提出使用低维优化求解器求解高维/大规模优化问题](https://posts.careerengine.us/p/64bf5c9a4a0ea833e1f29459)  
+- [2023-07-25-北京内推-|-腾讯机器学习平台部招聘AI大模型方向实习生](https://posts.careerengine.us/p/64bf5cb0ea34903451d423c9)  
 - [2023-07-24-博后招募-|-华为云媒体创新Lab-香港中文大学（深圳）招收联合指导博士后](https://posts.careerengine.us/p/64be09f50454dd3d139d4d66)  
-- [2023-07-22-​Transformer升级之路：RoPE是一种β进制编码](https://posts.careerengine.us/p/64bbf394e314086b581c7cb5)  
-- [2023-07-22-科研实习-|-香港科技大学统计机器学习实验室招募暑期科研实习生](https://posts.careerengine.us/p/64bbf393e314086b581c7ca1)  
+- [2023-07-24-ICCV-2023-|-PVT++：通用的端对端预测性跟踪框架](https://posts.careerengine.us/p/64be09eb4da88e3ce60a4173)  
+- [2023-07-24-并行科技即将上线超万P超算架构大模型算力](https://posts.careerengine.us/p/64be09e12121913cb443d0b1)  
+- [2023-07-24-ACL-2023-Findings-|-概率句法角度的Transformer诠释](https://posts.careerengine.us/p/64be09e12121913cb443d0ba)  
 - [2023-07-22-南洋理工最新视觉语言模型综述：预训练、迁移学习和知识蒸馏啥都有](https://posts.careerengine.us/p/64bbf393e314086b581c7c99)  
-- [2023-07-21-院士专家领衔坐镇，这个算法领域顶尖大赛千万奖池等你来“赢”！](https://posts.careerengine.us/p/64ba0858e84a697dff5aced3)  
-- [2023-07-21-Google提出LaCLIP：大语言模型重写本文输入，让CLIP重焕光彩！](https://posts.careerengine.us/p/64ba0858e84a697dff5acecb)  
-- [2023-07-21-基础模型自监督预训练的数据之谜：大量数据究竟是福还是祸？](https://posts.careerengine.us/p/64ba0859e84a697dff5acedb)  
+- [2023-07-22-科研实习-|-香港科技大学统计机器学习实验室招募暑期科研实习生](https://posts.careerengine.us/p/64bbf393e314086b581c7ca1)  
+- [2023-07-22-​Transformer升级之路：RoPE是一种β进制编码](https://posts.careerengine.us/p/64bbf394e314086b581c7cb5)  
 - [2023-07-21-杭州内推-|-网易云音乐算法团队招聘多模态/NLP方向算法实习生](https://posts.careerengine.us/p/64ba0865d87c6d7e38114a17)  
-- [2023-07-20-博后招募-|-西湖大学机器智能实验室招聘大模型与智能机器人方向博后/RA](https://posts.careerengine.us/p/64b919f1a8aab26f5d687170)  
-- [2023-07-20-我们做了19节最全时序入门课程，从入门到比赛实战](https://posts.careerengine.us/p/64b919e6deca886f06047814)  
+- [2023-07-21-基础模型自监督预训练的数据之谜：大量数据究竟是福还是祸？](https://posts.careerengine.us/p/64ba0859e84a697dff5acedb)  
+- [2023-07-21-Google提出LaCLIP：大语言模型重写本文输入，让CLIP重焕光彩！](https://posts.careerengine.us/p/64ba0858e84a697dff5acecb)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
