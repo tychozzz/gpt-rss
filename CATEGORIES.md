@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-07-27 06:00:15，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-27 15:00:56，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2023-07-26-再下一城！AutoX无人化RoboTaxi登陆北京](https://posts.careerengine.us/p/64c0b98b2a936f0d48bb7920)  
-- [2023-07-26-「首个室温常压超导体」！127度以下常压都能实现超导，有原子结构有视频，网友：里…里程碑式成果？](https://posts.careerengine.us/p/64c0b98b2a936f0d48bb7929)  
-- [2023-07-26-LSTM之父炮轰LLaMA-2：抄我想法还羞辱我！网友：LeCun干的吧？](https://posts.careerengine.us/p/64c0b99c33b30e0d8dd040e9)  
-- [2023-07-26-ChatGPT下架官方检测工具，承认AI文字无法鉴别](https://posts.careerengine.us/p/64c0b99c33b30e0d8dd040f1)  
-- [2023-07-26-ICML杰出论文开奖，北大数院、武汉理工校友获奖，苹果大模型相关研究入选](https://posts.careerengine.us/p/64c0b99d33b30e0d8dd040fa)  
+- [2023-07-27-协作者回应「首个室温常压超导体」：内容有缺陷](https://posts.careerengine.us/p/64c1f9a320f51e193ad3a7d4) ![](/assets/new.png)  
+- [2023-07-27-超大杯Stable-Diffusion免费来袭！「最强文生图开放模型」，提示词也更简单](https://posts.careerengine.us/p/64c1f9a320f51e193ad3a7cc) ![](/assets/new.png)  
+- [2023-07-27-自动驾驶新方法登Nature封面：让黑夜如白昼般清晰，浙大博士一作](https://posts.careerengine.us/p/64c1f9acdb1c5d197cad4fc4) ![](/assets/new.png)  
+- [2023-07-27-大模型论文阅读神器来了！5秒翻译67页论文，直接截图提问，网页可试玩](https://posts.careerengine.us/p/64c1f9b81ae9f519996067ee) ![](/assets/new.png)  
+- [2023-07-27-GPT-4魂穿国产游戏二次元老婆，还是3D的哦](https://posts.careerengine.us/p/64c1f9b81ae9f519996067f7) ![](/assets/new.png)  
+- [2023-07-27-0提示词1张照片生成视频，Gen-2新玩法刷屏！网页版免费可玩](https://posts.careerengine.us/p/64c1f9c2cbb6f619d1be81f2) ![](/assets/new.png)  
 - [2023-07-26-15分钟开发一个机器人，硬件软件都现成，背后还有“三板斧”](https://posts.careerengine.us/p/64c0b9abc4a39e0ddb08aa7b)  
-- [2023-07-25-沈向洋周明杨格大模型激辩：继续爆堆参数，大模型能出现新的「智能涌现」吗？](https://posts.careerengine.us/p/64bf4d701497ad5fe938df1f)  
-- [2023-07-25-马斯克行动力Max：推特一夜变X，连总部标志都开拆了](https://posts.careerengine.us/p/64bf4d6f1497ad5fe938df0f)  
-- [2023-07-25-9块9的AI写真，真能革了照相馆的命？](https://posts.careerengine.us/p/64bf4d5953865c5f905707f4)  
-- [2023-07-25-WAIC十大AI商业落地趋势：大模型新玩家融资难度升级，云计算洗牌战来了](https://posts.careerengine.us/p/64bf4d5953865c5f905707e4)  
+- [2023-07-26-ICML杰出论文开奖，北大数院、武汉理工校友获奖，苹果大模型相关研究入选](https://posts.careerengine.us/p/64c0b99d33b30e0d8dd040fa)  
+- [2023-07-26-ChatGPT下架官方检测工具，承认AI文字无法鉴别](https://posts.careerengine.us/p/64c0b99c33b30e0d8dd040f1)  
+- [2023-07-26-LSTM之父炮轰LLaMA-2：抄我想法还羞辱我！网友：LeCun干的吧？](https://posts.careerengine.us/p/64c0b99c33b30e0d8dd040e9)  
+- [2023-07-26-「首个室温常压超导体」！127度以下常压都能实现超导，有原子结构有视频，网友：里…里程碑式成果？](https://posts.careerengine.us/p/64c0b98b2a936f0d48bb7929)  
+- [2023-07-26-再下一城！AutoX无人化RoboTaxi登陆北京](https://posts.careerengine.us/p/64c0b98b2a936f0d48bb7920)  
 - [2023-07-25-这个让你「看片更爽」的领域，腾讯一次拿了15个世界冠军](https://posts.careerengine.us/p/64bf4d5953865c5f905707ec)  
-- [2023-07-24-初代AIGC明星独角兽，停摆在大模型元年](https://posts.careerengine.us/p/64be1a04d296421fe29911cf)  
-- [2023-07-24-Llama-2首个全方位评测，国内外开源模型大比拼](https://posts.careerengine.us/p/64be1a0f415ebd20109c57d1)  
-- [2023-07-24-马斯克弃掉推特「小蓝鸟」！新logo今晚上线，还拿出压箱底域名](https://posts.careerengine.us/p/64be1a194e3c272031f2ff20)  
-- [2023-07-24-GPT-4里套娃LLaMA-2！OpenAI创始成员周末爆改「羊驼宝宝」，GitHub一日千星](https://posts.careerengine.us/p/64be1a194e3c272031f2ff18)  
+- [2023-07-25-WAIC十大AI商业落地趋势：大模型新玩家融资难度升级，云计算洗牌战来了](https://posts.careerengine.us/p/64bf4d5953865c5f905707e4)  
+- [2023-07-25-9块9的AI写真，真能革了照相馆的命？](https://posts.careerengine.us/p/64bf4d5953865c5f905707f4)  
+- [2023-07-25-马斯克行动力Max：推特一夜变X，连总部标志都开拆了](https://posts.careerengine.us/p/64bf4d6f1497ad5fe938df0f)  
+- [2023-07-25-沈向洋周明杨格大模型激辩：继续爆堆参数，大模型能出现新的「智能涌现」吗？](https://posts.careerengine.us/p/64bf4d701497ad5fe938df1f)  
 - [2023-07-24-虚幻引擎5再现《失控玩家》！游戏NPC在线怀疑人生](https://posts.careerengine.us/p/64be1a223f96892063b81827)  
-- [2023-07-23-一张图转3D质量起飞！GitHub刚建空仓就有300+人赶来标星](https://posts.careerengine.us/p/64bca7d11e19930a3450ccc0)  
-- [2023-07-23-微软全球合伙人姜大昕被曝大模型创业](https://posts.careerengine.us/p/64bca7d11e19930a3450ccb7)  
-- [2023-07-23-港大阿里「视觉AI任意门」，一键向场景中无缝传送物体](https://posts.careerengine.us/p/64bca7d11e19930a3450ccc8)  
-- [2023-07-23-第一批AIGC独角兽开始裁员了](https://posts.careerengine.us/p/64bca7c2ed890e099aecbac3)  
+- [2023-07-24-GPT-4里套娃LLaMA-2！OpenAI创始成员周末爆改「羊驼宝宝」，GitHub一日千星](https://posts.careerengine.us/p/64be1a194e3c272031f2ff18)  
+- [2023-07-24-马斯克弃掉推特「小蓝鸟」！新logo今晚上线，还拿出压箱底域名](https://posts.careerengine.us/p/64be1a194e3c272031f2ff20)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,13 +118,13 @@
 </summary>
 
 
-- [2023-07-26-​语言模型输出端共享Embedding的重新探索](https://posts.careerengine.us/p/64c13fdc2986f752c36890b1) ![](/assets/new.png)  
-- [2023-07-26-北京内推-|-微软亚洲互联网工程院微软搜索广告算法团队招聘NLP算法实习生](https://posts.careerengine.us/p/64c13ff093b8c152f8e07f19) ![](/assets/new.png)  
+- [2023-07-26-​语言模型输出端共享Embedding的重新探索](https://posts.careerengine.us/p/64c13fdc2986f752c36890b1)  
+- [2023-07-26-北京内推-|-微软亚洲互联网工程院微软搜索广告算法团队招聘NLP算法实习生](https://posts.careerengine.us/p/64c13ff093b8c152f8e07f19)  
 - [2023-07-25-北京内推-|-腾讯机器学习平台部招聘AI大模型方向实习生](https://posts.careerengine.us/p/64bf5cb0ea34903451d423c9)  
 - [2023-07-25-ICML-2023-|-清华团队提出使用低维优化求解器求解高维/大规模优化问题](https://posts.careerengine.us/p/64bf5c9a4a0ea833e1f29459)  
 - [2023-07-25-求助！研二发不出论文！](https://posts.careerengine.us/p/64bf5c9a4a0ea833e1f29461)  
 - [2023-07-25-国内首个SIGGRAPH最佳论文奖！山东大学提出全新点云法向估计算法](https://posts.careerengine.us/p/64bf5c994a0ea833e1f29451)  
-- [2023-07-25-博后招募-|-香港城市大学多尺度自动化与机器人实验室招聘机器人专业博士后](https://posts.careerengine.us/p/64c13fee93b8c152f8e07f11) ![](/assets/new.png)  
+- [2023-07-25-博后招募-|-香港城市大学多尺度自动化与机器人实验室招聘机器人专业博士后](https://posts.careerengine.us/p/64c13fee93b8c152f8e07f11)  
 - [2023-07-24-ACL-2023-Findings-|-概率句法角度的Transformer诠释](https://posts.careerengine.us/p/64be09e12121913cb443d0ba)  
 - [2023-07-24-并行科技即将上线超万P超算架构大模型算力](https://posts.careerengine.us/p/64be09e12121913cb443d0b1)  
 - [2023-07-24-ICCV-2023-|-PVT++：通用的端对端预测性跟踪框架](https://posts.careerengine.us/p/64be09eb4da88e3ce60a4173)  
@@ -175,26 +175,26 @@
 </summary>
 
 
-- [2023-07-26-8年了，Transformer注意力机制一直有Bug？](https://posts.careerengine.us/p/64c0b0a4b5c16c5c994fd838)  
+- [2023-07-27-红帽：我们为什么要改变-RHEL-源码的发布策略？](https://posts.careerengine.us/p/64c20408ee1cd5556049e08b) ![](/assets/new.png)  
+- [2023-07-27-ChatGPT攻破图灵测试，是时候找个新方法评估AI技术了](https://posts.careerengine.us/p/64c20408ee1cd5556049e07f) ![](/assets/new.png)  
 - [2023-07-26-Hadoop-上云：-存算分离架构设计与迁移实践](https://posts.careerengine.us/p/64c0b0b809f4d65cd8bb9ac5)  
+- [2023-07-26-8年了，Transformer注意力机制一直有Bug？](https://posts.careerengine.us/p/64c0b0a4b5c16c5c994fd838)  
 - [2023-07-25-第一批因AIGC裁掉自家员工的老板该后悔了？](https://posts.careerengine.us/p/64bf68c806166c716cd431d6)  
-- [2023-07-24-使用AI工作后觉得自己像“小白鼠”：工资不变，工作量超级加倍](https://posts.careerengine.us/p/64be0e408a1ae1572a4cb7be)  
 - [2023-07-24-比-JDK-最高快-170-倍，蚂蚁集团开源高性能多语言序列化框架-Fury](https://posts.careerengine.us/p/64be0e408a1ae1572a4cb7c7)  
-- [2023-07-23-龙蜥操作系统重磅更新：全面支持智能计算，兼容主流-AI-框架](https://posts.careerengine.us/p/64bcbbdf46ab9675ac434480)  
+- [2023-07-24-使用AI工作后觉得自己像“小白鼠”：工资不变，工作量超级加倍](https://posts.careerengine.us/p/64be0e408a1ae1572a4cb7be)  
 - [2023-07-23-中芯国际董事长辞职；最高年薪600万！多名前OPPO哲库骨干加入国内自动驾驶公司；蒋凡重回阿里合伙人-|-AI一周资讯](https://posts.careerengine.us/p/64bcbbdf46ab9675ac434488)  
+- [2023-07-23-龙蜥操作系统重磅更新：全面支持智能计算，兼容主流-AI-框架](https://posts.careerengine.us/p/64bcbbdf46ab9675ac434480)  
 - [2023-07-21-终于找到ChatGPT智商下降的原因了！OpenAI侧面回应，GPT可能真被你们玩坏了？](https://posts.careerengine.us/p/64ba21a67cbd06144ee667ed)  
-- [2023-07-20-探索大模型智能：众安保险基于-AIGC-的应用实践](https://posts.careerengine.us/p/64b8c7b955f09b1e20a61a7f)  
-- [2023-07-20-ChatGPT-提效等十场闭门交流会，即将落地-｜ArchSummit](https://posts.careerengine.us/p/64b8c7b955f09b1e20a61a8a)  
 - [2023-07-20-苹果市值数秒暴涨600亿美元！秘密开发大模型Apple-GPT，员工自曝：复制的ChatGPT！](https://posts.careerengine.us/p/64b8c7a6b8d4181dde6e592e)  
+- [2023-07-20-ChatGPT-提效等十场闭门交流会，即将落地-｜ArchSummit](https://posts.careerengine.us/p/64b8c7b955f09b1e20a61a8a)  
+- [2023-07-20-探索大模型智能：众安保险基于-AIGC-的应用实践](https://posts.careerengine.us/p/64b8c7b955f09b1e20a61a7f)  
 - [2023-07-19-要想用好GPT，我们必须跑得比“黑客”更快](https://posts.careerengine.us/p/64b7761a9abc2e2bac944827)  
-- [2023-07-18-探讨大模型趋势对行业数据平台的影响-｜ArchSummit](https://posts.careerengine.us/p/64b624efb0129c3b50606df6)  
-- [2023-07-18-号称业界最强！Meta发布全新文生图模型，实力碾压Stable-Diffusion、Midjourney](https://posts.careerengine.us/p/64b624e717d77a3b2fc7613b)  
 - [2023-07-18-Azure-与-OpenAI-联手，为政府机构提供人工智能解决方案](https://posts.careerengine.us/p/64b624e717d77a3b2fc76143)  
-- [2023-07-17-小白大挑战：24-小时内用-ChatGPT-和-Next.js-开发开源项目，吸引上万用户！](https://posts.careerengine.us/p/64b4d388c861701b0290d809)  
+- [2023-07-18-号称业界最强！Meta发布全新文生图模型，实力碾压Stable-Diffusion、Midjourney](https://posts.careerengine.us/p/64b624e717d77a3b2fc7613b)  
+- [2023-07-18-探讨大模型趋势对行业数据平台的影响-｜ArchSummit](https://posts.careerengine.us/p/64b624efb0129c3b50606df6)  
 - [2023-07-17-拖欠天价遣散费、业务一直亏损，内忧外患的-Twitter-还能走多远？](https://posts.careerengine.us/p/64b4d388c861701b0290d801)  
-- [2023-07-16-5-天内用户数破亿、增速碾压-ChatGPT，Twitter-劲敌-Threads-是如何构建的？](https://posts.careerengine.us/p/64b4a756cbe6b72ba197bb37)  
+- [2023-07-17-小白大挑战：24-小时内用-ChatGPT-和-Next.js-开发开源项目，吸引上万用户！](https://posts.careerengine.us/p/64b4d388c861701b0290d809)  
 - [2023-07-16-淘宝天猫取消“P级”制；Meta将发布商用版LLaMA，短期内不会收费；OpenAI将用美联社的报道训练模型-|-AI一周资讯](https://posts.careerengine.us/p/64b4a744bf1df12aedda4ea3)  
-- [2023-07-15-Python-吞噬世界，GPT-吞噬-Python！ChatGPT-上线最强应用：分析数据、生成代码都精通](https://posts.careerengine.us/p/64b2303f0b2826160b961d56)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

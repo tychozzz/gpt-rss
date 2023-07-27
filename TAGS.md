@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-27 06:00:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-27 15:00:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -117,14 +117,14 @@
 - [【机器之心】只有GPT-4可以自我改进，GPT-3.5都不行，MIT&微软代码生成实验新发现](https://posts.careerengine.us/p/64a3a407c40eed4505173245)
 - [【机器之心】「羊驼」们走到哪一步了？研究表明：最好的能达到GPT-4性能的68％](https://posts.careerengine.us/p/649fae29b391bb5c56315e48)
 - [【机器之心】英伟达H100用11分钟训完GPT-3，PyTorch创始人：不要只看时间](https://posts.careerengine.us/p/649d830118d7e102119accca)
+- [【量子位】GPT-4魂穿国产游戏二次元老婆，还是3D的哦](https://posts.careerengine.us/p/64c1f9b81ae9f519996067f7)
 - [【量子位】安卓版ChatGPT要来了！](https://posts.careerengine.us/p/64bb57b8b7737237effa9a29)
-- [【量子位】GPT-4计算能力差怎么破？把它当小学生，保证结果跟计算器一样准](https://posts.careerengine.us/p/64ba2acd902f4e4bb9b9cf58)
 - [【量子位】ChatGPT支持个人定制！告别大段提示词，只需先和它做好自我介绍](https://posts.careerengine.us/p/64ba2ac40a801e4b986cbd55)
+- [【量子位】GPT-4计算能力差怎么破？把它当小学生，保证结果跟计算器一样准](https://posts.careerengine.us/p/64ba2acd902f4e4bb9b9cf58)
 - [【量子位】苹果AppleGPT来了，市值猛增710亿美元](https://posts.careerengine.us/p/64b8c9b5d7d4ee28fea7b9cb)
 - [【量子位】清华造了个游戏公司！十余个ChatGPT上岗，7分钟开发一款游戏](https://posts.careerengine.us/p/64b78739a11ebe118568be6a)
 - [【量子位】Science：ChatGPT缩小了打工人的差距](https://posts.careerengine.us/p/64b4f7e378f4115f533c6af2)
 - [【量子位】ChatGPT时代程序员生存指南，这四步很关键｜IEEE-Spectrum](https://posts.careerengine.us/p/64b227054f9ec3642a050046)
-- [【量子位】全球首款ChatGPT自行车！中国制造，公司成立2年已融千万美元](https://posts.careerengine.us/p/64b0f6ce9060e54e971aad37)
 - [......【查看更多】......](/details/tags/gpt.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
