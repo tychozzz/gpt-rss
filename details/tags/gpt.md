@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-30 23:00:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-31 12:00:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## GPT
 
@@ -7,11 +7,11 @@
 
 
 
-- [2023-07-29-在VSCode上跑ChatGPT，文件都能直接生成](https://posts.careerengine.us/p/64c49b571bf52374ab5287da) 
 - [2023-07-29-「真实网络世界」测试场上线：基于GPT-4的智能体也只能跑10.59％成功率](https://posts.careerengine.us/p/64c3e986bbeee8301b2eca75) 
+- [2023-07-29-在VSCode上跑ChatGPT，文件都能直接生成](https://posts.careerengine.us/p/64c49b571bf52374ab5287da) 
 - [2023-07-22-安卓版ChatGPT下周上线，快去预订](https://posts.careerengine.us/p/64bb5dd59434d259e57c689b) 
-- [2023-07-21-清华开了家员工都是GPT的公司，代码、文档一条龙服务](https://posts.careerengine.us/p/64ba0ba5a4db8011cdb77377) 
 - [2023-07-21-ChatGPT推出自定义指令：说一次就记住，每次对话都能遵守](https://posts.careerengine.us/p/64ba0b99ee9e981195a7999e) 
+- [2023-07-21-清华开了家员工都是GPT的公司，代码、文档一条龙服务](https://posts.careerengine.us/p/64ba0ba5a4db8011cdb77377) 
 - [2023-07-20-研究实锤GPT-4真变笨了：3个月内数学能力雪崩式下降，代码能力也变差](https://posts.careerengine.us/p/64b8c4513fc1d20b2bb0e3c1) 
 - [2023-07-19-微软Office全家桶版GPT-4定价每月30美元，Azure牵手Llama-2](https://posts.careerengine.us/p/64b6dedd7eea6b7c43f7caad) 
 - [2023-07-18-ChatGPT代码解释器与Jupyter-Notebook合体，编码能力更强了](https://posts.careerengine.us/p/64b612511ca8fb62cb1afec8) 
