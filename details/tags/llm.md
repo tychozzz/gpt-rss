@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-31 21:00:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-01 12:00:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## LLM
 
@@ -146,6 +146,7 @@
 - [2023-06-28-对话双塔——腾讯视频中的粗排相关性模型](https://posts.careerengine.us/p/649c0e15f79f2d72ed64d44e) 
 - [2023-06-26-教科书级数据is-All-you-Need：1.3B小模型逆袭大模型的秘密](https://posts.careerengine.us/p/649921673d11bd04f2ffc54e) 
 - [2023-06-26-​ICML-2023-|-Unleashing-Mask：挖掘模型的分布外检测能力](https://posts.careerengine.us/p/64992159f1b05504afb66c59) 
+- [2023-08-01-柴洪峰院士：大模型赋能金融科技思考与展望](https://www.52nlp.cn/%e6%9f%b4%e6%b4%aa%e5%b3%b0%e9%99%a2%e5%a3%ab%ef%bc%9a%e5%a4%a7%e6%a8%a1%e5%9e%8b%e8%b5%8b%e8%83%bd%e9%87%91%e8%9e%8d%e7%a7%91%e6%8a%80%e6%80%9d%e8%80%83%e4%b8%8e%e5%b1%95%e6%9c%9b) 
 - [2023-07-14-达观曹植大模型正式对外公测！专注于长文本、多语言、垂直化发展](https://www.52nlp.cn/%e8%be%be%e8%a7%82%e6%9b%b9%e6%a4%8d%e5%a4%a7%e6%a8%a1%e5%9e%8b%e6%ad%a3%e5%bc%8f%e5%af%b9%e5%a4%96%e5%85%ac%e6%b5%8b%ef%bc%81%e4%b8%93%e6%b3%a8%e4%ba%8e%e9%95%bf%e6%96%87%e6%9c%ac%e3%80%81%e5%a4%9a-2) 
 - [2023-07-13-达观曹植大模型正式对外公测！专注于长文本、多语言、垂直化发展](https://www.52nlp.cn/%e8%be%be%e8%a7%82%e6%9b%b9%e6%a4%8d%e5%a4%a7%e6%a8%a1%e5%9e%8b%e6%ad%a3%e5%bc%8f%e5%af%b9%e5%a4%96%e5%85%ac%e6%b5%8b%ef%bc%81%e4%b8%93%e6%b3%a8%e4%ba%8e%e9%95%bf%e6%96%87%e6%9c%ac%e3%80%81%e5%a4%9a) 
 - [2023-04-28-新浪张俊林：大语言模型的涌现能力——现象与解释](https://www.52nlp.cn/%e6%96%b0%e6%b5%aa%e5%bc%a0%e4%bf%8a%e6%9e%97%ef%bc%9a%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e7%9a%84%e6%b6%8c%e7%8e%b0%e8%83%bd%e5%8a%9b-%e7%8e%b0%e8%b1%a1%e4%b8%8e%e8%a7%a3) 
