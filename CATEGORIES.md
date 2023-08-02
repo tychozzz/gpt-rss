@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-01 15:00:18，:rocket: 更新条数: +15， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-02 12:00:18，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,12 +21,12 @@
 </summary>
 
 
-- [2023-08-01-从「生成式AI」转化为「生产力」，亚马逊云科技划出重点](https://posts.careerengine.us/p/64c8a0e569983c627f4d3273) ![](/assets/new.png)  
-- [2023-08-01-爆火Llama-2一周请求下载超15万，有人开源了Rust实现版本](https://posts.careerengine.us/p/64c8a0f2f55a1962cb77b2f3) ![](/assets/new.png)  
-- [2023-08-01-刚刚，常温常压超导首被证明理论可行：美顶尖实验室论文出炉](https://posts.careerengine.us/p/64c8a0f2f55a1962cb77b2e7) ![](/assets/new.png)  
-- [2023-08-01-自由编辑人脸打光：基于生成模型的三维重光照系统上线](https://posts.careerengine.us/p/64c8a0fd04a3da62f5f4caed) ![](/assets/new.png)  
-- [2023-08-01-骁龙8-Gen3首个跑分曝光：「1+3+2+2」配置，多核追上苹果A16](https://posts.careerengine.us/p/64c8a0fe04a3da62f5f4cafd) ![](/assets/new.png)  
-- [2023-08-01-调查分析两百余篇大模型论文，数十位研究者一文综述RLHF的挑战与局限](https://posts.careerengine.us/p/64c8a0fe04a3da62f5f4caf5) ![](/assets/new.png)  
+- [2023-08-01-从「生成式AI」转化为「生产力」，亚马逊云科技划出重点](https://posts.careerengine.us/p/64c8a0e569983c627f4d3273)  
+- [2023-08-01-爆火Llama-2一周请求下载超15万，有人开源了Rust实现版本](https://posts.careerengine.us/p/64c8a0f2f55a1962cb77b2f3)  
+- [2023-08-01-刚刚，常温常压超导首被证明理论可行：美顶尖实验室论文出炉](https://posts.careerengine.us/p/64c8a0f2f55a1962cb77b2e7)  
+- [2023-08-01-自由编辑人脸打光：基于生成模型的三维重光照系统上线](https://posts.careerengine.us/p/64c8a0fd04a3da62f5f4caed)  
+- [2023-08-01-骁龙8-Gen3首个跑分曝光：「1+3+2+2」配置，多核追上苹果A16](https://posts.careerengine.us/p/64c8a0fe04a3da62f5f4cafd)  
+- [2023-08-01-调查分析两百余篇大模型论文，数十位研究者一文综述RLHF的挑战与局限](https://posts.careerengine.us/p/64c8a0fe04a3da62f5f4caf5)  
 - [2023-07-31-国内最权威NLP大会CCL-2023全日程公开，大模型成核心议题](https://posts.careerengine.us/p/64c725cfe84a770fb7e8cba3)  
 - [2023-07-31-分析过688篇大模型论文，这篇论文综述了LLM的当前挑战和应用](https://posts.careerengine.us/p/64c725cfe84a770fb7e8cbab)  
 - [2023-07-31-30％Token就能实现SOTA性能，华为诺亚轻量目标检测器Focus-DETR效率倍增](https://posts.careerengine.us/p/64c725c1c77b5d0f7bd1ada6)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2023-08-01-东南大学教授复现「常温常压超导」全流程来了！初步结果：无超导，弱抗磁](https://posts.careerengine.us/p/64c88efb781b2378bac5c507) ![](/assets/new.png)  
-- [2023-08-01-谷歌用大模型重写超级助手，为推进度先裁员重组！](https://posts.careerengine.us/p/64c88f04e9502d7916ca53e4) ![](/assets/new.png)  
-- [2023-08-01-清华系「自然语言编程神器」上新！支持100+种编程语言，效率upup](https://posts.careerengine.us/p/64c88f04e9502d7916ca53db) ![](/assets/new.png)  
-- [2023-08-01-给自动驾驶AI搞个“外挂”，0.1M就能显著提升运动状态判别力，来自港大&TCL丨开源](https://posts.careerengine.us/p/64c88f25717dc87950681d4e) ![](/assets/new.png)  
-- [2023-07-31-Python团队官宣下线GIL：可选择性关闭](https://posts.careerengine.us/p/64c733c096f953634b8d25ce)  
-- [2023-07-31-寻找AIGC数据标注TOP玩家！中国AIGC数据标注全景报告案例征集启动](https://posts.careerengine.us/p/64c733b86489c0631b2e7e63)  
-- [2023-07-31-何恺明官宣加入MIT，正式回归学术界！](https://posts.careerengine.us/p/64c733b86489c0631b2e7e6b)  
+- [2023-08-02-Agent：OpenAI的下一步，亚马逊云科技站在第5层](https://posts.careerengine.us/p/64c9d2a0df2c316fb6382094) ![](/assets/new.png)  
+- [2023-08-02-你在直播间看到的高清1080P，可能还没720P画质好](https://posts.careerengine.us/p/64c9d2ab90a6ac6fe5cd9108) ![](/assets/new.png)  
+- [2023-08-02-报名开启：AIGC算力沙龙，大咖齐聚分享内行认知](https://posts.careerengine.us/p/64c9d2ab90a6ac6fe5cd9110) ![](/assets/new.png)  
+- [2023-08-02-韩国室温超导一作要求撤稿！论文有缺陷，完善后已转投正规期刊](https://posts.careerengine.us/p/64c9d2b52b10c7706dc9ac6c) ![](/assets/new.png)  
+- [2023-08-02-清华校友立功！谷歌发布首个全科医疗大模型，14项任务SOTA](https://posts.careerengine.us/p/64c9d2be26bca5709d3539ae) ![](/assets/new.png)  
+- [2023-08-02-北大团队用Diffusion升级DragGAN，泛化更强生成质量更高，点一点「大山拔地而起」](https://posts.careerengine.us/p/64c9d2be26bca5709d3539b6) ![](/assets/new.png)  
+- [2023-08-01-给自动驾驶AI搞个“外挂”，0.1M就能显著提升运动状态判别力，来自港大&TCL丨开源](https://posts.careerengine.us/p/64c88f25717dc87950681d4e)  
+- [2023-08-01-清华系「自然语言编程神器」上新！支持100+种编程语言，效率upup](https://posts.careerengine.us/p/64c88f04e9502d7916ca53db)  
+- [2023-08-01-谷歌用大模型重写超级助手，为推进度先裁员重组！](https://posts.careerengine.us/p/64c88f04e9502d7916ca53e4)  
+- [2023-08-01-东南大学教授复现「常温常压超导」全流程来了！初步结果：无超导，弱抗磁](https://posts.careerengine.us/p/64c88efb781b2378bac5c507)  
 - [2023-07-31-「常温常压超导体」被曝实验意外：石英管裂开后才制备出来，华科UP主：初步验证未成功](https://posts.careerengine.us/p/64c733b01b17b462f738e4d5)  
-- [2023-07-30-刚刚，一位机器人戴着毕业帽走出清华](https://posts.careerengine.us/p/64c5e241dbc39909a2287c74)  
-- [2023-07-30-现实版铁甲钢拳！山东3人团队打造史上最快拳击机器人，最低延迟12毫秒](https://posts.careerengine.us/p/64c5e241dbc39909a2287c6b)  
-- [2023-07-30-「人生搜索引擎」登陆iPhone，黑镜成真了](https://posts.careerengine.us/p/64c5e24f9d00cb09ffdc214e)  
-- [2023-07-30-MIT华人博士生将ChatGPT搬进Jupyter，自然语言编程一站式搞定](https://posts.careerengine.us/p/64c5e24f9d00cb09ffdc2146)  
+- [2023-07-31-何恺明官宣加入MIT，正式回归学术界！](https://posts.careerengine.us/p/64c733b86489c0631b2e7e6b)  
+- [2023-07-31-寻找AIGC数据标注TOP玩家！中国AIGC数据标注全景报告案例征集启动](https://posts.careerengine.us/p/64c733b86489c0631b2e7e63)  
+- [2023-07-31-Python团队官宣下线GIL：可选择性关闭](https://posts.careerengine.us/p/64c733c096f953634b8d25ce)  
 - [2023-07-30-SRE自动化工程实践和稳定性运营-|-8月3日TF115-报名](https://posts.careerengine.us/p/64c5e25c6d34a00a46ad0e3c)  
-- [2023-07-29-TF线下活动-|-8月5日，TF112数智驱动的数字化转型，邀您一起来参与！](https://posts.careerengine.us/p/64c4a21f020a341762a5f24c)  
-- [2023-07-29-孙茂松实验室开招硕士！专攻大模型方向，还有博士博后科研助理名额](https://posts.careerengine.us/p/64c4a213b217d917175d460e)  
-- [2023-07-29-GPT-4顶替老板&程序员，这个GitHub项目火上热搜第一，作者：要让AI学会自己迭代自己](https://posts.careerengine.us/p/64c4a20b71c97916f11cdeb0)  
-- [2023-07-29-这种无理数中的无理数，让数学家直呼「根本停不下来」](https://posts.careerengine.us/p/64c4a20b71c97916f11cdeb8)  
-- [2023-07-29-00后华人大模型创业，组队7人挑战langchain，硅谷顶级创始人给了天使投资](https://posts.careerengine.us/p/64c4a1feb2277e16791ddd20)  
-- [2023-07-29-谷歌AGI机器人大招！54人天团憋7个月，强泛化强推理，DeepMind和谷歌大脑合并后新成果](https://posts.careerengine.us/p/64c4a1f74dd3171655811a3b)  
-- [2023-07-29-全球掀复现「室温常压超导体」热潮，中国队已肝十几小时，韩国团队却内讧了](https://posts.careerengine.us/p/64c408133794c65966b1d24e)  
+- [2023-07-30-MIT华人博士生将ChatGPT搬进Jupyter，自然语言编程一站式搞定](https://posts.careerengine.us/p/64c5e24f9d00cb09ffdc2146)  
+- [2023-07-30-「人生搜索引擎」登陆iPhone，黑镜成真了](https://posts.careerengine.us/p/64c5e24f9d00cb09ffdc214e)  
+- [2023-07-30-现实版铁甲钢拳！山东3人团队打造史上最快拳击机器人，最低延迟12毫秒](https://posts.careerengine.us/p/64c5e241dbc39909a2287c6b)  
+- [2023-07-30-刚刚，一位机器人戴着毕业帽走出清华](https://posts.careerengine.us/p/64c5e241dbc39909a2287c74)  
+- [2023-07-29-特斯拉秘密团队被曝光：专门压制负面，熬过虚标阶段](https://posts.careerengine.us/p/64c408308f85695a1ddb1fb9)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2023-08-01-发一篇CCF-B论文有多难？](https://posts.careerengine.us/p/64c89a207790633ac9e691d5) ![](/assets/new.png)  
-- [2023-08-01-​ACL-2023-|-TemplateGEC：通过检测模板改进语法错误纠正](https://posts.careerengine.us/p/64c89a2a9dd5ca3aea7c6b97) ![](/assets/new.png)  
-- [2023-08-01-博士申请-|-新加坡科技设计大学刘俊老师招收计算机视觉/大模型方向全奖博士生](https://posts.careerengine.us/p/64c89a3530e6083b0737a429) ![](/assets/new.png)  
+- [2023-08-01-发一篇CCF-B论文有多难？](https://posts.careerengine.us/p/64c89a207790633ac9e691d5)  
+- [2023-08-01-​ACL-2023-|-TemplateGEC：通过检测模板改进语法错误纠正](https://posts.careerengine.us/p/64c89a2a9dd5ca3aea7c6b97)  
+- [2023-08-01-博士申请-|-新加坡科技设计大学刘俊老师招收计算机视觉/大模型方向全奖博士生](https://posts.careerengine.us/p/64c89a3530e6083b0737a429)  
 - [2023-07-31-博士申请-|-新加坡国立大学张君宇老师课题组招收强化学习方向博士/博后](https://posts.careerengine.us/p/64c7a1868fc81550e642cd23)  
 - [2023-07-31-EI检索稳定！7-9月计算机学术会议盘点，CV/NLP/ML等多方向可投](https://posts.careerengine.us/p/64c7a16aa3a91250899d0bcd)  
 - [2023-07-31-Transformer升级之路：将β进制位置进行到底](https://posts.careerengine.us/p/64c7a16aa3a91250899d0bd5)  
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2023-08-01-年薪超600万，比技术总监还高：电影行业AI产品经理的崛起](https://posts.careerengine.us/p/64c8abb7d984b52206d03000) ![](/assets/new.png)  
-- [2023-08-01-财报会议新时代：如何将-AI-训练成资深-CFO](https://posts.careerengine.us/p/64c8abc99d7426224a9cde37) ![](/assets/new.png)  
+- [2023-08-01-年薪超600万，比技术总监还高：电影行业AI产品经理的崛起](https://posts.careerengine.us/p/64c8abb7d984b52206d03000)  
+- [2023-08-01-财报会议新时代：如何将-AI-训练成资深-CFO](https://posts.careerengine.us/p/64c8abc99d7426224a9cde37)  
 - [2023-07-31-npm-前员工自曝生态内部存在严重-bug-|-附避坑指南](https://posts.careerengine.us/p/64c74f5c72a7080e3b07a110)  
 - [2023-07-31-一场-AI-引发的开源革命迫在眉睫？Hugging-Face-更改文本推理软件许可证，不再“开源”](https://posts.careerengine.us/p/64c74f4d4e6f9d0db10eb55b)  
 - [2023-07-30-消息称短期内蚂蚁重新上市可能性不大；Netflix90万美元年薪招AI产品经理；微软2023财年裁员1.1万人-|-AI一周资讯](https://posts.careerengine.us/p/64c5f6c58de4bf78047783b9)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-01 15:00:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-02 12:00:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -11,6 +11,7 @@
 - [2023-07-16-一张截图生成iPhone应用、还能转成代码、创建网站，升级后谷歌Bard真成了](https://posts.careerengine.us/p/64b37a81149433457e8154f9) 
 - [2023-07-14-谷歌Bard史上最大升级：中文、识图、存档导出能力都来了](https://posts.careerengine.us/p/64b137613b57e74bae33c801) 
 - [2023-06-28-DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89) 
+- [2023-08-02-北大团队用Diffusion升级DragGAN，泛化更强生成质量更高，点一点「大山拔地而起」](https://posts.careerengine.us/p/64c9d2be26bca5709d3539b6) 
 - [2023-07-16-Midjourney最新「平移扩图」玩法，自定义无限延展，轻松创造超长画卷](https://posts.careerengine.us/p/64b4aab3074f163d50ae9a75) 
 - [2023-07-04-文心一言APP国区可下载！免费体验120+玩法，PPT大纲Excel公式一键生成](https://posts.careerengine.us/p/64a3aad81cf43a681c3f51f3) 
 - [2023-07-07-手机也能用文心一言了！百度文心一言-App-正式上架-iOS-平台](https://posts.careerengine.us/p/64a7a4792869b618fe665e61) 
