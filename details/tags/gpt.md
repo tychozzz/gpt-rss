@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-03 21:00:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-04 06:00:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## GPT
 
@@ -54,5 +54,6 @@
 - [2023-07-01-「羊驼」们走到哪一步了？研究表明：最好的能达到GPT-4性能的68％](https://posts.careerengine.us/p/649fae29b391bb5c56315e48) 
 - [2023-06-29-英伟达H100用11分钟训完GPT-3，PyTorch创始人：不要只看时间](https://posts.careerengine.us/p/649d830118d7e102119accca) 
 - [2023-06-28-引领手机向“全知全能”进化！iOS版ChatGPT推出联网模式：集成Bing搜索功能，仅对付费用户开放](https://posts.careerengine.us/p/649bc6e35945ed760ee3f089) 
+- [2023-08-03-Updates-to-ChatGPT-August-3](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_c761ea2ff1) 
 - [2023-07-25-Introducing-the-ChatGPT-app-for-Android-July-25](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_74577ea413) 
 - [2023-07-19-Higher-message-limits-for-GPT-4-July-19](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e65b44764b) 
