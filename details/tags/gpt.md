@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-04 06:00:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-04 15:00:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## GPT
 
@@ -7,11 +7,11 @@
 
 
 
-- [2023-07-29-在VSCode上跑ChatGPT，文件都能直接生成](https://posts.careerengine.us/p/64c49b571bf52374ab5287da) 
 - [2023-07-29-「真实网络世界」测试场上线：基于GPT-4的智能体也只能跑10.59％成功率](https://posts.careerengine.us/p/64c3e986bbeee8301b2eca75) 
+- [2023-07-29-在VSCode上跑ChatGPT，文件都能直接生成](https://posts.careerengine.us/p/64c49b571bf52374ab5287da) 
 - [2023-07-22-安卓版ChatGPT下周上线，快去预订](https://posts.careerengine.us/p/64bb5dd59434d259e57c689b) 
-- [2023-07-21-清华开了家员工都是GPT的公司，代码、文档一条龙服务](https://posts.careerengine.us/p/64ba0ba5a4db8011cdb77377) 
 - [2023-07-21-ChatGPT推出自定义指令：说一次就记住，每次对话都能遵守](https://posts.careerengine.us/p/64ba0b99ee9e981195a7999e) 
+- [2023-07-21-清华开了家员工都是GPT的公司，代码、文档一条龙服务](https://posts.careerengine.us/p/64ba0ba5a4db8011cdb77377) 
 - [2023-07-20-研究实锤GPT-4真变笨了：3个月内数学能力雪崩式下降，代码能力也变差](https://posts.careerengine.us/p/64b8c4513fc1d20b2bb0e3c1) 
 - [2023-07-19-微软Office全家桶版GPT-4定价每月30美元，Azure牵手Llama-2](https://posts.careerengine.us/p/64b6dedd7eea6b7c43f7caad) 
 - [2023-07-18-ChatGPT代码解释器与Jupyter-Notebook合体，编码能力更强了](https://posts.careerengine.us/p/64b612511ca8fb62cb1afec8) 
@@ -40,8 +40,8 @@
 - [2023-07-05-ChatGPT紧急下线联网模式，曾被曝能白嫖付费网页](https://posts.careerengine.us/p/64a50a67269b326ee12fcf91) 
 - [2023-06-29-英伟达H100杀疯了：11分钟训完GPT-3，霸榜8项测试，集群性能逼近线性增长](https://posts.careerengine.us/p/649d742dd905e33ebbfb90c6) 
 - [2023-06-29-ChatGPT做的简历戳中HR心巴，小伙刚毕业就拿下梦想offer！](https://posts.careerengine.us/p/649d742dd905e33ebbfb90b6) 
-- [2023-07-11-GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316) 
 - [2023-07-11-学弟用-ChatGPT-发了一篇顶会…](https://posts.careerengine.us/p/64ace52b7d7f74078357f1b5) 
+- [2023-07-11-GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316) 
 - [2023-06-28-文末送书-|-系统讲解ChatGPT核心原理，教你构建高质量的提示指令](https://posts.careerengine.us/p/649c0e3e94b82a73c3a5a93d) 
 - [2023-04-11-中科院张家俊：ChatGPT中的提示与指令学习](https://www.52nlp.cn/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%bc%a0%e5%ae%b6%e4%bf%8a%ef%bc%9achatgpt%e4%b8%ad%e7%9a%84%e6%8f%90%e7%a4%ba%e4%b8%8e%e6%8c%87%e4%bb%a4%e5%ad%a6%e4%b9%a0) 
 - [2023-03-27-“国产类-ChatGPT-”所存在的差距与挑战-专家圆桌](https://www.52nlp.cn/%e5%9b%bd%e4%ba%a7%e7%b1%bb-chatgpt-%e6%89%80%e5%ad%98%e5%9c%a8%e7%9a%84%e5%b7%ae%e8%b7%9d%e4%b8%8e%e6%8c%91%e6%88%98-%e4%b8%93%e5%ae%b6%e5%9c%86%e6%a1%8c) 
