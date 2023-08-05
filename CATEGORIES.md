@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-05 15:00:24，:rocket: 更新条数: +13， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-05 23:00:23，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,12 +21,12 @@
 </summary>
 
 
-- [2023-08-05-用语言建模世界：UC伯克利多模态世界模型利用语言预测未来](https://posts.careerengine.us/p/64cde1cd667b5a7f1715899a) ![](/assets/new.png)  
-- [2023-08-05-大模型持续技术升级，你需要这样一场干货满满的技术论坛](https://posts.careerengine.us/p/64cde1cd667b5a7f171589a2) ![](/assets/new.png)  
-- [2023-08-05-华为鸿蒙4.0来了：大模型、AI画图能力兼备，还有「实况窗」](https://posts.careerengine.us/p/64cde1db6aaca47f67badeef) ![](/assets/new.png)  
-- [2023-08-05-NeRF基于线稿生成逼真三维人脸，细节风格随意改，论文已上SIGGRAPH](https://posts.careerengine.us/p/64cde1db6aaca47f67badee7) ![](/assets/new.png)  
-- [2023-08-05-一个开源库搞定各类文本到音频生成，Meta发布AudioCraft](https://posts.careerengine.us/p/64cde1e313189b7f8faf6f46) ![](/assets/new.png)  
-- [2023-08-05-汇聚机器学习发展前沿，「第十九届中国机器学习会议」即将开幕](https://posts.careerengine.us/p/64cde1ebc4366c01642bfdea) ![](/assets/new.png)  
+- [2023-08-05-用语言建模世界：UC伯克利多模态世界模型利用语言预测未来](https://posts.careerengine.us/p/64cde1cd667b5a7f1715899a)  
+- [2023-08-05-大模型持续技术升级，你需要这样一场干货满满的技术论坛](https://posts.careerengine.us/p/64cde1cd667b5a7f171589a2)  
+- [2023-08-05-华为鸿蒙4.0来了：大模型、AI画图能力兼备，还有「实况窗」](https://posts.careerengine.us/p/64cde1db6aaca47f67badeef)  
+- [2023-08-05-NeRF基于线稿生成逼真三维人脸，细节风格随意改，论文已上SIGGRAPH](https://posts.careerengine.us/p/64cde1db6aaca47f67badee7)  
+- [2023-08-05-一个开源库搞定各类文本到音频生成，Meta发布AudioCraft](https://posts.careerengine.us/p/64cde1e313189b7f8faf6f46)  
+- [2023-08-05-汇聚机器学习发展前沿，「第十九届中国机器学习会议」即将开幕](https://posts.careerengine.us/p/64cde1ebc4366c01642bfdea)  
 - [2023-08-04-训练大模型之前，你要了解下向量数据库、算力集群、高性能网络技术底座吗？](https://posts.careerengine.us/p/64cc84fc4c861516a2c22cc5)  
 - [2023-08-04-Let’s-Make-It-3D！上交&微软最新开源2D转3D生成研究，Star超过1k星](https://posts.careerengine.us/p/64cc84fc4c861516a2c22cbd)  
 - [2023-08-04-ChatGPT增六项功能，GPT-4成默认模型，可上传文件、用快捷键](https://posts.careerengine.us/p/64cc84ed10c31616569b675e)  
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2023-08-05-8天手搓LK-99成功！业余玩家复现磁悬浮：结果与华科类似](https://posts.careerengine.us/p/64cdcae0da19587ac5ae0878) ![](/assets/new.png)  
-- [2023-08-05-RLHF缺陷完整揭示！MIT哈佛等32位学者联合发布](https://posts.careerengine.us/p/64cdcaeb0022a37b01410ee5) ![](/assets/new.png)  
-- [2023-08-05-马斯克xAI创始成员国内首发声：ChatGPT时代「乱世出英雄」，下一步要多用数学科学数据训练](https://posts.careerengine.us/p/64cdcaeb0022a37b01410ed5) ![](/assets/new.png)  
-- [2023-08-05-年度最绝融资：拿英伟达H100抵押贷款165亿，买更多英伟达GPU扩建10个数据中心](https://posts.careerengine.us/p/64cdcaeb0022a37b01410edd) ![](/assets/new.png)  
-- [2023-08-05-CCF-C³-22@百度：AI大语言模型技术与生态发展丨开始报名](https://posts.careerengine.us/p/64cdcaf7bad5767b8efd8f64) ![](/assets/new.png)  
+- [2023-08-05-8天手搓LK-99成功！业余玩家复现磁悬浮：结果与华科类似](https://posts.careerengine.us/p/64cdcae0da19587ac5ae0878)  
+- [2023-08-05-RLHF缺陷完整揭示！MIT哈佛等32位学者联合发布](https://posts.careerengine.us/p/64cdcaeb0022a37b01410ee5)  
+- [2023-08-05-马斯克xAI创始成员国内首发声：ChatGPT时代「乱世出英雄」，下一步要多用数学科学数据训练](https://posts.careerengine.us/p/64cdcaeb0022a37b01410ed5)  
+- [2023-08-05-年度最绝融资：拿英伟达H100抵押贷款165亿，买更多英伟达GPU扩建10个数据中心](https://posts.careerengine.us/p/64cdcaeb0022a37b01410edd)  
+- [2023-08-05-CCF-C³-22@百度：AI大语言模型技术与生态发展丨开始报名](https://posts.careerengine.us/p/64cdcaf7bad5767b8efd8f64)  
 - [2023-08-04-Meta音频AI三件套爆火：一句话生成流行音乐&音效，还能高保真压缩音频｜开源](https://posts.careerengine.us/p/64ccb1a1068e2c10c324b8ca)  
 - [2023-08-04-ChatGPT学会自己提问题了，还支持多文件上传](https://posts.careerengine.us/p/64ccb194abfd02106f634d52)  
 - [2023-08-04-十亿参数，一键瘦身！「模型减重」神器让大模型狂掉3/4-|-最“in”大模型](https://posts.careerengine.us/p/64ccb194abfd02106f634d4a)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-08-04-本科生狂发三篇顶会，已经卷到如此地步了吗？](https://posts.careerengine.us/p/64cc8371c8bf770d909f06ca)  
-- [2023-08-04-ICML-2023-|-UPop：使用统一渐进剪枝压缩视觉——语言Transformers](https://posts.careerengine.us/p/64cc83824453bd0e0554b6ed)  
-- [2023-08-04-上场，与世界交手-|-地平线2024届秋季校园招聘正式启动](https://posts.careerengine.us/p/64cc838a20ccd30e3b73af6c)  
+- [2023-08-05-文末福利-|-风靡朋友圈的妙鸭相机，到底用了哪些底层技术？](https://posts.careerengine.us/p/64ce50f5c53fdb5d359ccdc3) ![](/assets/new.png)  
+- [2023-08-05-给大模型生成文本发身份证：针对大模型生成文本的可编码水印技术](https://posts.careerengine.us/p/64ce50f5c53fdb5d359ccdbb) ![](/assets/new.png)  
+- [2023-08-05-博士申请-|-阿卜杜拉国王科技大学王帝老师招收机器学习方向全奖博士/硕士/博后](https://posts.careerengine.us/p/64ce5110cc827b5e0eacda4d) ![](/assets/new.png)  
 - [2023-08-04-ICLR-2023｜UniVL-DR：多模态稠密向量检索模型](https://posts.careerengine.us/p/64cc838b20ccd30e3b73af74)  
-- [2023-08-03-北京/杭州内推-|-阿里达摩院视觉技术实验室招聘计算机视觉算法工程师/实习生](https://posts.careerengine.us/p/64cb925eaa3c0f3343d208f8)  
-- [2023-08-03-ICCV-2023-|-token过度聚焦暴露注意力机制弱点，两种模块设计增强视觉Transformer鲁棒性](https://posts.careerengine.us/p/64cb924278916f327eeae9bc)  
+- [2023-08-04-上场，与世界交手-|-地平线2024届秋季校园招聘正式启动](https://posts.careerengine.us/p/64cc838a20ccd30e3b73af6c)  
+- [2023-08-04-ICML-2023-|-UPop：使用统一渐进剪枝压缩视觉——语言Transformers](https://posts.careerengine.us/p/64cc83824453bd0e0554b6ed)  
+- [2023-08-04-本科生狂发三篇顶会，已经卷到如此地步了吗？](https://posts.careerengine.us/p/64cc8371c8bf770d909f06ca)  
 - [2023-08-03-从感知到理解——融合语言模型的多模态大模型研究](https://posts.careerengine.us/p/64cb924278916f327eeae9c4)  
-- [2023-08-02-KDD-2023-|-认知进化搜索：基于交叉特征选择的点击率预估算法](https://posts.careerengine.us/p/64c9e81fbbfe3c7afa1b44a7)  
-- [2023-08-02-阿里公开文生图研究新进展，提出组合式的多概念定制生成方法](https://posts.careerengine.us/p/64c9e828f7c8ec7b2110a222)  
+- [2023-08-03-ICCV-2023-|-token过度聚焦暴露注意力机制弱点，两种模块设计增强视觉Transformer鲁棒性](https://posts.careerengine.us/p/64cb924278916f327eeae9bc)  
+- [2023-08-03-北京/杭州内推-|-阿里达摩院视觉技术实验室招聘计算机视觉算法工程师/实习生](https://posts.careerengine.us/p/64cb925eaa3c0f3343d208f8)  
 - [2023-08-02-博士申请-|-香港中文大学（深圳）马晨昊老师招收数据挖掘方向全奖博士/硕士/RA](https://posts.careerengine.us/p/64c9e828f7c8ec7b2110a22a)  
-- [2023-08-01-博士申请-|-新加坡科技设计大学刘俊老师招收计算机视觉/大模型方向全奖博士生](https://posts.careerengine.us/p/64c89a3530e6083b0737a429)  
-- [2023-08-01-​ACL-2023-|-TemplateGEC：通过检测模板改进语法错误纠正](https://posts.careerengine.us/p/64c89a2a9dd5ca3aea7c6b97)  
+- [2023-08-02-阿里公开文生图研究新进展，提出组合式的多概念定制生成方法](https://posts.careerengine.us/p/64c9e828f7c8ec7b2110a222)  
+- [2023-08-02-KDD-2023-|-认知进化搜索：基于交叉特征选择的点击率预估算法](https://posts.careerengine.us/p/64c9e81fbbfe3c7afa1b44a7)  
 - [2023-08-01-发一篇CCF-B论文有多难？](https://posts.careerengine.us/p/64c89a207790633ac9e691d5)  
-- [2023-07-31-Transformer升级之路：将β进制位置进行到底](https://posts.careerengine.us/p/64c7a16aa3a91250899d0bd5)  
-- [2023-07-31-EI检索稳定！7-9月计算机学术会议盘点，CV/NLP/ML等多方向可投](https://posts.careerengine.us/p/64c7a16aa3a91250899d0bcd)  
+- [2023-08-01-​ACL-2023-|-TemplateGEC：通过检测模板改进语法错误纠正](https://posts.careerengine.us/p/64c89a2a9dd5ca3aea7c6b97)  
+- [2023-08-01-博士申请-|-新加坡科技设计大学刘俊老师招收计算机视觉/大模型方向全奖博士生](https://posts.careerengine.us/p/64c89a3530e6083b0737a429)  
 - [2023-07-31-博士申请-|-新加坡国立大学张君宇老师课题组招收强化学习方向博士/博后](https://posts.careerengine.us/p/64c7a1868fc81550e642cd23)  
-- [2023-07-30-北京内推-|-高德地图视觉技术中心招聘计算机视觉算法实习生](https://posts.careerengine.us/p/64c66506e53cc854a6010ba0)  
-- [2023-07-30-博士申请-|-香港理工大学张晓革老师课题组招收机器学习方向博士/博后/RA](https://posts.careerengine.us/p/64c664f6e1ba5153380423ca)  
+- [2023-07-31-EI检索稳定！7-9月计算机学术会议盘点，CV/NLP/ML等多方向可投](https://posts.careerengine.us/p/64c7a16aa3a91250899d0bcd)  
+- [2023-07-31-Transformer升级之路：将β进制位置进行到底](https://posts.careerengine.us/p/64c7a16aa3a91250899d0bd5)  
 - [2023-07-30-一文速览ICML-2023测试时自适应/在线学习相关论文](https://posts.careerengine.us/p/64c664ec2d1a5451ac8f6094)  
-- [2023-07-29-Determinantal-Point-Process：机器学习中行列式的妙用](https://posts.careerengine.us/p/64c40c672bcd37701c657745)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2023-08-05-顶级黑客组织出手，将推出新的反数据收集开源框架Veilid：用Rust编写，已有10万行代码](https://posts.careerengine.us/p/64cddf6412e891747ecdd107) ![](/assets/new.png)  
-- [2023-08-05-解锁-Serverless-新进展：与-AIGC-结合会有哪些搞头？](https://posts.careerengine.us/p/64cddf6da41b0474adc342b7) ![](/assets/new.png)  
+- [2023-08-05-顶级黑客组织出手，将推出新的反数据收集开源框架Veilid：用Rust编写，已有10万行代码](https://posts.careerengine.us/p/64cddf6412e891747ecdd107)  
+- [2023-08-05-解锁-Serverless-新进展：与-AIGC-结合会有哪些搞头？](https://posts.careerengine.us/p/64cddf6da41b0474adc342b7)  
 - [2023-08-04-日增320TB数据，从ClickHouse迁移至ByConity后，查询性能十分稳定！](https://posts.careerengine.us/p/64cc8e42eb516846e7283d02)  
 - [2023-08-04-大模型时代的程序员：不会用AIGC编程，未来5年将被淘汰？](https://posts.careerengine.us/p/64cc8e33f71cab469e740214)  
 - [2023-08-03-程序员的未来：工作和学习都要依赖-AI-了？](https://posts.careerengine.us/p/64cb3cd18ce621210f217ae4)  
