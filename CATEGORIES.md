@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-06 15:00:36，:rocket: 更新条数: +9， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-06 21:00:37，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-08-06-第一个LK-99完全悬浮的视频出现了，具备磁通钉扎特性？技术细节即将公布](https://posts.careerengine.us/p/64cf1bf9c075884aac0aa6e1) ![](/assets/new.png)  
-- [2023-08-06-ABCNet、Deep-TextSpotter、SEE、FOTS…你都掌握了吗？一文总结OCR必备经典模型（三）](https://posts.careerengine.us/p/64cf1bf9c075884aac0aa6f1) ![](/assets/new.png)  
-- [2023-08-06-毫末智行艾锐谈自动驾驶大模型：全新范式是「生存」必选项](https://posts.careerengine.us/p/64cf1c0243010a4afb6f9036) ![](/assets/new.png)  
-- [2023-08-06-检测并消除瑕疵，DeSRA让真实场景超分中的GAN更加完美](https://posts.careerengine.us/p/64cf1c0243010a4afb6f902d) ![](/assets/new.png)  
-- [2023-08-06-风靡朋友圈的妙鸭相机，到底用了哪些底层技术？](https://posts.careerengine.us/p/64cf1c0a6bf5534b1c8c0ded) ![](/assets/new.png)  
+- [2023-08-06-第一个LK-99完全悬浮的视频出现了，具备磁通钉扎特性？技术细节即将公布](https://posts.careerengine.us/p/64cf1bf9c075884aac0aa6e1)  
+- [2023-08-06-ABCNet、Deep-TextSpotter、SEE、FOTS…你都掌握了吗？一文总结OCR必备经典模型（三）](https://posts.careerengine.us/p/64cf1bf9c075884aac0aa6f1)  
+- [2023-08-06-毫末智行艾锐谈自动驾驶大模型：全新范式是「生存」必选项](https://posts.careerengine.us/p/64cf1c0243010a4afb6f9036)  
+- [2023-08-06-检测并消除瑕疵，DeSRA让真实场景超分中的GAN更加完美](https://posts.careerengine.us/p/64cf1c0243010a4afb6f902d)  
+- [2023-08-06-风靡朋友圈的妙鸭相机，到底用了哪些底层技术？](https://posts.careerengine.us/p/64cf1c0a6bf5534b1c8c0ded)  
 - [2023-08-05-汇聚机器学习发展前沿，「第十九届中国机器学习会议」即将开幕](https://posts.careerengine.us/p/64cde1ebc4366c01642bfdea)  
 - [2023-08-05-一个开源库搞定各类文本到音频生成，Meta发布AudioCraft](https://posts.careerengine.us/p/64cde1e313189b7f8faf6f46)  
 - [2023-08-05-NeRF基于线稿生成逼真三维人脸，细节风格随意改，论文已上SIGGRAPH](https://posts.careerengine.us/p/64cde1db6aaca47f67badee7)  
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2023-08-06-「编辑器之神Vim」之父去世，网友：他改变了很多人的一生](https://posts.careerengine.us/p/64cf1fb7b4b5bf6242a921ae) ![](/assets/new.png)  
-- [2023-08-06-首个LK-99完全悬浮视频引争议，网友：若真，将是开创性的](https://posts.careerengine.us/p/64cf1fb7b4b5bf6242a921a6) ![](/assets/new.png)  
-- [2023-08-06-机器人也不怕被忽悠瘸了（doge）](https://posts.careerengine.us/p/64cf1fbf58c7b16269a145a0) ![](/assets/new.png)  
-- [2023-08-06-多模态大模型进展及应用-|-8月10日TF116报名](https://posts.careerengine.us/p/64cf1fcee087a662bd153ede) ![](/assets/new.png)  
+- [2023-08-06-「编辑器之神Vim」之父去世，网友：他改变了很多人的一生](https://posts.careerengine.us/p/64cf1fb7b4b5bf6242a921ae)  
+- [2023-08-06-首个LK-99完全悬浮视频引争议，网友：若真，将是开创性的](https://posts.careerengine.us/p/64cf1fb7b4b5bf6242a921a6)  
+- [2023-08-06-机器人也不怕被忽悠瘸了（doge）](https://posts.careerengine.us/p/64cf1fbf58c7b16269a145a0)  
+- [2023-08-06-多模态大模型进展及应用-|-8月10日TF116报名](https://posts.careerengine.us/p/64cf1fcee087a662bd153ede)  
 - [2023-08-05-CCF-C³-22@百度：AI大语言模型技术与生态发展丨开始报名](https://posts.careerengine.us/p/64cdcaf7bad5767b8efd8f64)  
 - [2023-08-05-年度最绝融资：拿英伟达H100抵押贷款165亿，买更多英伟达GPU扩建10个数据中心](https://posts.careerengine.us/p/64cdcaeb0022a37b01410edd)  
 - [2023-08-05-马斯克xAI创始成员国内首发声：ChatGPT时代「乱世出英雄」，下一步要多用数学科学数据训练](https://posts.careerengine.us/p/64cdcaeb0022a37b01410ed5)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-08-05-文末福利-|-风靡朋友圈的妙鸭相机，到底用了哪些底层技术？](https://posts.careerengine.us/p/64ce50f5c53fdb5d359ccdc3)  
-- [2023-08-05-给大模型生成文本发身份证：针对大模型生成文本的可编码水印技术](https://posts.careerengine.us/p/64ce50f5c53fdb5d359ccdbb)  
+- [2023-08-06-生成扩散模型漫谈：作为扩散ODE的GAN](https://posts.careerengine.us/p/64cf9654eab33d0eb4a82d6d) ![](/assets/new.png)  
+- [2023-08-06-ICCV-2023-|-Actformer：从单人到多人，迈向更加通用的3D人体动作生成](https://posts.careerengine.us/p/64cf96655c94fc0efc115a9b) ![](/assets/new.png)  
+- [2023-08-06-文末送书-|-王小川、朱军等大咖好评！生成式AI模型的理论、应用与代码实践](https://posts.careerengine.us/p/64cf96655c94fc0efc115a93) ![](/assets/new.png)  
+- [2023-08-06-成都内推-|-腾讯游戏王者荣耀算法团队招聘推荐算法实习生](https://posts.careerengine.us/p/64cf9675d9f5c20f5496ad19) ![](/assets/new.png)  
 - [2023-08-05-博士申请-|-阿卜杜拉国王科技大学王帝老师招收机器学习方向全奖博士/硕士/博后](https://posts.careerengine.us/p/64ce5110cc827b5e0eacda4d)  
-- [2023-08-04-ICLR-2023｜UniVL-DR：多模态稠密向量检索模型](https://posts.careerengine.us/p/64cc838b20ccd30e3b73af74)  
-- [2023-08-04-上场，与世界交手-|-地平线2024届秋季校园招聘正式启动](https://posts.careerengine.us/p/64cc838a20ccd30e3b73af6c)  
-- [2023-08-04-ICML-2023-|-UPop：使用统一渐进剪枝压缩视觉——语言Transformers](https://posts.careerengine.us/p/64cc83824453bd0e0554b6ed)  
+- [2023-08-05-给大模型生成文本发身份证：针对大模型生成文本的可编码水印技术](https://posts.careerengine.us/p/64ce50f5c53fdb5d359ccdbb)  
+- [2023-08-05-文末福利-|-风靡朋友圈的妙鸭相机，到底用了哪些底层技术？](https://posts.careerengine.us/p/64ce50f5c53fdb5d359ccdc3)  
 - [2023-08-04-本科生狂发三篇顶会，已经卷到如此地步了吗？](https://posts.careerengine.us/p/64cc8371c8bf770d909f06ca)  
-- [2023-08-03-从感知到理解——融合语言模型的多模态大模型研究](https://posts.careerengine.us/p/64cb924278916f327eeae9c4)  
-- [2023-08-03-ICCV-2023-|-token过度聚焦暴露注意力机制弱点，两种模块设计增强视觉Transformer鲁棒性](https://posts.careerengine.us/p/64cb924278916f327eeae9bc)  
+- [2023-08-04-ICML-2023-|-UPop：使用统一渐进剪枝压缩视觉——语言Transformers](https://posts.careerengine.us/p/64cc83824453bd0e0554b6ed)  
+- [2023-08-04-上场，与世界交手-|-地平线2024届秋季校园招聘正式启动](https://posts.careerengine.us/p/64cc838a20ccd30e3b73af6c)  
+- [2023-08-04-ICLR-2023｜UniVL-DR：多模态稠密向量检索模型](https://posts.careerengine.us/p/64cc838b20ccd30e3b73af74)  
 - [2023-08-03-北京/杭州内推-|-阿里达摩院视觉技术实验室招聘计算机视觉算法工程师/实习生](https://posts.careerengine.us/p/64cb925eaa3c0f3343d208f8)  
-- [2023-08-02-博士申请-|-香港中文大学（深圳）马晨昊老师招收数据挖掘方向全奖博士/硕士/RA](https://posts.careerengine.us/p/64c9e828f7c8ec7b2110a22a)  
-- [2023-08-02-阿里公开文生图研究新进展，提出组合式的多概念定制生成方法](https://posts.careerengine.us/p/64c9e828f7c8ec7b2110a222)  
+- [2023-08-03-ICCV-2023-|-token过度聚焦暴露注意力机制弱点，两种模块设计增强视觉Transformer鲁棒性](https://posts.careerengine.us/p/64cb924278916f327eeae9bc)  
+- [2023-08-03-从感知到理解——融合语言模型的多模态大模型研究](https://posts.careerengine.us/p/64cb924278916f327eeae9c4)  
 - [2023-08-02-KDD-2023-|-认知进化搜索：基于交叉特征选择的点击率预估算法](https://posts.careerengine.us/p/64c9e81fbbfe3c7afa1b44a7)  
-- [2023-08-01-发一篇CCF-B论文有多难？](https://posts.careerengine.us/p/64c89a207790633ac9e691d5)  
-- [2023-08-01-​ACL-2023-|-TemplateGEC：通过检测模板改进语法错误纠正](https://posts.careerengine.us/p/64c89a2a9dd5ca3aea7c6b97)  
+- [2023-08-02-阿里公开文生图研究新进展，提出组合式的多概念定制生成方法](https://posts.careerengine.us/p/64c9e828f7c8ec7b2110a222)  
+- [2023-08-02-博士申请-|-香港中文大学（深圳）马晨昊老师招收数据挖掘方向全奖博士/硕士/RA](https://posts.careerengine.us/p/64c9e828f7c8ec7b2110a22a)  
 - [2023-08-01-博士申请-|-新加坡科技设计大学刘俊老师招收计算机视觉/大模型方向全奖博士生](https://posts.careerengine.us/p/64c89a3530e6083b0737a429)  
-- [2023-07-31-博士申请-|-新加坡国立大学张君宇老师课题组招收强化学习方向博士/博后](https://posts.careerengine.us/p/64c7a1868fc81550e642cd23)  
-- [2023-07-31-EI检索稳定！7-9月计算机学术会议盘点，CV/NLP/ML等多方向可投](https://posts.careerengine.us/p/64c7a16aa3a91250899d0bcd)  
-- [2023-07-31-Transformer升级之路：将β进制位置进行到底](https://posts.careerengine.us/p/64c7a16aa3a91250899d0bd5)  
-- [2023-07-30-一文速览ICML-2023测试时自适应/在线学习相关论文](https://posts.careerengine.us/p/64c664ec2d1a5451ac8f6094)  
+- [2023-08-01-​ACL-2023-|-TemplateGEC：通过检测模板改进语法错误纠正](https://posts.careerengine.us/p/64c89a2a9dd5ca3aea7c6b97)  
+- [2023-08-01-发一篇CCF-B论文有多难？](https://posts.careerengine.us/p/64c89a207790633ac9e691d5)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
