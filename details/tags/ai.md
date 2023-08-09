@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-09 15:00:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-10 06:00:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -217,4 +217,5 @@
 - [2023-06-27-AI-时代背景下的平台工程之路-|-极客有约](https://posts.careerengine.us/p/649a69f0148b5046ba004224) 
 - [2023-06-26-35-亿+66-亿参数双模型，消费级显卡上也能跑！Stability-AI-发布重大升级，生成图像真假难辨](https://posts.careerengine.us/p/6499243af942d70f77acc5b3) 
 - [2023-06-26-生成式AI搭台，Data+Analytics唱戏：-Snowflake、Databricks-2023年度大会前瞻](https://posts.careerengine.us/p/6499244181d48f0fc98a1608) 
+- [2023-08-10-Custom-instructions-are-now-available-to-free-users-August-9,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_88eefa0552) 
 - [2023-05-24-iOS-app-available-in-more-countries,-shared-links-in-alpha,-Bing-Plugin,-disable-history-on-iOS-May-24](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_461971b989) 
