@@ -1,17 +1,17 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-10 06:00:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-10 21:00:16，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
-- [ChatGPT](#chatgpt)![](/assets/dot.png)   
+- [ChatGPT](#chatgpt)  
 
 ## 文章链接
 
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-08-09-接近真相？LK-99类超导最可能由Cu_2S结构相变导致，中国科学院物理所论文也来了](https://posts.careerengine.us/p/64d31ce620366b4a3ac56c1c)  
-- [2023-08-09-一个人也能开发大模型？动手前你还需要这些实战技术](https://posts.careerengine.us/p/64d31ce620366b4a3ac56c24)  
-- [2023-08-09-KDD-2023奖项出炉：港中文、港科大等获最佳论文奖，GNN大牛Leskovec获创新奖](https://posts.careerengine.us/p/64d31cf3beeef44a7409c44e)  
-- [2023-08-09-英伟达生成式AI超级芯片GH200，两倍H100算力，黄仁勋：它会疯狂推理](https://posts.careerengine.us/p/64d31d014d2dc74aa76a97f3)  
-- [2023-08-09-百川发布530亿大模型，融入搜索能力：第一时间内测体验已来](https://posts.careerengine.us/p/64d31d014d2dc74aa76a97eb)  
+- [2023-08-10-斯坦福的「虚拟小镇」开源了：25个AI智能体照进《西部世界》](https://posts.careerengine.us/p/64d4c093c723147caec0627c) ![](/assets/new.png)  
+- [2023-08-10-A卡跑大模型，性能达到4090的80％，价格只有一半：陈天奇TVM团队出品](https://posts.careerengine.us/p/64d4c093c723147caec0628b) ![](/assets/new.png)  
+- [2023-08-10-人类：我觉得1+1=956446，你觉得呢？大模型：啊对对对](https://posts.careerengine.us/p/64d4c094c723147caec062a1) ![](/assets/new.png)  
 - [2023-08-09-提供实习证明和奖学金！面向本科生、研究生的-AI-夏令营来了！](https://posts.careerengine.us/p/64d31d0d3d701e4ae33795a1)  
-- [2023-08-07-GitHub-1.1万星，模拟软件开发流程，开源框架MetaGPT爆火](https://posts.careerengine.us/p/64d07acac0897f345bfe08d2)  
-- [2023-08-07-性能超越Llama2-13B，可免费商用，姚星创业公司开源百亿参数通用大模型](https://posts.careerengine.us/p/64d07acac0897f345bfe08db)  
-- [2023-08-07-清华发布SmartMoE：一键实现高性能MoE稀疏大模型分布式训练](https://posts.careerengine.us/p/64d07acac0897f345bfe08e3)  
-- [2023-08-07-陶哲轩：以我的数学经验，室温超导LK-99和复现有很大启发性](https://posts.careerengine.us/p/64d07ac0e571e334337135ab)  
+- [2023-08-09-百川发布530亿大模型，融入搜索能力：第一时间内测体验已来](https://posts.careerengine.us/p/64d31d014d2dc74aa76a97eb)  
+- [2023-08-09-英伟达生成式AI超级芯片GH200，两倍H100算力，黄仁勋：它会疯狂推理](https://posts.careerengine.us/p/64d31d014d2dc74aa76a97f3)  
+- [2023-08-09-KDD-2023奖项出炉：港中文、港科大等获最佳论文奖，GNN大牛Leskovec获创新奖](https://posts.careerengine.us/p/64d31cf3beeef44a7409c44e)  
+- [2023-08-09-一个人也能开发大模型？动手前你还需要这些实战技术](https://posts.careerengine.us/p/64d31ce620366b4a3ac56c24)  
+- [2023-08-09-接近真相？LK-99类超导最可能由Cu_2S结构相变导致，中国科学院物理所论文也来了](https://posts.careerengine.us/p/64d31ce620366b4a3ac56c1c)  
 - [2023-08-07-你有没深入想过，什么造成了GPT-4的输出很随机？](https://posts.careerengine.us/p/64d07ac0e571e334337135a3)  
-- [2023-08-06-第一个LK-99完全悬浮的视频出现了，具备磁通钉扎特性？技术细节即将公布](https://posts.careerengine.us/p/64cf1bf9c075884aac0aa6e1)  
-- [2023-08-06-ABCNet、Deep-TextSpotter、SEE、FOTS…你都掌握了吗？一文总结OCR必备经典模型（三）](https://posts.careerengine.us/p/64cf1bf9c075884aac0aa6f1)  
-- [2023-08-06-毫末智行艾锐谈自动驾驶大模型：全新范式是「生存」必选项](https://posts.careerengine.us/p/64cf1c0243010a4afb6f9036)  
-- [2023-08-06-检测并消除瑕疵，DeSRA让真实场景超分中的GAN更加完美](https://posts.careerengine.us/p/64cf1c0243010a4afb6f902d)  
+- [2023-08-07-陶哲轩：以我的数学经验，室温超导LK-99和复现有很大启发性](https://posts.careerengine.us/p/64d07ac0e571e334337135ab)  
+- [2023-08-07-清华发布SmartMoE：一键实现高性能MoE稀疏大模型分布式训练](https://posts.careerengine.us/p/64d07acac0897f345bfe08e3)  
+- [2023-08-07-性能超越Llama2-13B，可免费商用，姚星创业公司开源百亿参数通用大模型](https://posts.careerengine.us/p/64d07acac0897f345bfe08db)  
+- [2023-08-07-GitHub-1.1万星，模拟软件开发流程，开源框架MetaGPT爆火](https://posts.careerengine.us/p/64d07acac0897f345bfe08d2)  
 - [2023-08-06-风靡朋友圈的妙鸭相机，到底用了哪些底层技术？](https://posts.careerengine.us/p/64cf1c0a6bf5534b1c8c0ded)  
-- [2023-08-05-汇聚机器学习发展前沿，「第十九届中国机器学习会议」即将开幕](https://posts.careerengine.us/p/64cde1ebc4366c01642bfdea)  
-- [2023-08-05-一个开源库搞定各类文本到音频生成，Meta发布AudioCraft](https://posts.careerengine.us/p/64cde1e313189b7f8faf6f46)  
-- [2023-08-05-NeRF基于线稿生成逼真三维人脸，细节风格随意改，论文已上SIGGRAPH](https://posts.careerengine.us/p/64cde1db6aaca47f67badee7)  
-- [2023-08-05-华为鸿蒙4.0来了：大模型、AI画图能力兼备，还有「实况窗」](https://posts.careerengine.us/p/64cde1db6aaca47f67badeef)  
+- [2023-08-06-检测并消除瑕疵，DeSRA让真实场景超分中的GAN更加完美](https://posts.careerengine.us/p/64cf1c0243010a4afb6f902d)  
+- [2023-08-06-毫末智行艾锐谈自动驾驶大模型：全新范式是「生存」必选项](https://posts.careerengine.us/p/64cf1c0243010a4afb6f9036)  
+- [2023-08-06-ABCNet、Deep-TextSpotter、SEE、FOTS…你都掌握了吗？一文总结OCR必备经典模型（三）](https://posts.careerengine.us/p/64cf1bf9c075884aac0aa6f1)  
+- [2023-08-06-第一个LK-99完全悬浮的视频出现了，具备磁通钉扎特性？技术细节即将公布](https://posts.careerengine.us/p/64cf1bf9c075884aac0aa6e1)  
+- [2023-08-05-用语言建模世界：UC伯克利多模态世界模型利用语言预测未来](https://posts.careerengine.us/p/64cde1cd667b5a7f1715899a)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2023-08-09-老黄发布最强AIGC芯片！内存容量暴增近50％，可运行任意大模型，“生成式AI的iPhone时刻已来”](https://posts.careerengine.us/p/64d31a02e85e2937f96dfc7e)  
-- [2023-08-09-「更可能是磁体！」普林斯顿LK-99研究支持北大结果，38页论文提出铜替代铅或不可行](https://posts.careerengine.us/p/64d31a04e85e2937f96dfc86)  
-- [2023-08-09-如何优化ChatGLM-6B？一行代码就行-|-最“in”大模型](https://posts.careerengine.us/p/64d31a05e85e2937f96dfc8e)  
-- [2023-08-09-贾佳亚团队提出LISA大模型：理解人话「分割一切」，在线可玩](https://posts.careerengine.us/p/64d31a0d6000a538231018a5)  
-- [2023-08-09-王小川月更大模型：530亿参数但闭源，现场拷问室温超导相关问题](https://posts.careerengine.us/p/64d31a1651f1ed388912169e)  
+- [2023-08-10-清华朱军大模型公司又融钱了！已内测数十亿参数多模态扩散模型，年内将推AI工具集](https://posts.careerengine.us/p/64d4c00e7e9f06798dbc202e) ![](/assets/new.png)  
 - [2023-08-09-上下文1.6万token的编程大模型来了！与Stable-Diffusion出自同门，一次吃5个Python文件不费劲](https://posts.careerengine.us/p/64d31a1fff5d9538b93660fd)  
-- [2023-08-07-马斯克小扎「笼中格斗」要开直播了！网友用AI自制“预告片”嗨皮起来了](https://posts.careerengine.us/p/64d0780f68fae42396fb4fe0)  
-- [2023-08-07-保护大模型应用安全，现在不需要拿性能做代价了-|-最“in”大模型](https://posts.careerengine.us/p/64d07806d8de6e2369d85929)  
-- [2023-08-07-宁德时代闯入世界500强！上半年每天赚1.19亿元，比亚迪跃迁224名成中国最大黑马](https://posts.careerengine.us/p/64d07806d8de6e2369d85931)  
-- [2023-08-07-国产130亿参数大模型免费商用！性能超Llama2-13B，支持8k上下文，哈工大已用上](https://posts.careerengine.us/p/64d077f68111a822e8ed9874)  
-- [2023-08-07-LK99最新吃瓜：完全悬浮后续遇难点、韩国作者称“超导是唯一可能的解释”，印度团队3次失败后放弃](https://posts.careerengine.us/p/64d077ef7658ac22d0c8102f)  
+- [2023-08-09-王小川月更大模型：530亿参数但闭源，现场拷问室温超导相关问题](https://posts.careerengine.us/p/64d31a1651f1ed388912169e)  
+- [2023-08-09-贾佳亚团队提出LISA大模型：理解人话「分割一切」，在线可玩](https://posts.careerengine.us/p/64d31a0d6000a538231018a5)  
+- [2023-08-09-如何优化ChatGLM-6B？一行代码就行-|-最“in”大模型](https://posts.careerengine.us/p/64d31a05e85e2937f96dfc8e)  
+- [2023-08-09-「更可能是磁体！」普林斯顿LK-99研究支持北大结果，38页论文提出铜替代铅或不可行](https://posts.careerengine.us/p/64d31a04e85e2937f96dfc86)  
+- [2023-08-09-老黄发布最强AIGC芯片！内存容量暴增近50％，可运行任意大模型，“生成式AI的iPhone时刻已来”](https://posts.careerengine.us/p/64d31a02e85e2937f96dfc7e)  
 - [2023-08-07-Llama2等30+模型接入千帆大模型平台，推理成本降50％！还有超全Prompt模板开放体验](https://posts.careerengine.us/p/64d077e64ff2c52297463f71)  
-- [2023-08-06-「编辑器之神Vim」之父去世，网友：他改变了很多人的一生](https://posts.careerengine.us/p/64cf1fb7b4b5bf6242a921ae)  
-- [2023-08-06-首个LK-99完全悬浮视频引争议，网友：若真，将是开创性的](https://posts.careerengine.us/p/64cf1fb7b4b5bf6242a921a6)  
-- [2023-08-06-机器人也不怕被忽悠瘸了（doge）](https://posts.careerengine.us/p/64cf1fbf58c7b16269a145a0)  
+- [2023-08-07-LK99最新吃瓜：完全悬浮后续遇难点、韩国作者称“超导是唯一可能的解释”，印度团队3次失败后放弃](https://posts.careerengine.us/p/64d077ef7658ac22d0c8102f)  
+- [2023-08-07-国产130亿参数大模型免费商用！性能超Llama2-13B，支持8k上下文，哈工大已用上](https://posts.careerengine.us/p/64d077f68111a822e8ed9874)  
+- [2023-08-07-宁德时代闯入世界500强！上半年每天赚1.19亿元，比亚迪跃迁224名成中国最大黑马](https://posts.careerengine.us/p/64d07806d8de6e2369d85931)  
+- [2023-08-07-保护大模型应用安全，现在不需要拿性能做代价了-|-最“in”大模型](https://posts.careerengine.us/p/64d07806d8de6e2369d85929)  
+- [2023-08-07-马斯克小扎「笼中格斗」要开直播了！网友用AI自制“预告片”嗨皮起来了](https://posts.careerengine.us/p/64d0780f68fae42396fb4fe0)  
 - [2023-08-06-多模态大模型进展及应用-|-8月10日TF116报名](https://posts.careerengine.us/p/64cf1fcee087a662bd153ede)  
-- [2023-08-05-CCF-C³-22@百度：AI大语言模型技术与生态发展丨开始报名](https://posts.careerengine.us/p/64cdcaf7bad5767b8efd8f64)  
-- [2023-08-05-年度最绝融资：拿英伟达H100抵押贷款165亿，买更多英伟达GPU扩建10个数据中心](https://posts.careerengine.us/p/64cdcaeb0022a37b01410edd)  
-- [2023-08-05-马斯克xAI创始成员国内首发声：ChatGPT时代「乱世出英雄」，下一步要多用数学科学数据训练](https://posts.careerengine.us/p/64cdcaeb0022a37b01410ed5)  
+- [2023-08-06-机器人也不怕被忽悠瘸了（doge）](https://posts.careerengine.us/p/64cf1fbf58c7b16269a145a0)  
+- [2023-08-06-首个LK-99完全悬浮视频引争议，网友：若真，将是开创性的](https://posts.careerengine.us/p/64cf1fb7b4b5bf6242a921a6)  
+- [2023-08-06-「编辑器之神Vim」之父去世，网友：他改变了很多人的一生](https://posts.careerengine.us/p/64cf1fb7b4b5bf6242a921ae)  
+- [2023-08-05-8天手搓LK-99成功！业余玩家复现磁悬浮：结果与华科类似](https://posts.careerengine.us/p/64cdcae0da19587ac5ae0878)  
 - [2023-08-05-RLHF缺陷完整揭示！MIT哈佛等32位学者联合发布](https://posts.careerengine.us/p/64cdcaeb0022a37b01410ee5)  
+- [2023-08-05-马斯克xAI创始成员国内首发声：ChatGPT时代「乱世出英雄」，下一步要多用数学科学数据训练](https://posts.careerengine.us/p/64cdcaeb0022a37b01410ed5)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -207,7 +207,7 @@
 </summary>
 
 
-- [2023-08-10-Custom-instructions-are-now-available-to-free-users-August-9,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_88eefa0552) ![](/assets/new.png)  
+- [2023-08-10-Custom-instructions-are-now-available-to-free-users-August-9,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_88eefa0552)  
 - [2023-08-03-Updates-to-ChatGPT-August-3](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_c761ea2ff1)  
 - [2023-07-25-Introducing-the-ChatGPT-app-for-Android-July-25](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_74577ea413)  
 - [2023-07-20-Custom-instructions-is-rolling-out-in-beta-July-20](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_647a58ba8a)  
