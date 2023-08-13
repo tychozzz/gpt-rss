@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-13 21:00:17，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-13 23:00:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -8,9 +8,9 @@
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2023-08-13-Transformer升级之路：无限外推的ReRoPE？](https://posts.careerengine.us/p/64d8d11bb149a413a6b3ed57) ![](/assets/new.png)  
-- [2023-08-13-ACL-2023杰出论文-|-探测语言模型对本体知识的记忆与理解](https://posts.careerengine.us/p/64d8d12aff777c13fa86273c) ![](/assets/new.png)  
-- [2023-08-13-文末送书-|-清华朱文武教授团队全新力作：迈向动态开放环境的图表征学习](https://posts.careerengine.us/p/64d8d12aff777c13fa862734) ![](/assets/new.png)  
-- [2023-08-13-北京内推-|-美团搜索推荐算法部NLP中心招聘大模型算法实习生](https://posts.careerengine.us/p/64d8d133fb60bc14325f5283) ![](/assets/new.png)  
+- [2023-08-13-Transformer升级之路：无限外推的ReRoPE？](https://posts.careerengine.us/p/64d8d11bb149a413a6b3ed57)  
+- [2023-08-13-ACL-2023杰出论文-|-探测语言模型对本体知识的记忆与理解](https://posts.careerengine.us/p/64d8d12aff777c13fa86273c)  
+- [2023-08-13-文末送书-|-清华朱文武教授团队全新力作：迈向动态开放环境的图表征学习](https://posts.careerengine.us/p/64d8d12aff777c13fa862734)  
+- [2023-08-13-北京内推-|-美团搜索推荐算法部NLP中心招聘大模型算法实习生](https://posts.careerengine.us/p/64d8d133fb60bc14325f5283)  
 - [2023-08-12-科研实习-|-南方科技大学——腾讯优图实验室招收视觉语言大模型方向访问实习生](https://posts.careerengine.us/p/64d7063842068a67fc0dde93)  
 - [2023-08-12-ICCV-2023-|-只需过一次CLIP！美团&港大提出高效的开放字典语义分割框架DeOP](https://posts.careerengine.us/p/64d70629462d0367e2edaa4c)  
 - [2023-08-12-量化联赛-|-第二期订单撮合系统设计大赛，诚邀各位Quant挑战](https://posts.careerengine.us/p/64d7061d9658996775cf51fd)  
@@ -176,26 +176,26 @@
 </summary>
 
 
+- [2023-08-13-阿里等大厂豪掷50亿美元买英伟达芯片；寒武纪被爆裁员，硬件部分只保留少数员工；小米曝光64亿参数AI大模型｜AI一周资讯](https://posts.careerengine.us/p/64d8e03a6eaab274591e6fbb) ![](/assets/new.png)  
 - [2023-08-12-超越-GPT-4！加州大学伯克利分校与微软研究院合作开源大型语言模型-Gorilla](https://posts.careerengine.us/p/64d719c61672813bffaccb87)  
-- [2023-08-11-Python-失宠！Hugging-Face-用-Rust-新写了一个-ML框架，现已低调开源](https://posts.careerengine.us/p/64d6ec5af8d891786eb384dc)  
 - [2023-08-11-对话无服务器专家-Luca-Mezzalira：你真的为-Serverless-X-AI-做好准备了吗？](https://posts.careerengine.us/p/64d5c86b0490416dc787f91a)  
-- [2023-08-09-英伟达全球首发超级AI芯片：比上一代快50％，训练大模型成本更低](https://posts.careerengine.us/p/64d3263eb1bcbb052e9df22d)  
+- [2023-08-11-Python-失宠！Hugging-Face-用-Rust-新写了一个-ML框架，现已低调开源](https://posts.careerengine.us/p/64d6ec5af8d891786eb384dc)  
 - [2023-08-09-马斯克拿下极品域名-AI.com：曾被-OpenAI-斥资千万美元买下，不到一年就易主了？](https://posts.careerengine.us/p/64d3263eb1bcbb052e9df235)  
+- [2023-08-09-英伟达全球首发超级AI芯片：比上一代快50％，训练大模型成本更低](https://posts.careerengine.us/p/64d3263eb1bcbb052e9df22d)  
 - [2023-08-08-会议内容被拿去训练大模型！Zoom：我的AI功能可不“白给”](https://posts.careerengine.us/p/64d327ee8693ff0fb140c2ef)  
 - [2023-08-07-英伟达、云厂商们也没有H100余粮了！未来全球顶级芯片缺口达40多万张](https://posts.careerengine.us/p/64d0839b3b79776acdfeb773)  
 - [2023-08-06-英伟达挖走小鹏自动驾驶负责人；爱奇艺被曝VR业务停摆、全员欠薪；室温超导新进展：韩国学会称LK-99并非超导体-|-AI一周资讯](https://posts.careerengine.us/p/64d0843aff2f4c6eab10878e)  
-- [2023-08-05-解锁-Serverless-新进展：与-AIGC-结合会有哪些搞头？](https://posts.careerengine.us/p/64cddf6da41b0474adc342b7)  
 - [2023-08-05-顶级黑客组织出手，将推出新的反数据收集开源框架Veilid：用Rust编写，已有10万行代码](https://posts.careerengine.us/p/64cddf6412e891747ecdd107)  
-- [2023-08-04-大模型时代的程序员：不会用AIGC编程，未来5年将被淘汰？](https://posts.careerengine.us/p/64cc8e33f71cab469e740214)  
+- [2023-08-05-解锁-Serverless-新进展：与-AIGC-结合会有哪些搞头？](https://posts.careerengine.us/p/64cddf6da41b0474adc342b7)  
 - [2023-08-04-日增320TB数据，从ClickHouse迁移至ByConity后，查询性能十分稳定！](https://posts.careerengine.us/p/64cc8e42eb516846e7283d02)  
+- [2023-08-04-大模型时代的程序员：不会用AIGC编程，未来5年将被淘汰？](https://posts.careerengine.us/p/64cc8e33f71cab469e740214)  
 - [2023-08-03-程序员的未来：工作和学习都要依赖-AI-了？](https://posts.careerengine.us/p/64cb3cd18ce621210f217ae4)  
 - [2023-08-02-OpenAI-已为-GPT-5-申请商标，GPT-5-要来了？](https://posts.careerengine.us/p/64c9ec0060723d156942ed9f)  
-- [2023-08-01-财报会议新时代：如何将-AI-训练成资深-CFO](https://posts.careerengine.us/p/64c8abc99d7426224a9cde37)  
 - [2023-08-01-年薪超600万，比技术总监还高：电影行业AI产品经理的崛起](https://posts.careerengine.us/p/64c8abb7d984b52206d03000)  
-- [2023-07-31-一场-AI-引发的开源革命迫在眉睫？Hugging-Face-更改文本推理软件许可证，不再“开源”](https://posts.careerengine.us/p/64c74f4d4e6f9d0db10eb55b)  
+- [2023-08-01-财报会议新时代：如何将-AI-训练成资深-CFO](https://posts.careerengine.us/p/64c8abc99d7426224a9cde37)  
 - [2023-07-31-npm-前员工自曝生态内部存在严重-bug-|-附避坑指南](https://posts.careerengine.us/p/64c74f5c72a7080e3b07a110)  
-- [2023-07-30-盛夏七月，ArchSummit-深圳会议圆满结束，聚焦-AI-和大模型，精彩丰呈](https://posts.careerengine.us/p/64c5f6d6779f4d788dafaf7b)  
-- [2023-07-30-“初代”数字孪生巨头，如何把虚拟孪生应用于产品全生命周期管理](https://posts.careerengine.us/p/64c5f6c58de4bf78047783c9)  
+- [2023-07-31-一场-AI-引发的开源革命迫在眉睫？Hugging-Face-更改文本推理软件许可证，不再“开源”](https://posts.careerengine.us/p/64c74f4d4e6f9d0db10eb55b)  
+- [2023-07-30-消息称短期内蚂蚁重新上市可能性不大；Netflix90万美元年薪招AI产品经理；微软2023财年裁员1.1万人-|-AI一周资讯](https://posts.careerengine.us/p/64c5f6c58de4bf78047783b9)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
