@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-15 21:00:21，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-16 15:00:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -8,9 +8,9 @@
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2023-08-15-已发80余篇SCI论文，985教授分享3个月发表顶刊顶会的秘密](https://posts.careerengine.us/p/64db55931edd8b1d3a67293f) ![](/assets/new.png)  
-- [2023-08-15-UCLA发布SciBench，评估大语言模型的科学问题解决能力](https://posts.careerengine.us/p/64db55941edd8b1d3a672948) ![](/assets/new.png)  
-- [2023-08-15-北京内推-|-微软研究院AI4Science招聘蛋白质优化与药物研发AI实习生](https://posts.careerengine.us/p/64db559d57c2851d5c65264c) ![](/assets/new.png)  
-- [2023-08-15-CVPR-2023-|-改动一行代码，PyTorch训练三倍提速，这些高级技术是关键](https://posts.careerengine.us/p/64db559d57c2851d5c652643) ![](/assets/new.png)  
+- [2023-08-15-已发80余篇SCI论文，985教授分享3个月发表顶刊顶会的秘密](https://posts.careerengine.us/p/64db55931edd8b1d3a67293f)  
+- [2023-08-15-UCLA发布SciBench，评估大语言模型的科学问题解决能力](https://posts.careerengine.us/p/64db55941edd8b1d3a672948)  
+- [2023-08-15-北京内推-|-微软研究院AI4Science招聘蛋白质优化与药物研发AI实习生](https://posts.careerengine.us/p/64db559d57c2851d5c65264c)  
+- [2023-08-15-CVPR-2023-|-改动一行代码，PyTorch训练三倍提速，这些高级技术是关键](https://posts.careerengine.us/p/64db559d57c2851d5c652643)  
 - [2023-08-14-梯度下降算法数十年传统思路被打破：最优化问题中步长越大、收敛速度越快](https://posts.careerengine.us/p/64d9bce157f0bc042016d267)  
 - [2023-08-14-博士申请-|-​纽约州立大学石溪分校刘毅老师招收Graph-AI方向全奖博士生](https://posts.careerengine.us/p/64d9bce157f0bc042016d26f)  
 - [2023-08-14-ICCV-2023-|-HumanSD：更可控更高效的人体图像生成模型](https://posts.careerengine.us/p/64d9bcd79f04af03fb327029)  
@@ -176,25 +176,25 @@
 </summary>
 
 
+- [2023-08-16-年薪-80W！大厂掀起-AI-人才大战（内附知识库）-|-极客时间](https://posts.careerengine.us/p/64dc5fc6aec4ac355b60cdea) ![](/assets/new.png)  
 - [2023-08-14-OpenAI或于2024年底破产？大模型太烧钱了，快把OpenAI烧没了！](https://posts.careerengine.us/p/64d9bcbcba6a0d036c659b3f)  
 - [2023-08-13-阿里等大厂豪掷50亿美元买英伟达芯片；寒武纪被爆裁员，硬件部分只保留少数员工；小米曝光64亿参数AI大模型｜AI一周资讯](https://posts.careerengine.us/p/64d8e03a6eaab274591e6fbb)  
 - [2023-08-12-超越-GPT-4！加州大学伯克利分校与微软研究院合作开源大型语言模型-Gorilla](https://posts.careerengine.us/p/64d719c61672813bffaccb87)  
-- [2023-08-11-Python-失宠！Hugging-Face-用-Rust-新写了一个-ML框架，现已低调开源](https://posts.careerengine.us/p/64d6ec5af8d891786eb384dc)  
 - [2023-08-11-对话无服务器专家-Luca-Mezzalira：你真的为-Serverless-X-AI-做好准备了吗？](https://posts.careerengine.us/p/64d5c86b0490416dc787f91a)  
-- [2023-08-10-OpenAI-推出网络爬虫-GPTBot，引发网站抵御潮：信息被爬走就很可能意味着永远无法删除](https://posts.careerengine.us/p/64d9bccefd4eca03a3aae7ee)  
+- [2023-08-11-Python-失宠！Hugging-Face-用-Rust-新写了一个-ML框架，现已低调开源](https://posts.careerengine.us/p/64d6ec5af8d891786eb384dc)  
 - [2023-08-10-重磅：中国首款财务领域大模型来了！金蝶正式推出苍穹GPT](https://posts.careerengine.us/p/64d9bccefd4eca03a3aae7df)  
-- [2023-08-09-英伟达全球首发超级AI芯片：比上一代快50％，训练大模型成本更低](https://posts.careerengine.us/p/64d3263eb1bcbb052e9df22d)  
+- [2023-08-10-OpenAI-推出网络爬虫-GPTBot，引发网站抵御潮：信息被爬走就很可能意味着永远无法删除](https://posts.careerengine.us/p/64d9bccefd4eca03a3aae7ee)  
 - [2023-08-09-马斯克拿下极品域名-AI.com：曾被-OpenAI-斥资千万美元买下，不到一年就易主了？](https://posts.careerengine.us/p/64d3263eb1bcbb052e9df235)  
+- [2023-08-09-英伟达全球首发超级AI芯片：比上一代快50％，训练大模型成本更低](https://posts.careerengine.us/p/64d3263eb1bcbb052e9df22d)  
 - [2023-08-08-会议内容被拿去训练大模型！Zoom：我的AI功能可不“白给”](https://posts.careerengine.us/p/64d327ee8693ff0fb140c2ef)  
 - [2023-08-07-英伟达、云厂商们也没有H100余粮了！未来全球顶级芯片缺口达40多万张](https://posts.careerengine.us/p/64d0839b3b79776acdfeb773)  
 - [2023-08-06-英伟达挖走小鹏自动驾驶负责人；爱奇艺被曝VR业务停摆、全员欠薪；室温超导新进展：韩国学会称LK-99并非超导体-|-AI一周资讯](https://posts.careerengine.us/p/64d0843aff2f4c6eab10878e)  
-- [2023-08-05-解锁-Serverless-新进展：与-AIGC-结合会有哪些搞头？](https://posts.careerengine.us/p/64cddf6da41b0474adc342b7)  
 - [2023-08-05-顶级黑客组织出手，将推出新的反数据收集开源框架Veilid：用Rust编写，已有10万行代码](https://posts.careerengine.us/p/64cddf6412e891747ecdd107)  
-- [2023-08-04-大模型时代的程序员：不会用AIGC编程，未来5年将被淘汰？](https://posts.careerengine.us/p/64cc8e33f71cab469e740214)  
+- [2023-08-05-解锁-Serverless-新进展：与-AIGC-结合会有哪些搞头？](https://posts.careerengine.us/p/64cddf6da41b0474adc342b7)  
 - [2023-08-04-日增320TB数据，从ClickHouse迁移至ByConity后，查询性能十分稳定！](https://posts.careerengine.us/p/64cc8e42eb516846e7283d02)  
+- [2023-08-04-大模型时代的程序员：不会用AIGC编程，未来5年将被淘汰？](https://posts.careerengine.us/p/64cc8e33f71cab469e740214)  
 - [2023-08-03-程序员的未来：工作和学习都要依赖-AI-了？](https://posts.careerengine.us/p/64cb3cd18ce621210f217ae4)  
 - [2023-08-02-OpenAI-已为-GPT-5-申请商标，GPT-5-要来了？](https://posts.careerengine.us/p/64c9ec0060723d156942ed9f)  
-- [2023-08-01-财报会议新时代：如何将-AI-训练成资深-CFO](https://posts.careerengine.us/p/64c8abc99d7426224a9cde37)  
 - [2023-08-01-年薪超600万，比技术总监还高：电影行业AI产品经理的崛起](https://posts.careerengine.us/p/64c8abb7d984b52206d03000)  
 - [......【查看更多】......](/details/AI前线.md)
 
