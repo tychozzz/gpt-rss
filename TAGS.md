@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-08-17 15:00:24。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-08-17 18:00:19。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -123,8 +123,8 @@
 - [【机器之心】只有GPT-4可以自我改进，GPT-3.5都不行，MIT&微软代码生成实验新发现](https://posts.careerengine.us/p/64a3a407c40eed4505173245)
 - [【机器之心】「羊驼」们走到哪一步了？研究表明：最好的能达到GPT-4性能的68％](https://posts.careerengine.us/p/649fae29b391bb5c56315e48)
 - [【机器之心】英伟达H100用11分钟训完GPT-3，PyTorch创始人：不要只看时间](https://posts.careerengine.us/p/649d830118d7e102119accca)
+- [【量子位】GPT-4数学再提30分，代码解析器任督二脉被打开，网友：像大脑的工作方式](https://posts.careerengine.us/p/64dde42c13d53f6d0e7a6dd5)
 - [【量子位】ChatGPT学会自己提问题了，还支持多文件上传](https://posts.careerengine.us/p/64ccb194abfd02106f634d52)
-- [【量子位】MIT华人博士生将ChatGPT搬进Jupyter，自然语言编程一站式搞定](https://posts.careerengine.us/p/64c5e24f9d00cb09ffdc2146)
 - [......【查看更多】......](/details/tags/gpt.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -145,6 +145,7 @@
 - [【机器之心】一张截图生成iPhone应用、还能转成代码、创建网站，升级后谷歌Bard真成了](https://posts.careerengine.us/p/64b37a81149433457e8154f9)
 - [【机器之心】谷歌Bard史上最大升级：中文、识图、存档导出能力都来了](https://posts.careerengine.us/p/64b137613b57e74bae33c801)
 - [【机器之心】DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89)
+- [【量子位】一周工作5分钟完成！新版文心一言实测：秒秒钟出广告片，几句话搞定代码，办公科研生产力直接ProMax](https://posts.careerengine.us/p/64dde4139a78ad6ca6d36434)
 - [【量子位】北大团队用Diffusion升级DragGAN，泛化更强生成质量更高，点一点「大山拔地而起」](https://posts.careerengine.us/p/64c9d2be26bca5709d3539b6)
 - [【量子位】Midjourney最新「平移扩图」玩法，自定义无限延展，轻松创造超长画卷](https://posts.careerengine.us/p/64b4aab3074f163d50ae9a75)
 - [【量子位】文心一言APP国区可下载！免费体验120+玩法，PPT大纲Excel公式一键生成](https://posts.careerengine.us/p/64a3aad81cf43a681c3f51f3)
