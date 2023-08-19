@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-19 15:00:18，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-19 23:00:21，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,10 +21,10 @@
 </summary>
 
 
-- [2023-08-19-Llama2开源后，国产大模型在卷什么？](https://posts.careerengine.us/p/64e0566f6043212be7d8c894) ![](/assets/new.png)  
-- [2023-08-19-仅用三张图，合成高质量的3D场景，NTU提出SparseNeRF](https://posts.careerengine.us/p/64e05684263d1a2c6863c287) ![](/assets/new.png)  
-- [2023-08-19-用别的模型权重训练神经网络，改神经元不影响输出：英伟达神奇研究](https://posts.careerengine.us/p/64e05685263d1a2c6863c2a7) ![](/assets/new.png)  
-- [2023-08-19-快手APP内测「AI对话」](https://posts.careerengine.us/p/64e05685263d1a2c6863c29f) ![](/assets/new.png)  
+- [2023-08-19-Llama2开源后，国产大模型在卷什么？](https://posts.careerengine.us/p/64e0566f6043212be7d8c894)  
+- [2023-08-19-仅用三张图，合成高质量的3D场景，NTU提出SparseNeRF](https://posts.careerengine.us/p/64e05684263d1a2c6863c287)  
+- [2023-08-19-用别的模型权重训练神经网络，改神经元不影响输出：英伟达神奇研究](https://posts.careerengine.us/p/64e05685263d1a2c6863c2a7)  
+- [2023-08-19-快手APP内测「AI对话」](https://posts.careerengine.us/p/64e05685263d1a2c6863c29f)  
 - [2023-08-18-微软开源的大模型太强了，数学推理超ChatGPT，论文、模型权重全部公开](https://posts.careerengine.us/p/64defdaa4d2de12f06f02537)  
 - [2023-08-18-扩散模型「读脑术」，自动化所MindDiffuser清晰重建人脑视觉画面](https://posts.careerengine.us/p/64defdaa4d2de12f06f0253f)  
 - [2023-08-18-活动倒计时8天，限时拼团，快速入局大模型系统实践！](https://posts.careerengine.us/p/64defda12fd21f2eaa57cb42)  
@@ -118,25 +118,25 @@
 </summary>
 
 
-- [2023-08-18-亦赋量化2024届秋季校园招聘正式开启！坐标杭州，全职+实习同步热招](https://posts.careerengine.us/p/64def71b7475510bbdfa7a66)  
-- [2023-08-18-如何评价AAAI-2024将近14000的投稿量？](https://posts.careerengine.us/p/64def71b7475510bbdfa7a6e)  
-- [2023-08-18-多模态3D理解的新篇章：ULIP-（CVPR-2023）-与ULIP-2](https://posts.careerengine.us/p/64def72421cdb10bf6bbdfcd)  
+- [2023-08-19-大模型的能力边界在哪里？](https://posts.careerengine.us/p/64e0d51f6b029816ad81bc07) ![](/assets/new.png)  
+- [2023-08-19-文末送书-|-全面详述NLP典型范式：复旦教授历时3年打造近600页全彩专著](https://posts.careerengine.us/p/64e0d53bd5d83c17032b31cb) ![](/assets/new.png)  
+- [2023-08-19-ICCV-2023-|-傅里叶算子高效Token-Mixer：轻量级视觉网络新主干](https://posts.careerengine.us/p/64e0d53cd5d83c17032b31d6) ![](/assets/new.png)  
 - [2023-08-18-博士申请-|-香港理工大学MIND实验室招收进化计算/机器学习等方向博士/博后/RA](https://posts.careerengine.us/p/64def72421cdb10bf6bbdfc5)  
-- [2023-08-17-神经图灵机作者提出全新贝叶斯流网络，有效解决离散数据生成问题](https://posts.careerengine.us/p/64ddab746df5d7220ebfca05)  
-- [2023-08-17-北京/杭州内推-|-阿里达摩院对话智能团队招聘大语言模型方向算法专家](https://posts.careerengine.us/p/64ddab746df5d7220ebfca0d)  
-- [2023-08-17-浙江大学发布开源大模型知识编辑工具EasyEdit，效果超越传统微调方法](https://posts.careerengine.us/p/64ddab651d9c8c21d143a170)  
+- [2023-08-18-多模态3D理解的新篇章：ULIP-（CVPR-2023）-与ULIP-2](https://posts.careerengine.us/p/64def72421cdb10bf6bbdfcd)  
+- [2023-08-18-如何评价AAAI-2024将近14000的投稿量？](https://posts.careerengine.us/p/64def71b7475510bbdfa7a6e)  
+- [2023-08-18-亦赋量化2024届秋季校园招聘正式开启！坐标杭州，全职+实习同步热招](https://posts.careerengine.us/p/64def71b7475510bbdfa7a66)  
 - [2023-08-17-线下名额有限！人工智能创新技术讲习班第4期“AIGC构建数字世界”](https://posts.careerengine.us/p/64ddab651d9c8c21d143a168)  
-- [2023-08-16-​下一代Transformer：RetNet结构可视化及Vision-RetNet展望](https://posts.careerengine.us/p/64dca6cb5a793401fd48224c)  
-- [2023-08-16-​SIGIR-2023-|-基于图的预训练和提示来增强低资源文本分类](https://posts.careerengine.us/p/64dca6d40bdd780224d8fcd3)  
-- [2023-08-16-博后招募-|-清华大学​交互式人工智能课题组招聘NLP方向博士后](https://posts.careerengine.us/p/64dca6e7f6084102c1f4e135)  
+- [2023-08-17-浙江大学发布开源大模型知识编辑工具EasyEdit，效果超越传统微调方法](https://posts.careerengine.us/p/64ddab651d9c8c21d143a170)  
+- [2023-08-17-北京/杭州内推-|-阿里达摩院对话智能团队招聘大语言模型方向算法专家](https://posts.careerengine.us/p/64ddab746df5d7220ebfca0d)  
+- [2023-08-17-神经图灵机作者提出全新贝叶斯流网络，有效解决离散数据生成问题](https://posts.careerengine.us/p/64ddab746df5d7220ebfca05)  
 - [2023-08-16-3个月，她竟然发表了一篇CCF-A顶级会议，直接申博到藤校](https://posts.careerengine.us/p/64dca6e7f6084102c1f4e126)  
-- [2023-08-15-CVPR-2023-|-改动一行代码，PyTorch训练三倍提速，这些高级技术是关键](https://posts.careerengine.us/p/64db559d57c2851d5c652643)  
-- [2023-08-15-北京内推-|-微软研究院AI4Science招聘蛋白质优化与药物研发AI实习生](https://posts.careerengine.us/p/64db559d57c2851d5c65264c)  
-- [2023-08-15-UCLA发布SciBench，评估大语言模型的科学问题解决能力](https://posts.careerengine.us/p/64db55941edd8b1d3a672948)  
+- [2023-08-16-博后招募-|-清华大学​交互式人工智能课题组招聘NLP方向博士后](https://posts.careerengine.us/p/64dca6e7f6084102c1f4e135)  
+- [2023-08-16-​SIGIR-2023-|-基于图的预训练和提示来增强低资源文本分类](https://posts.careerengine.us/p/64dca6d40bdd780224d8fcd3)  
+- [2023-08-16-​下一代Transformer：RetNet结构可视化及Vision-RetNet展望](https://posts.careerengine.us/p/64dca6cb5a793401fd48224c)  
 - [2023-08-15-已发80余篇SCI论文，985教授分享3个月发表顶刊顶会的秘密](https://posts.careerengine.us/p/64db55931edd8b1d3a67293f)  
-- [2023-08-14-计算机直博毕业要求两篇顶会一作难度如何？](https://posts.careerengine.us/p/64d9bcd79f04af03fb327031)  
-- [2023-08-14-ICCV-2023-|-HumanSD：更可控更高效的人体图像生成模型](https://posts.careerengine.us/p/64d9bcd79f04af03fb327029)  
-- [2023-08-14-博士申请-|-​纽约州立大学石溪分校刘毅老师招收Graph-AI方向全奖博士生](https://posts.careerengine.us/p/64d9bce157f0bc042016d26f)  
+- [2023-08-15-UCLA发布SciBench，评估大语言模型的科学问题解决能力](https://posts.careerengine.us/p/64db55941edd8b1d3a672948)  
+- [2023-08-15-北京内推-|-微软研究院AI4Science招聘蛋白质优化与药物研发AI实习生](https://posts.careerengine.us/p/64db559d57c2851d5c65264c)  
+- [2023-08-15-CVPR-2023-|-改动一行代码，PyTorch训练三倍提速，这些高级技术是关键](https://posts.careerengine.us/p/64db559d57c2851d5c652643)  
 - [2023-08-14-梯度下降算法数十年传统思路被打破：最优化问题中步长越大、收敛速度越快](https://posts.careerengine.us/p/64d9bce157f0bc042016d267)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
