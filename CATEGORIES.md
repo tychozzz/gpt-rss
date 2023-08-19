@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-19 12:00:15，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-19 15:00:18，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-08-18-稚晖君人形机器人问世：大模型加持，会自己换胳膊，要上生产线造车](https://posts.careerengine.us/p/64defd99c1358a58f867591e)  
-- [2023-08-18-字节跳动类ChatGPT产品「豆包」邀测，我们先试了一下](https://posts.careerengine.us/p/64defda12fd21f2eaa57cb3a)  
-- [2023-08-18-活动倒计时8天，限时拼团，快速入局大模型系统实践！](https://posts.careerengine.us/p/64defda12fd21f2eaa57cb42)  
-- [2023-08-18-扩散模型「读脑术」，自动化所MindDiffuser清晰重建人脑视觉画面](https://posts.careerengine.us/p/64defdaa4d2de12f06f0253f)  
+- [2023-08-19-Llama2开源后，国产大模型在卷什么？](https://posts.careerengine.us/p/64e0566f6043212be7d8c894) ![](/assets/new.png)  
+- [2023-08-19-仅用三张图，合成高质量的3D场景，NTU提出SparseNeRF](https://posts.careerengine.us/p/64e05684263d1a2c6863c287) ![](/assets/new.png)  
+- [2023-08-19-用别的模型权重训练神经网络，改神经元不影响输出：英伟达神奇研究](https://posts.careerengine.us/p/64e05685263d1a2c6863c2a7) ![](/assets/new.png)  
+- [2023-08-19-快手APP内测「AI对话」](https://posts.careerengine.us/p/64e05685263d1a2c6863c29f) ![](/assets/new.png)  
 - [2023-08-18-微软开源的大模型太强了，数学推理超ChatGPT，论文、模型权重全部公开](https://posts.careerengine.us/p/64defdaa4d2de12f06f02537)  
-- [2023-08-17-研究完llama.cpp，我发现手机跑大模型竟这么简单](https://posts.careerengine.us/p/64ddbf16edaef0631604ac17)  
-- [2023-08-17-一周2.5k-star，3张照片打造专属形象，开源项目FaceChain让每个人AIGC出个人写真](https://posts.careerengine.us/p/64ddbf16edaef0631604ac1f)  
-- [2023-08-17-aiXcoder上新了！聚焦企业适配的代码大模型来了](https://posts.careerengine.us/p/64ddbf0948507c62e6b233f2)  
+- [2023-08-18-扩散模型「读脑术」，自动化所MindDiffuser清晰重建人脑视觉画面](https://posts.careerengine.us/p/64defdaa4d2de12f06f0253f)  
+- [2023-08-18-活动倒计时8天，限时拼团，快速入局大模型系统实践！](https://posts.careerengine.us/p/64defda12fd21f2eaa57cb42)  
+- [2023-08-18-字节跳动类ChatGPT产品「豆包」邀测，我们先试了一下](https://posts.careerengine.us/p/64defda12fd21f2eaa57cb3a)  
+- [2023-08-18-稚晖君人形机器人问世：大模型加持，会自己换胳膊，要上生产线造车](https://posts.careerengine.us/p/64defd99c1358a58f867591e)  
 - [2023-08-17-大模型修复徐克经典武侠片，「全损画质」变4K，还原林青霞40年前绝世美貌](https://posts.careerengine.us/p/64ddbf0076ab7362ce707ad8)  
-- [2023-08-16-这，就是大模型时代的生产力](https://posts.careerengine.us/p/64dce55389fa425dbec7ba48)  
-- [2023-08-16-Alex-Graves新作贝叶斯流网络，解决离散数据生成问题，满论文都是数学公式](https://posts.careerengine.us/p/64dce55e30c87b5ddddbab3b)  
-- [2023-08-16-2023未来科学大奖公布，ResNet四位作者获数学与计算机科学奖](https://posts.careerengine.us/p/64dce566e02dab5e0fcf79c4)  
-- [2023-08-16-Open-LLM榜单再次刷新，比Llama-2更强的「鸭嘴兽」来了](https://posts.careerengine.us/p/64dce574213cc55e88b7c62d)  
+- [2023-08-17-aiXcoder上新了！聚焦企业适配的代码大模型来了](https://posts.careerengine.us/p/64ddbf0948507c62e6b233f2)  
+- [2023-08-17-一周2.5k-star，3张照片打造专属形象，开源项目FaceChain让每个人AIGC出个人写真](https://posts.careerengine.us/p/64ddbf16edaef0631604ac1f)  
+- [2023-08-17-研究完llama.cpp，我发现手机跑大模型竟这么简单](https://posts.careerengine.us/p/64ddbf16edaef0631604ac17)  
 - [2023-08-16-上海交大ACM班总教头团队重磅新作，带你动手学机器学习！](https://posts.careerengine.us/p/64dce574213cc55e88b7c625)  
-- [2023-08-14-一张图，就能「接着舞」，SHERF可泛化可驱动人体神经辐射场的新方法](https://posts.careerengine.us/p/64d9ca2e81b8f1420a7d4b23)  
-- [2023-08-14-达摩院「悬壶」，顶尖实验室带你领略医疗AI「圣手」](https://posts.careerengine.us/p/64d9ca2e81b8f1420a7d4b2b)  
-- [2023-08-14-论文与新视频来了，东南大学对「室温超导」LK-99奇特电阻行为的解释](https://posts.careerengine.us/p/64d9ca23a12d4c41eb822705)  
-- [2023-08-14-谷歌：大模型不仅有涌现能力，训练时间长了还有「领悟」能力](https://posts.careerengine.us/p/64d9ca22a12d4c41eb8226ef)  
+- [2023-08-16-Open-LLM榜单再次刷新，比Llama-2更强的「鸭嘴兽」来了](https://posts.careerengine.us/p/64dce574213cc55e88b7c62d)  
+- [2023-08-16-2023未来科学大奖公布，ResNet四位作者获数学与计算机科学奖](https://posts.careerengine.us/p/64dce566e02dab5e0fcf79c4)  
+- [2023-08-16-Alex-Graves新作贝叶斯流网络，解决离散数据生成问题，满论文都是数学公式](https://posts.careerengine.us/p/64dce55e30c87b5ddddbab3b)  
+- [2023-08-16-这，就是大模型时代的生产力](https://posts.careerengine.us/p/64dce55389fa425dbec7ba48)  
 - [2023-08-14-对话杨植麟：Moonshot-AI即将完成超10亿元融资，公司最终目标并非超越OpenAI](https://posts.careerengine.us/p/64d9ca17fedc7641c74ada09)  
-- [2023-08-13-最优化问题中步长越大、收敛速度越快，梯度下降算法数十年的传统思路被打破](https://posts.careerengine.us/p/64d86025bcc59916efd43e0c)  
+- [2023-08-14-谷歌：大模型不仅有涌现能力，训练时间长了还有「领悟」能力](https://posts.careerengine.us/p/64d9ca22a12d4c41eb8226ef)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2023-08-19-字节版ChatGPT悄悄开放，免费无排队，抖音号手机号直接登](https://posts.careerengine.us/p/64e02d5b4168eb5f953883de) ![](/assets/new.png)  
-- [2023-08-19-王慧文病休53天，旗下OneFlow团队重新创业](https://posts.careerengine.us/p/64e02d5b4168eb5f953883d5) ![](/assets/new.png)  
-- [2023-08-19-MIT推出拾物机器人「最强辅助」，少量训练样本即可实现自然语言控制](https://posts.careerengine.us/p/64e02d5b4168eb5f953883cd) ![](/assets/new.png)  
-- [2023-08-19-击败整个羊驼家族，Meta-AI自对齐新方法只需极少人工标注数据](https://posts.careerengine.us/p/64e02d5c4168eb5f953883f9) ![](/assets/new.png)  
+- [2023-08-19-字节版ChatGPT悄悄开放，免费无排队，抖音号手机号直接登](https://posts.careerengine.us/p/64e02d5b4168eb5f953883de)  
+- [2023-08-19-王慧文病休53天，旗下OneFlow团队重新创业](https://posts.careerengine.us/p/64e02d5b4168eb5f953883d5)  
+- [2023-08-19-MIT推出拾物机器人「最强辅助」，少量训练样本即可实现自然语言控制](https://posts.careerengine.us/p/64e02d5b4168eb5f953883cd)  
+- [2023-08-19-击败整个羊驼家族，Meta-AI自对齐新方法只需极少人工标注数据](https://posts.careerengine.us/p/64e02d5c4168eb5f953883f9)  
 - [2023-08-18-Transformer出逃八子最后一人正式创业！坐标日本搞AI“群”模型，本人：在谷歌有被困住的感觉](https://posts.careerengine.us/p/64defc7e4e419a2879c7431c)  
 - [2023-08-18-为防学生用ChatGPT作弊，大学教授开始恢复纸质考试或改用口试，网友：幸好已毕业](https://posts.careerengine.us/p/64defc7d4e419a2879c74313)  
 - [2023-08-18-稚晖君半年干出个人形机器人！有脑有手步伐稳健，上得实验室下得厨房，价格20万以内](https://posts.careerengine.us/p/64defc751260df28164faae8)  
