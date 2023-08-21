@@ -1,17 +1,17 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-21 15:00:21，:rocket: 更新条数: +14， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-22 06:00:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
-- [ChatGPT](#chatgpt)  
+- [AI前线](#ai前线)  
+- [ChatGPT](#chatgpt)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-08-21-拖拽下图像就能生成视频，中科大、微软等DragNUWA属实惊艳](https://posts.careerengine.us/p/64e2eaab625f4e3d09aa9bcf) ![](/assets/new.png)  
-- [2023-08-21-快手APP上了大模型对话，这是机器之心一手体验](https://posts.careerengine.us/p/64e2eaab625f4e3d09aa9bc7) ![](/assets/new.png)  
-- [2023-08-21-预测热门歌曲成功率-97％？这份清单前来「打假」](https://posts.careerengine.us/p/64e2eab41a4e843d421d29aa) ![](/assets/new.png)  
-- [2023-08-21-解锁Midjourney隐藏技能：改改Prompt，四宫格就「裂变」了](https://posts.careerengine.us/p/64e2eab41a4e843d421d29b2) ![](/assets/new.png)  
-- [2023-08-21-大模型加持的机器人有多强，MIT-CSAIL&IAIFI用自然语言指导机器人抓取物体](https://posts.careerengine.us/p/64e2eabcf016313d635ea3a4) ![](/assets/new.png)  
+- [2023-08-21-拖拽下图像就能生成视频，中科大、微软等DragNUWA属实惊艳](https://posts.careerengine.us/p/64e2eaab625f4e3d09aa9bcf)  
+- [2023-08-21-快手APP上了大模型对话，这是机器之心一手体验](https://posts.careerengine.us/p/64e2eaab625f4e3d09aa9bc7)  
+- [2023-08-21-预测热门歌曲成功率-97％？这份清单前来「打假」](https://posts.careerengine.us/p/64e2eab41a4e843d421d29aa)  
+- [2023-08-21-解锁Midjourney隐藏技能：改改Prompt，四宫格就「裂变」了](https://posts.careerengine.us/p/64e2eab41a4e843d421d29b2)  
+- [2023-08-21-大模型加持的机器人有多强，MIT-CSAIL&IAIFI用自然语言指导机器人抓取物体](https://posts.careerengine.us/p/64e2eabcf016313d635ea3a4)  
 - [2023-08-20-单张图片引导，保留主体，风格百变，VCT帮你轻松实现](https://posts.careerengine.us/p/64e19a2ae156b547f64f83ba)  
 - [2023-08-20-10B量级开源中文对话LLM，谁最「懂」人话？](https://posts.careerengine.us/p/64e19a23197c6447cf1622b9)  
 - [2023-08-20-真实时、强细节、高保真：更强大的视频重建算法，性能明显提升](https://posts.careerengine.us/p/64e19a22197c6447cf1622b0)  
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2023-08-21-Adobe联创去世，没他就没有PDF，乔布斯也因他逆风翻盘](https://posts.careerengine.us/p/64e2ff644fe57e265617dad9) ![](/assets/new.png)  
-- [2023-08-21-沙龙招募-|-ChatGPT把仿生机器人推到爆发前夜了吗？](https://posts.careerengine.us/p/64e2ff796b1d7f26a0cb23ae) ![](/assets/new.png)  
-- [2023-08-21-LLaMA都在用的开源数据集惨遭下架：包含近20万本书，对标OpenAI数据集](https://posts.careerengine.us/p/64e2ff796b1d7f26a0cb23b6) ![](/assets/new.png)  
-- [2023-08-21-商汤AI-Agent把打工玩明白了](https://posts.careerengine.us/p/64e2ff85d002ff26e2a9249a) ![](/assets/new.png)  
-- [2023-08-21-AI代码神器火了，复杂操作秒变easy，网友：要抛弃VS-Code了](https://posts.careerengine.us/p/64e2ff85d002ff26e2a924a2) ![](/assets/new.png)  
+- [2023-08-21-Adobe联创去世，没他就没有PDF，乔布斯也因他逆风翻盘](https://posts.careerengine.us/p/64e2ff644fe57e265617dad9)  
+- [2023-08-21-沙龙招募-|-ChatGPT把仿生机器人推到爆发前夜了吗？](https://posts.careerengine.us/p/64e2ff796b1d7f26a0cb23ae)  
+- [2023-08-21-LLaMA都在用的开源数据集惨遭下架：包含近20万本书，对标OpenAI数据集](https://posts.careerengine.us/p/64e2ff796b1d7f26a0cb23b6)  
+- [2023-08-21-商汤AI-Agent把打工玩明白了](https://posts.careerengine.us/p/64e2ff85d002ff26e2a9249a)  
+- [2023-08-21-AI代码神器火了，复杂操作秒变easy，网友：要抛弃VS-Code了](https://posts.careerengine.us/p/64e2ff85d002ff26e2a924a2)  
 - [2023-08-20-世界五百强狂招AI主管，5年人数翻3倍，但没人知道是干啥的！网友戏称“会吹牛就行”](https://posts.careerengine.us/p/64e1919d52626216222addf3)  
 - [2023-08-20-到《西部世界》当镇长，多校联合开源国产AI小镇，戳戳交互界面就能编辑的虚拟世界](https://posts.careerengine.us/p/64e1919545f084160bce2ffb)  
 - [2023-08-20-一句话让AI训练AI！20分钟微调羊驼大模型，从数据收集到训练全包了](https://posts.careerengine.us/p/64e1918ed2a7f615e8fa33e4)  
@@ -118,8 +118,8 @@
 </summary>
 
 
-- [2023-08-21-UBIQUANT-CAMPUS-|-九坤投资2024届校园职场栏目即将上线](https://posts.careerengine.us/p/64e2f89e0dd3290b15da7e60) ![](/assets/new.png)  
-- [2023-08-21-​KDD-2023-|-MaskGAE：图自编码器背后的掩码机理](https://posts.careerengine.us/p/64e2f89f0dd3290b15da7e69) ![](/assets/new.png)  
+- [2023-08-21-UBIQUANT-CAMPUS-|-九坤投资2024届校园职场栏目即将上线](https://posts.careerengine.us/p/64e2f89e0dd3290b15da7e60)  
+- [2023-08-21-​KDD-2023-|-MaskGAE：图自编码器背后的掩码机理](https://posts.careerengine.us/p/64e2f89f0dd3290b15da7e69)  
 - [2023-08-20-ACL-2023-|-面向信息检索的结构感知语言模型训练方法](https://posts.careerengine.us/p/64e194687d56c62605d29048)  
 - [2023-08-20-基于体渲染（NeRF）的多视角三维重建系列工作总结](https://posts.careerengine.us/p/64e19456a5755f25cef54c48)  
 - [2023-08-19-大模型的能力边界在哪里？](https://posts.careerengine.us/p/64e0d51f6b029816ad81bc07)  
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2023-08-21-开源打败闭源？Meta即将推出开源代码生成平台Code-Llama，剑指OpenAI-Codex](https://posts.careerengine.us/p/64e2f74e2f836603bd66c6ab) ![](/assets/new.png)  
-- [2023-08-21-“视象新生”火山引擎视频云&AIGC技术大会开幕在即](https://posts.careerengine.us/p/64e2f756b8c554040140ab15) ![](/assets/new.png)  
+- [2023-08-21-开源打败闭源？Meta即将推出开源代码生成平台Code-Llama，剑指OpenAI-Codex](https://posts.careerengine.us/p/64e2f74e2f836603bd66c6ab)  
+- [2023-08-21-“视象新生”火山引擎视频云&AIGC技术大会开幕在即](https://posts.careerengine.us/p/64e2f756b8c554040140ab15)  
 - [2023-08-20-程序员未写出赌博程序被拔掉14颗牙；前华为“天才少年”稚晖君公布首款人形机器人；马斯克称X平台将移除拉黑功能-|-AI一周资讯](https://posts.careerengine.us/p/64e1a5c8b016b002d65cb72a)  
 - [2023-08-18-首次公开收购！OpenAI-选择这家成立2年的8人团队做什么？](https://posts.careerengine.us/p/64df0225f7e84647b448d102)  
 - [2023-08-18-AIGC-如何掀起智能客服“新革命”？-|-InfoQ《极客有约》](https://posts.careerengine.us/p/64df023321148747e8dea71f)  
@@ -207,6 +207,7 @@
 </summary>
 
 
+- [2023-08-22-Custom-instructions-are-now-available-to-users-in-the-EU-&-UK-August-21,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e5d13591f0) ![](/assets/new.png)  
 - [2023-08-10-Custom-instructions-are-now-available-to-free-users-August-9,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_88eefa0552)  
 - [2023-08-03-Updates-to-ChatGPT-August-3](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_c761ea2ff1)  
 - [2023-07-25-Introducing-the-ChatGPT-app-for-Android-July-25](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_74577ea413)  
