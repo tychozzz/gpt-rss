@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-01 15:00:24，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-01 23:00:22，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-09-01-Andrej-Karpathy：大模型有内存限制，这个妙招挺好用](https://posts.careerengine.us/p/64f184b6bb609876ce11d0ca) ![](/assets/new.png)  
-- [2023-09-01-14周硕士级学习，德克萨斯大学奥斯汀分校简明NLP课程视频全公开](https://posts.careerengine.us/p/64f184b6bb609876ce11d0ba) ![](/assets/new.png)  
-- [2023-09-01-听说文心一言App霸榜了，那必须来一波全方位实测了](https://posts.careerengine.us/p/64f184b6bb609876ce11d0c2) ![](/assets/new.png)  
-- [2023-09-01-复旦大学团队发布中文医疗健康个人助手，同时开源47万高质量数据集](https://posts.careerengine.us/p/64f184b6bb609876ce11d0b2) ![](/assets/new.png)  
-- [2023-09-01-微软亚研提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f184c033169b76fba378eb) ![](/assets/new.png)  
+- [2023-09-01-Andrej-Karpathy：大模型有内存限制，这个妙招挺好用](https://posts.careerengine.us/p/64f184b6bb609876ce11d0ca)  
+- [2023-09-01-14周硕士级学习，德克萨斯大学奥斯汀分校简明NLP课程视频全公开](https://posts.careerengine.us/p/64f184b6bb609876ce11d0ba)  
+- [2023-09-01-听说文心一言App霸榜了，那必须来一波全方位实测了](https://posts.careerengine.us/p/64f184b6bb609876ce11d0c2)  
+- [2023-09-01-复旦大学团队发布中文医疗健康个人助手，同时开源47万高质量数据集](https://posts.careerengine.us/p/64f184b6bb609876ce11d0b2)  
+- [2023-09-01-微软亚研提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f184c033169b76fba378eb)  
 - [2023-08-31-刺激，无人机竞速超越顶级人类玩家，强化学习再登Nature封面](https://posts.careerengine.us/p/64f0249870a7d334ecb0902a)  
 - [2023-08-31-VLDB-2023奖项公布，清华、第四范式、NUS联合论文获最佳工业界论文奖](https://posts.careerengine.us/p/64f0249870a7d334ecb0901a)  
 - [2023-08-31-OpenAI手把手官方教学：如何用GPT-4创建会议纪要生成AI](https://posts.careerengine.us/p/64f0249770a7d334ecb09002)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-08-31-ICCV-2023-|-港中文MMLab：多帧光流估计模型VideoFlow，首次实现亚像素级别误差](https://posts.careerengine.us/p/64ef752363d1f47c9bf2e467)  
-- [2023-08-31-十分钟读懂旋转编码（RoPE）](https://posts.careerengine.us/p/64ef752463d1f47c9bf2e46f)  
-- [2023-08-31-博后招募-|-⾹港理⼯⼤学电⼦李⻘教授招募机器学习方向博士后/RA/⾏政助理](https://posts.careerengine.us/p/64ef752eb0e6537cd7647445)  
+- [2023-09-01-不是你发表不了CCF-A顶级会议，而是没有利用好Best-paper提名得主这层“关系”！](https://posts.careerengine.us/p/64f1fa8d63adb7418e1d0181) ![](/assets/new.png)  
+- [2023-09-01-SuperAlignment-in-Medical-Science：中文医疗大模型评估基准CMB](https://posts.careerengine.us/p/64f1fa9df7196b4229bf9330) ![](/assets/new.png)  
+- [2023-09-01-ICCV-2023-|-DomainAdaptor：测试阶段自适应新方法](https://posts.careerengine.us/p/64f1faa7c34260424ec8419d) ![](/assets/new.png)  
 - [2023-08-31-北京内推-|-微软WizardLM大模型团队招聘NLP方向研究型实习生](https://posts.careerengine.us/p/64ef7537b43e8d7d0db0a1c4)  
-- [2023-08-29-博士申请-|-新加坡国立大学吴喆老师招收机器学习控制方向全奖博士/博后/RA](https://posts.careerengine.us/p/64ee02ed4235e549dbbb2407)  
-- [2023-08-29-ICCV-2023-|-发挥offline方法的潜力：解耦合的视频实例分割框架DVIS](https://posts.careerengine.us/p/64ee02e2ba54d249addb01c3)  
+- [2023-08-31-博后招募-|-⾹港理⼯⼤学电⼦李⻘教授招募机器学习方向博士后/RA/⾏政助理](https://posts.careerengine.us/p/64ef752eb0e6537cd7647445)  
+- [2023-08-31-十分钟读懂旋转编码（RoPE）](https://posts.careerengine.us/p/64ef752463d1f47c9bf2e46f)  
+- [2023-08-31-ICCV-2023-|-港中文MMLab：多帧光流估计模型VideoFlow，首次实现亚像素级别误差](https://posts.careerengine.us/p/64ef752363d1f47c9bf2e467)  
 - [2023-08-29-Facebook推荐系统研究新进展：结合多模态信息与排名式学习的搜索EBR系统](https://posts.careerengine.us/p/64ee02ce866806492b0ad873)  
-- [2023-08-28-​ICLR-2023-高分论文-|-基于子图草图的图神经网络用于链路预测](https://posts.careerengine.us/p/64ec1ee1f7536f09e2e8f031)  
-- [2023-08-28-如何快速实现大模型落地？5小时get大模型时代实战密码！](https://posts.careerengine.us/p/64ec1ee1f7536f09e2e8f028)  
-- [2023-08-28-上海交大&蚂蚁提出四合一物体传送门，向场景中可控传送物体](https://posts.careerengine.us/p/64ec1ee980c0620a19cdb9fd)  
+- [2023-08-29-ICCV-2023-|-发挥offline方法的潜力：解耦合的视频实例分割框架DVIS](https://posts.careerengine.us/p/64ee02e2ba54d249addb01c3)  
+- [2023-08-29-博士申请-|-新加坡国立大学吴喆老师招收机器学习控制方向全奖博士/博后/RA](https://posts.careerengine.us/p/64ee02ed4235e549dbbb2407)  
 - [2023-08-28-博后招募-|-清华大学周伯文教授课题组招聘助理研究员/博士后/工程师/访问学生](https://posts.careerengine.us/p/64ec1ef6f21a5c0a3b3a0a47)  
-- [2023-08-27-ICCV-2023-OmniObject3D挑战赛倒计时！双重赛道等你来战](https://posts.careerengine.us/p/64eb587fe56bef21fe452580)  
-- [2023-08-27-北京内推-|-微软亚洲研究院自然语言计算组招聘NLP方向研究实习生](https://posts.careerengine.us/p/64eb587085dd1d21a2c18785)  
-- [2023-08-27-大模型剑指AI-Agents，达摩院推出Dialogue-Agents新基SpokenWOZ](https://posts.careerengine.us/p/64eb58689148ba2182727464)  
+- [2023-08-28-上海交大&蚂蚁提出四合一物体传送门，向场景中可控传送物体](https://posts.careerengine.us/p/64ec1ee980c0620a19cdb9fd)  
+- [2023-08-28-如何快速实现大模型落地？5小时get大模型时代实战密码！](https://posts.careerengine.us/p/64ec1ee1f7536f09e2e8f028)  
+- [2023-08-28-​ICLR-2023-高分论文-|-基于子图草图的图神经网络用于链路预测](https://posts.careerengine.us/p/64ec1ee1f7536f09e2e8f031)  
 - [2023-08-27-ICML-2023-|-神经网络大还是小？Transformer模型规模对训练目标的影响](https://posts.careerengine.us/p/64eb58689148ba218272745b)  
-- [2023-08-26-独家采访WizardLM团队，详解WizardCoder/Math超越GPT4/ChatGPT的RLEIF算法](https://posts.careerengine.us/p/64e9e3d32437be37cd3692a6)  
-- [2023-08-26-ICCV-2023-|-通过可靠、多样和类平衡的伪标签重新审视跨域三维目标检测](https://posts.careerengine.us/p/64e9e3e078079037edc39e47)  
-- [2023-08-26-直播预告-|-ACL-2023原作解读：自查纠错—知识增强的思维链框架](https://posts.careerengine.us/p/64e9e3e078079037edc39e37)  
+- [2023-08-27-大模型剑指AI-Agents，达摩院推出Dialogue-Agents新基SpokenWOZ](https://posts.careerengine.us/p/64eb58689148ba2182727464)  
+- [2023-08-27-北京内推-|-微软亚洲研究院自然语言计算组招聘NLP方向研究实习生](https://posts.careerengine.us/p/64eb587085dd1d21a2c18785)  
+- [2023-08-27-ICCV-2023-OmniObject3D挑战赛倒计时！双重赛道等你来战](https://posts.careerengine.us/p/64eb587fe56bef21fe452580)  
 - [2023-08-26-北京内推-|-京东零售内容算法部搜推内容团队招聘算法工程师（24届校招）](https://posts.careerengine.us/p/64e9e3e9a1242b385c461466)  
-- [2023-08-25-科研实习-|-上海人工智能实验室招聘AI-for-Science方向研究型实习生/博士生](https://posts.careerengine.us/p/64e8961269fe147873da3104)  
+- [2023-08-26-直播预告-|-ACL-2023原作解读：自查纠错—知识增强的思维链框架](https://posts.careerengine.us/p/64e9e3e078079037edc39e37)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
