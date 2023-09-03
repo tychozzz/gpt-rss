@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-02 15:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-03 15:00:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 微软
 
@@ -13,3 +13,4 @@
 - [2023-08-23-Excel变天！微软把Python「塞」进去了，直接可搞机器学习](https://posts.careerengine.us/p/64e5962ab8c5f3756b91e3b9) 
 - [2023-08-27-北京内推-|-微软亚洲研究院自然语言计算组招聘NLP方向研究实习生](https://posts.careerengine.us/p/64eb587085dd1d21a2c18785) 
 - [2023-07-26-北京内推-|-微软亚洲互联网工程院微软搜索广告算法团队招聘NLP算法实习生](https://posts.careerengine.us/p/64c13ff093b8c152f8e07f19) 
+- [2023-09-03-微软-Dev-Box-正式发布：加速开发者工作流程](https://posts.careerengine.us/p/64f41b8dea681654e6eb2acd) 
