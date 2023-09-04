@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-04 23:00:17，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-05 06:00:24，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -52,12 +52,12 @@
 </summary>
 
 
-- [2023-09-04-700亿参数LLaMA2训练加速195％，开箱即用的8到512卡LLaMA2全流程方案来了！](https://posts.careerengine.us/p/64f5c91bf262690de3885164) ![](/assets/new.png)  
-- [2023-09-04-陶哲轩又来安利AI工具了：新论文排版用上VSCode-Copilot+插件](https://posts.careerengine.us/p/64f5c923e064f50e3f7b2433) ![](/assets/new.png)  
-- [2023-09-04-全球智能车看中国，中国智能车看重庆](https://posts.careerengine.us/p/64f5c923e064f50e3f7b242a) ![](/assets/new.png)  
-- [2023-09-04-IOI'23中国队全员夺金！包揽一二名斩获团体第一，历史金牌总数达到100枚](https://posts.careerengine.us/p/64f5c92bafe2f00e7343fc91) ![](/assets/new.png)  
-- [2023-09-04-DIY大佬自制离子推进器火了，近300万网友围观：星际迷航就是用的这吧](https://posts.careerengine.us/p/64f5c942157cc40ed13d5eb7) ![](/assets/new.png)  
-- [2023-09-04-9月6日，和量子位聊聊仿生机器人最新趋势](https://posts.careerengine.us/p/64f5c942157cc40ed13d5eaf) ![](/assets/new.png)  
+- [2023-09-04-700亿参数LLaMA2训练加速195％，开箱即用的8到512卡LLaMA2全流程方案来了！](https://posts.careerengine.us/p/64f5c91bf262690de3885164)  
+- [2023-09-04-陶哲轩又来安利AI工具了：新论文排版用上VSCode-Copilot+插件](https://posts.careerengine.us/p/64f5c923e064f50e3f7b2433)  
+- [2023-09-04-全球智能车看中国，中国智能车看重庆](https://posts.careerengine.us/p/64f5c923e064f50e3f7b242a)  
+- [2023-09-04-IOI'23中国队全员夺金！包揽一二名斩获团体第一，历史金牌总数达到100枚](https://posts.careerengine.us/p/64f5c92bafe2f00e7343fc91)  
+- [2023-09-04-DIY大佬自制离子推进器火了，近300万网友围观：星际迷航就是用的这吧](https://posts.careerengine.us/p/64f5c942157cc40ed13d5eb7)  
+- [2023-09-04-9月6日，和量子位聊聊仿生机器人最新趋势](https://posts.careerengine.us/p/64f5c942157cc40ed13d5eaf)  
 - [2023-09-03-盛邀相聚沈阳，助力数字中国建设，CNCC2023新闻发布会在京举办](https://posts.careerengine.us/p/64f40f3683cc5c28d1f67bd0)  
 - [2023-09-03-马斯克承认用X数据训练AI：微软别想用，但我自己能用](https://posts.careerengine.us/p/64f40f3683cc5c28d1f67bd8)  
 - [2023-09-03-蚂蚁原副总裁漆远创业公司被曝all-in大模型，原方向AI制药不做了](https://posts.careerengine.us/p/64f40f2d89461828aced56ea)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-09-03-揭秘最领先的Llama2中文大模型！](https://posts.careerengine.us/p/64f461140f78c715ec18340d)  
+- [2023-09-05-走出新手村：十次CV论文会议投稿的经验总结](https://posts.careerengine.us/p/64f605fe97cf3972a7e0b2fc) ![](/assets/new.png)  
+- [2023-09-05-文末送书-|-深度学习之图像识别：详解核心算法与12个经典实战案例](https://posts.careerengine.us/p/64f605fe97cf3972a7e0b2eb) ![](/assets/new.png)  
+- [2023-09-05-SVM永不过时！Transformer它就是个支持向量机](https://posts.careerengine.us/p/64f60607560f1072dbc60e76) ![](/assets/new.png)  
+- [2023-09-05-上海内推-|-上海人工智能实验室招聘Responsible-AI大语言模型算法研究实习生](https://posts.careerengine.us/p/64f6061d8115dd7301f85522) ![](/assets/new.png)  
 - [2023-09-03-​SIGIR-2023-|-用于序列推荐的多兴趣预训练框架](https://posts.careerengine.us/p/64f4611ec79835160a70d91a)  
-- [2023-09-01-ICCV-2023-|-DomainAdaptor：测试阶段自适应新方法](https://posts.careerengine.us/p/64f1faa7c34260424ec8419d)  
-- [2023-09-01-SuperAlignment-in-Medical-Science：中文医疗大模型评估基准CMB](https://posts.careerengine.us/p/64f1fa9df7196b4229bf9330)  
+- [2023-09-03-揭秘最领先的Llama2中文大模型！](https://posts.careerengine.us/p/64f461140f78c715ec18340d)  
 - [2023-09-01-不是你发表不了CCF-A顶级会议，而是没有利用好Best-paper提名得主这层“关系”！](https://posts.careerengine.us/p/64f1fa8d63adb7418e1d0181)  
-- [2023-08-31-ICCV-2023-|-港中文MMLab：多帧光流估计模型VideoFlow，首次实现亚像素级别误差](https://posts.careerengine.us/p/64ef752363d1f47c9bf2e467)  
-- [2023-08-31-十分钟读懂旋转编码（RoPE）](https://posts.careerengine.us/p/64ef752463d1f47c9bf2e46f)  
-- [2023-08-31-博后招募-|-⾹港理⼯⼤学电⼦李⻘教授招募机器学习方向博士后/RA/⾏政助理](https://posts.careerengine.us/p/64ef752eb0e6537cd7647445)  
+- [2023-09-01-SuperAlignment-in-Medical-Science：中文医疗大模型评估基准CMB](https://posts.careerengine.us/p/64f1fa9df7196b4229bf9330)  
+- [2023-09-01-ICCV-2023-|-DomainAdaptor：测试阶段自适应新方法](https://posts.careerengine.us/p/64f1faa7c34260424ec8419d)  
 - [2023-08-31-北京内推-|-微软WizardLM大模型团队招聘NLP方向研究型实习生](https://posts.careerengine.us/p/64ef7537b43e8d7d0db0a1c4)  
-- [2023-08-29-博士申请-|-新加坡国立大学吴喆老师招收机器学习控制方向全奖博士/博后/RA](https://posts.careerengine.us/p/64ee02ed4235e549dbbb2407)  
-- [2023-08-29-ICCV-2023-|-发挥offline方法的潜力：解耦合的视频实例分割框架DVIS](https://posts.careerengine.us/p/64ee02e2ba54d249addb01c3)  
+- [2023-08-31-博后招募-|-⾹港理⼯⼤学电⼦李⻘教授招募机器学习方向博士后/RA/⾏政助理](https://posts.careerengine.us/p/64ef752eb0e6537cd7647445)  
+- [2023-08-31-十分钟读懂旋转编码（RoPE）](https://posts.careerengine.us/p/64ef752463d1f47c9bf2e46f)  
+- [2023-08-31-ICCV-2023-|-港中文MMLab：多帧光流估计模型VideoFlow，首次实现亚像素级别误差](https://posts.careerengine.us/p/64ef752363d1f47c9bf2e467)  
 - [2023-08-29-Facebook推荐系统研究新进展：结合多模态信息与排名式学习的搜索EBR系统](https://posts.careerengine.us/p/64ee02ce866806492b0ad873)  
-- [2023-08-28-​ICLR-2023-高分论文-|-基于子图草图的图神经网络用于链路预测](https://posts.careerengine.us/p/64ec1ee1f7536f09e2e8f031)  
-- [2023-08-28-如何快速实现大模型落地？5小时get大模型时代实战密码！](https://posts.careerengine.us/p/64ec1ee1f7536f09e2e8f028)  
-- [2023-08-28-上海交大&蚂蚁提出四合一物体传送门，向场景中可控传送物体](https://posts.careerengine.us/p/64ec1ee980c0620a19cdb9fd)  
+- [2023-08-29-ICCV-2023-|-发挥offline方法的潜力：解耦合的视频实例分割框架DVIS](https://posts.careerengine.us/p/64ee02e2ba54d249addb01c3)  
+- [2023-08-29-博士申请-|-新加坡国立大学吴喆老师招收机器学习控制方向全奖博士/博后/RA](https://posts.careerengine.us/p/64ee02ed4235e549dbbb2407)  
 - [2023-08-28-博后招募-|-清华大学周伯文教授课题组招聘助理研究员/博士后/工程师/访问学生](https://posts.careerengine.us/p/64ec1ef6f21a5c0a3b3a0a47)  
-- [2023-08-27-ICCV-2023-OmniObject3D挑战赛倒计时！双重赛道等你来战](https://posts.careerengine.us/p/64eb587fe56bef21fe452580)  
-- [2023-08-27-北京内推-|-微软亚洲研究院自然语言计算组招聘NLP方向研究实习生](https://posts.careerengine.us/p/64eb587085dd1d21a2c18785)  
-- [2023-08-27-大模型剑指AI-Agents，达摩院推出Dialogue-Agents新基SpokenWOZ](https://posts.careerengine.us/p/64eb58689148ba2182727464)  
-- [2023-08-27-ICML-2023-|-神经网络大还是小？Transformer模型规模对训练目标的影响](https://posts.careerengine.us/p/64eb58689148ba218272745b)  
+- [2023-08-28-上海交大&蚂蚁提出四合一物体传送门，向场景中可控传送物体](https://posts.careerengine.us/p/64ec1ee980c0620a19cdb9fd)  
+- [2023-08-28-如何快速实现大模型落地？5小时get大模型时代实战密码！](https://posts.careerengine.us/p/64ec1ee1f7536f09e2e8f028)  
+- [2023-08-28-​ICLR-2023-高分论文-|-基于子图草图的图神经网络用于链路预测](https://posts.careerengine.us/p/64ec1ee1f7536f09e2e8f031)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
