@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-04 21:00:19，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-04 23:00:17，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2023-09-03-越南特斯拉，市值7000亿](https://posts.careerengine.us/p/64f40f24c2fa582888bd276f)  
-- [2023-09-03-独立游戏调用ChatGPT遭Steam下架，开发者：我的存款和三年半时光都没了](https://posts.careerengine.us/p/64f40f2d89461828aced56f2)  
-- [2023-09-03-蚂蚁原副总裁漆远创业公司被曝all-in大模型，原方向AI制药不做了](https://posts.careerengine.us/p/64f40f2d89461828aced56ea)  
-- [2023-09-03-马斯克承认用X数据训练AI：微软别想用，但我自己能用](https://posts.careerengine.us/p/64f40f3683cc5c28d1f67bd8)  
+- [2023-09-04-700亿参数LLaMA2训练加速195％，开箱即用的8到512卡LLaMA2全流程方案来了！](https://posts.careerengine.us/p/64f5c91bf262690de3885164) ![](/assets/new.png)  
+- [2023-09-04-陶哲轩又来安利AI工具了：新论文排版用上VSCode-Copilot+插件](https://posts.careerengine.us/p/64f5c923e064f50e3f7b2433) ![](/assets/new.png)  
+- [2023-09-04-全球智能车看中国，中国智能车看重庆](https://posts.careerengine.us/p/64f5c923e064f50e3f7b242a) ![](/assets/new.png)  
+- [2023-09-04-IOI'23中国队全员夺金！包揽一二名斩获团体第一，历史金牌总数达到100枚](https://posts.careerengine.us/p/64f5c92bafe2f00e7343fc91) ![](/assets/new.png)  
+- [2023-09-04-DIY大佬自制离子推进器火了，近300万网友围观：星际迷航就是用的这吧](https://posts.careerengine.us/p/64f5c942157cc40ed13d5eb7) ![](/assets/new.png)  
+- [2023-09-04-9月6日，和量子位聊聊仿生机器人最新趋势](https://posts.careerengine.us/p/64f5c942157cc40ed13d5eaf) ![](/assets/new.png)  
 - [2023-09-03-盛邀相聚沈阳，助力数字中国建设，CNCC2023新闻发布会在京举办](https://posts.careerengine.us/p/64f40f3683cc5c28d1f67bd0)  
-- [2023-09-02-国产语音对话大模型来了：李开复零一万物参与，中英双语多模态，开源可商用](https://posts.careerengine.us/p/64f2bd8dc47a9311a7db0481)  
-- [2023-09-02-颜水成再返工业界，加入昆仑万维：“目前AI浪尖是Foundation-Models”](https://posts.careerengine.us/p/64f2bd8dc47a9311a7db0478)  
-- [2023-09-02-国内第一家，大模型半年营收2千万！还得是周鸿祎](https://posts.careerengine.us/p/64f2bd84d38ce11176bb017f)  
+- [2023-09-03-马斯克承认用X数据训练AI：微软别想用，但我自己能用](https://posts.careerengine.us/p/64f40f3683cc5c28d1f67bd8)  
+- [2023-09-03-蚂蚁原副总裁漆远创业公司被曝all-in大模型，原方向AI制药不做了](https://posts.careerengine.us/p/64f40f2d89461828aced56ea)  
+- [2023-09-03-独立游戏调用ChatGPT遭Steam下架，开发者：我的存款和三年半时光都没了](https://posts.careerengine.us/p/64f40f2d89461828aced56f2)  
+- [2023-09-03-越南特斯拉，市值7000亿](https://posts.careerengine.us/p/64f40f24c2fa582888bd276f)  
 - [2023-09-02-《奥本海默》里没提的隐藏大佬，爱因斯坦的戏份其实属于他](https://posts.careerengine.us/p/64f2bd7baeb80b1157e889b2)  
-- [2023-08-31-12项性能位居第一，中国最接近GPT-4的大模型来了！现已全面开放服务！](https://posts.careerengine.us/p/64f05b8eb083662ec548c992)  
-- [2023-08-31-中国首批大模型版号发放：百度华为讯飞商汤百川腾讯等11家获准，App小程序直接可用](https://posts.careerengine.us/p/64f05b9671aaa82ef074f2a9)  
-- [2023-08-31-AI无人机竞速击败人类冠军，Nature封面：将AlphaGo成果带到物理世界](https://posts.careerengine.us/p/64f05b9ea6d4092f0acec70c)  
+- [2023-09-02-国内第一家，大模型半年营收2千万！还得是周鸿祎](https://posts.careerengine.us/p/64f2bd84d38ce11176bb017f)  
+- [2023-09-02-颜水成再返工业界，加入昆仑万维：“目前AI浪尖是Foundation-Models”](https://posts.careerengine.us/p/64f2bd8dc47a9311a7db0478)  
+- [2023-09-02-国产语音对话大模型来了：李开复零一万物参与，中英双语多模态，开源可商用](https://posts.careerengine.us/p/64f2bd8dc47a9311a7db0481)  
 - [2023-08-31-沈向洋王海峰徐文伟候选中国工程院院士，2023两院院士增选有效候选人名单公布](https://posts.careerengine.us/p/64f05bb06153da2f630228db)  
+- [2023-08-31-AI无人机竞速击败人类冠军，Nature封面：将AlphaGo成果带到物理世界](https://posts.careerengine.us/p/64f05b9ea6d4092f0acec70c)  
+- [2023-08-31-中国首批大模型版号发放：百度华为讯飞商汤百川腾讯等11家获准，App小程序直接可用](https://posts.careerengine.us/p/64f05b9671aaa82ef074f2a9)  
+- [2023-08-31-12项性能位居第一，中国最接近GPT-4的大模型来了！现已全面开放服务！](https://posts.careerengine.us/p/64f05b8eb083662ec548c992)  
 - [2023-08-30-仿生机器人沙龙报名开启：业内大咖齐聚，聊聊你最关心的产业话题](https://posts.careerengine.us/p/64f05bd56faa68303abd669a)  
-- [2023-08-29-GitHub-Copilot三连更：能在代码行里直接提问，上下文范围扩展到终端](https://posts.careerengine.us/p/64edc4da9984b91c7f3d0510)  
-- [2023-08-29-大模型圈热议“GPU贫民”：谷歌算力被曝比其他公司加起来都多，扎创业公司心了](https://posts.careerengine.us/p/64edc4d363fd411c5cf68022)  
-- [2023-08-29-无限量访问GPT-4！ChatGPT企业版来了，可扩展32k上下文，代码解释器随便用](https://posts.careerengine.us/p/64edc4d363fd411c5cf68012)  
-- [2023-08-29-华为新机测出5G速度！麒麟9000S正式回归，定价6999首批秒抢光](https://posts.careerengine.us/p/64edc4c8ee2cd71c163e4e66)  
-- [2023-08-29-实测学而思MathGPT大模型：中小学数学解题正确率有望在全球范围内创造新-SOTA](https://posts.careerengine.us/p/64edc4be8e357e1c02878462)  
-- [2023-08-27-8998元抢先上手空间计算，不用等苹果了](https://posts.careerengine.us/p/64eae10101e85c0714b85476)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,12 +176,12 @@
 </summary>
 
 
-- [2023-09-04-大模型产品化会带来什么？又将颠覆什么？｜9月7日，与极客邦科技一起，迎接智变加速时刻](https://posts.careerengine.us/p/64f5c1aabe8e4764ac3b5b8a) ![](/assets/new.png)  
-- [2023-09-04-混合精度下位置编码竟有大坑，llama-等主流开源模型纷纷中招！百川智能给出修复方案](https://posts.careerengine.us/p/64f5c1b17347b664cba5d1b9) ![](/assets/new.png)  
+- [2023-09-04-大模型产品化会带来什么？又将颠覆什么？｜9月7日，与极客邦科技一起，迎接智变加速时刻](https://posts.careerengine.us/p/64f5c1aabe8e4764ac3b5b8a)  
+- [2023-09-04-混合精度下位置编码竟有大坑，llama-等主流开源模型纷纷中招！百川智能给出修复方案](https://posts.careerengine.us/p/64f5c1b17347b664cba5d1b9)  
 - [2023-09-03-微软-Dev-Box-正式发布：加速开发者工作流程](https://posts.careerengine.us/p/64f41b8dea681654e6eb2acd)  
 - [2023-09-03-马斯克直播特斯拉自动驾驶；居然之家创始人：我把包括CTO在内的IT部门全裁了；首批8个大模型正式上线-|-AI一周资讯](https://posts.careerengine.us/p/64f41b80ddf8b05470cfedf6)  
 - [2023-09-02-打造更聪明的猴子：开源云测框架-Hydra-Lab-的智能化测试实战](https://posts.careerengine.us/p/64f2cd5701bbaf6fb66fe0de)  
-- [2023-09-01-微软官宣-Mac-版-Visual-Studio-IDE-将“退休”，网友吐槽：没什么用，早该退了！](https://posts.careerengine.us/p/64f5c1bf33a2aa64ed3cdeb3) ![](/assets/new.png)  
+- [2023-09-01-微软官宣-Mac-版-Visual-Studio-IDE-将“退休”，网友吐槽：没什么用，早该退了！](https://posts.careerengine.us/p/64f5c1bf33a2aa64ed3cdeb3)  
 - [2023-08-31-核电站的智能化实践：每年节省上万工时、巡检效率提升80％](https://posts.careerengine.us/p/64f028d53f9cfb4d29c7bd82)  
 - [2023-08-31-金融领域数字化转型挑战探索：如何让数字化赋能业务和风控？](https://posts.careerengine.us/p/64f028d43f9cfb4d29c7bd79)  
 - [2023-08-31-台积电在美国投资400亿美元的芯片厂要建不下去了](https://posts.careerengine.us/p/64f028d43f9cfb4d29c7bd71)  
