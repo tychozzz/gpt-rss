@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-05 06:00:24，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-05 15:00:20，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-09-05-走出新手村：十次CV论文会议投稿的经验总结](https://posts.careerengine.us/p/64f605fe97cf3972a7e0b2fc) ![](/assets/new.png)  
-- [2023-09-05-文末送书-|-深度学习之图像识别：详解核心算法与12个经典实战案例](https://posts.careerengine.us/p/64f605fe97cf3972a7e0b2eb) ![](/assets/new.png)  
-- [2023-09-05-SVM永不过时！Transformer它就是个支持向量机](https://posts.careerengine.us/p/64f60607560f1072dbc60e76) ![](/assets/new.png)  
-- [2023-09-05-上海内推-|-上海人工智能实验室招聘Responsible-AI大语言模型算法研究实习生](https://posts.careerengine.us/p/64f6061d8115dd7301f85522) ![](/assets/new.png)  
-- [2023-09-03-​SIGIR-2023-|-用于序列推荐的多兴趣预训练框架](https://posts.careerengine.us/p/64f4611ec79835160a70d91a)  
+- [2023-09-05-上海内推-|-上海人工智能实验室招聘Responsible-AI大语言模型算法研究实习生](https://posts.careerengine.us/p/64f6061d8115dd7301f85522)  
+- [2023-09-05-SVM永不过时！Transformer它就是个支持向量机](https://posts.careerengine.us/p/64f60607560f1072dbc60e76)  
+- [2023-09-05-文末送书-|-深度学习之图像识别：详解核心算法与12个经典实战案例](https://posts.careerengine.us/p/64f605fe97cf3972a7e0b2eb)  
+- [2023-09-05-走出新手村：十次CV论文会议投稿的经验总结](https://posts.careerengine.us/p/64f605fe97cf3972a7e0b2fc)  
+- [2023-09-05-如何判别大语言模型生成的文本？](https://posts.careerengine.us/p/64f6b8dedd272738867e216d) ![](/assets/new.png)  
+- [2023-09-05-今晚直播-|-上海财经大学博士生陈畅欣：学习重排中的深层次排序表示](https://posts.careerengine.us/p/64f6b8e9f41ef838f7d45d4d) ![](/assets/new.png)  
+- [2023-09-05-CVPR-2023-|-​微软亚洲研究院提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f6b8e9f41ef838f7d45d45) ![](/assets/new.png)  
+- [2023-09-05-科研实习-|-北京大学卢宗青老师课题组和智源研究院招收多模态方向科研实习生](https://posts.careerengine.us/p/64f6b8f4926d133929e07dbb) ![](/assets/new.png)  
 - [2023-09-03-揭秘最领先的Llama2中文大模型！](https://posts.careerengine.us/p/64f461140f78c715ec18340d)  
-- [2023-09-01-不是你发表不了CCF-A顶级会议，而是没有利用好Best-paper提名得主这层“关系”！](https://posts.careerengine.us/p/64f1fa8d63adb7418e1d0181)  
-- [2023-09-01-SuperAlignment-in-Medical-Science：中文医疗大模型评估基准CMB](https://posts.careerengine.us/p/64f1fa9df7196b4229bf9330)  
+- [2023-09-03-​SIGIR-2023-|-用于序列推荐的多兴趣预训练框架](https://posts.careerengine.us/p/64f4611ec79835160a70d91a)  
 - [2023-09-01-ICCV-2023-|-DomainAdaptor：测试阶段自适应新方法](https://posts.careerengine.us/p/64f1faa7c34260424ec8419d)  
-- [2023-08-31-北京内推-|-微软WizardLM大模型团队招聘NLP方向研究型实习生](https://posts.careerengine.us/p/64ef7537b43e8d7d0db0a1c4)  
-- [2023-08-31-博后招募-|-⾹港理⼯⼤学电⼦李⻘教授招募机器学习方向博士后/RA/⾏政助理](https://posts.careerengine.us/p/64ef752eb0e6537cd7647445)  
-- [2023-08-31-十分钟读懂旋转编码（RoPE）](https://posts.careerengine.us/p/64ef752463d1f47c9bf2e46f)  
+- [2023-09-01-SuperAlignment-in-Medical-Science：中文医疗大模型评估基准CMB](https://posts.careerengine.us/p/64f1fa9df7196b4229bf9330)  
+- [2023-09-01-不是你发表不了CCF-A顶级会议，而是没有利用好Best-paper提名得主这层“关系”！](https://posts.careerengine.us/p/64f1fa8d63adb7418e1d0181)  
 - [2023-08-31-ICCV-2023-|-港中文MMLab：多帧光流估计模型VideoFlow，首次实现亚像素级别误差](https://posts.careerengine.us/p/64ef752363d1f47c9bf2e467)  
-- [2023-08-29-Facebook推荐系统研究新进展：结合多模态信息与排名式学习的搜索EBR系统](https://posts.careerengine.us/p/64ee02ce866806492b0ad873)  
-- [2023-08-29-ICCV-2023-|-发挥offline方法的潜力：解耦合的视频实例分割框架DVIS](https://posts.careerengine.us/p/64ee02e2ba54d249addb01c3)  
+- [2023-08-31-十分钟读懂旋转编码（RoPE）](https://posts.careerengine.us/p/64ef752463d1f47c9bf2e46f)  
+- [2023-08-31-博后招募-|-⾹港理⼯⼤学电⼦李⻘教授招募机器学习方向博士后/RA/⾏政助理](https://posts.careerengine.us/p/64ef752eb0e6537cd7647445)  
+- [2023-08-31-北京内推-|-微软WizardLM大模型团队招聘NLP方向研究型实习生](https://posts.careerengine.us/p/64ef7537b43e8d7d0db0a1c4)  
 - [2023-08-29-博士申请-|-新加坡国立大学吴喆老师招收机器学习控制方向全奖博士/博后/RA](https://posts.careerengine.us/p/64ee02ed4235e549dbbb2407)  
-- [2023-08-28-博后招募-|-清华大学周伯文教授课题组招聘助理研究员/博士后/工程师/访问学生](https://posts.careerengine.us/p/64ec1ef6f21a5c0a3b3a0a47)  
-- [2023-08-28-上海交大&蚂蚁提出四合一物体传送门，向场景中可控传送物体](https://posts.careerengine.us/p/64ec1ee980c0620a19cdb9fd)  
-- [2023-08-28-如何快速实现大模型落地？5小时get大模型时代实战密码！](https://posts.careerengine.us/p/64ec1ee1f7536f09e2e8f028)  
-- [2023-08-28-​ICLR-2023-高分论文-|-基于子图草图的图神经网络用于链路预测](https://posts.careerengine.us/p/64ec1ee1f7536f09e2e8f031)  
+- [2023-08-29-ICCV-2023-|-发挥offline方法的潜力：解耦合的视频实例分割框架DVIS](https://posts.careerengine.us/p/64ee02e2ba54d249addb01c3)  
+- [2023-08-29-Facebook推荐系统研究新进展：结合多模态信息与排名式学习的搜索EBR系统](https://posts.careerengine.us/p/64ee02ce866806492b0ad873)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-09-05 06:00:24。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-09-05 15:00:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -207,6 +207,7 @@
 
 
 - [【机器之心】基于信息论的校准技术，CML让多模态机器学习更可靠](https://posts.careerengine.us/p/649a697cfba2fd44a974741f)
+- [【PaperWeekly】科研实习-|-北京大学卢宗青老师课题组和智源研究院招收多模态方向科研实习生](https://posts.careerengine.us/p/64f6b8f4926d133929e07dbb)
 - [【PaperWeekly】多模态3D理解的新篇章：ULIP-（CVPR-2023）-与ULIP-2](https://posts.careerengine.us/p/64def72421cdb10bf6bbdfcd)
 - [【PaperWeekly】北京内推-|-联想研究院招聘CV/多模态方向暑期/日常算法实习生](https://posts.careerengine.us/p/64c40c83e16794707b10ea63)
 - [【PaperWeekly】杭州内推-|-网易云音乐算法团队招聘多模态/NLP方向算法实习生](https://posts.careerengine.us/p/64ba0865d87c6d7e38114a17)
@@ -265,6 +266,7 @@
 - [【机器之心】拖拽下图像就能生成视频，中科大、微软等DragNUWA属实惊艳](https://posts.careerengine.us/p/64e2eaab625f4e3d09aa9bcf)
 - [【机器之心】Let’s-Make-It-3D！上交&微软最新开源2D转3D生成研究，Star超过1k星](https://posts.careerengine.us/p/64cc84fc4c861516a2c22cbd)
 - [【量子位】Excel变天！微软把Python「塞」进去了，直接可搞机器学习](https://posts.careerengine.us/p/64e5962ab8c5f3756b91e3b9)
+- [【PaperWeekly】CVPR-2023-|-​微软亚洲研究院提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f6b8e9f41ef838f7d45d45)
 - [【PaperWeekly】北京内推-|-微软亚洲研究院自然语言计算组招聘NLP方向研究实习生](https://posts.careerengine.us/p/64eb587085dd1d21a2c18785)
 - [【PaperWeekly】北京内推-|-微软亚洲互联网工程院微软搜索广告算法团队招聘NLP算法实习生](https://posts.careerengine.us/p/64c13ff093b8c152f8e07f19)
 - [【AI前线】微软-Dev-Box-正式发布：加速开发者工作流程](https://posts.careerengine.us/p/64f41b8dea681654e6eb2acd)
