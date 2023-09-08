@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-08 15:00:13，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-08 18:00:23，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-09-08-时代周刊100个最具影响力AI人物：李飞飞、黄仁勋、李彦宏、曾毅等人入选](https://posts.careerengine.us/p/64faaad84a0f1969f88cfb1e) ![](/assets/new.png)  
-- [2023-09-08-腾讯混元大模型正式亮相，我们抢先试了试它的生产力](https://posts.careerengine.us/p/64faaae04319976a315edbca) ![](/assets/new.png)  
-- [2023-09-08-LLaMA微调显存需求减半，清华提出4比特优化器](https://posts.careerengine.us/p/64faaae04319976a315edbd2) ![](/assets/new.png)  
-- [2023-09-08-GPT-4：我写的代码你敢用吗？研究表明其API误用率超过62％](https://posts.careerengine.us/p/64faaae9454ee66a4f84d723) ![](/assets/new.png)  
-- [2023-09-08-华为Mate60Pro+开启预定，双卫星通信加持](https://posts.careerengine.us/p/64faaaf2f4fce56a708c2dc1) ![](/assets/new.png)  
+- [2023-09-08-时代周刊100个最具影响力AI人物：李飞飞、黄仁勋、李彦宏、曾毅等人入选](https://posts.careerengine.us/p/64faaad84a0f1969f88cfb1e)  
+- [2023-09-08-腾讯混元大模型正式亮相，我们抢先试了试它的生产力](https://posts.careerengine.us/p/64faaae04319976a315edbca)  
+- [2023-09-08-LLaMA微调显存需求减半，清华提出4比特优化器](https://posts.careerengine.us/p/64faaae04319976a315edbd2)  
+- [2023-09-08-GPT-4：我写的代码你敢用吗？研究表明其API误用率超过62％](https://posts.careerengine.us/p/64faaae9454ee66a4f84d723)  
+- [2023-09-08-华为Mate60Pro+开启预定，双卫星通信加持](https://posts.careerengine.us/p/64faaaf2f4fce56a708c2dc1)  
 - [2023-09-07-百川智能发布Baichuan2大模型：全面领先Llama2，训练切片也开源了](https://posts.careerengine.us/p/64f95bb7dbc4ca244a66f2f6)  
 - [2023-09-07-听到去野餐就蹦蹦跳跳，谷歌用大模型教机器狗听懂模糊指令](https://posts.careerengine.us/p/64f95baeaa7e2023a03df1ae)  
 - [2023-09-07-无GPT-5或4.5，两月后OpenAI首届开发者大会要发的新东西，引热猜](https://posts.careerengine.us/p/64f95baeaa7e2023a03df19f)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2023-09-07-这一次，大模型颠覆广告行业！](https://posts.careerengine.us/p/64f9cc7bff2a3f47796046da)  
-- [2023-09-07-沙龙招募｜探讨AIGC大模型领军团队养成方法论](https://posts.careerengine.us/p/64f9cc85f0a27a2aae160d5c)  
-- [2023-09-07-一手实测腾讯混元大模型：重逻辑降幻觉，鹅厂自家应用已加持](https://posts.careerengine.us/p/64f9cc95d7bfd447c8e4d69a)  
-- [2023-09-07-马斯克被曝要合并特斯拉和Neuralink，目标AGI，《银河系漫游指南》中描绘的那种](https://posts.careerengine.us/p/64f9cc96d7bfd447c8e4d6a2)  
-- [2023-09-07-百川智能开源最新商用大模型！王小川：比LLaMA更香，下一枪打ChatGPT](https://posts.careerengine.us/p/64f9cca3e2186c47e9e0bf0d)  
+- [2023-09-08-鹅厂用游戏教海淀学生机器学习？北师大评测：计算思维提升超80％](https://posts.careerengine.us/p/64fadbf43a514a49a0327f0b) ![](/assets/new.png)  
+- [2023-09-08-李开复李彦宏奥特曼获评全球AI领袖，《时代》出品，全球100人](https://posts.careerengine.us/p/64fadbfc9cdeb305a3a4d58f) ![](/assets/new.png)  
+- [2023-09-08-立刻更新你的苹果设备！苹果被曝2大安全漏洞，无需交互就能被植入间谍软件](https://posts.careerengine.us/p/64fadc06f9b10b05be96087a) ![](/assets/new.png)  
+- [2023-09-08-比Python快6.8万倍，新语言Mojo首次开放下载，AI大佬：开发生态多年来最大升级](https://posts.careerengine.us/p/64fadc06f9b10b05be960872) ![](/assets/new.png)  
+- [2023-09-08-ChatGPT最强平替告别纯免费！Claude会员版每月140，对话量可提高5倍](https://posts.careerengine.us/p/64fadc107bc1ee062aaeab12) ![](/assets/new.png)  
 - [2023-09-07-Nature：为啥室温超导支棱不起来](https://posts.careerengine.us/p/64f9cca4e2186c47e9e0bf1e)  
-- [2023-09-06-为防大模型作恶，斯坦福新方法让模型「遗忘」有害任务信息，模型学会「自毁」了](https://posts.careerengine.us/p/64f80b6120bcef16c4334e72)  
-- [2023-09-06-ChatGPT上线“论文神器”插件！无需关键字即可搜索2亿文章，链接绝对保真](https://posts.careerengine.us/p/64f80b5a6c0d4a1693982904)  
-- [2023-09-06-AI取代人类翻译员，知名科技网站连13年老员工都裁了，网站清一色AI出品](https://posts.careerengine.us/p/64f80b596c0d4a16939828fc)  
-- [2023-09-06-GitHub热榜登顶：开源版GPT-4代码解释器，可安装任意Python库，本地终端运行](https://posts.careerengine.us/p/64f80b5136d6d4161cb24fcb)  
+- [2023-09-07-百川智能开源最新商用大模型！王小川：比LLaMA更香，下一枪打ChatGPT](https://posts.careerengine.us/p/64f9cca3e2186c47e9e0bf0d)  
+- [2023-09-07-马斯克被曝要合并特斯拉和Neuralink，目标AGI，《银河系漫游指南》中描绘的那种](https://posts.careerengine.us/p/64f9cc96d7bfd447c8e4d6a2)  
+- [2023-09-07-一手实测腾讯混元大模型：重逻辑降幻觉，鹅厂自家应用已加持](https://posts.careerengine.us/p/64f9cc95d7bfd447c8e4d69a)  
+- [2023-09-07-沙龙招募｜探讨AIGC大模型领军团队养成方法论](https://posts.careerengine.us/p/64f9cc85f0a27a2aae160d5c)  
+- [2023-09-07-这一次，大模型颠覆广告行业！](https://posts.careerengine.us/p/64f9cc7bff2a3f47796046da)  
 - [2023-09-06-对话稚晖君：具身智能创业窗口转瞬即逝，打擂瞄准偶像马斯克](https://posts.careerengine.us/p/64f80b4637983415f9645c23)  
-- [2023-09-05-百度版大模型应用商店来了！从数字人到企业搜索11大应用应有尽有](https://posts.careerengine.us/p/64f710678b06636758446ce7)  
-- [2023-09-05-天工大模型登顶多模态榜单！解决幻觉、跨语言两大难题](https://posts.careerengine.us/p/64f7107134345e677271f30f)  
-- [2023-09-05-Meta推出像素级动作追踪模型，简易版在线可玩-|-GitHub-1.4K星](https://posts.careerengine.us/p/64f71079ff9587679d932266)  
+- [2023-09-06-GitHub热榜登顶：开源版GPT-4代码解释器，可安装任意Python库，本地终端运行](https://posts.careerengine.us/p/64f80b5136d6d4161cb24fcb)  
+- [2023-09-06-AI取代人类翻译员，知名科技网站连13年老员工都裁了，网站清一色AI出品](https://posts.careerengine.us/p/64f80b596c0d4a16939828fc)  
+- [2023-09-06-ChatGPT上线“论文神器”插件！无需关键字即可搜索2亿文章，链接绝对保真](https://posts.careerengine.us/p/64f80b5a6c0d4a1693982904)  
+- [2023-09-06-为防大模型作恶，斯坦福新方法让模型「遗忘」有害任务信息，模型学会「自毁」了](https://posts.careerengine.us/p/64f80b6120bcef16c4334e72)  
 - [2023-09-05-大模型RLHF不必非得靠人，谷歌：AI反馈效果一样好](https://posts.careerengine.us/p/64f7108674c47667ca13a663)  
-- [2023-09-04-9月6日，和量子位聊聊仿生机器人最新趋势](https://posts.careerengine.us/p/64f5c942157cc40ed13d5eaf)  
-- [2023-09-04-DIY大佬自制离子推进器火了，近300万网友围观：星际迷航就是用的这吧](https://posts.careerengine.us/p/64f5c942157cc40ed13d5eb7)  
-- [2023-09-04-IOI'23中国队全员夺金！包揽一二名斩获团体第一，历史金牌总数达到100枚](https://posts.careerengine.us/p/64f5c92bafe2f00e7343fc91)  
-- [2023-09-04-全球智能车看中国，中国智能车看重庆](https://posts.careerengine.us/p/64f5c923e064f50e3f7b242a)  
-- [2023-09-04-陶哲轩又来安利AI工具了：新论文排版用上VSCode-Copilot+插件](https://posts.careerengine.us/p/64f5c923e064f50e3f7b2433)  
+- [2023-09-05-Meta推出像素级动作追踪模型，简易版在线可玩-|-GitHub-1.4K星](https://posts.careerengine.us/p/64f71079ff9587679d932266)  
+- [2023-09-05-天工大模型登顶多模态榜单！解决幻觉、跨语言两大难题](https://posts.careerengine.us/p/64f7107134345e677271f30f)  
+- [2023-09-05-百度版大模型应用商店来了！从数字人到企业搜索11大应用应有尽有](https://posts.careerengine.us/p/64f710678b06636758446ce7)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2023-09-08-文末送书-|-搜狐创始人、物理学博士张朝阳全新著作，重磅来袭！](https://posts.careerengine.us/p/64faa002d06fda3f85695f0f) ![](/assets/new.png)  
-- [2023-09-08-纯Python实现！更纯粹、更高压缩率的Tokenizer](https://posts.careerengine.us/p/64faa003d06fda3f85695f18) ![](/assets/new.png)  
-- [2023-09-08-深圳内推-|-百度文心ERNIE团队招聘NLP数据科学算法实习生](https://posts.careerengine.us/p/64faa0106ebf823fe3343af1) ![](/assets/new.png)  
+- [2023-09-08-文末送书-|-搜狐创始人、物理学博士张朝阳全新著作，重磅来袭！](https://posts.careerengine.us/p/64faa002d06fda3f85695f0f)  
+- [2023-09-08-纯Python实现！更纯粹、更高压缩率的Tokenizer](https://posts.careerengine.us/p/64faa003d06fda3f85695f18)  
+- [2023-09-08-深圳内推-|-百度文心ERNIE团队招聘NLP数据科学算法实习生](https://posts.careerengine.us/p/64faa0106ebf823fe3343af1)  
 - [2023-09-07-当我们说起神经网络的等变性，我们在谈论什么？](https://posts.careerengine.us/p/64f961768d1e7f3ddc70bb3f)  
 - [2023-09-07-ICCV-2023-|-基于预训练视觉语言模型和大语言模型的零样本图像到文本生成](https://posts.careerengine.us/p/64f9616c689e9a3db3722323)  
 - [2023-09-07-综述：基于导师放养的论文投稿策略](https://posts.careerengine.us/p/64f9616b689e9a3db372231b)  
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2023-09-08-比Python快68000倍！Mojo正式发布，网友：Python生态系统最重要的升级来了](https://posts.careerengine.us/p/64fab2690238787e201451ea) ![](/assets/new.png)  
-- [2023-09-08-引领金融科技未来：德邦基金、太平洋健康险与万事达卡专家云集FCon大会](https://posts.careerengine.us/p/64fab28171b138069bdf21c9) ![](/assets/new.png)  
+- [2023-09-08-比Python快68000倍！Mojo正式发布，网友：Python生态系统最重要的升级来了](https://posts.careerengine.us/p/64fab2690238787e201451ea)  
+- [2023-09-08-引领金融科技未来：德邦基金、太平洋健康险与万事达卡专家云集FCon大会](https://posts.careerengine.us/p/64fab28171b138069bdf21c9)  
 - [2023-09-07-度小满杨青：业界在探索大模型应用时存在一定误区](https://posts.careerengine.us/p/64f961a61452143cc0abb952)  
 - [2023-09-07-计算资源分配不公引发内斗！LLaMA核心作者流失大半，Meta-AI联合主管也已离职](https://posts.careerengine.us/p/64f961a61452143cc0abb95a)  
 - [2023-09-06-从Snowflake迁移到Databricks，成本下降50％？Snowflake被迫解释](https://posts.careerengine.us/p/64f814ad1cf22328c8d19513)  
