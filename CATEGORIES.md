@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-08 18:00:23，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-09 18:00:14，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-09-08-时代周刊100个最具影响力AI人物：李飞飞、黄仁勋、李彦宏、曾毅等人入选](https://posts.careerengine.us/p/64faaad84a0f1969f88cfb1e)  
-- [2023-09-08-腾讯混元大模型正式亮相，我们抢先试了试它的生产力](https://posts.careerengine.us/p/64faaae04319976a315edbca)  
-- [2023-09-08-LLaMA微调显存需求减半，清华提出4比特优化器](https://posts.careerengine.us/p/64faaae04319976a315edbd2)  
-- [2023-09-08-GPT-4：我写的代码你敢用吗？研究表明其API误用率超过62％](https://posts.careerengine.us/p/64faaae9454ee66a4f84d723)  
+- [2023-09-09-告诉大模型「深呼吸，一步一步来」有奇效，DeepMind发现最有效的提示方法](https://posts.careerengine.us/p/64fc3b9d904c6346f6bbb33c) ![](/assets/new.png)  
+- [2023-09-09-蚂蚁集团开-“卷”-金融大模型，“四力和一”-解决产业真命题](https://posts.careerengine.us/p/64fc3b9d904c6346f6bbb334) ![](/assets/new.png)  
+- [2023-09-09-狂揽13k-star，开源版代码解释器登顶GitHub热榜，可本地运行、可访问互联网](https://posts.careerengine.us/p/64fc3ba52571a747262c0963) ![](/assets/new.png)  
+- [2023-09-09-10万美元+26天，一个低成本千亿参数LLM就诞生了](https://posts.careerengine.us/p/64fc3bb42887cd47608bb2c9) ![](/assets/new.png)  
+- [2023-09-09-大模型写代码能力突飞猛进，北大团队提出结构化思维链SCoT](https://posts.careerengine.us/p/64fc3bb42887cd47608bb2c1) ![](/assets/new.png)  
 - [2023-09-08-华为Mate60Pro+开启预定，双卫星通信加持](https://posts.careerengine.us/p/64faaaf2f4fce56a708c2dc1)  
-- [2023-09-07-百川智能发布Baichuan2大模型：全面领先Llama2，训练切片也开源了](https://posts.careerengine.us/p/64f95bb7dbc4ca244a66f2f6)  
-- [2023-09-07-听到去野餐就蹦蹦跳跳，谷歌用大模型教机器狗听懂模糊指令](https://posts.careerengine.us/p/64f95baeaa7e2023a03df1ae)  
-- [2023-09-07-无GPT-5或4.5，两月后OpenAI首届开发者大会要发的新东西，引热猜](https://posts.careerengine.us/p/64f95baeaa7e2023a03df19f)  
-- [2023-09-07-路特斯机器人CEO李博：大模型时代的智能驾驶生产力工厂](https://posts.careerengine.us/p/64f95baeaa7e2023a03df1bd)  
+- [2023-09-08-GPT-4：我写的代码你敢用吗？研究表明其API误用率超过62％](https://posts.careerengine.us/p/64faaae9454ee66a4f84d723)  
+- [2023-09-08-LLaMA微调显存需求减半，清华提出4比特优化器](https://posts.careerengine.us/p/64faaae04319976a315edbd2)  
+- [2023-09-08-腾讯混元大模型正式亮相，我们抢先试了试它的生产力](https://posts.careerengine.us/p/64faaae04319976a315edbca)  
+- [2023-09-08-时代周刊100个最具影响力AI人物：李飞飞、黄仁勋、李彦宏、曾毅等人入选](https://posts.careerengine.us/p/64faaad84a0f1969f88cfb1e)  
 - [2023-09-07-训练大模型缺少高质量数据？我们找到了一种新的解决方案](https://posts.careerengine.us/p/64f95b9e1753c1231282e669)  
-- [2023-09-06-生成式AI走进小学生「编程第一课」：画条线生成音乐、草图一秒变大作](https://posts.careerengine.us/p/64f805b792c0634534ebd4f4)  
-- [2023-09-06-「arXiv就是毒瘤」ACL主席暴论被声讨，网友：我们换个顶会投吧](https://posts.careerengine.us/p/64f805c6b3b2ef45700591d3)  
-- [2023-09-06-Meta被曝因抢夺计算资源内斗激烈，Llama多位作者离职](https://posts.careerengine.us/p/64f805c6b3b2ef45700591cb)  
-- [2023-09-06-RLHF-vs-RL「AI」F，谷歌实证：大模型训练中人类反馈可被AI替代](https://posts.careerengine.us/p/64f805ce48f51e07a7d5ad27)  
+- [2023-09-07-路特斯机器人CEO李博：大模型时代的智能驾驶生产力工厂](https://posts.careerengine.us/p/64f95baeaa7e2023a03df1bd)  
+- [2023-09-07-无GPT-5或4.5，两月后OpenAI首届开发者大会要发的新东西，引热猜](https://posts.careerengine.us/p/64f95baeaa7e2023a03df19f)  
+- [2023-09-07-听到去野餐就蹦蹦跳跳，谷歌用大模型教机器狗听懂模糊指令](https://posts.careerengine.us/p/64f95baeaa7e2023a03df1ae)  
+- [2023-09-07-百川智能发布Baichuan2大模型：全面领先Llama2，训练切片也开源了](https://posts.careerengine.us/p/64f95bb7dbc4ca244a66f2f6)  
 - [2023-09-06-动物与人类存在的「关键学习期」，联邦学习也有](https://posts.careerengine.us/p/64f805cf48f51e07a7d5ad2f)  
-- [2023-09-05-大模型时代，腾讯云打造了这样的超级底座](https://posts.careerengine.us/p/64f6f7a5dfd9516cab74dd00)  
-- [2023-09-05-陶哲轩用大模型辅助解决数学问题：生成代码、编辑LaTeX公式都很好用](https://posts.careerengine.us/p/64f6f7a5dfd9516cab74dd10)  
-- [2023-09-05-上海交大发布大模型双语编程评估基准CodeApex，机器真的开始挑战人类写代码了吗？](https://posts.careerengine.us/p/64f6f7a5dfd9516cab74dd18)  
-- [2023-09-05-「不要回答」，数据集来当监听员，评估LLM安全机制就靠它了](https://posts.careerengine.us/p/64f6f7a5dfd9516cab74dd08)  
-- [2023-09-05-加速大模型产业落地，百度智能云千帆再升级](https://posts.careerengine.us/p/64f6f79c74dcf16c77a80dc7)  
+- [2023-09-06-RLHF-vs-RL「AI」F，谷歌实证：大模型训练中人类反馈可被AI替代](https://posts.careerengine.us/p/64f805ce48f51e07a7d5ad27)  
+- [2023-09-06-Meta被曝因抢夺计算资源内斗激烈，Llama多位作者离职](https://posts.careerengine.us/p/64f805c6b3b2ef45700591cb)  
+- [2023-09-06-「arXiv就是毒瘤」ACL主席暴论被声讨，网友：我们换个顶会投吧](https://posts.careerengine.us/p/64f805c6b3b2ef45700591d3)  
+- [2023-09-06-生成式AI走进小学生「编程第一课」：画条线生成音乐、草图一秒变大作](https://posts.careerengine.us/p/64f805b792c0634534ebd4f4)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2023-09-08-鹅厂用游戏教海淀学生机器学习？北师大评测：计算思维提升超80％](https://posts.careerengine.us/p/64fadbf43a514a49a0327f0b) ![](/assets/new.png)  
-- [2023-09-08-李开复李彦宏奥特曼获评全球AI领袖，《时代》出品，全球100人](https://posts.careerengine.us/p/64fadbfc9cdeb305a3a4d58f) ![](/assets/new.png)  
-- [2023-09-08-立刻更新你的苹果设备！苹果被曝2大安全漏洞，无需交互就能被植入间谍软件](https://posts.careerengine.us/p/64fadc06f9b10b05be96087a) ![](/assets/new.png)  
-- [2023-09-08-比Python快6.8万倍，新语言Mojo首次开放下载，AI大佬：开发生态多年来最大升级](https://posts.careerengine.us/p/64fadc06f9b10b05be960872) ![](/assets/new.png)  
-- [2023-09-08-ChatGPT最强平替告别纯免费！Claude会员版每月140，对话量可提高5倍](https://posts.careerengine.us/p/64fadc107bc1ee062aaeab12) ![](/assets/new.png)  
+- [2023-09-08-鹅厂用游戏教海淀学生机器学习？北师大评测：计算思维提升超80％](https://posts.careerengine.us/p/64fadbf43a514a49a0327f0b)  
+- [2023-09-08-李开复李彦宏奥特曼获评全球AI领袖，《时代》出品，全球100人](https://posts.careerengine.us/p/64fadbfc9cdeb305a3a4d58f)  
+- [2023-09-08-立刻更新你的苹果设备！苹果被曝2大安全漏洞，无需交互就能被植入间谍软件](https://posts.careerengine.us/p/64fadc06f9b10b05be96087a)  
+- [2023-09-08-比Python快6.8万倍，新语言Mojo首次开放下载，AI大佬：开发生态多年来最大升级](https://posts.careerengine.us/p/64fadc06f9b10b05be960872)  
+- [2023-09-08-ChatGPT最强平替告别纯免费！Claude会员版每月140，对话量可提高5倍](https://posts.careerengine.us/p/64fadc107bc1ee062aaeab12)  
 - [2023-09-07-Nature：为啥室温超导支棱不起来](https://posts.careerengine.us/p/64f9cca4e2186c47e9e0bf1e)  
 - [2023-09-07-百川智能开源最新商用大模型！王小川：比LLaMA更香，下一枪打ChatGPT](https://posts.careerengine.us/p/64f9cca3e2186c47e9e0bf0d)  
 - [2023-09-07-马斯克被曝要合并特斯拉和Neuralink，目标AGI，《银河系漫游指南》中描绘的那种](https://posts.careerengine.us/p/64f9cc96d7bfd447c8e4d6a2)  
