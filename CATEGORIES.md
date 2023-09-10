@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-10 23:00:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-11 06:00:17，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,25 +52,25 @@
 </summary>
 
 
-- [2023-09-08-鹅厂用游戏教海淀学生机器学习？北师大评测：计算思维提升超80％](https://posts.careerengine.us/p/64fadbf43a514a49a0327f0b)  
-- [2023-09-08-李开复李彦宏奥特曼获评全球AI领袖，《时代》出品，全球100人](https://posts.careerengine.us/p/64fadbfc9cdeb305a3a4d58f)  
-- [2023-09-08-立刻更新你的苹果设备！苹果被曝2大安全漏洞，无需交互就能被植入间谍软件](https://posts.careerengine.us/p/64fadc06f9b10b05be96087a)  
-- [2023-09-08-比Python快6.8万倍，新语言Mojo首次开放下载，AI大佬：开发生态多年来最大升级](https://posts.careerengine.us/p/64fadc06f9b10b05be960872)  
+- [2023-09-10-Adobe推AI生图下猛药：侵权包赔！企业版Firefly已上线](https://posts.careerengine.us/p/64fdd9b3edef503fb10ea3a8) ![](/assets/new.png)  
+- [2023-09-10-陶哲轩发新论文了，又是AI帮忙的那种](https://posts.careerengine.us/p/64fdd9b3edef503fb10ea3b7) ![](/assets/new.png)  
+- [2023-09-10-AIGC，驱动架构与业务的新动力-|-9月16日-TF线下活动报名](https://posts.careerengine.us/p/64fdd9b3edef503fb10ea3bf) ![](/assets/new.png)  
 - [2023-09-08-ChatGPT最强平替告别纯免费！Claude会员版每月140，对话量可提高5倍](https://posts.careerengine.us/p/64fadc107bc1ee062aaeab12)  
-- [2023-09-07-Nature：为啥室温超导支棱不起来](https://posts.careerengine.us/p/64f9cca4e2186c47e9e0bf1e)  
-- [2023-09-07-百川智能开源最新商用大模型！王小川：比LLaMA更香，下一枪打ChatGPT](https://posts.careerengine.us/p/64f9cca3e2186c47e9e0bf0d)  
-- [2023-09-07-马斯克被曝要合并特斯拉和Neuralink，目标AGI，《银河系漫游指南》中描绘的那种](https://posts.careerengine.us/p/64f9cc96d7bfd447c8e4d6a2)  
-- [2023-09-07-一手实测腾讯混元大模型：重逻辑降幻觉，鹅厂自家应用已加持](https://posts.careerengine.us/p/64f9cc95d7bfd447c8e4d69a)  
-- [2023-09-07-沙龙招募｜探讨AIGC大模型领军团队养成方法论](https://posts.careerengine.us/p/64f9cc85f0a27a2aae160d5c)  
+- [2023-09-08-比Python快6.8万倍，新语言Mojo首次开放下载，AI大佬：开发生态多年来最大升级](https://posts.careerengine.us/p/64fadc06f9b10b05be960872)  
+- [2023-09-08-立刻更新你的苹果设备！苹果被曝2大安全漏洞，无需交互就能被植入间谍软件](https://posts.careerengine.us/p/64fadc06f9b10b05be96087a)  
+- [2023-09-08-李开复李彦宏奥特曼获评全球AI领袖，《时代》出品，全球100人](https://posts.careerengine.us/p/64fadbfc9cdeb305a3a4d58f)  
+- [2023-09-08-鹅厂用游戏教海淀学生机器学习？北师大评测：计算思维提升超80％](https://posts.careerengine.us/p/64fadbf43a514a49a0327f0b)  
 - [2023-09-07-这一次，大模型颠覆广告行业！](https://posts.careerengine.us/p/64f9cc7bff2a3f47796046da)  
-- [2023-09-06-对话稚晖君：具身智能创业窗口转瞬即逝，打擂瞄准偶像马斯克](https://posts.careerengine.us/p/64f80b4637983415f9645c23)  
-- [2023-09-06-GitHub热榜登顶：开源版GPT-4代码解释器，可安装任意Python库，本地终端运行](https://posts.careerengine.us/p/64f80b5136d6d4161cb24fcb)  
-- [2023-09-06-AI取代人类翻译员，知名科技网站连13年老员工都裁了，网站清一色AI出品](https://posts.careerengine.us/p/64f80b596c0d4a16939828fc)  
-- [2023-09-06-ChatGPT上线“论文神器”插件！无需关键字即可搜索2亿文章，链接绝对保真](https://posts.careerengine.us/p/64f80b5a6c0d4a1693982904)  
+- [2023-09-07-沙龙招募｜探讨AIGC大模型领军团队养成方法论](https://posts.careerengine.us/p/64f9cc85f0a27a2aae160d5c)  
+- [2023-09-07-一手实测腾讯混元大模型：重逻辑降幻觉，鹅厂自家应用已加持](https://posts.careerengine.us/p/64f9cc95d7bfd447c8e4d69a)  
+- [2023-09-07-马斯克被曝要合并特斯拉和Neuralink，目标AGI，《银河系漫游指南》中描绘的那种](https://posts.careerengine.us/p/64f9cc96d7bfd447c8e4d6a2)  
+- [2023-09-07-百川智能开源最新商用大模型！王小川：比LLaMA更香，下一枪打ChatGPT](https://posts.careerengine.us/p/64f9cca3e2186c47e9e0bf0d)  
+- [2023-09-07-Nature：为啥室温超导支棱不起来](https://posts.careerengine.us/p/64f9cca4e2186c47e9e0bf1e)  
 - [2023-09-06-为防大模型作恶，斯坦福新方法让模型「遗忘」有害任务信息，模型学会「自毁」了](https://posts.careerengine.us/p/64f80b6120bcef16c4334e72)  
-- [2023-09-05-大模型RLHF不必非得靠人，谷歌：AI反馈效果一样好](https://posts.careerengine.us/p/64f7108674c47667ca13a663)  
-- [2023-09-05-Meta推出像素级动作追踪模型，简易版在线可玩-|-GitHub-1.4K星](https://posts.careerengine.us/p/64f71079ff9587679d932266)  
-- [2023-09-05-天工大模型登顶多模态榜单！解决幻觉、跨语言两大难题](https://posts.careerengine.us/p/64f7107134345e677271f30f)  
+- [2023-09-06-ChatGPT上线“论文神器”插件！无需关键字即可搜索2亿文章，链接绝对保真](https://posts.careerengine.us/p/64f80b5a6c0d4a1693982904)  
+- [2023-09-06-AI取代人类翻译员，知名科技网站连13年老员工都裁了，网站清一色AI出品](https://posts.careerengine.us/p/64f80b596c0d4a16939828fc)  
+- [2023-09-06-GitHub热榜登顶：开源版GPT-4代码解释器，可安装任意Python库，本地终端运行](https://posts.careerengine.us/p/64f80b5136d6d4161cb24fcb)  
+- [2023-09-06-对话稚晖君：具身智能创业窗口转瞬即逝，打擂瞄准偶像马斯克](https://posts.careerengine.us/p/64f80b4637983415f9645c23)  
 - [2023-09-05-百度版大模型应用商店来了！从数字人到企业搜索11大应用应有尽有](https://posts.careerengine.us/p/64f710678b06636758446ce7)  
 - [......【查看更多】......](/details/量子位.md)
 
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2023-09-10-智谱AI最新估值突破100亿元；红杉减持美团，迄今套现超500亿港币；消息称9月30日前，阿里云将关停代销业务-|-AI一周资讯](https://posts.careerengine.us/p/64fdd90fffde7d3cac0c8cd7) ![](/assets/new.png)  
+- [2023-09-10-智谱AI最新估值突破100亿元；红杉减持美团，迄今套现超500亿港币；消息称9月30日前，阿里云将关停代销业务-|-AI一周资讯](https://posts.careerengine.us/p/64fdd90fffde7d3cac0c8cd7)  
 - [2023-09-08-引领金融科技未来：德邦基金、太平洋健康险与万事达卡专家云集FCon大会](https://posts.careerengine.us/p/64fab28171b138069bdf21c9)  
 - [2023-09-08-比Python快68000倍！Mojo正式发布，网友：Python生态系统最重要的升级来了](https://posts.careerengine.us/p/64fab2690238787e201451ea)  
 - [2023-09-07-计算资源分配不公引发内斗！LLaMA核心作者流失大半，Meta-AI联合主管也已离职](https://posts.careerengine.us/p/64f961a61452143cc0abb95a)  
