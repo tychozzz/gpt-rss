@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-09 18:00:14，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-10 08:00:20，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-09-09-告诉大模型「深呼吸，一步一步来」有奇效，DeepMind发现最有效的提示方法](https://posts.careerengine.us/p/64fc3b9d904c6346f6bbb33c) ![](/assets/new.png)  
-- [2023-09-09-蚂蚁集团开-“卷”-金融大模型，“四力和一”-解决产业真命题](https://posts.careerengine.us/p/64fc3b9d904c6346f6bbb334) ![](/assets/new.png)  
-- [2023-09-09-狂揽13k-star，开源版代码解释器登顶GitHub热榜，可本地运行、可访问互联网](https://posts.careerengine.us/p/64fc3ba52571a747262c0963) ![](/assets/new.png)  
-- [2023-09-09-10万美元+26天，一个低成本千亿参数LLM就诞生了](https://posts.careerengine.us/p/64fc3bb42887cd47608bb2c9) ![](/assets/new.png)  
-- [2023-09-09-大模型写代码能力突飞猛进，北大团队提出结构化思维链SCoT](https://posts.careerengine.us/p/64fc3bb42887cd47608bb2c1) ![](/assets/new.png)  
+- [2023-09-09-告诉大模型「深呼吸，一步一步来」有奇效，DeepMind发现最有效的提示方法](https://posts.careerengine.us/p/64fc3b9d904c6346f6bbb33c)  
+- [2023-09-09-蚂蚁集团开-“卷”-金融大模型，“四力和一”-解决产业真命题](https://posts.careerengine.us/p/64fc3b9d904c6346f6bbb334)  
+- [2023-09-09-狂揽13k-star，开源版代码解释器登顶GitHub热榜，可本地运行、可访问互联网](https://posts.careerengine.us/p/64fc3ba52571a747262c0963)  
+- [2023-09-09-10万美元+26天，一个低成本千亿参数LLM就诞生了](https://posts.careerengine.us/p/64fc3bb42887cd47608bb2c9)  
+- [2023-09-09-大模型写代码能力突飞猛进，北大团队提出结构化思维链SCoT](https://posts.careerengine.us/p/64fc3bb42887cd47608bb2c1)  
 - [2023-09-08-华为Mate60Pro+开启预定，双卫星通信加持](https://posts.careerengine.us/p/64faaaf2f4fce56a708c2dc1)  
 - [2023-09-08-GPT-4：我写的代码你敢用吗？研究表明其API误用率超过62％](https://posts.careerengine.us/p/64faaae9454ee66a4f84d723)  
 - [2023-09-08-LLaMA微调显存需求减半，清华提出4比特优化器](https://posts.careerengine.us/p/64faaae04319976a315edbd2)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-09-08-文末送书-|-搜狐创始人、物理学博士张朝阳全新著作，重磅来袭！](https://posts.careerengine.us/p/64faa002d06fda3f85695f0f)  
-- [2023-09-08-纯Python实现！更纯粹、更高压缩率的Tokenizer](https://posts.careerengine.us/p/64faa003d06fda3f85695f18)  
+- [2023-09-10-全网独一份！GPT+AI大模型资源….](https://posts.careerengine.us/p/64fd005d54cb7e26fda4b671) ![](/assets/new.png)  
+- [2023-09-10-​ICCV-2023-|-图像分割全新思路：仅用文本描述实现图像分割！](https://posts.careerengine.us/p/64fd005d54cb7e26fda4b67a) ![](/assets/new.png)  
+- [2023-09-10-北京内推-|-Apple数据应用团队招聘因果推断方向数据科学实习生](https://posts.careerengine.us/p/64fd006f5285377515b53d5f) ![](/assets/new.png)  
 - [2023-09-08-深圳内推-|-百度文心ERNIE团队招聘NLP数据科学算法实习生](https://posts.careerengine.us/p/64faa0106ebf823fe3343af1)  
-- [2023-09-07-当我们说起神经网络的等变性，我们在谈论什么？](https://posts.careerengine.us/p/64f961768d1e7f3ddc70bb3f)  
-- [2023-09-07-ICCV-2023-|-基于预训练视觉语言模型和大语言模型的零样本图像到文本生成](https://posts.careerengine.us/p/64f9616c689e9a3db3722323)  
+- [2023-09-08-纯Python实现！更纯粹、更高压缩率的Tokenizer](https://posts.careerengine.us/p/64faa003d06fda3f85695f18)  
+- [2023-09-08-文末送书-|-搜狐创始人、物理学博士张朝阳全新著作，重磅来袭！](https://posts.careerengine.us/p/64faa002d06fda3f85695f0f)  
 - [2023-09-07-综述：基于导师放养的论文投稿策略](https://posts.careerengine.us/p/64f9616b689e9a3db372231b)  
-- [2023-09-06-AAAI-2023-|-基于可学习图增强的邻居监督图对比学习](https://posts.careerengine.us/p/64f7fc36bb1ff56953f40a09)  
+- [2023-09-07-ICCV-2023-|-基于预训练视觉语言模型和大语言模型的零样本图像到文本生成](https://posts.careerengine.us/p/64f9616c689e9a3db3722323)  
+- [2023-09-07-当我们说起神经网络的等变性，我们在谈论什么？](https://posts.careerengine.us/p/64f961768d1e7f3ddc70bb3f)  
 - [2023-09-06-北京内推-|-微软亚洲研究院数据知识智能组招聘强化学习方向研究实习生](https://posts.careerengine.us/p/64f7fc4133fcdc69761cba17)  
-- [2023-09-05-科研实习-|-北京大学卢宗青老师课题组和智源研究院招收多模态方向科研实习生](https://posts.careerengine.us/p/64f6b8f4926d133929e07dbb)  
-- [2023-09-05-CVPR-2023-|-​微软亚洲研究院提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f6b8e9f41ef838f7d45d45)  
-- [2023-09-05-今晚直播-|-上海财经大学博士生陈畅欣：学习重排中的深层次排序表示](https://posts.careerengine.us/p/64f6b8e9f41ef838f7d45d4d)  
-- [2023-09-05-如何判别大语言模型生成的文本？](https://posts.careerengine.us/p/64f6b8dedd272738867e216d)  
-- [2023-09-05-走出新手村：十次CV论文会议投稿的经验总结](https://posts.careerengine.us/p/64f605fe97cf3972a7e0b2fc)  
-- [2023-09-05-文末送书-|-深度学习之图像识别：详解核心算法与12个经典实战案例](https://posts.careerengine.us/p/64f605fe97cf3972a7e0b2eb)  
-- [2023-09-05-SVM永不过时！Transformer它就是个支持向量机](https://posts.careerengine.us/p/64f60607560f1072dbc60e76)  
-- [2023-09-05-上海内推-|-上海人工智能实验室招聘Responsible-AI大语言模型算法研究实习生](https://posts.careerengine.us/p/64f6061d8115dd7301f85522)  
+- [2023-09-06-AAAI-2023-|-基于可学习图增强的邻居监督图对比学习](https://posts.careerengine.us/p/64f7fc36bb1ff56953f40a09)  
 - [2023-09-05-博士申请-|-芝加哥大学李恬老师招收可信机器学习方向博士/硕士/博后/实习生](https://posts.careerengine.us/p/64f7fc4033fcdc69761cba0f)  
-- [2023-09-03-​SIGIR-2023-|-用于序列推荐的多兴趣预训练框架](https://posts.careerengine.us/p/64f4611ec79835160a70d91a)  
-- [2023-09-03-揭秘最领先的Llama2中文大模型！](https://posts.careerengine.us/p/64f461140f78c715ec18340d)  
-- [2023-09-01-不是你发表不了CCF-A顶级会议，而是没有利用好Best-paper提名得主这层“关系”！](https://posts.careerengine.us/p/64f1fa8d63adb7418e1d0181)  
+- [2023-09-05-上海内推-|-上海人工智能实验室招聘Responsible-AI大语言模型算法研究实习生](https://posts.careerengine.us/p/64f6061d8115dd7301f85522)  
+- [2023-09-05-SVM永不过时！Transformer它就是个支持向量机](https://posts.careerengine.us/p/64f60607560f1072dbc60e76)  
+- [2023-09-05-文末送书-|-深度学习之图像识别：详解核心算法与12个经典实战案例](https://posts.careerengine.us/p/64f605fe97cf3972a7e0b2eb)  
+- [2023-09-05-走出新手村：十次CV论文会议投稿的经验总结](https://posts.careerengine.us/p/64f605fe97cf3972a7e0b2fc)  
+- [2023-09-05-如何判别大语言模型生成的文本？](https://posts.careerengine.us/p/64f6b8dedd272738867e216d)  
+- [2023-09-05-今晚直播-|-上海财经大学博士生陈畅欣：学习重排中的深层次排序表示](https://posts.careerengine.us/p/64f6b8e9f41ef838f7d45d4d)  
+- [2023-09-05-CVPR-2023-|-​微软亚洲研究院提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f6b8e9f41ef838f7d45d45)  
+- [2023-09-05-科研实习-|-北京大学卢宗青老师课题组和智源研究院招收多模态方向科研实习生](https://posts.careerengine.us/p/64f6b8f4926d133929e07dbb)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
