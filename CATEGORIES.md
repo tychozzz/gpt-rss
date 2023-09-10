@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-10 15:00:19，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-10 23:00:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,10 +21,10 @@
 </summary>
 
 
-- [2023-09-10-字节跳动李航：AI-for-Science的一些探索和进展](https://posts.careerengine.us/p/64fd42b106ee622a88722020) ![](/assets/new.png)  
-- [2023-09-10-陶哲轩：初学者不宜用AI工具做专家级任务，GPT对专家帮助不大](https://posts.careerengine.us/p/64fd42b93037fd2aa5dbf98b) ![](/assets/new.png)  
-- [2023-09-10-Llama2-7B中文魔改PK：「雅意」百万指令集微调-VS「伶荔」扩词+增量预训练+指令微调](https://posts.careerengine.us/p/64fd42b93037fd2aa5dbf993) ![](/assets/new.png)  
-- [2023-09-10-PPT发明者Dennis-Austin去世，曾被认为「降低沟通效率、浪费时间」](https://posts.careerengine.us/p/64fd42c08be99b41410f91a2) ![](/assets/new.png)  
+- [2023-09-10-字节跳动李航：AI-for-Science的一些探索和进展](https://posts.careerengine.us/p/64fd42b106ee622a88722020)  
+- [2023-09-10-陶哲轩：初学者不宜用AI工具做专家级任务，GPT对专家帮助不大](https://posts.careerengine.us/p/64fd42b93037fd2aa5dbf98b)  
+- [2023-09-10-Llama2-7B中文魔改PK：「雅意」百万指令集微调-VS「伶荔」扩词+增量预训练+指令微调](https://posts.careerengine.us/p/64fd42b93037fd2aa5dbf993)  
+- [2023-09-10-PPT发明者Dennis-Austin去世，曾被认为「降低沟通效率、浪费时间」](https://posts.careerengine.us/p/64fd42c08be99b41410f91a2)  
 - [2023-09-09-大模型写代码能力突飞猛进，北大团队提出结构化思维链SCoT](https://posts.careerengine.us/p/64fc3bb42887cd47608bb2c1)  
 - [2023-09-09-10万美元+26天，一个低成本千亿参数LLM就诞生了](https://posts.careerengine.us/p/64fc3bb42887cd47608bb2c9)  
 - [2023-09-09-狂揽13k-star，开源版代码解释器登顶GitHub热榜，可本地运行、可访问互联网](https://posts.careerengine.us/p/64fc3ba52571a747262c0963)  
@@ -176,25 +176,25 @@
 </summary>
 
 
-- [2023-09-08-比Python快68000倍！Mojo正式发布，网友：Python生态系统最重要的升级来了](https://posts.careerengine.us/p/64fab2690238787e201451ea)  
+- [2023-09-10-智谱AI最新估值突破100亿元；红杉减持美团，迄今套现超500亿港币；消息称9月30日前，阿里云将关停代销业务-|-AI一周资讯](https://posts.careerengine.us/p/64fdd90fffde7d3cac0c8cd7) ![](/assets/new.png)  
 - [2023-09-08-引领金融科技未来：德邦基金、太平洋健康险与万事达卡专家云集FCon大会](https://posts.careerengine.us/p/64fab28171b138069bdf21c9)  
-- [2023-09-07-度小满杨青：业界在探索大模型应用时存在一定误区](https://posts.careerengine.us/p/64f961a61452143cc0abb952)  
+- [2023-09-08-比Python快68000倍！Mojo正式发布，网友：Python生态系统最重要的升级来了](https://posts.careerengine.us/p/64fab2690238787e201451ea)  
 - [2023-09-07-计算资源分配不公引发内斗！LLaMA核心作者流失大半，Meta-AI联合主管也已离职](https://posts.careerengine.us/p/64f961a61452143cc0abb95a)  
+- [2023-09-07-度小满杨青：业界在探索大模型应用时存在一定误区](https://posts.careerengine.us/p/64f961a61452143cc0abb952)  
 - [2023-09-06-从Snowflake迁移到Databricks，成本下降50％？Snowflake被迫解释](https://posts.careerengine.us/p/64f814ad1cf22328c8d19513)  
-- [2023-09-04-混合精度下位置编码竟有大坑，llama-等主流开源模型纷纷中招！百川智能给出修复方案](https://posts.careerengine.us/p/64f5c1b17347b664cba5d1b9)  
 - [2023-09-04-大模型产品化会带来什么？又将颠覆什么？｜9月7日，与极客邦科技一起，迎接智变加速时刻](https://posts.careerengine.us/p/64f5c1aabe8e4764ac3b5b8a)  
-- [2023-09-03-马斯克直播特斯拉自动驾驶；居然之家创始人：我把包括CTO在内的IT部门全裁了；首批8个大模型正式上线-|-AI一周资讯](https://posts.careerengine.us/p/64f41b80ddf8b05470cfedf6)  
+- [2023-09-04-混合精度下位置编码竟有大坑，llama-等主流开源模型纷纷中招！百川智能给出修复方案](https://posts.careerengine.us/p/64f5c1b17347b664cba5d1b9)  
 - [2023-09-03-微软-Dev-Box-正式发布：加速开发者工作流程](https://posts.careerengine.us/p/64f41b8dea681654e6eb2acd)  
+- [2023-09-03-马斯克直播特斯拉自动驾驶；居然之家创始人：我把包括CTO在内的IT部门全裁了；首批8个大模型正式上线-|-AI一周资讯](https://posts.careerengine.us/p/64f41b80ddf8b05470cfedf6)  
 - [2023-09-02-打造更聪明的猴子：开源云测框架-Hydra-Lab-的智能化测试实战](https://posts.careerengine.us/p/64f2cd5701bbaf6fb66fe0de)  
 - [2023-09-01-微软官宣-Mac-版-Visual-Studio-IDE-将“退休”，网友吐槽：没什么用，早该退了！](https://posts.careerengine.us/p/64f5c1bf33a2aa64ed3cdeb3)  
-- [2023-08-31-台积电在美国投资400亿美元的芯片厂要建不下去了](https://posts.careerengine.us/p/64f028d43f9cfb4d29c7bd71)  
-- [2023-08-31-金融领域数字化转型挑战探索：如何让数字化赋能业务和风控？](https://posts.careerengine.us/p/64f028d43f9cfb4d29c7bd79)  
 - [2023-08-31-核电站的智能化实践：每年节省上万工时、巡检效率提升80％](https://posts.careerengine.us/p/64f028d53f9cfb4d29c7bd82)  
-- [2023-08-30-年薪-80W，懂AI大模型系统设计真香！|-极客时间](https://posts.careerengine.us/p/64ee2d56c994df3cc714c790)  
+- [2023-08-31-金融领域数字化转型挑战探索：如何让数字化赋能业务和风控？](https://posts.careerengine.us/p/64f028d43f9cfb4d29c7bd79)  
+- [2023-08-31-台积电在美国投资400亿美元的芯片厂要建不下去了](https://posts.careerengine.us/p/64f028d43f9cfb4d29c7bd71)  
 - [2023-08-30-百亿级向量检索的向量数据库是如何构建的？](https://posts.careerengine.us/p/64f41bf5bf2670560ba90053)  
-- [2023-08-28-伯克利-AI-实验室开源图像编辑模型-InstructPix2Pix，简化生成图像编辑并提供一致结果](https://posts.careerengine.us/p/64f02c216dc06a60cbfa6d87)  
+- [2023-08-30-年薪-80W，懂AI大模型系统设计真香！|-极客时间](https://posts.careerengine.us/p/64ee2d56c994df3cc714c790)  
 - [2023-08-28-融资7亿元后，Mojo之父实名吐槽：Mojo太好用了，颤抖吧C++](https://posts.careerengine.us/p/64f02c216dc06a60cbfa6d90)  
-- [2023-08-27-抽风预测五年后的-Web-发展，却被现实啪啪打脸](https://posts.careerengine.us/p/64eae08a9a075a043320206c)  
+- [2023-08-28-伯克利-AI-实验室开源图像编辑模型-InstructPix2Pix，简化生成图像编辑并提供一致结果](https://posts.careerengine.us/p/64f02c216dc06a60cbfa6d87)  
 - [2023-08-27-SpaceX测试时成功点燃全部引擎；科大讯飞刘庆峰：华为GPU可对标英伟达A100；微软更新Office-|-AI-一周资讯](https://posts.careerengine.us/p/64eae08a9a075a0433202063)  
 - [......【查看更多】......](/details/AI前线.md)
 
