@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-13 15:00:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-14 15:00:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## GPT
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-09-14-GPT-4在97轮对话中探索世界难题，给出P≠NP结论](https://posts.careerengine.us/p/65028e814a4b9c7e8c3766e4) 
 - [2023-09-12-GPT太「奢侈」，平替大汇总来了，再也不用担心部署大难题](https://posts.careerengine.us/p/64fff7adb6edef27685e3201) 
 - [2023-09-08-GPT-4：我写的代码你敢用吗？研究表明其API误用率超过62％](https://posts.careerengine.us/p/64faaae9454ee66a4f84d723) 
 - [2023-09-02-陶哲轩：用ChatGPT写代码太省时间了](https://posts.careerengine.us/p/64f2c16b90e32c29f2cd064e) 
@@ -17,13 +18,13 @@
 - [2023-08-18-字节跳动类ChatGPT产品「豆包」邀测，我们先试了一下](https://posts.careerengine.us/p/64defda12fd21f2eaa57cb3a) 
 - [2023-08-12-GPT-4调用插件40次都没成功，果断放弃，无效调用、拒绝回答时有发生](https://posts.careerengine.us/p/64d7157e7c19ec2a3cd6d846) 
 - [2023-08-11-ChatGPT写的论文有多少发表了？搜完谷歌学术以后我慌了](https://posts.careerengine.us/p/64d5bfafe7ebd9419b139414) 
-- [2023-08-07-GitHub-1.1万星，模拟软件开发流程，开源框架MetaGPT爆火](https://posts.careerengine.us/p/64d07acac0897f345bfe08d2) 
 - [2023-08-07-你有没深入想过，什么造成了GPT-4的输出很随机？](https://posts.careerengine.us/p/64d07ac0e571e334337135a3) 
-- [2023-07-29-「真实网络世界」测试场上线：基于GPT-4的智能体也只能跑10.59％成功率](https://posts.careerengine.us/p/64c3e986bbeee8301b2eca75) 
+- [2023-08-07-GitHub-1.1万星，模拟软件开发流程，开源框架MetaGPT爆火](https://posts.careerengine.us/p/64d07acac0897f345bfe08d2) 
 - [2023-07-29-在VSCode上跑ChatGPT，文件都能直接生成](https://posts.careerengine.us/p/64c49b571bf52374ab5287da) 
+- [2023-07-29-「真实网络世界」测试场上线：基于GPT-4的智能体也只能跑10.59％成功率](https://posts.careerengine.us/p/64c3e986bbeee8301b2eca75) 
 - [2023-07-22-安卓版ChatGPT下周上线，快去预订](https://posts.careerengine.us/p/64bb5dd59434d259e57c689b) 
-- [2023-07-21-ChatGPT推出自定义指令：说一次就记住，每次对话都能遵守](https://posts.careerengine.us/p/64ba0b99ee9e981195a7999e) 
 - [2023-07-21-清华开了家员工都是GPT的公司，代码、文档一条龙服务](https://posts.careerengine.us/p/64ba0ba5a4db8011cdb77377) 
+- [2023-07-21-ChatGPT推出自定义指令：说一次就记住，每次对话都能遵守](https://posts.careerengine.us/p/64ba0b99ee9e981195a7999e) 
 - [2023-07-20-研究实锤GPT-4真变笨了：3个月内数学能力雪崩式下降，代码能力也变差](https://posts.careerengine.us/p/64b8c4513fc1d20b2bb0e3c1) 
 - [2023-07-19-微软Office全家桶版GPT-4定价每月30美元，Azure牵手Llama-2](https://posts.careerengine.us/p/64b6dedd7eea6b7c43f7caad) 
 - [2023-07-18-ChatGPT代码解释器与Jupyter-Notebook合体，编码能力更强了](https://posts.careerengine.us/p/64b612511ca8fb62cb1afec8) 
@@ -67,8 +68,8 @@
 - [2023-09-12-今晚直播-|-上海财经大学博士生蔡树阳：通过单个空格逃避ChatGPT检测器](https://posts.careerengine.us/p/64fffd047b1df532f2837aab) 
 - [2023-09-11-直播预告-|-上海财经大学博士生蔡树阳：通过单个空格逃避ChatGPT检测器](https://posts.careerengine.us/p/64fea2e01afa1124f54d90a9) 
 - [2023-08-26-独家采访WizardLM团队，详解WizardCoder/Math超越GPT4/ChatGPT的RLEIF算法](https://posts.careerengine.us/p/64e9e3d32437be37cd3692a6) 
-- [2023-07-11-GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316) 
 - [2023-07-11-学弟用-ChatGPT-发了一篇顶会…](https://posts.careerengine.us/p/64ace52b7d7f74078357f1b5) 
+- [2023-07-11-GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316) 
 - [2023-06-28-文末送书-|-系统讲解ChatGPT核心原理，教你构建高质量的提示指令](https://posts.careerengine.us/p/649c0e3e94b82a73c3a5a93d) 
 - [2023-04-11-中科院张家俊：ChatGPT中的提示与指令学习](https://www.52nlp.cn/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%bc%a0%e5%ae%b6%e4%bf%8a%ef%bc%9achatgpt%e4%b8%ad%e7%9a%84%e6%8f%90%e7%a4%ba%e4%b8%8e%e6%8c%87%e4%bb%a4%e5%ad%a6%e4%b9%a0) 
 - [2023-03-27-“国产类-ChatGPT-”所存在的差距与挑战-专家圆桌](https://www.52nlp.cn/%e5%9b%bd%e4%ba%a7%e7%b1%bb-chatgpt-%e6%89%80%e5%ad%98%e5%9c%a8%e7%9a%84%e5%b7%ae%e8%b7%9d%e4%b8%8e%e6%8c%91%e6%88%98-%e4%b8%93%e5%ae%b6%e5%9c%86%e6%a1%8c) 
