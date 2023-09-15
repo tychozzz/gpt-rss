@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-14 21:00:14，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-15 12:00:40，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2023-09-14-“未来主义者”李彦宏和他的AI少林寺](https://posts.careerengine.us/p/6502e51b086ecb02ba17d656) ![](/assets/new.png)  
-- [2023-09-14-首个承认外星人存在的国家出现了？？！](https://posts.careerengine.us/p/6502e51b086ecb02ba17d64e) ![](/assets/new.png)  
-- [2023-09-14-黄仁勋管理万亿英伟达的疯狂方法：没有计划、没有汇报、没有层级](https://posts.careerengine.us/p/6502e522f6229c02d8a20c4f) ![](/assets/new.png)  
-- [2023-09-14-“点两下”就能开发一个AI应用！百度砸亿元基金、千万算力要搞插件生态](https://posts.careerengine.us/p/6502e52f4eed5f16447fea61) ![](/assets/new.png)  
-- [2023-09-14-游戏越火越赔钱，Unity引擎收费新规引众怒，免费游戏开发者：欠的钱比一辈子挣的还多](https://posts.careerengine.us/p/6502e52f4eed5f16447fea59) ![](/assets/new.png)  
+- [2023-09-14-“未来主义者”李彦宏和他的AI少林寺](https://posts.careerengine.us/p/6502e51b086ecb02ba17d656)  
+- [2023-09-14-首个承认外星人存在的国家出现了？？！](https://posts.careerengine.us/p/6502e51b086ecb02ba17d64e)  
+- [2023-09-14-黄仁勋管理万亿英伟达的疯狂方法：没有计划、没有汇报、没有层级](https://posts.careerengine.us/p/6502e522f6229c02d8a20c4f)  
+- [2023-09-14-“点两下”就能开发一个AI应用！百度砸亿元基金、千万算力要搞插件生态](https://posts.careerengine.us/p/6502e52f4eed5f16447fea61)  
+- [2023-09-14-游戏越火越赔钱，Unity引擎收费新规引众怒，免费游戏开发者：欠的钱比一辈子挣的还多](https://posts.careerengine.us/p/6502e52f4eed5f16447fea59)  
 - [2023-09-13-AI获奖名画申请版权被拒！作者624次提示打造](https://posts.careerengine.us/p/6500dcbc438c8a7e24e4a2c5)  
 - [2023-09-13-智源：70万预算从头开发千亿参数大模型，挑战成功](https://posts.careerengine.us/p/6500dcae3d3c967de5b89868)  
 - [2023-09-13-10人俩月搞出大模型！一年16篇顶会论文加持：市面上做得好的都没有开源](https://posts.careerengine.us/p/6500dcae3d3c967de5b89860)  
@@ -176,26 +176,26 @@
 </summary>
 
 
-- [2023-09-14-强制向开发者提AI建议再引公愤，GitHub：我知道你们很不满，但我不改](https://posts.careerengine.us/p/65029c5fd228722c84c903c4)  
-- [2023-09-14-富滇银行：中小金融机构该如何思考和落地AIGC应用？](https://posts.careerengine.us/p/65029c6c46ecdd2cadd50d21)  
+- [2023-09-15-今年全球最大-IPO-来了：Arm-上市首日暴涨-25％，最高市值超-4500-亿元](https://posts.careerengine.us/p/6503c3eb63ee944a18c5cc26) ![](/assets/new.png)  
+- [2023-09-15-降本增效：Grab-如何在亚马逊云科技上将-Kafka-消费者流量成本降到零](https://posts.careerengine.us/p/6503c3eb63ee944a18c5cc2e) ![](/assets/new.png)  
 - [2023-09-14-首届-FCon-全球金融科技大会正式起航，让金融数字化少走弯路](https://posts.careerengine.us/p/65029c6c46ecdd2cadd50d29)  
+- [2023-09-14-富滇银行：中小金融机构该如何思考和落地AIGC应用？](https://posts.careerengine.us/p/65029c6c46ecdd2cadd50d21)  
+- [2023-09-14-强制向开发者提AI建议再引公愤，GitHub：我知道你们很不满，但我不改](https://posts.careerengine.us/p/65029c5fd228722c84c903c4)  
 - [2023-09-13-AI大模型背后的惊人数字：问ChatGPT-5个问题，耗水500毫升？训练一次GPT-3，碳排放量相当于开车往返月球？](https://posts.careerengine.us/p/65014a6aca64d95154c1b23b)  
-- [2023-09-12-人红是非多！Rust社区冲突不断，创始人：别Call我了，我也救不了！](https://posts.careerengine.us/p/65000ade4eaabe20e52bedad)  
 - [2023-09-12-降本增效：Grab-如何在云上将-Kafka-消费者流量成本降到零](https://posts.careerengine.us/p/65000ae6d036a520f43c784d)  
-- [2023-09-11-向量数据库内核面临的技术挑战及应对措施](https://posts.careerengine.us/p/64feae39d85bf841b0659ece)  
+- [2023-09-12-人红是非多！Rust社区冲突不断，创始人：别Call我了，我也救不了！](https://posts.careerengine.us/p/65000ade4eaabe20e52bedad)  
 - [2023-09-11-转型-AI-先裁员？嫌员工技术转型培训太慢裁掉700多人、花200亿美元收购公司，CEO：老顽固们早晚被淘汰！](https://posts.careerengine.us/p/64feae2fea1dee417f63d290)  
+- [2023-09-11-向量数据库内核面临的技术挑战及应对措施](https://posts.careerengine.us/p/64feae39d85bf841b0659ece)  
 - [2023-09-10-智谱AI最新估值突破100亿元；红杉减持美团，迄今套现超500亿港币；消息称9月30日前，阿里云将关停代销业务-|-AI一周资讯](https://posts.careerengine.us/p/64fdd90fffde7d3cac0c8cd7)  
-- [2023-09-08-引领金融科技未来：德邦基金、太平洋健康险与万事达卡专家云集FCon大会](https://posts.careerengine.us/p/64fab28171b138069bdf21c9)  
 - [2023-09-08-比Python快68000倍！Mojo正式发布，网友：Python生态系统最重要的升级来了](https://posts.careerengine.us/p/64fab2690238787e201451ea)  
-- [2023-09-07-计算资源分配不公引发内斗！LLaMA核心作者流失大半，Meta-AI联合主管也已离职](https://posts.careerengine.us/p/64f961a61452143cc0abb95a)  
+- [2023-09-08-引领金融科技未来：德邦基金、太平洋健康险与万事达卡专家云集FCon大会](https://posts.careerengine.us/p/64fab28171b138069bdf21c9)  
 - [2023-09-07-度小满杨青：业界在探索大模型应用时存在一定误区](https://posts.careerengine.us/p/64f961a61452143cc0abb952)  
+- [2023-09-07-计算资源分配不公引发内斗！LLaMA核心作者流失大半，Meta-AI联合主管也已离职](https://posts.careerengine.us/p/64f961a61452143cc0abb95a)  
 - [2023-09-06-从Snowflake迁移到Databricks，成本下降50％？Snowflake被迫解释](https://posts.careerengine.us/p/64f814ad1cf22328c8d19513)  
-- [2023-09-04-大模型产品化会带来什么？又将颠覆什么？｜9月7日，与极客邦科技一起，迎接智变加速时刻](https://posts.careerengine.us/p/64f5c1aabe8e4764ac3b5b8a)  
 - [2023-09-04-混合精度下位置编码竟有大坑，llama-等主流开源模型纷纷中招！百川智能给出修复方案](https://posts.careerengine.us/p/64f5c1b17347b664cba5d1b9)  
-- [2023-09-03-微软-Dev-Box-正式发布：加速开发者工作流程](https://posts.careerengine.us/p/64f41b8dea681654e6eb2acd)  
+- [2023-09-04-大模型产品化会带来什么？又将颠覆什么？｜9月7日，与极客邦科技一起，迎接智变加速时刻](https://posts.careerengine.us/p/64f5c1aabe8e4764ac3b5b8a)  
 - [2023-09-03-马斯克直播特斯拉自动驾驶；居然之家创始人：我把包括CTO在内的IT部门全裁了；首批8个大模型正式上线-|-AI一周资讯](https://posts.careerengine.us/p/64f41b80ddf8b05470cfedf6)  
-- [2023-09-02-打造更聪明的猴子：开源云测框架-Hydra-Lab-的智能化测试实战](https://posts.careerengine.us/p/64f2cd5701bbaf6fb66fe0de)  
-- [2023-09-01-微软官宣-Mac-版-Visual-Studio-IDE-将“退休”，网友吐槽：没什么用，早该退了！](https://posts.careerengine.us/p/64f5c1bf33a2aa64ed3cdeb3)  
+- [2023-09-03-微软-Dev-Box-正式发布：加速开发者工作流程](https://posts.careerengine.us/p/64f41b8dea681654e6eb2acd)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
