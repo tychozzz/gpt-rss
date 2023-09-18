@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-18 21:00:15，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-19 06:00:21，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-09-17-复旦NLP团队发布80页大模型Agent综述，一文纵览AI智能体的现状与未来](https://posts.careerengine.us/p/6506842c034fd56b649f2a4e)  
-- [2023-09-17-「字少信息量大」，Salesforce、MIT-研究者手把手教-GPT-4「改稿」，数据集已开源](https://posts.careerengine.us/p/65068438681dbe3de95b1752)  
-- [2023-09-17-百川13B-Chat-4bits-量化版本能使吗？实测：3090-能跑，效果差别不大！](https://posts.careerengine.us/p/65068438681dbe3de95b175a)  
+- [2023-09-18-在大模型数量全国领先的北京，昇腾AI“点燃”首个普惠算力底座](https://posts.careerengine.us/p/65086bed124ae8046e3f9c30) ![](/assets/new.png)  
+- [2023-09-18-比GPT-4还强，20亿参数模型做算术题，准确率几乎100％](https://posts.careerengine.us/p/65086bfc46698304aa6f6253) ![](/assets/new.png)  
+- [2023-09-18-AI-offer最优解：2024秋招线上宣讲，百度、快手、360集团与极氪智能科技](https://posts.careerengine.us/p/65086bfc46698304aa6f624b) ![](/assets/new.png)  
+- [2023-09-18-实现输入到输出「模态自由」，-NUS华人团队开源NExT-GPT，最接近AGI的大一统多模态大模型来了](https://posts.careerengine.us/p/65086c05dbaaf804cbd4f106) ![](/assets/new.png)  
+- [2023-09-18-涉水视觉：从关键技术到智能装备](https://posts.careerengine.us/p/65086c108ee93e04f3d365e3) ![](/assets/new.png)  
 - [2023-09-17-程序员如何用ChatGPT编程？](https://posts.careerengine.us/p/650684546f44c43e43771f70)  
-- [2023-09-16-线上开售！首场机器之心-AI-技术论坛圆满收官，这些大模型技术干货值得反复观看](https://posts.careerengine.us/p/6505410d56f8bf4740ddf206)  
-- [2023-09-16-Gary-Marcus：自动驾驶汽车状况频出，仍未赢得认可](https://posts.careerengine.us/p/6505410d56f8bf4740ddf1fe)  
-- [2023-09-16-Transformer的上下文学习能力是哪来的？](https://posts.careerengine.us/p/650540fc319efb0338d89312)  
+- [2023-09-17-百川13B-Chat-4bits-量化版本能使吗？实测：3090-能跑，效果差别不大！](https://posts.careerengine.us/p/65068438681dbe3de95b175a)  
+- [2023-09-17-「字少信息量大」，Salesforce、MIT-研究者手把手教-GPT-4「改稿」，数据集已开源](https://posts.careerengine.us/p/65068438681dbe3de95b1752)  
+- [2023-09-17-复旦NLP团队发布80页大模型Agent综述，一文纵览AI智能体的现状与未来](https://posts.careerengine.us/p/6506842c034fd56b649f2a4e)  
 - [2023-09-16-全面超越LLaMA2，月下载量超三百万，国产开源大模型如何成为新晋顶流？](https://posts.careerengine.us/p/650540f47d713a0319e08c9c)  
-- [2023-09-15-不再让自己的隐私数据“裸奔”，一种新的身份认证体系出现了](https://posts.careerengine.us/p/6503e6f7a3e2db30eb66ca35)  
-- [2023-09-15-传谷歌开始小范围测试Gemini：比训练GPT-4算力大5倍，多模态能力大提升](https://posts.careerengine.us/p/6503e70093ef093115d88ebc)  
-- [2023-09-15-承载22倍于自身重量前行，垂直跳跃59厘米，用爆炸驱动的昆虫机器人来了](https://posts.careerengine.us/p/6503e70093ef093115d88eb4)  
-- [2023-09-15-智源开放3亿条语义向量模型训练数据，-BGE模型持续迭代更新](https://posts.careerengine.us/p/6503e7103e1ebf3155aaa789)  
+- [2023-09-16-Transformer的上下文学习能力是哪来的？](https://posts.careerengine.us/p/650540fc319efb0338d89312)  
+- [2023-09-16-Gary-Marcus：自动驾驶汽车状况频出，仍未赢得认可](https://posts.careerengine.us/p/6505410d56f8bf4740ddf1fe)  
+- [2023-09-16-线上开售！首场机器之心-AI-技术论坛圆满收官，这些大模型技术干货值得反复观看](https://posts.careerengine.us/p/6505410d56f8bf4740ddf206)  
 - [2023-09-15-LLM在放射科学中应用潜力如何？数十家研究机构联合测试了31个大模型](https://posts.careerengine.us/p/6503e7103e1ebf3155aaa791)  
-- [2023-09-14-放弃支持Windows-GPU、bug多，TensorFlow被吐槽：2.0后慢慢死去](https://posts.careerengine.us/p/65028e971161d87edb4e98ea)  
-- [2023-09-14-AI海洋中的海妖之歌：腾讯AI-Lab大模型幻觉问题综述](https://posts.careerengine.us/p/65028e971161d87edb4e98f9)  
-- [2023-09-14-「教科书级」数据能有多大作用？微软超强小模型引热议](https://posts.careerengine.us/p/65028e814a4b9c7e8c3766c6)  
-- [2023-09-14-GPT-4在97轮对话中探索世界难题，给出P≠NP结论](https://posts.careerengine.us/p/65028e814a4b9c7e8c3766e4)  
+- [2023-09-15-智源开放3亿条语义向量模型训练数据，-BGE模型持续迭代更新](https://posts.careerengine.us/p/6503e7103e1ebf3155aaa789)  
+- [2023-09-15-承载22倍于自身重量前行，垂直跳跃59厘米，用爆炸驱动的昆虫机器人来了](https://posts.careerengine.us/p/6503e70093ef093115d88eb4)  
+- [2023-09-15-传谷歌开始小范围测试Gemini：比训练GPT-4算力大5倍，多模态能力大提升](https://posts.careerengine.us/p/6503e70093ef093115d88ebc)  
+- [2023-09-15-不再让自己的隐私数据“裸奔”，一种新的身份认证体系出现了](https://posts.careerengine.us/p/6503e6f7a3e2db30eb66ca35)  
 - [2023-09-14-蚂蚁「大图模型」研究，为图智能迈向AGI铺了一条新通途](https://posts.careerengine.us/p/65028e814a4b9c7e8c3766ec)  
-- [2023-09-13-首款3nm芯片，支持硬件级光追，iPhone-15-Pro遥遥领先了吗？](https://posts.careerengine.us/p/6500e60922df7a1c7d92a5f4)  
-- [2023-09-13-蚂蚁集团保险科技探索与实践：AI新科技重塑保险服务，带来行业新体验](https://posts.careerengine.us/p/6500e612bbcc971c8ad7d61a)  
+- [2023-09-14-GPT-4在97轮对话中探索世界难题，给出P≠NP结论](https://posts.careerengine.us/p/65028e814a4b9c7e8c3766e4)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2023-09-18-量子位「MEET-2024智能未来大会」要来了！还有份年度评选等你参与](https://posts.careerengine.us/p/65083d7ca99be13b315fdfa4) ![](/assets/new.png)  
-- [2023-09-18-揭秘iPhone里的Transformer：基于GPT-2架构，分词器含emoji，MIT校友出品](https://posts.careerengine.us/p/65083d879c18c03b4dc944c9) ![](/assets/new.png)  
-- [2023-09-18-国产大模型推理能力已超GPT-3.5！冲进OpenAI评测榜第一梯队](https://posts.careerengine.us/p/65083d879c18c03b4dc944c1) ![](/assets/new.png)  
-- [2023-09-18-AI「领悟」有理论解释了！谷歌：两种脑回路内部竞争，训练久了突然不再死记硬背](https://posts.careerengine.us/p/65083d93516f163b6e04deeb) ![](/assets/new.png)  
-- [2023-09-18-CCF-C³-24@中电金信：超级算力时代的新格局-|-开始报名](https://posts.careerengine.us/p/65083d93516f163b6e04defb) ![](/assets/new.png)  
+- [2023-09-18-量子位「MEET-2024智能未来大会」要来了！还有份年度评选等你参与](https://posts.careerengine.us/p/65083d7ca99be13b315fdfa4)  
+- [2023-09-18-揭秘iPhone里的Transformer：基于GPT-2架构，分词器含emoji，MIT校友出品](https://posts.careerengine.us/p/65083d879c18c03b4dc944c9)  
+- [2023-09-18-国产大模型推理能力已超GPT-3.5！冲进OpenAI评测榜第一梯队](https://posts.careerengine.us/p/65083d879c18c03b4dc944c1)  
+- [2023-09-18-AI「领悟」有理论解释了！谷歌：两种脑回路内部竞争，训练久了突然不再死记硬背](https://posts.careerengine.us/p/65083d93516f163b6e04deeb)  
+- [2023-09-18-CCF-C³-24@中电金信：超级算力时代的新格局-|-开始报名](https://posts.careerengine.us/p/65083d93516f163b6e04defb)  
 - [2023-09-17-清华攒局8个ChatGPT狼人杀，心机伪装都在这一局里，清华：我没教过](https://posts.careerengine.us/p/6506865de2dfea486d6a7018)  
 - [2023-09-17-大模型生成提速2倍！单GPU几小时搞定微调，北大数院校友共同一作丨开源](https://posts.careerengine.us/p/650686534f66ea4841937e7a)  
 - [2023-09-17-清华汪玉创始公司浮出水面，要做大模型一体机，仍是“深鉴式”师生组合拳](https://posts.careerengine.us/p/650686534f66ea4841937e83)  
