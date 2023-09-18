@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-18 06:00:20，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-18 15:00:23，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-09-17-SSLRec：统一的自监督推荐算法库](https://posts.careerengine.us/p/650711604722ef4cc7c05339) ![](/assets/new.png)  
-- [2023-09-17-ICCV-2023-|-SparseBEV：高性能、全稀疏的纯视觉3D目标检测器](https://posts.careerengine.us/p/6507116aa189074ce07f6054) ![](/assets/new.png)  
-- [2023-09-17-北京内推-|-滴滴出行网约车核心团队招聘机器学习算法实习生](https://posts.careerengine.us/p/6507117592bf3c71c362f771) ![](/assets/new.png)  
-- [2023-09-16-直播预告-|-阿里达摩院算法研究员黄斐：又快又好的非自回归文本生成](https://posts.careerengine.us/p/65058c371ce3752a3eb50793)  
-- [2023-09-16-TPAMI-2023-|-用于视觉识别的相互对比学习在线知识蒸馏](https://posts.careerengine.us/p/65058c2ebaed5a2a20dc96f0)  
+- [2023-09-18-90％投稿人不知道的三大误区！新晋投稿人尤其要注意](https://posts.careerengine.us/p/6507d7b6bcd8ef28e73bca2d) ![](/assets/new.png)  
+- [2023-09-18-CVPR-2023-|-SCConv：即插即用的空间和通道重建卷积](https://posts.careerengine.us/p/6507d7c0d9761029535744d1) ![](/assets/new.png)  
+- [2023-09-18-SolidUI：一句话生成任何图形，版本0.2.0功能介绍](https://posts.careerengine.us/p/6507d7c0d9761029535744d9) ![](/assets/new.png)  
+- [2023-09-18-北京内推-|-微软研究院科学智能中心招聘生物计算大模型实习生](https://posts.careerengine.us/p/6507d7ccb7de992971d4a9a7) ![](/assets/new.png)  
+- [2023-09-17-北京内推-|-滴滴出行网约车核心团队招聘机器学习算法实习生](https://posts.careerengine.us/p/6507117592bf3c71c362f771)  
+- [2023-09-17-ICCV-2023-|-SparseBEV：高性能、全稀疏的纯视觉3D目标检测器](https://posts.careerengine.us/p/6507116aa189074ce07f6054)  
+- [2023-09-17-SSLRec：统一的自监督推荐算法库](https://posts.careerengine.us/p/650711604722ef4cc7c05339)  
 - [2023-09-16-持续数据开源，智源发布超3亿对面向中英文语义向量模型训练数据集](https://posts.careerengine.us/p/65058c25c17d0b29fdd504aa)  
-- [2023-09-15-酱香哪有AI大赛获奖香！4天3夜免费游、万元现金…（文末有福利](https://posts.careerengine.us/p/650453d425595a1c6d3b1f6f)  
-- [2023-09-15-大语言模型（LLM）预训练数据集调研分析](https://posts.careerengine.us/p/650453e06108a81c897a5f66)  
-- [2023-09-15-马毅教授新作：白盒ViT成功实现分割涌现，经验深度学习时代即将结束？](https://posts.careerengine.us/p/650453ea1300c51cad9a41f2)  
+- [2023-09-16-TPAMI-2023-|-用于视觉识别的相互对比学习在线知识蒸馏](https://posts.careerengine.us/p/65058c2ebaed5a2a20dc96f0)  
+- [2023-09-16-直播预告-|-阿里达摩院算法研究员黄斐：又快又好的非自回归文本生成](https://posts.careerengine.us/p/65058c371ce3752a3eb50793)  
 - [2023-09-15-博士申请-|-伊利诺伊大学芝加哥分校程璐老师招收人工智能全奖博士/硕士/实习生](https://posts.careerengine.us/p/650453f30d22241d1cdbbf10)  
-- [2023-09-14-深圳内推-|-华为诺亚方舟语音语义实验室招聘大语言模型研究实习生](https://posts.careerengine.us/p/650298b44f055e24c017fba4)  
-- [2023-09-14-​TinyLlama-1.1B：从零开始训练一个精悍的语言模型](https://posts.careerengine.us/p/6502989f512585247bb12399)  
+- [2023-09-15-马毅教授新作：白盒ViT成功实现分割涌现，经验深度学习时代即将结束？](https://posts.careerengine.us/p/650453ea1300c51cad9a41f2)  
+- [2023-09-15-大语言模型（LLM）预训练数据集调研分析](https://posts.careerengine.us/p/650453e06108a81c897a5f66)  
+- [2023-09-15-酱香哪有AI大赛获奖香！4天3夜免费游、万元现金…（文末有福利](https://posts.careerengine.us/p/650453d425595a1c6d3b1f6f)  
 - [2023-09-14-文末送书-|-驾驭AI绘画：Stable-Diffusion带你秒变顶级画手！](https://posts.careerengine.us/p/6502989f512585247bb123a1)  
-- [2023-09-13-如何以优雅轻松的姿态发表一篇顶会论文？](https://posts.careerengine.us/p/650139fcc8ed5a194040a5c3)  
-- [2023-09-13-专业测评：这么多GPT平替，哪一款最香？](https://posts.careerengine.us/p/65013a0616c94819691063ab)  
-- [2023-09-13-KDD-2023-|-WHEN异构时间序列分析模型：当Wavelet和DTW遇上Attention](https://posts.careerengine.us/p/65013a0616c94819691063a1)  
+- [2023-09-14-​TinyLlama-1.1B：从零开始训练一个精悍的语言模型](https://posts.careerengine.us/p/6502989f512585247bb12399)  
+- [2023-09-14-深圳内推-|-华为诺亚方舟语音语义实验室招聘大语言模型研究实习生](https://posts.careerengine.us/p/650298b44f055e24c017fba4)  
 - [2023-09-13-博士申请-|-乔治华盛顿大学曹卫东老师招收机器学习方向全奖博士生](https://posts.careerengine.us/p/65013a0e4fa12619867cfd9b)  
-- [2023-09-12-北京/苏州内推-|-微软亚洲互联网工程院招聘AI算法与应用实习生](https://posts.careerengine.us/p/64fffd057b1df532f2837aba)  
-- [2023-09-12-今晚直播-|-上海财经大学博士生蔡树阳：通过单个空格逃避ChatGPT检测器](https://posts.careerengine.us/p/64fffd047b1df532f2837aab)  
-- [2023-09-12-TPAMI-2023-|-生成式AI与图像合成综述](https://posts.careerengine.us/p/64fffcf50eb83f760a605b76)  
+- [2023-09-13-KDD-2023-|-WHEN异构时间序列分析模型：当Wavelet和DTW遇上Attention](https://posts.careerengine.us/p/65013a0616c94819691063a1)  
+- [2023-09-13-专业测评：这么多GPT平替，哪一款最香？](https://posts.careerengine.us/p/65013a0616c94819691063ab)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
