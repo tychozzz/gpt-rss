@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-20 18:00:29，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-21 12:00:55，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,12 +21,12 @@
 </summary>
 
 
-- [2023-09-20-这场更贴近用户的终端侧革命，是生成式AI全民化的关键](https://posts.careerengine.us/p/650a9cb7dc9cf0455523b5a9) ![](/assets/new.png)  
-- [2023-09-20-终于，马斯克Neuralink首次人体试验开始招募了](https://posts.careerengine.us/p/650a9cc054683064d1c5fab0) ![](/assets/new.png)  
-- [2023-09-20-DeepMind最新AI工具登Science，AlphaMissense准确分类89％的「错义突变」](https://posts.careerengine.us/p/650a9cc054683064d1c5fab8) ![](/assets/new.png)  
-- [2023-09-20-大模型总结摘要靠谱吗？比人类写的流畅，用GPT-4幻觉还少](https://posts.careerengine.us/p/650a9cc853cc3864ec4773ec) ![](/assets/new.png)  
-- [2023-09-20-功能超全的AI-Agents开源库来了，能写小说，还能当导购、销售](https://posts.careerengine.us/p/650a9cc853cc3864ec4773f4) ![](/assets/new.png)  
-- [2023-09-20-小芯片推动摩尔定律、迈向AI-PC时代，英特尔CEO基辛格定调未来](https://posts.careerengine.us/p/650a9cc853cc3864ec4773e4) ![](/assets/new.png)  
+- [2023-09-20-这场更贴近用户的终端侧革命，是生成式AI全民化的关键](https://posts.careerengine.us/p/650a9cb7dc9cf0455523b5a9)  
+- [2023-09-20-终于，马斯克Neuralink首次人体试验开始招募了](https://posts.careerengine.us/p/650a9cc054683064d1c5fab0)  
+- [2023-09-20-DeepMind最新AI工具登Science，AlphaMissense准确分类89％的「错义突变」](https://posts.careerengine.us/p/650a9cc054683064d1c5fab8)  
+- [2023-09-20-大模型总结摘要靠谱吗？比人类写的流畅，用GPT-4幻觉还少](https://posts.careerengine.us/p/650a9cc853cc3864ec4773ec)  
+- [2023-09-20-功能超全的AI-Agents开源库来了，能写小说，还能当导购、销售](https://posts.careerengine.us/p/650a9cc853cc3864ec4773f4)  
+- [2023-09-20-小芯片推动摩尔定律、迈向AI-PC时代，英特尔CEO基辛格定调未来](https://posts.careerengine.us/p/650a9cc853cc3864ec4773e4)  
 - [2023-09-19-RTX-5090最新爆料：架构大改，性能提升70％](https://posts.careerengine.us/p/650986594ea7917fff4cabcd)  
 - [2023-09-19-超38TB私人文件泄露，微软员工的聊天记录都被看到了](https://posts.careerengine.us/p/650986594ea7917fff4cabbc)  
 - [2023-09-19-收到邮件了吧？GPT-3.5-Turbo-Instruct发了，多模态大模型Gobi也曝光了](https://posts.careerengine.us/p/65098651e92ebb7fdcfd2482)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2023-09-19-AI在玩一种很新的艺术，700万网友在线围观，ControlNet又立功了](https://posts.careerengine.us/p/650992c2cfc1d343ececa38d)  
-- [2023-09-19-OpenAI最新大模型曝光：剑指多模态，GPT-4之后最大升级](https://posts.careerengine.us/p/650992c2cfc1d343ececa395)  
-- [2023-09-19-iOS17可以更新了！网友实测炫酷值拉满，但续航嘛…](https://posts.careerengine.us/p/650992cbb77138440679c2b8)  
+- [2023-09-21-OpenAI一夜颠覆AI绘画！DALL·E-3+ChatGPT强强联合，画面直接细节爆炸](https://posts.careerengine.us/p/650ba1d00862d078dc8f1084) ![](/assets/new.png)  
+- [2023-09-21-研究称AI绘画碳排放仅为人类画家1/2900，LeCun转发](https://posts.careerengine.us/p/650ba1d00862d078dc8f107c) ![](/assets/new.png)  
+- [2023-09-21-曝智谱AI全资收购清华系大模型公司聆心智能](https://posts.careerengine.us/p/650ba1d00862d078dc8f106c) ![](/assets/new.png)  
+- [2023-09-21-一个广告营销人的AIGC自白-｜对话奥创光年](https://posts.careerengine.us/p/650ba1e170ebf3796963ee83) ![](/assets/new.png)  
+- [2023-09-21-OpenAI公开招人！骗骗大模型就给钱，一年只工作5-10小时，无需技术背景](https://posts.careerengine.us/p/650ba1ed708bbd79bdf482e3) ![](/assets/new.png)  
 - [2023-09-19-量子位智库实习生招募](https://posts.careerengine.us/p/650992d65a579b441eaa871d)  
-- [2023-09-18-CCF-C³-24@中电金信：超级算力时代的新格局-|-开始报名](https://posts.careerengine.us/p/65083d93516f163b6e04defb)  
-- [2023-09-18-AI「领悟」有理论解释了！谷歌：两种脑回路内部竞争，训练久了突然不再死记硬背](https://posts.careerengine.us/p/65083d93516f163b6e04deeb)  
-- [2023-09-18-国产大模型推理能力已超GPT-3.5！冲进OpenAI评测榜第一梯队](https://posts.careerengine.us/p/65083d879c18c03b4dc944c1)  
-- [2023-09-18-揭秘iPhone里的Transformer：基于GPT-2架构，分词器含emoji，MIT校友出品](https://posts.careerengine.us/p/65083d879c18c03b4dc944c9)  
+- [2023-09-19-iOS17可以更新了！网友实测炫酷值拉满，但续航嘛…](https://posts.careerengine.us/p/650992cbb77138440679c2b8)  
+- [2023-09-19-OpenAI最新大模型曝光：剑指多模态，GPT-4之后最大升级](https://posts.careerengine.us/p/650992c2cfc1d343ececa395)  
+- [2023-09-19-AI在玩一种很新的艺术，700万网友在线围观，ControlNet又立功了](https://posts.careerengine.us/p/650992c2cfc1d343ececa38d)  
 - [2023-09-18-量子位「MEET-2024智能未来大会」要来了！还有份年度评选等你参与](https://posts.careerengine.us/p/65083d7ca99be13b315fdfa4)  
-- [2023-09-17-ChatGPT救命！4岁男孩3年求医17位专家无果，大模型精准揪出病因](https://posts.careerengine.us/p/65068649939493481ba2eb6a)  
-- [2023-09-17-清华汪玉创始公司浮出水面，要做大模型一体机，仍是“深鉴式”师生组合拳](https://posts.careerengine.us/p/650686534f66ea4841937e83)  
-- [2023-09-17-大模型生成提速2倍！单GPU几小时搞定微调，北大数院校友共同一作丨开源](https://posts.careerengine.us/p/650686534f66ea4841937e7a)  
+- [2023-09-18-揭秘iPhone里的Transformer：基于GPT-2架构，分词器含emoji，MIT校友出品](https://posts.careerengine.us/p/65083d879c18c03b4dc944c9)  
+- [2023-09-18-国产大模型推理能力已超GPT-3.5！冲进OpenAI评测榜第一梯队](https://posts.careerengine.us/p/65083d879c18c03b4dc944c1)  
+- [2023-09-18-AI「领悟」有理论解释了！谷歌：两种脑回路内部竞争，训练久了突然不再死记硬背](https://posts.careerengine.us/p/65083d93516f163b6e04deeb)  
+- [2023-09-18-CCF-C³-24@中电金信：超级算力时代的新格局-|-开始报名](https://posts.careerengine.us/p/65083d93516f163b6e04defb)  
 - [2023-09-17-清华攒局8个ChatGPT狼人杀，心机伪装都在这一局里，清华：我没教过](https://posts.careerengine.us/p/6506865de2dfea486d6a7018)  
-- [2023-09-16-只需四步就能构建自己的Agent！达摩院新开源框架小白也能用](https://posts.careerengine.us/p/6505910e0cc792354daa5c38)  
-- [2023-09-16-1.3>7？微软新模型“以小博大”战胜Llama2，网友：用Benchmark训练的吧？](https://posts.careerengine.us/p/6505910443cb1b34d96d7b20)  
-- [2023-09-16-仿生机器人大咖谈现状：说iPhone时刻有点早，诺基亚时刻刚刚好](https://posts.careerengine.us/p/650590fc74c19334bdafec27)  
+- [2023-09-17-大模型生成提速2倍！单GPU几小时搞定微调，北大数院校友共同一作丨开源](https://posts.careerengine.us/p/650686534f66ea4841937e7a)  
+- [2023-09-17-清华汪玉创始公司浮出水面，要做大模型一体机，仍是“深鉴式”师生组合拳](https://posts.careerengine.us/p/650686534f66ea4841937e83)  
+- [2023-09-17-ChatGPT救命！4岁男孩3年求医17位专家无果，大模型精准揪出病因](https://posts.careerengine.us/p/65068649939493481ba2eb6a)  
 - [2023-09-16-阿里数学竞赛最年轻金奖得主：17岁北大读大二，小学就在看数学分析](https://posts.careerengine.us/p/650590fc74c19334bdafec1f)  
-- [2023-09-15-区块链在西北这么用？腾讯让老外都开了眼](https://posts.careerengine.us/p/65041f0ae25b5c35c5c7843f)  
-- [2023-09-15-马桶里装摄像机，机械臂上挂蜘蛛准备好被搞笑诺贝尔奖笑死了么](https://posts.careerengine.us/p/65041f0ae25b5c35c5c78447)  
-- [2023-09-15-Unity收费新规受死亡威胁，CEO紧急关闭两个办公室](https://posts.careerengine.us/p/65041f14de61fe54b6f25d61)  
+- [2023-09-16-仿生机器人大咖谈现状：说iPhone时刻有点早，诺基亚时刻刚刚好](https://posts.careerengine.us/p/650590fc74c19334bdafec27)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
