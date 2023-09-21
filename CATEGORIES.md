@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-21 12:00:55，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-21 15:01:22，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-09-20-这场更贴近用户的终端侧革命，是生成式AI全民化的关键](https://posts.careerengine.us/p/650a9cb7dc9cf0455523b5a9)  
-- [2023-09-20-终于，马斯克Neuralink首次人体试验开始招募了](https://posts.careerengine.us/p/650a9cc054683064d1c5fab0)  
-- [2023-09-20-DeepMind最新AI工具登Science，AlphaMissense准确分类89％的「错义突变」](https://posts.careerengine.us/p/650a9cc054683064d1c5fab8)  
-- [2023-09-20-大模型总结摘要靠谱吗？比人类写的流畅，用GPT-4幻觉还少](https://posts.careerengine.us/p/650a9cc853cc3864ec4773ec)  
-- [2023-09-20-功能超全的AI-Agents开源库来了，能写小说，还能当导购、销售](https://posts.careerengine.us/p/650a9cc853cc3864ec4773f4)  
+- [2023-09-21-OpenAI-DALL·E-3来了，集成ChatGPT，生图效果太炸了](https://posts.careerengine.us/p/650ba7c8c9f47b1d2817295b) ![](/assets/new.png)  
+- [2023-09-21-光学追踪+裸手识别，是时候跟游戏手柄说再见了吗？](https://posts.careerengine.us/p/650ba7c8c9f47b1d28172953) ![](/assets/new.png)  
+- [2023-09-21-之江实验室：计算+生物融合创新青年学术研讨交流会邀您参加！](https://posts.careerengine.us/p/650ba7d386adcb1d6527f87d) ![](/assets/new.png)  
+- [2023-09-21-打破美国AI公司霸榜，上交AI数学开源模型阿贝尔排行榜首](https://posts.careerengine.us/p/650ba7d386adcb1d6527f875) ![](/assets/new.png)  
+- [2023-09-21-Transformer+强化学习，谷歌DeepMind让大模型成为机器人感知世界的大脑](https://posts.careerengine.us/p/650ba7dc877ce21d9b2fd1ea) ![](/assets/new.png)  
 - [2023-09-20-小芯片推动摩尔定律、迈向AI-PC时代，英特尔CEO基辛格定调未来](https://posts.careerengine.us/p/650a9cc853cc3864ec4773e4)  
-- [2023-09-19-RTX-5090最新爆料：架构大改，性能提升70％](https://posts.careerengine.us/p/650986594ea7917fff4cabcd)  
-- [2023-09-19-超38TB私人文件泄露，微软员工的聊天记录都被看到了](https://posts.careerengine.us/p/650986594ea7917fff4cabbc)  
-- [2023-09-19-收到邮件了吧？GPT-3.5-Turbo-Instruct发了，多模态大模型Gobi也曝光了](https://posts.careerengine.us/p/65098651e92ebb7fdcfd2482)  
-- [2023-09-19-视觉Transformer中ReLU替代softmax，DeepMind新招让成本速降](https://posts.careerengine.us/p/65098650e92ebb7fdcfd246a)  
+- [2023-09-20-功能超全的AI-Agents开源库来了，能写小说，还能当导购、销售](https://posts.careerengine.us/p/650a9cc853cc3864ec4773f4)  
+- [2023-09-20-大模型总结摘要靠谱吗？比人类写的流畅，用GPT-4幻觉还少](https://posts.careerengine.us/p/650a9cc853cc3864ec4773ec)  
+- [2023-09-20-DeepMind最新AI工具登Science，AlphaMissense准确分类89％的「错义突变」](https://posts.careerengine.us/p/650a9cc054683064d1c5fab8)  
+- [2023-09-20-终于，马斯克Neuralink首次人体试验开始招募了](https://posts.careerengine.us/p/650a9cc054683064d1c5fab0)  
+- [2023-09-20-这场更贴近用户的终端侧革命，是生成式AI全民化的关键](https://posts.careerengine.us/p/650a9cb7dc9cf0455523b5a9)  
 - [2023-09-19-用大模型，火山引擎要把数据飞轮「转」起来](https://posts.careerengine.us/p/6509864765c9a87fb9cf3c67)  
-- [2023-09-18-在大模型数量全国领先的北京，昇腾AI“点燃”首个普惠算力底座](https://posts.careerengine.us/p/65086bed124ae8046e3f9c30)  
-- [2023-09-18-比GPT-4还强，20亿参数模型做算术题，准确率几乎100％](https://posts.careerengine.us/p/65086bfc46698304aa6f6253)  
-- [2023-09-18-AI-offer最优解：2024秋招线上宣讲，百度、快手、360集团与极氪智能科技](https://posts.careerengine.us/p/65086bfc46698304aa6f624b)  
-- [2023-09-18-实现输入到输出「模态自由」，-NUS华人团队开源NExT-GPT，最接近AGI的大一统多模态大模型来了](https://posts.careerengine.us/p/65086c05dbaaf804cbd4f106)  
+- [2023-09-19-视觉Transformer中ReLU替代softmax，DeepMind新招让成本速降](https://posts.careerengine.us/p/65098650e92ebb7fdcfd246a)  
+- [2023-09-19-收到邮件了吧？GPT-3.5-Turbo-Instruct发了，多模态大模型Gobi也曝光了](https://posts.careerengine.us/p/65098651e92ebb7fdcfd2482)  
+- [2023-09-19-超38TB私人文件泄露，微软员工的聊天记录都被看到了](https://posts.careerengine.us/p/650986594ea7917fff4cabbc)  
+- [2023-09-19-RTX-5090最新爆料：架构大改，性能提升70％](https://posts.careerengine.us/p/650986594ea7917fff4cabcd)  
 - [2023-09-18-涉水视觉：从关键技术到智能装备](https://posts.careerengine.us/p/65086c108ee93e04f3d365e3)  
-- [2023-09-17-程序员如何用ChatGPT编程？](https://posts.careerengine.us/p/650684546f44c43e43771f70)  
-- [2023-09-17-百川13B-Chat-4bits-量化版本能使吗？实测：3090-能跑，效果差别不大！](https://posts.careerengine.us/p/65068438681dbe3de95b175a)  
-- [2023-09-17-「字少信息量大」，Salesforce、MIT-研究者手把手教-GPT-4「改稿」，数据集已开源](https://posts.careerengine.us/p/65068438681dbe3de95b1752)  
-- [2023-09-17-复旦NLP团队发布80页大模型Agent综述，一文纵览AI智能体的现状与未来](https://posts.careerengine.us/p/6506842c034fd56b649f2a4e)  
+- [2023-09-18-实现输入到输出「模态自由」，-NUS华人团队开源NExT-GPT，最接近AGI的大一统多模态大模型来了](https://posts.careerengine.us/p/65086c05dbaaf804cbd4f106)  
+- [2023-09-18-AI-offer最优解：2024秋招线上宣讲，百度、快手、360集团与极氪智能科技](https://posts.careerengine.us/p/65086bfc46698304aa6f624b)  
+- [2023-09-18-比GPT-4还强，20亿参数模型做算术题，准确率几乎100％](https://posts.careerengine.us/p/65086bfc46698304aa6f6253)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2023-09-21-OpenAI一夜颠覆AI绘画！DALL·E-3+ChatGPT强强联合，画面直接细节爆炸](https://posts.careerengine.us/p/650ba1d00862d078dc8f1084) ![](/assets/new.png)  
-- [2023-09-21-研究称AI绘画碳排放仅为人类画家1/2900，LeCun转发](https://posts.careerengine.us/p/650ba1d00862d078dc8f107c) ![](/assets/new.png)  
-- [2023-09-21-曝智谱AI全资收购清华系大模型公司聆心智能](https://posts.careerengine.us/p/650ba1d00862d078dc8f106c) ![](/assets/new.png)  
-- [2023-09-21-一个广告营销人的AIGC自白-｜对话奥创光年](https://posts.careerengine.us/p/650ba1e170ebf3796963ee83) ![](/assets/new.png)  
-- [2023-09-21-OpenAI公开招人！骗骗大模型就给钱，一年只工作5-10小时，无需技术背景](https://posts.careerengine.us/p/650ba1ed708bbd79bdf482e3) ![](/assets/new.png)  
+- [2023-09-21-OpenAI一夜颠覆AI绘画！DALL·E-3+ChatGPT强强联合，画面直接细节爆炸](https://posts.careerengine.us/p/650ba1d00862d078dc8f1084)  
+- [2023-09-21-研究称AI绘画碳排放仅为人类画家1/2900，LeCun转发](https://posts.careerengine.us/p/650ba1d00862d078dc8f107c)  
+- [2023-09-21-曝智谱AI全资收购清华系大模型公司聆心智能](https://posts.careerengine.us/p/650ba1d00862d078dc8f106c)  
+- [2023-09-21-一个广告营销人的AIGC自白-｜对话奥创光年](https://posts.careerengine.us/p/650ba1e170ebf3796963ee83)  
+- [2023-09-21-OpenAI公开招人！骗骗大模型就给钱，一年只工作5-10小时，无需技术背景](https://posts.careerengine.us/p/650ba1ed708bbd79bdf482e3)  
 - [2023-09-19-量子位智库实习生招募](https://posts.careerengine.us/p/650992d65a579b441eaa871d)  
 - [2023-09-19-iOS17可以更新了！网友实测炫酷值拉满，但续航嘛…](https://posts.careerengine.us/p/650992cbb77138440679c2b8)  
 - [2023-09-19-OpenAI最新大模型曝光：剑指多模态，GPT-4之后最大升级](https://posts.careerengine.us/p/650992c2cfc1d343ececa395)  
