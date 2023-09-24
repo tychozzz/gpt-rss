@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-24 23:00:12，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-25 06:00:26，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,10 +21,10 @@
 </summary>
 
 
-- [2023-09-24-他们用AI拭去岁月蒙尘，重现半个世纪前中国亚运首金记忆](https://posts.careerengine.us/p/651026ccbdbbbb3ab9e30cfc) ![](/assets/new.png)  
-- [2023-09-24-进能形式逻辑，退能四则运算，MAmmoT让LLM成为数学通才](https://posts.careerengine.us/p/651026d4cda5463ad819d4f9) ![](/assets/new.png)  
-- [2023-09-24-AI-Agent-如何实现？6张4090-魔改Llama2：一句指令拆分任务、调用函数](https://posts.careerengine.us/p/651026d5cda5463ad819d501) ![](/assets/new.png)  
-- [2023-09-24-仅靠视觉自主分类物体、能做瑜伽，特斯拉人形机器人再进化](https://posts.careerengine.us/p/651026d5cda5463ad819d509) ![](/assets/new.png)  
+- [2023-09-24-他们用AI拭去岁月蒙尘，重现半个世纪前中国亚运首金记忆](https://posts.careerengine.us/p/651026ccbdbbbb3ab9e30cfc)  
+- [2023-09-24-进能形式逻辑，退能四则运算，MAmmoT让LLM成为数学通才](https://posts.careerengine.us/p/651026d4cda5463ad819d4f9)  
+- [2023-09-24-AI-Agent-如何实现？6张4090-魔改Llama2：一句指令拆分任务、调用函数](https://posts.careerengine.us/p/651026d5cda5463ad819d501)  
+- [2023-09-24-仅靠视觉自主分类物体、能做瑜伽，特斯拉人形机器人再进化](https://posts.careerengine.us/p/651026d5cda5463ad819d509)  
 - [2023-09-23-大模型的最大bug，回答正确率几乎为零，GPT到Llama无一幸免](https://posts.careerengine.us/p/650e680bb7547229b286b80d)  
 - [2023-09-23-苹果创新大模型压缩技术，大模型有机会塞进手机里了](https://posts.careerengine.us/p/650e67c82183c82804133ca0)  
 - [2023-09-23-百图生科宋乐博士浅谈：AI-for-Science的下一步，计算生物学的下一程](https://posts.careerengine.us/p/650e67c82183c82804133ca8)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-09-23-主流推理框架哪家强？看看它们在Llama-2上的性能比较](https://posts.careerengine.us/p/650e7cb9c70bcc0e7ae7e3fe)  
-- [2023-09-23-Knowledge-Based-Systems-2023：基于注意力机制的图相似度学习探索](https://posts.careerengine.us/p/650e7cbac70bcc0e7ae7e406)  
+- [2023-09-24-ICCV-2023-|-噪声关联鲁棒的图匹配方法](https://posts.careerengine.us/p/65105905d528eb36fc7826fa) ![](/assets/new.png)  
+- [2023-09-24-直播预告-|-SemEval-2023最佳论文：针对命名实体识别的统一检索增强方法](https://posts.careerengine.us/p/6510590c950b5f77eeb560d0) ![](/assets/new.png)  
+- [2023-09-24-博士申请-|-新加坡国立大学金玥明老师招收AI/Healthcare方向全奖博士/博后/RA](https://posts.careerengine.us/p/6510591605b3b57809b455b9) ![](/assets/new.png)  
 - [2023-09-23-重磅课程再次升级，一次性搞定大模型多模态AIGC与强化学习---《2023秋季AIGC大模型与强化学习前沿技术实战》-招生简章](https://posts.careerengine.us/p/650e7cbac70bcc0e7ae7e416)  
-- [2023-09-22-深圳内推-|-粤港澳大湾区数字经济研究院招聘垂直大模型算法实习生](https://posts.careerengine.us/p/650d9c5b57d52c45442c888d)  
-- [2023-09-22-Transformer+强化学习，DeepMind让大模型成为机器人感知世界的大脑](https://posts.careerengine.us/p/650d9c481ced4b44f1a892ab)  
+- [2023-09-23-Knowledge-Based-Systems-2023：基于注意力机制的图相似度学习探索](https://posts.careerengine.us/p/650e7cbac70bcc0e7ae7e406)  
+- [2023-09-23-主流推理框架哪家强？看看它们在Llama-2上的性能比较](https://posts.careerengine.us/p/650e7cb9c70bcc0e7ae7e3fe)  
 - [2023-09-22-大词表语言模型在续写任务上的一个问题及对策](https://posts.careerengine.us/p/650d9c481ced4b44f1a892ba)  
-- [2023-09-19-博士申请-|-弗吉尼亚理工大学贾若溪老师招收机器学习方向全奖博士/博后](https://posts.careerengine.us/p/650d9c51b571ab451dc0bfa5)  
-- [2023-09-19-FlagEval-9月榜-|-评测框架多维升级，详解Baichuan2等7个热门模型主观评测能力分布](https://posts.careerengine.us/p/6509946a0c1c344ab0571ec3)  
-- [2023-09-19-​WWW-2023-|-上海交大提出组合药物推荐新方法—MoleRec](https://posts.careerengine.us/p/6509947887e8eb4aeed4ad94)  
-- [2023-09-19-北京内推-|-快手知识图谱中心招聘知识图谱算法专家（社招）](https://posts.careerengine.us/p/65099483f0de614b0d9f4132)  
+- [2023-09-22-Transformer+强化学习，DeepMind让大模型成为机器人感知世界的大脑](https://posts.careerengine.us/p/650d9c481ced4b44f1a892ab)  
+- [2023-09-22-深圳内推-|-粤港澳大湾区数字经济研究院招聘垂直大模型算法实习生](https://posts.careerengine.us/p/650d9c5b57d52c45442c888d)  
 - [2023-09-19-今晚直播-|-阿里达摩院算法研究员黄斐：又快又好的非自回归文本生成](https://posts.careerengine.us/p/65099484f0de614b0d9f413a)  
-- [2023-09-18-北京内推-|-微软研究院科学智能中心招聘生物计算大模型实习生](https://posts.careerengine.us/p/6507d7ccb7de992971d4a9a7)  
-- [2023-09-18-SolidUI：一句话生成任何图形，版本0.2.0功能介绍](https://posts.careerengine.us/p/6507d7c0d9761029535744d9)  
-- [2023-09-18-CVPR-2023-|-SCConv：即插即用的空间和通道重建卷积](https://posts.careerengine.us/p/6507d7c0d9761029535744d1)  
+- [2023-09-19-北京内推-|-快手知识图谱中心招聘知识图谱算法专家（社招）](https://posts.careerengine.us/p/65099483f0de614b0d9f4132)  
+- [2023-09-19-​WWW-2023-|-上海交大提出组合药物推荐新方法—MoleRec](https://posts.careerengine.us/p/6509947887e8eb4aeed4ad94)  
+- [2023-09-19-FlagEval-9月榜-|-评测框架多维升级，详解Baichuan2等7个热门模型主观评测能力分布](https://posts.careerengine.us/p/6509946a0c1c344ab0571ec3)  
+- [2023-09-19-博士申请-|-弗吉尼亚理工大学贾若溪老师招收机器学习方向全奖博士/博后](https://posts.careerengine.us/p/650d9c51b571ab451dc0bfa5)  
 - [2023-09-18-90％投稿人不知道的三大误区！新晋投稿人尤其要注意](https://posts.careerengine.us/p/6507d7b6bcd8ef28e73bca2d)  
-- [2023-09-17-SSLRec：统一的自监督推荐算法库](https://posts.careerengine.us/p/650711604722ef4cc7c05339)  
-- [2023-09-17-ICCV-2023-|-SparseBEV：高性能、全稀疏的纯视觉3D目标检测器](https://posts.careerengine.us/p/6507116aa189074ce07f6054)  
+- [2023-09-18-CVPR-2023-|-SCConv：即插即用的空间和通道重建卷积](https://posts.careerengine.us/p/6507d7c0d9761029535744d1)  
+- [2023-09-18-SolidUI：一句话生成任何图形，版本0.2.0功能介绍](https://posts.careerengine.us/p/6507d7c0d9761029535744d9)  
+- [2023-09-18-北京内推-|-微软研究院科学智能中心招聘生物计算大模型实习生](https://posts.careerengine.us/p/6507d7ccb7de992971d4a9a7)  
 - [2023-09-17-北京内推-|-滴滴出行网约车核心团队招聘机器学习算法实习生](https://posts.careerengine.us/p/6507117592bf3c71c362f771)  
-- [2023-09-16-直播预告-|-阿里达摩院算法研究员黄斐：又快又好的非自回归文本生成](https://posts.careerengine.us/p/65058c371ce3752a3eb50793)  
-- [2023-09-16-TPAMI-2023-|-用于视觉识别的相互对比学习在线知识蒸馏](https://posts.careerengine.us/p/65058c2ebaed5a2a20dc96f0)  
+- [2023-09-17-ICCV-2023-|-SparseBEV：高性能、全稀疏的纯视觉3D目标检测器](https://posts.careerengine.us/p/6507116aa189074ce07f6054)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
