@@ -1,17 +1,17 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-25 15:00:14，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-26 06:00:11，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
-- [ChatGPT](#chatgpt)  
+- [AI前线](#ai前线)  
+- [ChatGPT](#chatgpt)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-09-25-千元预算半天训练，效果媲美主流大模型，开源可商用中文LLaMA-2](https://posts.careerengine.us/p/651105fcda693c6a20b86967) ![](/assets/new.png)  
-- [2023-09-25-6.7k-Star量的vLLM出论文了，让每个人都能轻松快速低成本地部署LLM服务](https://posts.careerengine.us/p/651106092d160e6a8ff76e33) ![](/assets/new.png)  
-- [2023-09-25-生成式AI时代的模型压缩与加速，韩松主讲MIT课程，资料全公开](https://posts.careerengine.us/p/651106092d160e6a8ff76e3b) ![](/assets/new.png)  
-- [2023-09-25-K2乔戈里，上交大团队推出一个70亿参数的地球科学大语言模型](https://posts.careerengine.us/p/651106118be5346aadc9fe98) ![](/assets/new.png)  
-- [2023-09-25-无惧图像中的文字，TextDiffuser提供更高质量文本渲染](https://posts.careerengine.us/p/651106118be5346aadc9fe90) ![](/assets/new.png)  
+- [2023-09-25-千元预算半天训练，效果媲美主流大模型，开源可商用中文LLaMA-2](https://posts.careerengine.us/p/651105fcda693c6a20b86967)  
+- [2023-09-25-6.7k-Star量的vLLM出论文了，让每个人都能轻松快速低成本地部署LLM服务](https://posts.careerengine.us/p/651106092d160e6a8ff76e33)  
+- [2023-09-25-生成式AI时代的模型压缩与加速，韩松主讲MIT课程，资料全公开](https://posts.careerengine.us/p/651106092d160e6a8ff76e3b)  
+- [2023-09-25-K2乔戈里，上交大团队推出一个70亿参数的地球科学大语言模型](https://posts.careerengine.us/p/651106118be5346aadc9fe98)  
+- [2023-09-25-无惧图像中的文字，TextDiffuser提供更高质量文本渲染](https://posts.careerengine.us/p/651106118be5346aadc9fe90)  
 - [2023-09-24-仅靠视觉自主分类物体、能做瑜伽，特斯拉人形机器人再进化](https://posts.careerengine.us/p/651026d5cda5463ad819d509)  
 - [2023-09-24-AI-Agent-如何实现？6张4090-魔改Llama2：一句指令拆分任务、调用函数](https://posts.careerengine.us/p/651026d5cda5463ad819d501)  
 - [2023-09-24-进能形式逻辑，退能四则运算，MAmmoT让LLM成为数学通才](https://posts.careerengine.us/p/651026d4cda5463ad819d4f9)  
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2023-09-25-15小时、几千元训完中文版LLaMA2！低成本方案全面开源，包含代码权重，支持商用](https://posts.careerengine.us/p/65110c04641cd50139bcc521) ![](/assets/new.png)  
-- [2023-09-25-度小满“轩辕70B”金融大模型开源！登顶两大权威测评榜单，所有用户均可下载](https://posts.careerengine.us/p/65110c1276a1ca016f75d350) ![](/assets/new.png)  
-- [2023-09-25-马斯克机器人大进化！全新技能解锁，启用端到端神经网络](https://posts.careerengine.us/p/65110c1a2405ae72bf9b119c) ![](/assets/new.png)  
-- [2023-09-25-多模态大模型最全综述来了！7位微软研究员大力合作，5大主题，成文119页](https://posts.careerengine.us/p/65110c1a2405ae72bf9b1194) ![](/assets/new.png)  
+- [2023-09-25-15小时、几千元训完中文版LLaMA2！低成本方案全面开源，包含代码权重，支持商用](https://posts.careerengine.us/p/65110c04641cd50139bcc521)  
+- [2023-09-25-度小满“轩辕70B”金融大模型开源！登顶两大权威测评榜单，所有用户均可下载](https://posts.careerengine.us/p/65110c1276a1ca016f75d350)  
+- [2023-09-25-马斯克机器人大进化！全新技能解锁，启用端到端神经网络](https://posts.careerengine.us/p/65110c1a2405ae72bf9b119c)  
+- [2023-09-25-多模态大模型最全综述来了！7位微软研究员大力合作，5大主题，成文119页](https://posts.careerengine.us/p/65110c1a2405ae72bf9b1194)  
 - [2023-09-24-长文本信息准确率超过ChatGPT，Meta提出降低大模型幻觉新方法](https://posts.careerengine.us/p/650fbacd30b7e340e3051fff)  
 - [2023-09-24-李飞飞朱松纯把《我的世界》变AI的世界，微软Xbox组参与，游戏Agent协作框架来了](https://posts.careerengine.us/p/650fbac5f72fdb3049f0270d)  
 - [2023-09-24-DALL·E-3必应开测！马骑宇航员难题攻破，一张画指定50个物体，微软前所未有深度参与研究](https://posts.careerengine.us/p/650fbac5f72fdb3049f02715)  
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2023-09-25-裁错了还是变相降薪？大厂粗暴裁员后又求员工回来，网友：拿什么再爱你？](https://posts.careerengine.us/p/65111bf39d82e6198ffbeeec) ![](/assets/new.png)  
+- [2023-09-25-裁错了还是变相降薪？大厂粗暴裁员后又求员工回来，网友：拿什么再爱你？](https://posts.careerengine.us/p/65111bf39d82e6198ffbeeec)  
 - [2023-09-24-高通被曝裁员最高赔偿N+7；马斯克脑机接口公司将进行人体试验，手术局部麻醉；传闻称谷歌将自研-AI-芯片｜AI-一周资讯](https://posts.careerengine.us/p/650fca85459cc50df2079daa)  
 - [2023-09-22-思科史上最大规模收购：2047亿元拿下Splunk，有人“内幕”交易获46000％回报？](https://posts.careerengine.us/p/650d3621e126e74cb1ae967d)  
 - [2023-09-22-如何用机器学习模型打击虚拟货币犯罪？](https://posts.careerengine.us/p/650d3629207a664cde613efe)  
@@ -207,6 +207,8 @@
 </summary>
 
 
+- [2023-09-26-<b>ChatGPT-language-support---Alpha-on-web-September-11,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_2235297035) ![](/assets/new.png)  
+- [2023-09-26-<b>New-voice-and-image-capabilities-in-ChatGPT-September-25,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e3a2ee7903) ![](/assets/new.png)  
 - [2023-08-30-Introducing-ChatGPT-Enterprise-August-28,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9c2276ca4e)  
 - [2023-08-22-Custom-instructions-are-now-available-to-users-in-the-EU-&-UK-August-21,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e5d13591f0)  
 - [2023-08-10-Custom-instructions-are-now-available-to-free-users-August-9,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_88eefa0552)  
@@ -225,8 +227,6 @@
 - [2023-02-13-Release-Notes-Feb-13](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_71fed9b7cb)  
 - [2023-02-09-Release-Notes-Feb-9](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_0be048126c)  
 - [2023-01-30-Release-Notes-Jan-30](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_f46bd1d771)  
-- [2023-01-09-Release-Notes-Jan-9](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_b1c7f24762)  
-- [2022-12-15-Release-Notes-Dec-15](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_026e1e86a4)  
 - [......【查看更多】......](/details/ChatGPT.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
