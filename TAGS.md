@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-09-27 21:00:12。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-09-27 23:00:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -277,6 +277,7 @@
 - [【PaperWeekly】CVPR-2023-|-​微软亚洲研究院提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f6b8e9f41ef838f7d45d45)
 - [【PaperWeekly】北京内推-|-微软亚洲研究院自然语言计算组招聘NLP方向研究实习生](https://posts.careerengine.us/p/64eb587085dd1d21a2c18785)
 - [【PaperWeekly】北京内推-|-微软亚洲互联网工程院微软搜索广告算法团队招聘NLP算法实习生](https://posts.careerengine.us/p/64c13ff093b8c152f8e07f19)
+- [【AI前线】微软裁员内幕](https://posts.careerengine.us/p/65142db8c2abb16907207ee8)
 - [【AI前线】微软-Dev-Box-正式发布：加速开发者工作流程](https://posts.careerengine.us/p/64f41b8dea681654e6eb2acd)
 - [【AI前线】微软官宣-Mac-版-Visual-Studio-IDE-将“退休”，网友吐槽：没什么用，早该退了！](https://posts.careerengine.us/p/64f5c1bf33a2aa64ed3cdeb3)
 - [......【查看更多】......](/details/tags/microsoft.md)
