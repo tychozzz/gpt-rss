@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2023-09-27 23:00:13，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-28 06:00:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -10,8 +10,8 @@
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
-- [ChatGPT](#chatgpt)  
+- [AI前线](#ai前线)  
+- [ChatGPT](#chatgpt)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2023-09-27-千亿也不够花！OpenAI-想让员工出售股票来筹资，而最大投资人微软正在“去GPT“](https://posts.careerengine.us/p/65142d7b5a41cc676fb18216) ![](/assets/new.png)  
-- [2023-09-26-微软裁员内幕](https://posts.careerengine.us/p/65142db8c2abb16907207ee8) ![](/assets/new.png)  
+- [2023-09-27-千亿也不够花！OpenAI-想让员工出售股票来筹资，而最大投资人微软正在“去GPT“](https://posts.careerengine.us/p/65142d7b5a41cc676fb18216)  
+- [2023-09-26-微软裁员内幕](https://posts.careerengine.us/p/65142db8c2abb16907207ee8)  
 - [2023-09-25-裁错了还是变相降薪？大厂粗暴裁员后又求员工回来，网友：拿什么再爱你？](https://posts.careerengine.us/p/65111bf39d82e6198ffbeeec)  
 - [2023-09-24-高通被曝裁员最高赔偿N+7；马斯克脑机接口公司将进行人体试验，手术局部麻醉；传闻称谷歌将自研-AI-芯片｜AI-一周资讯](https://posts.careerengine.us/p/650fca85459cc50df2079daa)  
 - [2023-09-22-如何用机器学习模型打击虚拟货币犯罪？](https://posts.careerengine.us/p/650d3629207a664cde613efe)  
@@ -207,8 +207,9 @@
 </summary>
 
 
-- [2023-09-26-<b>ChatGPT-language-support---Alpha-on-web-September-11,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_2235297035)  
+- [2023-09-28-<b>Browse-is-rolling-back-out-to-Plus-users-September-27,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4799933861) ![](/assets/new.png)  
 - [2023-09-26-<b>New-voice-and-image-capabilities-in-ChatGPT-September-25,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e3a2ee7903)  
+- [2023-09-26-<b>ChatGPT-language-support---Alpha-on-web-September-11,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_2235297035)  
 - [2023-08-30-Introducing-ChatGPT-Enterprise-August-28,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9c2276ca4e)  
 - [2023-08-22-Custom-instructions-are-now-available-to-users-in-the-EU-&-UK-August-21,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e5d13591f0)  
 - [2023-08-10-Custom-instructions-are-now-available-to-free-users-August-9,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_88eefa0552)  
@@ -226,7 +227,6 @@
 - [2023-03-14-Release-Notes-March-14](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_0eb2784e11)  
 - [2023-02-13-Release-Notes-Feb-13](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_71fed9b7cb)  
 - [2023-02-09-Release-Notes-Feb-9](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_0be048126c)  
-- [2023-01-30-Release-Notes-Jan-30](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_f46bd1d771)  
 - [......【查看更多】......](/details/ChatGPT.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
