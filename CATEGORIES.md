@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-04 12:00:24，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-04 15:00:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,10 +21,10 @@
 </summary>
 
 
-- [2023-10-04-机器人研究迎来ImageNet时刻：一个数据集，让DeepMind具身智能大模型突飞猛进](https://posts.careerengine.us/p/651ce233b03be57332621c07) ![](/assets/new.png)  
-- [2023-10-04-词表的选择如何影响语言模型训练？这可能是目前见过最好的词表选择研究](https://posts.careerengine.us/p/651ce23a86386c734e5eefae) ![](/assets/new.png)  
-- [2023-10-04-数学家孜孜以求的数学证明本质是一种社会契约，为什么这么说？](https://posts.careerengine.us/p/651ce23b86386c734e5eefb6) ![](/assets/new.png)  
-- [2023-10-04-预训练通用神经网络CHGNet，实现基于电荷的原子模拟](https://posts.careerengine.us/p/651ce24a58a434738589c2d1) ![](/assets/new.png)  
+- [2023-10-04-机器人研究迎来ImageNet时刻：一个数据集，让DeepMind具身智能大模型突飞猛进](https://posts.careerengine.us/p/651ce233b03be57332621c07)  
+- [2023-10-04-词表的选择如何影响语言模型训练？这可能是目前见过最好的词表选择研究](https://posts.careerengine.us/p/651ce23a86386c734e5eefae)  
+- [2023-10-04-数学家孜孜以求的数学证明本质是一种社会契约，为什么这么说？](https://posts.careerengine.us/p/651ce23b86386c734e5eefb6)  
+- [2023-10-04-预训练通用神经网络CHGNet，实现基于电荷的原子模拟](https://posts.careerengine.us/p/651ce24a58a434738589c2d1)  
 - [2023-10-03-利用进化扩散进行蛋白生成，微软开源新型蛋白质生成AI框架EvoDiff](https://posts.careerengine.us/p/651ba989c562b056fc4e47f5)  
 - [2023-10-03-将LLaMA2上下文扩展至100k，MIT、港中文有了LongLoRA方法](https://posts.careerengine.us/p/651ba989c562b056fc4e47ed)  
 - [2023-10-03-试过GPT-4V后，微软写了个166页的测评报告，业内人士：高级用户必读](https://posts.careerengine.us/p/651ba97efaad2465443e872a)  
@@ -176,26 +176,26 @@
 </summary>
 
 
+- [2023-10-04-未来的人工智能语言，是-Rust-还是-Mojo-？](https://posts.careerengine.us/p/651cf9a25ac3555a3ecee5d8) ![](/assets/new.png)  
 - [2023-10-03-高效能不等于开发快，大模型时代如何正确提升研发效能？](https://posts.careerengine.us/p/651ba86e89571a5481a1efe8)  
 - [2023-10-02-不要沦为大模型应用的“炮灰”](https://posts.careerengine.us/p/651a56a2ec18852db9db7ebc)  
 - [2023-10-01-华为中秋节给员工发Mate60手机；商汤科技回应原知产总监被立案侦查；马斯克平均年终奖33亿元-|-AI一周资讯](https://posts.careerengine.us/p/651904dfc7276545284a78ff)  
 - [2023-09-29-全球十大最有价值AI初创企业公布，这家26岁华裔青年创办的AI独角兽估值仅次于OpenAI](https://posts.careerengine.us/p/651661c72a6f0067b5b64242)  
-- [2023-09-28-ChatGPT-终于“联网”了！不再局限于旧数据，新功能即将对所有人开放](https://posts.careerengine.us/p/651510d2ca593c39da384c57)  
 - [2023-09-28-首个千亿医药对话大模型来了，要打破医药研发“三十定律”](https://posts.careerengine.us/p/651510f0c31fad3adbfb28da)  
+- [2023-09-28-ChatGPT-终于“联网”了！不再局限于旧数据，新功能即将对所有人开放](https://posts.careerengine.us/p/651510d2ca593c39da384c57)  
 - [2023-09-27-千亿也不够花！OpenAI-想让员工出售股票来筹资，而最大投资人微软正在“去GPT“](https://posts.careerengine.us/p/65142d7b5a41cc676fb18216)  
 - [2023-09-26-微软裁员内幕](https://posts.careerengine.us/p/65142db8c2abb16907207ee8)  
 - [2023-09-25-裁错了还是变相降薪？大厂粗暴裁员后又求员工回来，网友：拿什么再爱你？](https://posts.careerengine.us/p/65111bf39d82e6198ffbeeec)  
 - [2023-09-24-高通被曝裁员最高赔偿N+7；马斯克脑机接口公司将进行人体试验，手术局部麻醉；传闻称谷歌将自研-AI-芯片｜AI-一周资讯](https://posts.careerengine.us/p/650fca85459cc50df2079daa)  
-- [2023-09-22-思科史上最大规模收购：2047亿元拿下Splunk，有人“内幕”交易获46000％回报？](https://posts.careerengine.us/p/650d3621e126e74cb1ae967d)  
 - [2023-09-22-如何用机器学习模型打击虚拟货币犯罪？](https://posts.careerengine.us/p/650d3629207a664cde613efe)  
-- [2023-09-21-工商银行大数据平台助力全行数字化转型之路](https://posts.careerengine.us/p/650c5edfb9a02a10b641690d)  
-- [2023-09-21-企业级生成式-AI-应用，如何克服“幻觉”问题](https://posts.careerengine.us/p/650c5ed5a0ff07107b7199df)  
+- [2023-09-22-思科史上最大规模收购：2047亿元拿下Splunk，有人“内幕”交易获46000％回报？](https://posts.careerengine.us/p/650d3621e126e74cb1ae967d)  
 - [2023-09-21-ChatGPT-发布9-个月已经成为2023年最大金矿，大家是怎么靠它挣到钱的？](https://posts.careerengine.us/p/650c5eca195990104d02fbb0)  
-- [2023-09-20-OpenAI放大招“对打”谷歌Gemini：全力筹备多模态大模型，并发布新指令语言模型](https://posts.careerengine.us/p/650d365f5ce3904e2d635a69)  
+- [2023-09-21-企业级生成式-AI-应用，如何克服“幻觉”问题](https://posts.careerengine.us/p/650c5ed5a0ff07107b7199df)  
+- [2023-09-21-工商银行大数据平台助力全行数字化转型之路](https://posts.careerengine.us/p/650c5edfb9a02a10b641690d)  
 - [2023-09-20-开源-ML-社区的新星，Kubeflow-正式成为-CNCF-项目](https://posts.careerengine.us/p/650d365f5ce3904e2d635a61)  
-- [2023-09-19-谷歌云推出-AlloyDB-AI：用先进的向量嵌入和-AI-改造-PostgreSQL](https://posts.careerengine.us/p/650992f3c8a2a344e0d8aee7)  
+- [2023-09-20-OpenAI放大招“对打”谷歌Gemini：全力筹备多模态大模型，并发布新指令语言模型](https://posts.careerengine.us/p/650d365f5ce3904e2d635a69)  
 - [2023-09-19-弃亚马逊转戴尔，彻底下云、去K8s后，我们已经节省了100万美元](https://posts.careerengine.us/p/650992ece9a05444ab9d3206)  
-- [2023-09-17-BOSS直聘回应4700万人挤爆服务器；Unity员工向公司发出死亡威胁；马斯克回忆人生至暗时刻-|-AI一周资讯](https://posts.careerengine.us/p/6506905190985471c26445aa)  
+- [2023-09-19-谷歌云推出-AlloyDB-AI：用先进的向量嵌入和-AI-改造-PostgreSQL](https://posts.careerengine.us/p/650992f3c8a2a344e0d8aee7)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
