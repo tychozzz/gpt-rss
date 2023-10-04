@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-03 23:00:20，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-04 12:00:24，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-10-03-从观察、思考到行动，深度强化学习大牛Pieter-Abbeel谈如何驯服机器人](https://posts.careerengine.us/p/651ba97dfaad2465443e871b)  
-- [2023-10-03-试过GPT-4V后，微软写了个166页的测评报告，业内人士：高级用户必读](https://posts.careerengine.us/p/651ba97efaad2465443e872a)  
-- [2023-10-03-将LLaMA2上下文扩展至100k，MIT、港中文有了LongLoRA方法](https://posts.careerengine.us/p/651ba989c562b056fc4e47ed)  
+- [2023-10-04-机器人研究迎来ImageNet时刻：一个数据集，让DeepMind具身智能大模型突飞猛进](https://posts.careerengine.us/p/651ce233b03be57332621c07) ![](/assets/new.png)  
+- [2023-10-04-词表的选择如何影响语言模型训练？这可能是目前见过最好的词表选择研究](https://posts.careerengine.us/p/651ce23a86386c734e5eefae) ![](/assets/new.png)  
+- [2023-10-04-数学家孜孜以求的数学证明本质是一种社会契约，为什么这么说？](https://posts.careerengine.us/p/651ce23b86386c734e5eefb6) ![](/assets/new.png)  
+- [2023-10-04-预训练通用神经网络CHGNet，实现基于电荷的原子模拟](https://posts.careerengine.us/p/651ce24a58a434738589c2d1) ![](/assets/new.png)  
 - [2023-10-03-利用进化扩散进行蛋白生成，微软开源新型蛋白质生成AI框架EvoDiff](https://posts.careerengine.us/p/651ba989c562b056fc4e47f5)  
-- [2023-10-02-如何评估大语言模型是否可信？这里总结了七大维度](https://posts.careerengine.us/p/651a4dbc3658ed7032c1e55d)  
-- [2023-10-02-浙大团队用深度学习方法进行高效、准确的大型文库配体对接，助力药物开发](https://posts.careerengine.us/p/651a4dbc3658ed7032c1e56d)  
-- [2023-10-02-Chinchilla之死：只要训练足够长时间，小模型也能超过大模型](https://posts.careerengine.us/p/651a4da85e4fc16f4ebb413c)  
+- [2023-10-03-将LLaMA2上下文扩展至100k，MIT、港中文有了LongLoRA方法](https://posts.careerengine.us/p/651ba989c562b056fc4e47ed)  
+- [2023-10-03-试过GPT-4V后，微软写了个166页的测评报告，业内人士：高级用户必读](https://posts.careerengine.us/p/651ba97efaad2465443e872a)  
+- [2023-10-03-从观察、思考到行动，深度强化学习大牛Pieter-Abbeel谈如何驯服机器人](https://posts.careerengine.us/p/651ba97dfaad2465443e871b)  
 - [2023-10-02-20多种意识理论哪个才是主导？五年了，还没有赢家](https://posts.careerengine.us/p/651a4da85e4fc16f4ebb412b)  
-- [2023-10-01-以3D视角洞悉矩阵乘法，这就是AI思考的样子](https://posts.careerengine.us/p/6518fb8d4645cc2c245d5ed3)  
-- [2023-10-01-语言模型有重大缺陷，知识推演竟然是老大难](https://posts.careerengine.us/p/6518fb956114972c3cede75d)  
+- [2023-10-02-Chinchilla之死：只要训练足够长时间，小模型也能超过大模型](https://posts.careerengine.us/p/651a4da85e4fc16f4ebb413c)  
+- [2023-10-02-浙大团队用深度学习方法进行高效、准确的大型文库配体对接，助力药物开发](https://posts.careerengine.us/p/651a4dbc3658ed7032c1e56d)  
+- [2023-10-02-如何评估大语言模型是否可信？这里总结了七大维度](https://posts.careerengine.us/p/651a4dbc3658ed7032c1e55d)  
 - [2023-10-01-真实性惊人，谷歌、康奈尔提出真实的图像补全技术RealFill](https://posts.careerengine.us/p/6518fba578237b2c69902dcb)  
-- [2023-09-30-复旦大学、中国科学院团队综述，化学机器学习：基础知识和应用](https://posts.careerengine.us/p/6517a4bf5900fa4d069b4657)  
-- [2023-09-30-让人恐惧的是，机器狗已经能做这种事了](https://posts.careerengine.us/p/6517a4b73fec074ce07ab39f)  
-- [2023-09-30-多模态版Llama2上线，Meta发布AnyMAL](https://posts.careerengine.us/p/6517a4b73fec074ce07ab395)  
+- [2023-10-01-语言模型有重大缺陷，知识推演竟然是老大难](https://posts.careerengine.us/p/6518fb956114972c3cede75d)  
+- [2023-10-01-以3D视角洞悉矩阵乘法，这就是AI思考的样子](https://posts.careerengine.us/p/6518fb8d4645cc2c245d5ed3)  
 - [2023-09-30-扎克伯格在元宇宙里一小时的「真人对话」，惊艳了全世界](https://posts.careerengine.us/p/6517a4a8db17004caa8e11d6)  
-- [2023-09-29-树莓派5来了：算力提升2.5倍，支持PCIe，438元起售](https://posts.careerengine.us/p/65164b917fcb21177d305f1a)  
-- [2023-09-29-用-Transformer-评估蛋白质结合界面，区分天然蛋白复合物和不正确构象](https://posts.careerengine.us/p/65164ba0e4dda517b9927a5e)  
-- [2023-09-29-所有基准测试都优于Llama-2-13B，最好的7B模型来了，免费用](https://posts.careerengine.us/p/65164ba0e4dda517b9927a67)  
+- [2023-09-30-多模态版Llama2上线，Meta发布AnyMAL](https://posts.careerengine.us/p/6517a4b73fec074ce07ab395)  
+- [2023-09-30-让人恐惧的是，机器狗已经能做这种事了](https://posts.careerengine.us/p/6517a4b73fec074ce07ab39f)  
+- [2023-09-30-复旦大学、中国科学院团队综述，化学机器学习：基础知识和应用](https://posts.careerengine.us/p/6517a4bf5900fa4d069b4657)  
 - [2023-09-29-重温图灵原理，感受反证法的力量](https://posts.careerengine.us/p/65164bb3f1a9a7180c1ca981)  
-- [2023-09-28-Meta版ChatGPT来了：Llama-2加持，接入必应搜索，小扎现场演示](https://posts.careerengine.us/p/6514ef644fb3c763fcf1d4ca)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,9 +52,9 @@
 </summary>
 
 
-- [2023-10-03-诺奖得主曾数次被剥夺教职，网友集体要求高校道歉：获资助比拿诺奖更难](https://posts.careerengine.us/p/651bf7ce1450b372bd263ef2) ![](/assets/new.png)  
-- [2023-10-03-第五位女性诺奖物理学得主！给原子世界按下快门，获奖时还在上课](https://posts.careerengine.us/p/651bf7ce1450b372bd263eea) ![](/assets/new.png)  
-- [2023-10-03-纽大具身智能新进展：靠视觉反馈学会开罐头，任务成功率提高135％，LeCun点赞](https://posts.careerengine.us/p/651bf7d570948109a772c071) ![](/assets/new.png)  
+- [2023-10-03-诺奖得主曾数次被剥夺教职，网友集体要求高校道歉：获资助比拿诺奖更难](https://posts.careerengine.us/p/651bf7ce1450b372bd263ef2)  
+- [2023-10-03-第五位女性诺奖物理学得主！给原子世界按下快门，获奖时还在上课](https://posts.careerengine.us/p/651bf7ce1450b372bd263eea)  
+- [2023-10-03-纽大具身智能新进展：靠视觉反馈学会开罐头，任务成功率提高135％，LeCun点赞](https://posts.careerengine.us/p/651bf7d570948109a772c071)  
 - [2023-10-02-GitHub-Copilot让陶哲轩感到“不安”](https://posts.careerengine.us/p/651aa0d013ff636065c1929f)  
 - [2023-10-02-刚刚，诺贝尔奖颁给mRNA疫苗！](https://posts.careerengine.us/p/651aa0c131ba0d6037e01f06)  
 - [2023-10-01-雷军王小川牵手，小米大模型投资布局首次曝光](https://posts.careerengine.us/p/6518f5b67b70411bf979a900)  
