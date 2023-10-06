@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-10-05 15:00:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-06 15:00:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 通义千问
 
@@ -8,6 +8,7 @@
 
 
 - [2023-07-08-中科院、阿里出品FF3D，创建自定义风格化3D人像只需三分钟](https://posts.careerengine.us/p/64a8f17356a2e2354e54ec78) 
+- [2023-10-06-渐冻症少年闪光阿里数学竞赛！靠自学进MIT研究黑洞，导师：很像霍金](https://posts.careerengine.us/p/651f913d4eea38290b9d0929) 
 - [2023-09-16-阿里数学竞赛最年轻金奖得主：17岁北大读大二，小学就在看数学分析](https://posts.careerengine.us/p/650590fc74c19334bdafec1f) 
 - [2023-09-11-逍遥子突然辞去阿里一切职务！之前不再担任董事长，现在阿里云CEO也卸了](https://posts.careerengine.us/p/64fe97375a95ca2620951c98) 
 - [2023-09-19-今晚直播-|-阿里达摩院算法研究员黄斐：又快又好的非自回归文本生成](https://posts.careerengine.us/p/65099484f0de614b0d9f413a) 
