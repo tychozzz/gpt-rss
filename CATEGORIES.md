@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-11 15:00:11，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-11 23:00:10，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-10-11-AI排名升至第18名，全球首所人工智能大学MBZUAI仅用了四年（2024硕博招生）](https://posts.careerengine.us/p/65262665bff6e071b8ceef64) ![](/assets/new.png)  
-- [2023-10-11-超10亿美元，百图生科与赛诺菲达成大型战略合作，生命科学大模型商业化浪潮已来？](https://posts.careerengine.us/p/65262665bff6e071b8ceef5b) ![](/assets/new.png)  
-- [2023-10-11-清华全球首颗片上学习忆阻器存算一体芯片，成果登上Science](https://posts.careerengine.us/p/65262665bff6e071b8ceef44) ![](/assets/new.png)  
-- [2023-10-11-在图像、视频生成上，语言模型首次击败扩散模型，tokenizer是关键](https://posts.careerengine.us/p/65262665bff6e071b8ceef4c) ![](/assets/new.png)  
-- [2023-10-11-MetaMath：新数学推理语言模型，训练大模型的逆向思维](https://posts.careerengine.us/p/652626748f531971ec6ffa2f) ![](/assets/new.png)  
+- [2023-10-11-AI排名升至第18名，全球首所人工智能大学MBZUAI仅用了四年（2024硕博招生）](https://posts.careerengine.us/p/65262665bff6e071b8ceef64)  
+- [2023-10-11-超10亿美元，百图生科与赛诺菲达成大型战略合作，生命科学大模型商业化浪潮已来？](https://posts.careerengine.us/p/65262665bff6e071b8ceef5b)  
+- [2023-10-11-清华全球首颗片上学习忆阻器存算一体芯片，成果登上Science](https://posts.careerengine.us/p/65262665bff6e071b8ceef44)  
+- [2023-10-11-在图像、视频生成上，语言模型首次击败扩散模型，tokenizer是关键](https://posts.careerengine.us/p/65262665bff6e071b8ceef4c)  
+- [2023-10-11-MetaMath：新数学推理语言模型，训练大模型的逆向思维](https://posts.careerengine.us/p/652626748f531971ec6ffa2f)  
 - [2023-10-10-和谷歌搜索抢活，FRESHLLM「紧跟时事」，幻觉更少，信息更准](https://posts.careerengine.us/p/6524d5178e7c5f2336d0da0e)  
 - [2023-10-10-有人给微软大模型落地算了笔账：每月每位用户倒贴20美元](https://posts.careerengine.us/p/6524d510319b2d230c29d5be)  
 - [2023-10-10-港科大谭平团队突破3D生成领域关键性问题，让多头怪不再出现](https://posts.careerengine.us/p/6524d50e319b2d230c29d5b6)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2023-10-10-AI天才杨植麟交卷大模型产品，特点：长长长长长](https://posts.careerengine.us/p/6524e50ce8808044faf2bc84)  
-- [2023-10-10-搞大模型巨亏，微软都还没挣到钱！GitHub-Copilot每月收10刀，倒赔20](https://posts.careerengine.us/p/6524e50ce8808044faf2bc7c)  
-- [2023-10-10-美图秀秀上车最新自研大模型，各类AIGC玩法可直接体验](https://posts.careerengine.us/p/6524e519a4edae45197485df)  
-- [2023-10-10-挑战GPT-4V！清华唐杰&智谱开源多模态14边形战士，在线可玩](https://posts.careerengine.us/p/6524e519a4edae45197485d7)  
+- [2023-10-11-城市5000高速3000落地NOH，中国智驾方案成本新低！](https://posts.careerengine.us/p/65268ce0e11e696d39003249) ![](/assets/new.png)  
+- [2023-10-11-Adobe新版AI绘画炸场，2k分辨率在线就能玩，网友：效果比DALL·E-3更强](https://posts.careerengine.us/p/65268ce92d583f6dcb887bc4) ![](/assets/new.png)  
+- [2023-10-11-清华芯片新突破登Science，获评“存算一体领域重大进展”！基于类脑架构实现片上快速AI学习](https://posts.careerengine.us/p/65268cf792615a6df6ad8e37) ![](/assets/new.png)  
+- [2023-10-11-GPT-4野生代言人陶哲轩：搞论文学新工具没它得崩溃！11页“超简短”新作已上线](https://posts.careerengine.us/p/65268cf792615a6df6ad8e2f) ![](/assets/new.png)  
+- [2023-10-11-挑战GPT-4V，浙大校友推出开源版多模态大模型，获GitHub-6k+星标](https://posts.careerengine.us/p/65268d0244360b6e3b759b77) ![](/assets/new.png)  
+- [2023-10-11-工程师文化的变化与不变-|-10月12日TF120报名](https://posts.careerengine.us/p/65268d0eab63ed6e7158a49c) ![](/assets/new.png)  
 - [2023-10-10-Nature调查：仅4％科学家认为AI已成“必需品”-|-1600+人参与](https://posts.careerengine.us/p/6524e5213771ef4563e40368)  
-- [2023-10-09-正在报名！2023人工智能年度评选：三大类别5大奖项，谁立科技潮流之巅？](https://posts.careerengine.us/p/6523823e71426d2daac2053d)  
-- [2023-10-09-迪士尼玩起强化学习，新机器人有星球大战那味了](https://posts.careerengine.us/p/6523823639c9aa2d89323119)  
-- [2023-10-09-最好的7B模型易主，笔记本轻松跑，免费开源可商用，来自“欧洲的OpenAI”](https://posts.careerengine.us/p/6523823639c9aa2d89323128)  
-- [2023-10-09-贾佳亚团队开源全球首个70B长文本大语言模型，读论文看小说直接ProMax](https://posts.careerengine.us/p/6523822e2d7a482d7441458c)  
+- [2023-10-10-挑战GPT-4V！清华唐杰&智谱开源多模态14边形战士，在线可玩](https://posts.careerengine.us/p/6524e519a4edae45197485d7)  
+- [2023-10-10-美图秀秀上车最新自研大模型，各类AIGC玩法可直接体验](https://posts.careerengine.us/p/6524e519a4edae45197485df)  
+- [2023-10-10-搞大模型巨亏，微软都还没挣到钱！GitHub-Copilot每月收10刀，倒赔20](https://posts.careerengine.us/p/6524e50ce8808044faf2bc7c)  
+- [2023-10-10-AI天才杨植麟交卷大模型产品，特点：长长长长长](https://posts.careerengine.us/p/6524e50ce8808044faf2bc84)  
 - [2023-10-09-奥特曼YC演讲：套壳ChatGPT者死，我行不代表你行](https://posts.careerengine.us/p/652382269c05822d53eaf6c6)  
-- [2023-10-08-强化学习之父入局AGI创业！联手传奇程序员卡马克，放话不依赖大模型](https://posts.careerengine.us/p/652236ddb5439356b9b7778a)  
-- [2023-10-08-对标GPT-4代码解释器！港中大让模型写代码解决数学难题，得分超越GPT-4](https://posts.careerengine.us/p/652236e46eb5c52d611d4494)  
-- [2023-10-08-百万网友围观DALL-E-3新玩法！钢铁侠特斯拉皆“中招”，强迫症友好，博主分享提示词](https://posts.careerengine.us/p/652236f5dcf5fa2d9b8ecd46)  
-- [2023-10-08-拍拍脑门就能打字，谷歌工程师“帽子键盘”圈粉无数，自己也能动手制作](https://posts.careerengine.us/p/652236f5dcf5fa2d9b8ecd4e)  
+- [2023-10-09-贾佳亚团队开源全球首个70B长文本大语言模型，读论文看小说直接ProMax](https://posts.careerengine.us/p/6523822e2d7a482d7441458c)  
+- [2023-10-09-最好的7B模型易主，笔记本轻松跑，免费开源可商用，来自“欧洲的OpenAI”](https://posts.careerengine.us/p/6523823639c9aa2d89323128)  
+- [2023-10-09-迪士尼玩起强化学习，新机器人有星球大战那味了](https://posts.careerengine.us/p/6523823639c9aa2d89323119)  
+- [2023-10-09-正在报名！2023人工智能年度评选：三大类别5大奖项，谁立科技潮流之巅？](https://posts.careerengine.us/p/6523823e71426d2daac2053d)  
 - [2023-10-08-底层算力也正在进入软件定义一切的时代-|-CCF-C³](https://posts.careerengine.us/p/652236fdf4a31a2dbc86ed62)  
-- [2023-10-07-开源论文神器DocsGPT登顶GitHub热榜！多类型文档查询，支持中文可本地部署-|-狂揽8000+星](https://posts.careerengine.us/p/6520eaacece6a55545e2eea6)  
-- [2023-10-07-突发，AI大牛景鲲离职百度！CIO李莹接任小度CEO](https://posts.careerengine.us/p/6520eaa2236169550b623b5f)  
-- [2023-10-07-分解大模型的神经元！Claude团队最新研究火了，网友：打开黑盒](https://posts.careerengine.us/p/6520eaa1236169550b623b49)  
-- [2023-10-07-OpenAI造芯计划曝光！拟自研AI芯片，正在评估收购目标](https://posts.careerengine.us/p/6520ea94d22ee754bcb2a60c)  
-- [2023-10-06-自动驾驶独角兽如此造假，LeCun都服了](https://posts.careerengine.us/p/651f913d4eea38290b9d0931)  
+- [2023-10-08-拍拍脑门就能打字，谷歌工程师“帽子键盘”圈粉无数，自己也能动手制作](https://posts.careerengine.us/p/652236f5dcf5fa2d9b8ecd4e)  
+- [2023-10-08-百万网友围观DALL-E-3新玩法！钢铁侠特斯拉皆“中招”，强迫症友好，博主分享提示词](https://posts.careerengine.us/p/652236f5dcf5fa2d9b8ecd46)  
+- [2023-10-08-对标GPT-4代码解释器！港中大让模型写代码解决数学难题，得分超越GPT-4](https://posts.careerengine.us/p/652236e46eb5c52d611d4494)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
