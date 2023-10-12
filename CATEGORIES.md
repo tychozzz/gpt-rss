@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-12 06:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-12 08:00:11，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -8,9 +8,9 @@
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -118,25 +118,25 @@
 </summary>
 
 
-- [2023-10-10-33篇顶会论文？CV论文投稿到接收，不可不知的关键环节！](https://posts.careerengine.us/p/6524e3348a45123f7bb55f93)  
-- [2023-10-10-直播预告-|-清华大学深研院马仕镕：电商领域指令微调大模型](https://posts.careerengine.us/p/6524e33cca44953f9ab04179)  
-- [2023-10-10-TKDE-2023-|-超越共现！大连理工提出全新多模态会话推荐系统](https://posts.careerengine.us/p/6524e33cca44953f9ab04171)  
+- [2023-10-12-EI检索稳定！10-11月计算机国际学术会议推荐，CV/NLP/ML等多方向可投](https://posts.careerengine.us/p/652717afc6c6e968364d6d75) ![](/assets/new.png)  
+- [2023-10-12-奖金丰厚，荣誉加冕！中国气象服务协会首届AI应用创意作品征集与交流活动报名开启](https://posts.careerengine.us/p/652717b0c6c6e968364d6d7f) ![](/assets/new.png)  
+- [2023-10-12-ICCV-2023-|-清华、ETH提出Retinexformer，刷新十三大暗光增强榜](https://posts.careerengine.us/p/652717c6658ce868799653c3) ![](/assets/new.png)  
 - [2023-10-10-东京/北美/苏黎世内推-|-Sony-AI招聘视觉基础模型高级科学家/工程师/实习生](https://posts.careerengine.us/p/6524e34cb7a6e740041e665b)  
-- [2023-10-09-北京/杭州/上海内推-|-蚂蚁网商银行智能引擎团队招聘研究型校招/社招/实习生](https://posts.careerengine.us/p/652386ea2df02b3c9a26ae33)  
-- [2023-10-09-NeurIPS-2023-|-无惧图像中的文字，TextDiffuser提供更高质量文本渲染](https://posts.careerengine.us/p/652386df53f2c73c78faee24)  
-- [2023-10-09-OWL：云智慧智能研究院联合北航提出智能运维（AIOps）大语言模型](https://posts.careerengine.us/p/652386d2454b573c5d260b62)  
+- [2023-10-10-TKDE-2023-|-超越共现！大连理工提出全新多模态会话推荐系统](https://posts.careerengine.us/p/6524e33cca44953f9ab04171)  
+- [2023-10-10-直播预告-|-清华大学深研院马仕镕：电商领域指令微调大模型](https://posts.careerengine.us/p/6524e33cca44953f9ab04179)  
+- [2023-10-10-33篇顶会论文？CV论文投稿到接收，不可不知的关键环节！](https://posts.careerengine.us/p/6524e3348a45123f7bb55f93)  
 - [2023-10-09-脑洞大开：非线性RNN居然也可以并行计算？](https://posts.careerengine.us/p/652386d2454b573c5d260b6a)  
-- [2023-10-08-当下一代Transformer遇上ViT：Vision-RetNet已来！](https://posts.careerengine.us/p/65223a664e89b835103db00a)  
-- [2023-10-08-直击稀缺高薪岗位！大模型AIGC与强化学习秋季研修班现在开启](https://posts.careerengine.us/p/65223a664e89b835103db002)  
-- [2023-10-08-博士申请-|-中山大学吕子钰老师招收人工智能安全/知识智能方向博士/硕士/博后/实习生](https://posts.careerengine.us/p/65223a703d13a2354ee8437e)  
+- [2023-10-09-OWL：云智慧智能研究院联合北航提出智能运维（AIOps）大语言模型](https://posts.careerengine.us/p/652386d2454b573c5d260b62)  
+- [2023-10-09-NeurIPS-2023-|-无惧图像中的文字，TextDiffuser提供更高质量文本渲染](https://posts.careerengine.us/p/652386df53f2c73c78faee24)  
+- [2023-10-09-北京/杭州/上海内推-|-蚂蚁网商银行智能引擎团队招聘研究型校招/社招/实习生](https://posts.careerengine.us/p/652386ea2df02b3c9a26ae33)  
 - [2023-10-08-天津大学熊德意教授团队发布最新综述，全面介绍大语言模型对齐技术](https://posts.careerengine.us/p/65223a703d13a2354ee84376)  
-- [2023-10-07-博士申请-|-美国西北大学李曼玲老师招收NLP方向全奖博士/博后/硕士/实习生](https://posts.careerengine.us/p/6520ecfd17034c5b3c6c77e7)  
-- [2023-10-07-微软提出KOSMOS-2.5，能阅读「文本密集图像」的多模态大语言模型](https://posts.careerengine.us/p/6520ecf4b127975b243f0692)  
-- [2023-10-07-文末送书-|-经典计算机科学教材！用Python描述数据结构与算法的开山之作](https://posts.careerengine.us/p/6520ecf4b127975b243f069a)  
+- [2023-10-08-博士申请-|-中山大学吕子钰老师招收人工智能安全/知识智能方向博士/硕士/博后/实习生](https://posts.careerengine.us/p/65223a703d13a2354ee8437e)  
+- [2023-10-08-直击稀缺高薪岗位！大模型AIGC与强化学习秋季研修班现在开启](https://posts.careerengine.us/p/65223a664e89b835103db002)  
+- [2023-10-08-当下一代Transformer遇上ViT：Vision-RetNet已来！](https://posts.careerengine.us/p/65223a664e89b835103db00a)  
 - [2023-10-07-NeurIPS-2023-|-动态组合模型来应对数据分布的变化](https://posts.careerengine.us/p/6520ece76792a25afb351711)  
-- [2023-09-28-从108篇顶会论文看大语言模型时代的推荐系统](https://posts.careerengine.us/p/6514ff4a4028fc4a8e292336)  
-- [2023-09-28-NeurIPS-2023-|-MSRA、清华、复旦等联合提出AR-Diffusion：基于自回归扩散的文本生成](https://posts.careerengine.us/p/6514ff55c1d7df4ab458e844)  
-- [2023-09-28-上海内推-|-小红书多模态算法组招聘多模态CV/NLP算法实习生](https://posts.careerengine.us/p/6514ff66a1066d4aee648f4d)  
+- [2023-10-07-文末送书-|-经典计算机科学教材！用Python描述数据结构与算法的开山之作](https://posts.careerengine.us/p/6520ecf4b127975b243f069a)  
+- [2023-10-07-微软提出KOSMOS-2.5，能阅读「文本密集图像」的多模态大语言模型](https://posts.careerengine.us/p/6520ecf4b127975b243f0692)  
+- [2023-10-07-博士申请-|-美国西北大学李曼玲老师招收NLP方向全奖博士/博后/硕士/实习生](https://posts.careerengine.us/p/6520ecfd17034c5b3c6c77e7)  
 - [2023-09-28-全新注意力算法PagedAttention：LLM吞吐量提高2-4倍，模型越大效果越好](https://posts.careerengine.us/p/6514ff66a1066d4aee648f45)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2023-10-12-新型威胁：探索-LLM-攻击对网络安全的冲击](https://posts.careerengine.us/p/652718384044b96aeec06e46) ![](/assets/new.png)  
+- [2023-10-12-新型威胁：探索-LLM-攻击对网络安全的冲击](https://posts.careerengine.us/p/652718384044b96aeec06e46)  
 - [2023-10-10-慢的不是-Ruby，而是你的数据库](https://posts.careerengine.us/p/6524e37a8d39f74045d95ced)  
 - [2023-10-10-为工作6小时的名人支付500万美元报酬！Meta-为做AI聊天机器人下“血本”了](https://posts.careerengine.us/p/6524e35ef4c16c401fcee14e)  
 - [2023-10-09-DeepMind-全新-AI-项目曝光：可控制各类机器人，数据集有望开源](https://posts.careerengine.us/p/652391915ec7a56113c16311)  
