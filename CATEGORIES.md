@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-14 23:00:12，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-15 15:00:14，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-10-14-别再「浪费」GPU了，FlashAttention重磅升级，实现长文本推理速度8倍提升](https://posts.careerengine.us/p/652a2bfa4f736d13887f8fd0)  
-- [2023-10-14-全球这十所高校实验室招硕、博、研究助理](https://posts.careerengine.us/p/652a2c2a44a67e1413f8ca39)  
-- [2023-10-14-DeepMind让大模型学会归纳和演绎，GPT-4准确率提升13.7％](https://posts.careerengine.us/p/652a2c2a44a67e1413f8ca41)  
-- [2023-10-14-ICCV-2023-|-实现实时六自由度物体跟踪，深度主动轮廓模型DeepAC来了](https://posts.careerengine.us/p/652a2c2a44a67e1413f8ca31)  
+- [2023-10-15-值得一试的开源模型！开源社区上季度都有哪些靠谱项目？](https://posts.careerengine.us/p/652b6d81290a0a039626e45e) ![](/assets/new.png)  
+- [2023-10-15-字节跳动李航：对语言大模型的若干观察和思考](https://posts.careerengine.us/p/652b6d81290a0a039626e466) ![](/assets/new.png)  
+- [2023-10-15-「Meta版ChatGPT」背后的技术：想让基础LLM更好地处理长上下文，只需持续预训练](https://posts.careerengine.us/p/652b6d8fbf4eff03d93acfda) ![](/assets/new.png)  
+- [2023-10-15-CityDreamer：一键生成无边界的3D城市](https://posts.careerengine.us/p/652b6d97846df4040dc59261) ![](/assets/new.png)  
 - [2023-10-14-​将专家知识与深度学习结合，清华团队开发DeepSEED进行高效启动子设计](https://posts.careerengine.us/p/652a2c45cd0c3914a6f8de16)  
-- [2023-10-13-AI将玩转3A大作，OpenAI将被调查？2023-AI全景报告给出十大预测](https://posts.careerengine.us/p/6528cee8d7e82575fab281a1)  
-- [2023-10-13-AI伦理边界：西工大李学龙团队探索人工智能伦理计算](https://posts.careerengine.us/p/6528ceaecf447574a67de9a9)  
-- [2023-10-13-轻量级持续学习：0.6％额外参数把旧模型重编程到新任务](https://posts.careerengine.us/p/6528ceaecf447574a67de99a)  
-- [2023-10-13-业界领先的这些大模型，都被一家「收编」了](https://posts.careerengine.us/p/6528ceaecf447574a67de9ca)  
+- [2023-10-14-ICCV-2023-|-实现实时六自由度物体跟踪，深度主动轮廓模型DeepAC来了](https://posts.careerengine.us/p/652a2c2a44a67e1413f8ca31)  
+- [2023-10-14-DeepMind让大模型学会归纳和演绎，GPT-4准确率提升13.7％](https://posts.careerengine.us/p/652a2c2a44a67e1413f8ca41)  
+- [2023-10-14-全球这十所高校实验室招硕、博、研究助理](https://posts.careerengine.us/p/652a2c2a44a67e1413f8ca39)  
+- [2023-10-14-别再「浪费」GPU了，FlashAttention重磅升级，实现长文本推理速度8倍提升](https://posts.careerengine.us/p/652a2bfa4f736d13887f8fd0)  
 - [2023-10-13-谷歌2023博士奖学金公布，67位博士生获奖，华人近20位](https://posts.careerengine.us/p/6528ceadcf447574a67de992)  
-- [2023-10-12-离开谷歌后，75岁AI教父Hinton自宣新动向：加入机器人创业公司](https://posts.careerengine.us/p/6527a765d4af6c043b3f0d6a)  
-- [2023-10-12-打工人遇见大模型：外面的世界已经这样办公了吗？](https://posts.careerengine.us/p/6527a765d4af6c043b3f0d72)  
-- [2023-10-12-量子计算经典课：专家团带你读量子计算「圣经」，五小时详解六大核心知识点](https://posts.careerengine.us/p/6527a77102ecca0463f2e3f9)  
-- [2023-10-12-生成模型构建交互式现实世界模拟器，LeCun觉得非常酷](https://posts.careerengine.us/p/6527a77102ecca0463f2e3f1)  
-- [2023-10-12-手把手教你剪「羊驼」，陈丹琦团队提出LLM-Shearing大模型剪枝法](https://posts.careerengine.us/p/6527a77dfc407e04889e9c94)  
+- [2023-10-13-业界领先的这些大模型，都被一家「收编」了](https://posts.careerengine.us/p/6528ceaecf447574a67de9ca)  
+- [2023-10-13-轻量级持续学习：0.6％额外参数把旧模型重编程到新任务](https://posts.careerengine.us/p/6528ceaecf447574a67de99a)  
+- [2023-10-13-AI伦理边界：西工大李学龙团队探索人工智能伦理计算](https://posts.careerengine.us/p/6528ceaecf447574a67de9a9)  
+- [2023-10-13-AI将玩转3A大作，OpenAI将被调查？2023-AI全景报告给出十大预测](https://posts.careerengine.us/p/6528cee8d7e82575fab281a1)  
 - [2023-10-12-引入大语言模型、首个支持国产算力生态，全新开源RL框架RLLTE来了](https://posts.careerengine.us/p/6527a77dfc407e04889e9c9c)  
-- [2023-10-11-MetaMath：新数学推理语言模型，训练大模型的逆向思维](https://posts.careerengine.us/p/652626748f531971ec6ffa2f)  
-- [2023-10-11-在图像、视频生成上，语言模型首次击败扩散模型，tokenizer是关键](https://posts.careerengine.us/p/65262665bff6e071b8ceef4c)  
-- [2023-10-11-清华全球首颗片上学习忆阻器存算一体芯片，成果登上Science](https://posts.careerengine.us/p/65262665bff6e071b8ceef44)  
-- [2023-10-11-超10亿美元，百图生科与赛诺菲达成大型战略合作，生命科学大模型商业化浪潮已来？](https://posts.careerengine.us/p/65262665bff6e071b8ceef5b)  
+- [2023-10-12-手把手教你剪「羊驼」，陈丹琦团队提出LLM-Shearing大模型剪枝法](https://posts.careerengine.us/p/6527a77dfc407e04889e9c94)  
+- [2023-10-12-生成模型构建交互式现实世界模拟器，LeCun觉得非常酷](https://posts.careerengine.us/p/6527a77102ecca0463f2e3f1)  
+- [2023-10-12-量子计算经典课：专家团带你读量子计算「圣经」，五小时详解六大核心知识点](https://posts.careerengine.us/p/6527a77102ecca0463f2e3f9)  
+- [2023-10-12-打工人遇见大模型：外面的世界已经这样办公了吗？](https://posts.careerengine.us/p/6527a765d4af6c043b3f0d72)  
+- [2023-10-12-离开谷歌后，75岁AI教父Hinton自宣新动向：加入机器人创业公司](https://posts.careerengine.us/p/6527a765d4af6c043b3f0d6a)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2023-10-14-Continuous-Batching：解锁LLM潜力！让LLM推断速度飙升23倍，降低延迟！](https://posts.careerengine.us/p/652aa6eb8507f30f44a5a013) ![](/assets/new.png)  
-- [2023-10-14-博士申请-|-英国布里斯托大学沈俊潇老师招收交互式人工智能方向全奖博士生](https://posts.careerengine.us/p/652aa6f5874a6a0f796a8c1b) ![](/assets/new.png)  
-- [2023-10-14-普林斯顿陈丹琦团队：手把手教你给羊驼剪毛，5％成本拿下SOTA](https://posts.careerengine.us/p/652aa6f6874a6a0f796a8c23) ![](/assets/new.png)  
+- [2023-10-14-Continuous-Batching：解锁LLM潜力！让LLM推断速度飙升23倍，降低延迟！](https://posts.careerengine.us/p/652aa6eb8507f30f44a5a013)  
+- [2023-10-14-博士申请-|-英国布里斯托大学沈俊潇老师招收交互式人工智能方向全奖博士生](https://posts.careerengine.us/p/652aa6f5874a6a0f796a8c1b)  
+- [2023-10-14-普林斯顿陈丹琦团队：手把手教你给羊驼剪毛，5％成本拿下SOTA](https://posts.careerengine.us/p/652aa6f6874a6a0f796a8c23)  
 - [2023-10-13-预训练一下，Transformer的长序列成绩还能涨不少！](https://posts.careerengine.us/p/6529471af33dd37df6859f24)  
 - [2023-10-13-NeurIPS-2023-|-全新的自监督视觉预训练代理任务：DropPos](https://posts.careerengine.us/p/6529471af33dd37df6859f2c)  
 - [2023-10-13-博士申请-|-弗吉尼亚理工周大为老师招收机器学习/GNN方向全奖博士/博后](https://posts.careerengine.us/p/6529471af33dd37df6859f4c)  
@@ -131,7 +131,7 @@
 - [2023-10-12-博后招募-|-新加坡国立大学Immersive-Reality-Lab招收VR/AR/LLM方向博士后](https://posts.careerengine.us/p/6527825fdc4cfe645dfe1d59)  
 - [2023-10-12-NeurIPS-2023-|-SlotDiffusion：基于Slot-Attention和扩散模型的全新生成模型](https://posts.careerengine.us/p/6527825fdc4cfe645dfe1d51)  
 - [2023-10-12-​开源模型在竞赛数学MATH上首次突破50％，清华、微软联合推出工具集成推理语言模型](https://posts.careerengine.us/p/6527825fdc4cfe645dfe1d49)  
-- [2023-10-12-北京内推-|-OPPO研究院语音语义研究部招聘NLP大模型研发工程师](https://posts.careerengine.us/p/652aa6f6874a6a0f796a8c2c) ![](/assets/new.png)  
+- [2023-10-12-北京内推-|-OPPO研究院语音语义研究部招聘NLP大模型研发工程师](https://posts.careerengine.us/p/652aa6f6874a6a0f796a8c2c)  
 - [2023-10-11-深圳内推-|-腾讯AI-Lab决策智能中心招聘可信大模型研究员/实习生](https://posts.careerengine.us/p/65294719f33dd37df6859f1c)  
 - [2023-10-10-33篇顶会论文？CV论文投稿到接收，不可不知的关键环节！](https://posts.careerengine.us/p/6524e3348a45123f7bb55f93)  
 - [2023-10-10-直播预告-|-清华大学深研院马仕镕：电商领域指令微调大模型](https://posts.careerengine.us/p/6524e33cca44953f9ab04179)  
@@ -176,14 +176,15 @@
 </summary>
 
 
+- [2023-10-15-美的供应商回应员工自愿放弃公积金；23岁斯坦福博士生修复火狐浏览器22年陈旧bug；高通拟在加州裁逾1200人｜AI一周资讯](https://posts.careerengine.us/p/652b7a657b97064213db8a2e) ![](/assets/new.png)  
 - [2023-10-13-开发成本降至5％！OpenAI计划推出新功能吸引开发者，也稳住用他们模型亏损的“大冤种”客户](https://posts.careerengine.us/p/6528d76adafcc11cec6a2c86)  
-- [2023-10-12-谷歌云为医生推出专用生成式AI工具，临床信息一键搜索](https://posts.careerengine.us/p/652785cedbabcc7395d62946)  
 - [2023-10-12-新型威胁：探索-LLM-攻击对网络安全的冲击](https://posts.careerengine.us/p/652718384044b96aeec06e46)  
-- [2023-10-10-慢的不是-Ruby，而是你的数据库](https://posts.careerengine.us/p/6524e37a8d39f74045d95ced)  
+- [2023-10-12-谷歌云为医生推出专用生成式AI工具，临床信息一键搜索](https://posts.careerengine.us/p/652785cedbabcc7395d62946)  
 - [2023-10-10-为工作6小时的名人支付500万美元报酬！Meta-为做AI聊天机器人下“血本”了](https://posts.careerengine.us/p/6524e35ef4c16c401fcee14e)  
+- [2023-10-10-慢的不是-Ruby，而是你的数据库](https://posts.careerengine.us/p/6524e37a8d39f74045d95ced)  
 - [2023-10-09-DeepMind-全新-AI-项目曝光：可控制各类机器人，数据集有望开源](https://posts.careerengine.us/p/652391915ec7a56113c16311)  
-- [2023-10-08-热了快一年了，让我们来聊聊生成式AI落地吧-|-直播预约](https://posts.careerengine.us/p/65223fc84ee24a40f8cb872d)  
 - [2023-10-08-“小度之父”景鲲离职，CIO李莹接任小度科技CEO；苹果应用商店惊现黄色软件，已回应；微软或于10月13日收购暴雪｜AI一周资讯](https://posts.careerengine.us/p/65223fc74ee24a40f8cb8725)  
+- [2023-10-08-热了快一年了，让我们来聊聊生成式AI落地吧-|-直播预约](https://posts.careerengine.us/p/65223fc84ee24a40f8cb872d)  
 - [2023-10-07-打破英伟达芯片短缺制约，OpenAI决定自研AI芯片：正物色收购目标](https://posts.careerengine.us/p/6520edfadd3dae170b376de1)  
 - [2023-10-05-一小时12元，我在北欧监狱里训练AI](https://posts.careerengine.us/p/651e4b55c217c52fe7d58620)  
 - [2023-10-04-未来的人工智能语言，是-Rust-还是-Mojo-？](https://posts.careerengine.us/p/651cf9a25ac3555a3ecee5d8)  
@@ -191,11 +192,10 @@
 - [2023-10-02-不要沦为大模型应用的“炮灰”](https://posts.careerengine.us/p/651a56a2ec18852db9db7ebc)  
 - [2023-10-01-华为中秋节给员工发Mate60手机；商汤科技回应原知产总监被立案侦查；马斯克平均年终奖33亿元-|-AI一周资讯](https://posts.careerengine.us/p/651904dfc7276545284a78ff)  
 - [2023-09-29-全球十大最有价值AI初创企业公布，这家26岁华裔青年创办的AI独角兽估值仅次于OpenAI](https://posts.careerengine.us/p/651661c72a6f0067b5b64242)  
-- [2023-09-28-首个千亿医药对话大模型来了，要打破医药研发“三十定律”](https://posts.careerengine.us/p/651510f0c31fad3adbfb28da)  
 - [2023-09-28-ChatGPT-终于“联网”了！不再局限于旧数据，新功能即将对所有人开放](https://posts.careerengine.us/p/651510d2ca593c39da384c57)  
+- [2023-09-28-首个千亿医药对话大模型来了，要打破医药研发“三十定律”](https://posts.careerengine.us/p/651510f0c31fad3adbfb28da)  
 - [2023-09-27-千亿也不够花！OpenAI-想让员工出售股票来筹资，而最大投资人微软正在“去GPT“](https://posts.careerengine.us/p/65142d7b5a41cc676fb18216)  
 - [2023-09-26-微软裁员内幕](https://posts.careerengine.us/p/65142db8c2abb16907207ee8)  
-- [2023-09-25-裁错了还是变相降薪？大厂粗暴裁员后又求员工回来，网友：拿什么再爱你？](https://posts.careerengine.us/p/65111bf39d82e6198ffbeeec)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
