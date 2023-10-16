@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-10-16 06:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-16 15:00:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 微软
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-10-16-狂揽10k-star，微软AutoGen框架太火了，智能体聊聊天就把问题解决了](https://posts.careerengine.us/p/652cc1dd03569d5751c2319e) 
 - [2023-09-19-超38TB私人文件泄露，微软员工的聊天记录都被看到了](https://posts.careerengine.us/p/650986594ea7917fff4cabbc) 
 - [2023-09-01-微软亚研提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f184c033169b76fba378eb) 
 - [2023-08-21-拖拽下图像就能生成视频，中科大、微软等DragNUWA属实惊艳](https://posts.careerengine.us/p/64e2eaab625f4e3d09aa9bcf) 
