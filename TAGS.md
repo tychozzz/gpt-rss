@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-10-17 15:00:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-10-17 21:00:11。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -170,6 +170,7 @@
 
 
 - [【机器之心】上万张照片怎么找？百度网盘：你只管说，我们帮你找](https://posts.careerengine.us/p/64b4d23d444d8c144cfe2963)
+- [【量子位】百度开大会，王小川伺机宣布新融资](https://posts.careerengine.us/p/652e6697c102505aa26cc485)
 - [【PaperWeekly】深圳内推-|-百度文心ERNIE团队招聘NLP数据科学算法实习生](https://posts.careerengine.us/p/64faa0106ebf823fe3343af1)
 - [【PaperWeekly】北京/上海/深圳内推-|-百度视觉技术部招聘内容理解/3D视觉等方向算法实习生](https://posts.careerengine.us/p/64e58af081107341ef9c560a)
 - [......【查看更多】......](/details/tags/wenxin.md)
