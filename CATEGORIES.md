@@ -1,17 +1,17 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-18 12:00:12，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-18 15:00:19，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
-- [ChatGPT](#chatgpt)![](/assets/dot.png)   
+- [AI前线](#ai前线)![](/assets/dot.png)   
+- [ChatGPT](#chatgpt)  
 
 ## 文章链接
 
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-10-17-全面超越AutoGPT，面壁智能联合清华NLP实验室开源大模型「超级英雄」XAgent](https://posts.careerengine.us/p/652e0e9474d5191bf701de6d)  
-- [2023-10-17-清华团队攻破GPT-4V、谷歌Bard等模型，商用多模态大模型也脆弱？](https://posts.careerengine.us/p/652e0e9d09423d1c28c188cc)  
-- [2023-10-17-谷歌视觉语言模型PaLI-3问世，参数仅5B，更小、更快、更强](https://posts.careerengine.us/p/652e0e9d09423d1c28c188c4)  
-- [2023-10-17-ChatGPT重压下，Stack-Overflow裁员28％，为自家生成式AI工具开源节流](https://posts.careerengine.us/p/652e0ea4a54b491c5967c22f)  
+- [2023-10-18-站上大模型制高点：我们给不输GPT-4的文心大模型4.0，来了一场技术揭秘](https://posts.careerengine.us/p/652f6414ce2972633f80c667) ![](/assets/new.png)  
+- [2023-10-18-未来大模型顶会？陈丹琦等人组织首届COLM，为语言建模研究提供新平台](https://posts.careerengine.us/p/652f641cf2e52c636fe57741) ![](/assets/new.png)  
+- [2023-10-18-把LLM视作操作系统，它就拥有了无限「虚拟」上下文，伯克利新作已揽1.7k-star](https://posts.careerengine.us/p/652f641cf2e52c636fe57749) ![](/assets/new.png)  
+- [2023-10-18-端侧AI推理，高效部署PyTorch模型：官方新工具开源，Meta已经用上了](https://posts.careerengine.us/p/652f64247e8531639339fe64) ![](/assets/new.png)  
+- [2023-10-18-超低训练成本文生图模型PixArt来了，效果媲美MJ，只需SD-10％训练时间](https://posts.careerengine.us/p/652f643152a31563d72fcc63) ![](/assets/new.png)  
 - [2023-10-17-MiniGPT-4升级到MiniGPT-v2了，不用GPT-4照样完成多模态任务](https://posts.careerengine.us/p/652e0eb39dddf41c9b81d1a2)  
-- [2023-10-16-狂揽10k-star，微软AutoGen框架太火了，智能体聊聊天就把问题解决了](https://posts.careerengine.us/p/652cc1dd03569d5751c2319e)  
-- [2023-10-16-ReCon框架帮助AI大模型识破谎言，来看智能体如何在阿瓦隆游戏中应对欺骗](https://posts.careerengine.us/p/652cc1dd03569d5751c23196)  
-- [2023-10-16-选择GPT-3.5、还是微调Llama-2等开源模型？综合比较后答案有了](https://posts.careerengine.us/p/652cc1dd03569d5751c231a8)  
-- [2023-10-16-语言、机器人破壁，MIT等用GPT-4自动生成模拟任务，并迁移到真实世界](https://posts.careerengine.us/p/652cc1dc03569d5751c2318e)  
+- [2023-10-17-ChatGPT重压下，Stack-Overflow裁员28％，为自家生成式AI工具开源节流](https://posts.careerengine.us/p/652e0ea4a54b491c5967c22f)  
+- [2023-10-17-谷歌视觉语言模型PaLI-3问世，参数仅5B，更小、更快、更强](https://posts.careerengine.us/p/652e0e9d09423d1c28c188c4)  
+- [2023-10-17-清华团队攻破GPT-4V、谷歌Bard等模型，商用多模态大模型也脆弱？](https://posts.careerengine.us/p/652e0e9d09423d1c28c188cc)  
+- [2023-10-17-全面超越AutoGPT，面壁智能联合清华NLP实验室开源大模型「超级英雄」XAgent](https://posts.careerengine.us/p/652e0e9474d5191bf701de6d)  
 - [2023-10-16-OpenAI科学家最新大语言模型演讲火了，洞见LLM成功的关键](https://posts.careerengine.us/p/652cc1b573143c56c19413d7)  
-- [2023-10-15-值得一试的开源模型！开源社区上季度都有哪些靠谱项目？](https://posts.careerengine.us/p/652b6d81290a0a039626e45e)  
-- [2023-10-15-字节跳动李航：对语言大模型的若干观察和思考](https://posts.careerengine.us/p/652b6d81290a0a039626e466)  
-- [2023-10-15-「Meta版ChatGPT」背后的技术：想让基础LLM更好地处理长上下文，只需持续预训练](https://posts.careerengine.us/p/652b6d8fbf4eff03d93acfda)  
+- [2023-10-16-语言、机器人破壁，MIT等用GPT-4自动生成模拟任务，并迁移到真实世界](https://posts.careerengine.us/p/652cc1dc03569d5751c2318e)  
+- [2023-10-16-选择GPT-3.5、还是微调Llama-2等开源模型？综合比较后答案有了](https://posts.careerengine.us/p/652cc1dd03569d5751c231a8)  
+- [2023-10-16-ReCon框架帮助AI大模型识破谎言，来看智能体如何在阿瓦隆游戏中应对欺骗](https://posts.careerengine.us/p/652cc1dd03569d5751c23196)  
+- [2023-10-16-狂揽10k-star，微软AutoGen框架太火了，智能体聊聊天就把问题解决了](https://posts.careerengine.us/p/652cc1dd03569d5751c2319e)  
 - [2023-10-15-CityDreamer：一键生成无边界的3D城市](https://posts.careerengine.us/p/652b6d97846df4040dc59261)  
-- [2023-10-14-​将专家知识与深度学习结合，清华团队开发DeepSEED进行高效启动子设计](https://posts.careerengine.us/p/652a2c45cd0c3914a6f8de16)  
-- [2023-10-14-ICCV-2023-|-实现实时六自由度物体跟踪，深度主动轮廓模型DeepAC来了](https://posts.careerengine.us/p/652a2c2a44a67e1413f8ca31)  
-- [2023-10-14-DeepMind让大模型学会归纳和演绎，GPT-4准确率提升13.7％](https://posts.careerengine.us/p/652a2c2a44a67e1413f8ca41)  
-- [2023-10-14-全球这十所高校实验室招硕、博、研究助理](https://posts.careerengine.us/p/652a2c2a44a67e1413f8ca39)  
+- [2023-10-15-「Meta版ChatGPT」背后的技术：想让基础LLM更好地处理长上下文，只需持续预训练](https://posts.careerengine.us/p/652b6d8fbf4eff03d93acfda)  
+- [2023-10-15-字节跳动李航：对语言大模型的若干观察和思考](https://posts.careerengine.us/p/652b6d81290a0a039626e466)  
+- [2023-10-15-值得一试的开源模型！开源社区上季度都有哪些靠谱项目？](https://posts.careerengine.us/p/652b6d81290a0a039626e45e)  
 - [2023-10-14-别再「浪费」GPU了，FlashAttention重磅升级，实现长文本推理速度8倍提升](https://posts.careerengine.us/p/652a2bfa4f736d13887f8fd0)  
-- [2023-10-13-谷歌2023博士奖学金公布，67位博士生获奖，华人近20位](https://posts.careerengine.us/p/6528ceadcf447574a67de992)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,18 +176,19 @@
 </summary>
 
 
+- [2023-10-18-突发！美国限制向中国出口Nvidia-H800等先进AI芯片，壁仞科技、摩尔线程等中国GPU芯片企业被列入实体名单](https://posts.careerengine.us/p/652f5bf4046f3b436f5b5b02) ![](/assets/new.png)  
 - [2023-10-17-重点裁技术和管理！领英重创核心工程团队，技术管理占据20％](https://posts.careerengine.us/p/652e1f9a6d170c55f56bc946)  
-- [2023-10-16-创新风潮迭起，2023-深圳国际金融科技大赛——西丽湖金融科技大学生挑战赛正式启动](https://posts.careerengine.us/p/652ccc4f7f4f5e0cfbca1b53)  
 - [2023-10-16-OpenAI悄悄改变核心价值观惹争议：埋头搞AGI，其他的都是浮云！](https://posts.careerengine.us/p/652ccc47f15bdb0cd3ce860d)  
+- [2023-10-16-创新风潮迭起，2023-深圳国际金融科技大赛——西丽湖金融科技大学生挑战赛正式启动](https://posts.careerengine.us/p/652ccc4f7f4f5e0cfbca1b53)  
 - [2023-10-15-美的供应商回应员工自愿放弃公积金；23岁斯坦福博士生修复火狐浏览器22年陈旧bug；高通拟在加州裁逾1200人｜AI一周资讯](https://posts.careerengine.us/p/652b7a657b97064213db8a2e)  
 - [2023-10-13-开发成本降至5％！OpenAI计划推出新功能吸引开发者，也稳住用他们模型亏损的“大冤种”客户](https://posts.careerengine.us/p/6528d76adafcc11cec6a2c86)  
-- [2023-10-12-新型威胁：探索-LLM-攻击对网络安全的冲击](https://posts.careerengine.us/p/652718384044b96aeec06e46)  
 - [2023-10-12-谷歌云为医生推出专用生成式AI工具，临床信息一键搜索](https://posts.careerengine.us/p/652785cedbabcc7395d62946)  
-- [2023-10-10-为工作6小时的名人支付500万美元报酬！Meta-为做AI聊天机器人下“血本”了](https://posts.careerengine.us/p/6524e35ef4c16c401fcee14e)  
+- [2023-10-12-新型威胁：探索-LLM-攻击对网络安全的冲击](https://posts.careerengine.us/p/652718384044b96aeec06e46)  
 - [2023-10-10-慢的不是-Ruby，而是你的数据库](https://posts.careerengine.us/p/6524e37a8d39f74045d95ced)  
+- [2023-10-10-为工作6小时的名人支付500万美元报酬！Meta-为做AI聊天机器人下“血本”了](https://posts.careerengine.us/p/6524e35ef4c16c401fcee14e)  
 - [2023-10-09-DeepMind-全新-AI-项目曝光：可控制各类机器人，数据集有望开源](https://posts.careerengine.us/p/652391915ec7a56113c16311)  
-- [2023-10-08-“小度之父”景鲲离职，CIO李莹接任小度科技CEO；苹果应用商店惊现黄色软件，已回应；微软或于10月13日收购暴雪｜AI一周资讯](https://posts.careerengine.us/p/65223fc74ee24a40f8cb8725)  
 - [2023-10-08-热了快一年了，让我们来聊聊生成式AI落地吧-|-直播预约](https://posts.careerengine.us/p/65223fc84ee24a40f8cb872d)  
+- [2023-10-08-“小度之父”景鲲离职，CIO李莹接任小度科技CEO；苹果应用商店惊现黄色软件，已回应；微软或于10月13日收购暴雪｜AI一周资讯](https://posts.careerengine.us/p/65223fc74ee24a40f8cb8725)  
 - [2023-10-07-打破英伟达芯片短缺制约，OpenAI决定自研AI芯片：正物色收购目标](https://posts.careerengine.us/p/6520edfadd3dae170b376de1)  
 - [2023-10-05-一小时12元，我在北欧监狱里训练AI](https://posts.careerengine.us/p/651e4b55c217c52fe7d58620)  
 - [2023-10-04-未来的人工智能语言，是-Rust-还是-Mojo-？](https://posts.careerengine.us/p/651cf9a25ac3555a3ecee5d8)  
@@ -195,7 +196,6 @@
 - [2023-10-02-不要沦为大模型应用的“炮灰”](https://posts.careerengine.us/p/651a56a2ec18852db9db7ebc)  
 - [2023-10-01-华为中秋节给员工发Mate60手机；商汤科技回应原知产总监被立案侦查；马斯克平均年终奖33亿元-|-AI一周资讯](https://posts.careerengine.us/p/651904dfc7276545284a78ff)  
 - [2023-09-29-全球十大最有价值AI初创企业公布，这家26岁华裔青年创办的AI独角兽估值仅次于OpenAI](https://posts.careerengine.us/p/651661c72a6f0067b5b64242)  
-- [2023-09-28-ChatGPT-终于“联网”了！不再局限于旧数据，新功能即将对所有人开放](https://posts.careerengine.us/p/651510d2ca593c39da384c57)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -207,8 +207,8 @@
 </summary>
 
 
-- [2023-10-18-<b>DALL·E-3-is-now-rolling-out-in-beta-October-16,-2023-</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_d94d1efdaf) ![](/assets/new.png)  
-- [2023-10-18-<b>Browsing-is-now-out-of-beta-October-17,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_6401b89b6b) ![](/assets/new.png)  
+- [2023-10-18-<b>DALL·E-3-is-now-rolling-out-in-beta-October-16,-2023-</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_d94d1efdaf)  
+- [2023-10-18-<b>Browsing-is-now-out-of-beta-October-17,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_6401b89b6b)  
 - [2023-09-28-<b>Browse-is-rolling-back-out-to-Plus-users-September-27,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4799933861)  
 - [2023-09-26-<b>ChatGPT-language-support---Alpha-on-web-September-11,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_2235297035)  
 - [2023-09-26-<b>New-voice-and-image-capabilities-in-ChatGPT-September-25,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e3a2ee7903)  
