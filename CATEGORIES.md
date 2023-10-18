@@ -1,17 +1,17 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-17 21:00:11，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-18 12:00:12，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
-- [ChatGPT](#chatgpt)  
+- [ChatGPT](#chatgpt)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -52,12 +52,12 @@
 </summary>
 
 
-- [2023-10-17-“不逊色GPT-4”！百度最强大模型发布，我们第一时间实测了一波](https://posts.careerengine.us/p/652e6678d1bc7b5a07aa3e40) ![](/assets/new.png)  
-- [2023-10-17-2023年度十大前沿科技报告案例征集启动｜量子位智库](https://posts.careerengine.us/p/652e667f0171f45a3f48ed3f) ![](/assets/new.png)  
-- [2023-10-17-PyTorch官方认可！斯坦福博士新作：长上下文LLM推理速度提8倍](https://posts.careerengine.us/p/652e667f0171f45a3f48ed37) ![](/assets/new.png)  
-- [2023-10-17-7B羊驼战胜540B“谷歌版GPT”，MIT用博弈论调教大模型，无需训练就能完成](https://posts.careerengine.us/p/652e66870f7fb95a59637d51) ![](/assets/new.png)  
-- [2023-10-17-百度开大会，王小川伺机宣布新融资](https://posts.careerengine.us/p/652e6697c102505aa26cc485) ![](/assets/new.png)  
-- [2023-10-17-市经济和信息化局印发《人工智能算力券实施方案（2023—2025年）》](https://posts.careerengine.us/p/652e669f27a5bc5acdc4c223) ![](/assets/new.png)  
+- [2023-10-17-“不逊色GPT-4”！百度最强大模型发布，我们第一时间实测了一波](https://posts.careerengine.us/p/652e6678d1bc7b5a07aa3e40)  
+- [2023-10-17-2023年度十大前沿科技报告案例征集启动｜量子位智库](https://posts.careerengine.us/p/652e667f0171f45a3f48ed3f)  
+- [2023-10-17-PyTorch官方认可！斯坦福博士新作：长上下文LLM推理速度提8倍](https://posts.careerengine.us/p/652e667f0171f45a3f48ed37)  
+- [2023-10-17-7B羊驼战胜540B“谷歌版GPT”，MIT用博弈论调教大模型，无需训练就能完成](https://posts.careerengine.us/p/652e66870f7fb95a59637d51)  
+- [2023-10-17-百度开大会，王小川伺机宣布新融资](https://posts.careerengine.us/p/652e6697c102505aa26cc485)  
+- [2023-10-17-市经济和信息化局印发《人工智能算力券实施方案（2023—2025年）》](https://posts.careerengine.us/p/652e669f27a5bc5acdc4c223)  
 - [2023-10-16-AirPods可以“读脑”了？还是能同时监测汗液乳酸浓度的那种｜Nature](https://posts.careerengine.us/p/652cbc7cca8be13aa4e185dd)  
 - [2023-10-16-OpenAI悄悄更改“价值观”：不All-in-AGI的别来沾边](https://posts.careerengine.us/p/652cbc750839c13a7da83ea2)  
 - [2023-10-16-大语言模型击败扩散模型！视频图像生成双SOTA，谷歌CMU最新研究，一作北大校友](https://posts.careerengine.us/p/652cbc750839c13a7da83e9a)  
@@ -207,9 +207,11 @@
 </summary>
 
 
+- [2023-10-18-<b>DALL·E-3-is-now-rolling-out-in-beta-October-16,-2023-</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_d94d1efdaf) ![](/assets/new.png)  
+- [2023-10-18-<b>Browsing-is-now-out-of-beta-October-17,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_6401b89b6b) ![](/assets/new.png)  
 - [2023-09-28-<b>Browse-is-rolling-back-out-to-Plus-users-September-27,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4799933861)  
-- [2023-09-26-<b>New-voice-and-image-capabilities-in-ChatGPT-September-25,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e3a2ee7903)  
 - [2023-09-26-<b>ChatGPT-language-support---Alpha-on-web-September-11,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_2235297035)  
+- [2023-09-26-<b>New-voice-and-image-capabilities-in-ChatGPT-September-25,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e3a2ee7903)  
 - [2023-08-30-Introducing-ChatGPT-Enterprise-August-28,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9c2276ca4e)  
 - [2023-08-22-Custom-instructions-are-now-available-to-users-in-the-EU-&-UK-August-21,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e5d13591f0)  
 - [2023-08-10-Custom-instructions-are-now-available-to-free-users-August-9,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_88eefa0552)  
@@ -225,8 +227,6 @@
 - [2023-05-03-Release-notes-May-3](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_2818247821)  
 - [2023-03-23-Release-notes-March-23](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_98b0bcf5a4)  
 - [2023-03-14-Release-Notes-March-14](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_0eb2784e11)  
-- [2023-02-13-Release-Notes-Feb-13](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_71fed9b7cb)  
-- [2023-02-09-Release-Notes-Feb-9](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_0be048126c)  
 - [......【查看更多】......](/details/ChatGPT.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

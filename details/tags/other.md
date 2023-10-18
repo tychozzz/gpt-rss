@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-10-17 21:00:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-18 12:00:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -521,6 +521,7 @@
 - [2023-06-28-北工大校友Cheng-Zhang获SIGGRAPH最佳博士论文奖](https://posts.careerengine.us/p/649bc064bd616e52c0011c7f) 
 - [2023-06-27-四插槽庞大体积、功耗最高600W，英伟达RTX-4090-Ti谍照再现身](https://posts.careerengine.us/p/649a6969a3870a445ba69ee8) 
 - [2023-06-27-当医学插上人工智能的翅膀](https://posts.careerengine.us/p/649a697dfba2fd44a9747427) 
+- [2023-10-18-<b>Browsing-is-now-out-of-beta-October-17,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_6401b89b6b) 
 - [2023-09-28-<b>Browse-is-rolling-back-out-to-Plus-users-September-27,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4799933861) 
 - [2023-07-20-Custom-instructions-is-rolling-out-in-beta-July-20](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_647a58ba8a) 
 - [2023-07-06-Code-interpreter-is-now-rolling-out-in-beta-on-web-July-6](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_398fb5df55) 
