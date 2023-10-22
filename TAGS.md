@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-10-22 15:00:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-10-23 06:00:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -150,6 +150,7 @@
 - [【量子位】北大团队用Diffusion升级DragGAN，泛化更强生成质量更高，点一点「大山拔地而起」](https://posts.careerengine.us/p/64c9d2be26bca5709d3539b6)
 - [【量子位】Midjourney最新「平移扩图」玩法，自定义无限延展，轻松创造超长画卷](https://posts.careerengine.us/p/64b4aab3074f163d50ae9a75)
 - [【量子位】文心一言APP国区可下载！免费体验120+玩法，PPT大纲Excel公式一键生成](https://posts.careerengine.us/p/64a3aad81cf43a681c3f51f3)
+- [【PaperWeekly】简单有效！Direct-Inversion：三行代码提升基于Diffusion的图像编辑效果](https://posts.careerengine.us/p/653540d3b40b6c39bb494403)
 - [【PaperWeekly】NeurIPS-2023-|-MSRA、清华、复旦等联合提出AR-Diffusion：基于自回归扩散的文本生成](https://posts.careerengine.us/p/6514ff55c1d7df4ab458e844)
 - [【AI前线】手机也能用文心一言了！百度文心一言-App-正式上架-iOS-平台](https://posts.careerengine.us/p/64a7a4792869b618fe665e61)
 - [【AI前线】DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89)

@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-22 15:00:13，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-23 06:00:20，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-10-22-ChatGPT与DALL·E-3之间的行业「黑话」被人发现了](https://posts.careerengine.us/p/6534aa8bbb10c9647702fd92) ![](/assets/new.png)  
-- [2023-10-22-清华朱文武团队：开源世界首个轻量图自动机器学习库AutoGL-light](https://posts.careerengine.us/p/6534aa9507f19e64be3eddea) ![](/assets/new.png)  
-- [2023-10-22-220亿晶体管，IBM机器学习专用处理器NorthPole，能效25倍提升](https://posts.careerengine.us/p/6534aa9607f19e64be3eddf2) ![](/assets/new.png)  
-- [2023-10-22-UC伯克利团队开源MemGPT大模型上下文内存管理方案；AgentLM、多模态Fuyu-8B、数学LLEMMA等专用大模型开源](https://posts.careerengine.us/p/6534aa9607f19e64be3ede02) ![](/assets/new.png)  
-- [2023-10-22-解决大模型复现难、协作难，-这支95后学生团队打造了一个国产AI开源社区](https://posts.careerengine.us/p/6534aa9607f19e64be3eddfa) ![](/assets/new.png)  
+- [2023-10-22-ChatGPT与DALL·E-3之间的行业「黑话」被人发现了](https://posts.careerengine.us/p/6534aa8bbb10c9647702fd92)  
+- [2023-10-22-清华朱文武团队：开源世界首个轻量图自动机器学习库AutoGL-light](https://posts.careerengine.us/p/6534aa9507f19e64be3eddea)  
+- [2023-10-22-220亿晶体管，IBM机器学习专用处理器NorthPole，能效25倍提升](https://posts.careerengine.us/p/6534aa9607f19e64be3eddf2)  
+- [2023-10-22-UC伯克利团队开源MemGPT大模型上下文内存管理方案；AgentLM、多模态Fuyu-8B、数学LLEMMA等专用大模型开源](https://posts.careerengine.us/p/6534aa9607f19e64be3ede02)  
+- [2023-10-22-解决大模型复现难、协作难，-这支95后学生团队打造了一个国产AI开源社区](https://posts.careerengine.us/p/6534aa9607f19e64be3eddfa)  
 - [2023-10-21-数学逻辑和计算机程序代码之间的深层联系：互为镜像](https://posts.careerengine.us/p/65335250014744200cf6460a)  
 - [2023-10-21-​参数少近一半，性能逼近谷歌Minerva，又一个数学大模型开源了](https://posts.careerengine.us/p/65335250014744200cf64602)  
 - [2023-10-21-聚焦计算赋能创新，第三届智能计算创新论坛成功举行](https://posts.careerengine.us/p/65335247131bf81fe0d8ae65)  
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2023-10-22-百岁数学巨匠陨落！丘成桐视他为师，90岁依旧研究数学](https://posts.careerengine.us/p/6534a06c905ea738e476c27b) ![](/assets/new.png)  
-- [2023-10-22-陶哲轩疯狂安利Copilot：它帮我完成了一页纸证明，甚至能猜出我后面的过程](https://posts.careerengine.us/p/6534a06c905ea738e476c273) ![](/assets/new.png)  
-- [2023-10-22-让大模型看图比打字管用！NeurIPS-2023新研究提出多模态查询方法，准确率提升7.8％](https://posts.careerengine.us/p/6534a07903c84e392d418212) ![](/assets/new.png)  
-- [2023-10-22-一行代码提高大模型10％性能，开发者：免费午餐](https://posts.careerengine.us/p/6534a081f077df3957c3071d) ![](/assets/new.png)  
+- [2023-10-22-百岁数学巨匠陨落！丘成桐视他为师，90岁依旧研究数学](https://posts.careerengine.us/p/6534a06c905ea738e476c27b)  
+- [2023-10-22-陶哲轩疯狂安利Copilot：它帮我完成了一页纸证明，甚至能猜出我后面的过程](https://posts.careerengine.us/p/6534a06c905ea738e476c273)  
+- [2023-10-22-让大模型看图比打字管用！NeurIPS-2023新研究提出多模态查询方法，准确率提升7.8％](https://posts.careerengine.us/p/6534a07903c84e392d418212)  
+- [2023-10-22-一行代码提高大模型10％性能，开发者：免费午餐](https://posts.careerengine.us/p/6534a081f077df3957c3071d)  
 - [2023-10-21-一段话让模型自曝「系统提示词」！ChatGPT、Bing无一幸免](https://posts.careerengine.us/p/653374721f4c1d10fda42bbc)  
 - [2023-10-21-LLaMA2上下文长度暴涨至100万tokens，只需调整1个超参数｜复旦邱锡鹏团队出品](https://posts.careerengine.us/p/6533746be1ddb910bfa97af1)  
 - [2023-10-21-用GPT-4训练机器人，英伟达最新Agent开源：任务越复杂越拿手](https://posts.careerengine.us/p/6533746be1ddb910bfa97af9)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-10-21-大模型的门槛，又被打下来了！](https://posts.careerengine.us/p/653374b95131291282f0c924)  
-- [2023-10-21-NeurIPS-2023-|-跨模态提示：微调大型预训练模型适应音视频下游任务](https://posts.careerengine.us/p/653374c1a128c212b512fd11)  
+- [2023-10-22-复旦大学自然语言处理实验室：如何构建和训练ChatGPT](https://posts.careerengine.us/p/653540c6ad2483398a728dec) ![](/assets/new.png)  
+- [2023-10-22-简单有效！Direct-Inversion：三行代码提升基于Diffusion的图像编辑效果](https://posts.careerengine.us/p/653540d3b40b6c39bb494403) ![](/assets/new.png)  
 - [2023-10-21-北京内推-|-百度文心（ERNIE）团队招聘大模型预训练方向实习生](https://posts.careerengine.us/p/653374c9e8836012d363c9c6)  
-- [2023-10-20-博士申请-|-弗吉尼亚大学孟瑜老师招收NLP/机器学习全奖博士/硕士/实习生](https://posts.careerengine.us/p/65321172de533c6cba952818)  
-- [2023-10-20-ICCV-2023-|-面向视觉——语言导航的实体——标志物对齐自适应预训练方法](https://posts.careerengine.us/p/65321172de533c6cba952820)  
-- [2023-10-20-性能强劲又通用！Meta-CoT：混合问题场景下的自适应思维链推理](https://posts.careerengine.us/p/6532115e8491ae6c6231d673)  
+- [2023-10-21-NeurIPS-2023-|-跨模态提示：微调大型预训练模型适应音视频下游任务](https://posts.careerengine.us/p/653374c1a128c212b512fd11)  
+- [2023-10-21-大模型的门槛，又被打下来了！](https://posts.careerengine.us/p/653374b95131291282f0c924)  
 - [2023-10-20-更大更强！有请智源-Uni3D-视觉大模型，从「最强2D」升维「最强3D」](https://posts.careerengine.us/p/653211568355b06c45591e19)  
-- [2023-10-19-适合PyTorch小白的中文教程：涵盖数理编程基础，从入门到实战！](https://posts.careerengine.us/p/6530c0021926c949693c4490)  
-- [2023-10-19-ICLR-2023-|-神经规范场：渲染引导空间规范变换](https://posts.careerengine.us/p/6530c01ba6454b499b3e767b)  
+- [2023-10-20-性能强劲又通用！Meta-CoT：混合问题场景下的自适应思维链推理](https://posts.careerengine.us/p/6532115e8491ae6c6231d673)  
+- [2023-10-20-ICCV-2023-|-面向视觉——语言导航的实体——标志物对齐自适应预训练方法](https://posts.careerengine.us/p/65321172de533c6cba952820)  
+- [2023-10-20-博士申请-|-弗吉尼亚大学孟瑜老师招收NLP/机器学习全奖博士/硕士/实习生](https://posts.careerengine.us/p/65321172de533c6cba952818)  
 - [2023-10-19-NUS、NTU团队发布医疗大模型综述，全面介绍大模型在医疗领域的最新研究进展](https://posts.careerengine.us/p/6530c01ba6454b499b3e7684)  
-- [2023-10-18-博士申请-|-北卡罗莱纳州立大学刘孝睿老师招收机器学习方向全奖博士生](https://posts.careerengine.us/p/652fcd974793e74f4a5df749)  
-- [2023-10-18-ICCV-2023-|-向量也疯狂，卷起2023年的巴黎时尚风暴！](https://posts.careerengine.us/p/652fcd964793e74f4a5df73a)  
+- [2023-10-19-ICLR-2023-|-神经规范场：渲染引导空间规范变换](https://posts.careerengine.us/p/6530c01ba6454b499b3e767b)  
+- [2023-10-19-适合PyTorch小白的中文教程：涵盖数理编程基础，从入门到实战！](https://posts.careerengine.us/p/6530c0021926c949693c4490)  
 - [2023-10-18-麻瓜数学：数据增强提高大模型数学推理能力，但泛化能力待提升](https://posts.careerengine.us/p/652fcd83bb05524ef741fc3e)  
-- [2023-10-17-NeurIPS-2023-Spotlight-|-面向通用决策场景的MCTS基准框架：LightZero](https://posts.careerengine.us/p/652e0d8b5677211682dc7d10)  
-- [2023-10-17-文末送书-|-深度生成模型：详解AIGC模型的技术基石，稳步迈进通用人工智能](https://posts.careerengine.us/p/652e0d936167ed169b4cde56)  
+- [2023-10-18-ICCV-2023-|-向量也疯狂，卷起2023年的巴黎时尚风暴！](https://posts.careerengine.us/p/652fcd964793e74f4a5df73a)  
+- [2023-10-18-博士申请-|-北卡罗莱纳州立大学刘孝睿老师招收机器学习方向全奖博士生](https://posts.careerengine.us/p/652fcd974793e74f4a5df749)  
 - [2023-10-17-今晚直播-|-StructGPT：面向结构化数据的大模型推理框架](https://posts.careerengine.us/p/652e0da3d421da17275f66da)  
-- [2023-10-16-YOLO再升级！华为诺亚提出Gold-YOLO，聚集——分发机制打造新SOTA](https://posts.careerengine.us/p/652cc657b644716e2b6c135a)  
+- [2023-10-17-文末送书-|-深度生成模型：详解AIGC模型的技术基石，稳步迈进通用人工智能](https://posts.careerengine.us/p/652e0d936167ed169b4cde56)  
+- [2023-10-17-NeurIPS-2023-Spotlight-|-面向通用决策场景的MCTS基准框架：LightZero](https://posts.careerengine.us/p/652e0d8b5677211682dc7d10)  
 - [2023-10-16-靠发AIGC论文拿了100万年薪！不是靠努力和勤奋，而是….](https://posts.careerengine.us/p/652cc64c8033026e01dd02ca)  
-- [2023-10-15-打造个人专属形象！工业级人物写真生成工具FaceChain开源](https://posts.careerengine.us/p/652be6c4cabbfe691aab6470)  
-- [2023-10-15-博士申请-|-香港科技大学郭毅可院士团队招收生成式AI方向博士/博后/RA](https://posts.careerengine.us/p/652be6d04f827b6988076fa5)  
+- [2023-10-16-YOLO再升级！华为诺亚提出Gold-YOLO，聚集——分发机制打造新SOTA](https://posts.careerengine.us/p/652cc657b644716e2b6c135a)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2023-10-22-传AMD上海将无差别裁员，可能赔偿N+7；微软新员工最高工资约265万；马斯克拟向X平台发帖新用户收费-|-AI一周资讯](https://posts.careerengine.us/p/6534b54e762b67092e7d1211) ![](/assets/new.png)  
+- [2023-10-22-传AMD上海将无差别裁员，可能赔偿N+7；微软新员工最高工资约265万；马斯克拟向X平台发帖新用户收费-|-AI一周资讯](https://posts.careerengine.us/p/6534b54e762b67092e7d1211)  
 - [2023-10-20-是时候彻底放弃“高分低能”的Leetcode了：AI时代的面试需要大变革！](https://posts.careerengine.us/p/653215e0e5d77106cbbb3926)  
 - [2023-10-19-Gartner预测2026年超过80％的企业将使用生成式AI](https://posts.careerengine.us/p/6530c03148a75a4a21d40f99)  
 - [2023-10-19-一夜之间，有价无货！英伟达消费级-RTX-4090显卡遭全面下架，最高售价接近4万](https://posts.careerengine.us/p/6530c03f36a7a34a7f1e65cf)  
