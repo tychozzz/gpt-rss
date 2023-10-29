@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-10-29 15:00:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-10-29 23:00:15。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -220,6 +220,7 @@
 - [【机器之心】多模态搜索算法如何让视频搜索更精准？腾讯独家揭秘，超详细](https://posts.careerengine.us/p/653c8e743a1d083af0034d14)
 - [【机器之心】多模态版Llama2上线，Meta发布AnyMAL](https://posts.careerengine.us/p/6517a4b73fec074ce07ab395)
 - [【机器之心】基于信息论的校准技术，CML让多模态机器学习更可靠](https://posts.careerengine.us/p/649a697cfba2fd44a974741f)
+- [【PaperWeekly】NeurIPS-2023-|-连接多模态对比表征：无需配对数据的高效对比表征学习方法](https://posts.careerengine.us/p/653e5b3e28e53a3f2e6b1227)
 - [【PaperWeekly】TKDE-2023-|-超越共现！大连理工提出全新多模态会话推荐系统](https://posts.careerengine.us/p/6524e33cca44953f9ab04171)
 - [【PaperWeekly】上海内推-|-小红书多模态算法组招聘多模态CV/NLP算法实习生](https://posts.careerengine.us/p/6514ff66a1066d4aee648f4d)
 - [【PaperWeekly】科研实习-|-北京大学卢宗青老师课题组和智源研究院招收多模态方向科研实习生](https://posts.careerengine.us/p/64f6b8f4926d133929e07dbb)
