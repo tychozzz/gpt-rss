@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-29 23:00:15，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-30 06:00:16，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-10-28-国内唯一全面对标OpenAI的创业公司，大模型已经出到第三代](https://posts.careerengine.us/p/653c8e6c98f6f03accc74253)  
-- [2023-10-28-谷歌20亿美元砸向Anthropic：大模型军备竞赛升级](https://posts.careerengine.us/p/653c8e743a1d083af0034d0c)  
-- [2023-10-28-多模态搜索算法如何让视频搜索更精准？腾讯独家揭秘，超详细](https://posts.careerengine.us/p/653c8e743a1d083af0034d14)  
-- [2023-10-28-小模型如何比肩大模型，北理工发布明德大模型MindLLM，小模型潜力巨大](https://posts.careerengine.us/p/653c8e80c279063b3719e3d8)  
+- [2023-10-29-元乘象Chatimg3.0来了，赶超GPT-4V，还给出产业升级新打法](https://posts.careerengine.us/p/653e62a36bf1d1701f6b27e3) ![](/assets/new.png)  
+- [2023-10-29-比Transformer更好，无Attention、MLPs的BERT、GPT反而更强了](https://posts.careerengine.us/p/653e62aa97e1eb705042baa6) ![](/assets/new.png)  
+- [2023-10-29-用50多年时间，探索最令人困惑的复杂性理论知识极限](https://posts.careerengine.us/p/653e62bfd543c870b8a23671) ![](/assets/new.png)  
+- [2023-10-29-更高清写实的人体生成模型HyperHuman来了，基于隐式结构扩散，刷新多项SOTA](https://posts.careerengine.us/p/653e62bfd543c870b8a23669) ![](/assets/new.png)  
 - [2023-10-28-生成的分子几乎-100％-有效，用于逆向分子设计的引导扩散模型](https://posts.careerengine.us/p/653c8e8d832a803bad68b80f)  
-- [2023-10-26-谷歌大爆料：神秘AI工具曝光，Gemini将取代PaLM-2](https://posts.careerengine.us/p/653a3efca8735c3e5178d9db)  
-- [2023-10-26-清华光电计算新突破：芯片性能提升万倍，研究登顶Nature](https://posts.careerengine.us/p/653a3eef09a9543e0ee5db29)  
-- [2023-10-26-高精度低成本游戏3D人脸重建方案，腾讯AI-Lab-ICCV-2023论文解读](https://posts.careerengine.us/p/653a3eef09a9543e0ee5db31)  
-- [2023-10-26-Nature-|-30多年前的断言被打破了？大模型具备了人类水平的系统泛化能力](https://posts.careerengine.us/p/653a3ee84be3d53def873652)  
+- [2023-10-28-小模型如何比肩大模型，北理工发布明德大模型MindLLM，小模型潜力巨大](https://posts.careerengine.us/p/653c8e80c279063b3719e3d8)  
+- [2023-10-28-多模态搜索算法如何让视频搜索更精准？腾讯独家揭秘，超详细](https://posts.careerengine.us/p/653c8e743a1d083af0034d14)  
+- [2023-10-28-谷歌20亿美元砸向Anthropic：大模型军备竞赛升级](https://posts.careerengine.us/p/653c8e743a1d083af0034d0c)  
+- [2023-10-28-国内唯一全面对标OpenAI的创业公司，大模型已经出到第三代](https://posts.careerengine.us/p/653c8e6c98f6f03accc74253)  
 - [2023-10-26-腾讯混元大模型再进化，文生图能力重磅上线，这里是一手实测](https://posts.careerengine.us/p/653a3ee84be3d53def87365a)  
-- [2023-10-25-LeCun又双叒唱衰自回归LLM：GPT-4的推理能力非常有限，有两篇论文为证](https://posts.careerengine.us/p/65389d0af88d963d013a4a0e)  
-- [2023-10-25-手机能跑百亿参数大模型，骁龙8Gen3来了，自研PC架构上线](https://posts.careerengine.us/p/65389d12fe10243d1a67e1fc)  
-- [2023-10-25-低成本快速入局大模型，你需要学下向量数据库](https://posts.careerengine.us/p/65389d13fe10243d1a67e204)  
-- [2023-10-25-DISC-FinLLM：复旦大学团队发布中文智慧金融系统，采用多专家微调框架](https://posts.careerengine.us/p/65389d207de2583da37ae97f)  
+- [2023-10-26-Nature-|-30多年前的断言被打破了？大模型具备了人类水平的系统泛化能力](https://posts.careerengine.us/p/653a3ee84be3d53def873652)  
+- [2023-10-26-高精度低成本游戏3D人脸重建方案，腾讯AI-Lab-ICCV-2023论文解读](https://posts.careerengine.us/p/653a3eef09a9543e0ee5db31)  
+- [2023-10-26-清华光电计算新突破：芯片性能提升万倍，研究登顶Nature](https://posts.careerengine.us/p/653a3eef09a9543e0ee5db29)  
+- [2023-10-26-谷歌大爆料：神秘AI工具曝光，Gemini将取代PaLM-2](https://posts.careerengine.us/p/653a3efca8735c3e5178d9db)  
 - [2023-10-25-开源版「ChatGPT-Plus」来了，能做数据分析、插件调用、自动上网，落地真实世界的智能体](https://posts.careerengine.us/p/65389d207de2583da37ae987)  
-- [2023-10-24-NeurIPS-2023-|-「解释一切」图像概念解释器来了，港科大团队出品](https://posts.careerengine.us/p/6537a11eb17f782da2c64541)  
-- [2023-10-24-4K画质3D合成视频，渲染速度提升30多倍，论文作者带你解读新研究](https://posts.careerengine.us/p/6537a11eb17f782da2c64549)  
-- [2023-10-24-RLHF模型普遍存在「阿谀奉承」，从Claude到GPT-4无一幸免](https://posts.careerengine.us/p/6537a11db17f782da2c64538)  
-- [2023-10-24-大咖云集，看点前瞻：蚂蚁集团主办CNCC2023五大论坛](https://posts.careerengine.us/p/6537a109018ff72d3c2b787b)  
-- [2023-10-24-公开出售GitHub-star、Kaggle点赞，「黑市」越来越明目张胆了吗？](https://posts.careerengine.us/p/6537a109018ff72d3c2b7873)  
+- [2023-10-25-DISC-FinLLM：复旦大学团队发布中文智慧金融系统，采用多专家微调框架](https://posts.careerengine.us/p/65389d207de2583da37ae97f)  
+- [2023-10-25-低成本快速入局大模型，你需要学下向量数据库](https://posts.careerengine.us/p/65389d13fe10243d1a67e204)  
+- [2023-10-25-手机能跑百亿参数大模型，骁龙8Gen3来了，自研PC架构上线](https://posts.careerengine.us/p/65389d12fe10243d1a67e1fc)  
+- [2023-10-25-LeCun又双叒唱衰自回归LLM：GPT-4的推理能力非常有限，有两篇论文为证](https://posts.careerengine.us/p/65389d0af88d963d013a4a0e)  
+- [2023-10-24-讯飞星火升级-3.0：整体超越-ChatGPT，2024-年将实现对标-GPT-4](https://posts.careerengine.us/p/6537a0f96d4ab12ced07e5a7)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2023-10-29-港大联合百度开源通用图大模型GraphGPT：让大语言模型读懂图数据](https://posts.careerengine.us/p/653e5b30d634ea3ed4b0c762) ![](/assets/new.png)  
-- [2023-10-29-NeurIPS-2023-|-连接多模态对比表征：无需配对数据的高效对比表征学习方法](https://posts.careerengine.us/p/653e5b3e28e53a3f2e6b1227) ![](/assets/new.png)  
-- [2023-10-29-深圳/北京内推-|-快手Y-tech部门招聘计算机视觉算法实习生](https://posts.careerengine.us/p/653e5b48860ce33f59b27c34) ![](/assets/new.png)  
-- [2023-10-29-博士申请-|-丹麦哥本哈根大学计算机系招收机器学习方向全奖博士生](https://posts.careerengine.us/p/653e5b49860ce33f59b27c3c) ![](/assets/new.png)  
+- [2023-10-29-港大联合百度开源通用图大模型GraphGPT：让大语言模型读懂图数据](https://posts.careerengine.us/p/653e5b30d634ea3ed4b0c762)  
+- [2023-10-29-NeurIPS-2023-|-连接多模态对比表征：无需配对数据的高效对比表征学习方法](https://posts.careerengine.us/p/653e5b3e28e53a3f2e6b1227)  
+- [2023-10-29-深圳/北京内推-|-快手Y-tech部门招聘计算机视觉算法实习生](https://posts.careerengine.us/p/653e5b48860ce33f59b27c34)  
+- [2023-10-29-博士申请-|-丹麦哥本哈根大学计算机系招收机器学习方向全奖博士生](https://posts.careerengine.us/p/653e5b49860ce33f59b27c3c)  
 - [2023-10-28-科研实习-|-北京大学网络信息处理实验室招收大模型方向研究型实习生](https://posts.careerengine.us/p/653d127794491c14b532820d)  
 - [2023-10-28-幻觉降低30％！首个多模态大模型幻觉修正工作Woodpecker](https://posts.careerengine.us/p/653d126f2ee6b11492380811)  
 - [2023-10-28-多组学数据整合更精确，川大团队借助迁移学习揭示细胞异质性可用于改善数据整合](https://posts.careerengine.us/p/653d126f2ee6b11492380827)  
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2023-10-29-程序员利用漏洞篡改ETC余额，一年私吞260余万元；小马智行获沙特1亿美元投资；AMD回应“中国区大幅裁员”-|-AI一周资讯](https://posts.careerengine.us/p/653e5f6ee8904f5af90a312f) ![](/assets/new.png)  
+- [2023-10-29-程序员利用漏洞篡改ETC余额，一年私吞260余万元；小马智行获沙特1亿美元投资；AMD回应“中国区大幅裁员”-|-AI一周资讯](https://posts.careerengine.us/p/653e5f6ee8904f5af90a312f)  
 - [2023-10-28-颠覆式“下云”？英特尔-4400-万美元投资“从头开始捋云服务”的初创公司，硬刚公有云](https://posts.careerengine.us/p/653c9dae128d89738713c5b9)  
 - [2023-10-27-AI巨头混战，微软赢麻了？](https://posts.careerengine.us/p/653b4c66f340da4ea50ab3a3)  
 - [2023-10-26-平安人寿：算力和语料，是制约保险领域大模型应用的首要挑战](https://posts.careerengine.us/p/6539fac4040be3485e91d1c6)  
