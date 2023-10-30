@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-30 06:00:16，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-30 15:00:09，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,10 +21,10 @@
 </summary>
 
 
-- [2023-10-29-元乘象Chatimg3.0来了，赶超GPT-4V，还给出产业升级新打法](https://posts.careerengine.us/p/653e62a36bf1d1701f6b27e3) ![](/assets/new.png)  
-- [2023-10-29-比Transformer更好，无Attention、MLPs的BERT、GPT反而更强了](https://posts.careerengine.us/p/653e62aa97e1eb705042baa6) ![](/assets/new.png)  
-- [2023-10-29-用50多年时间，探索最令人困惑的复杂性理论知识极限](https://posts.careerengine.us/p/653e62bfd543c870b8a23671) ![](/assets/new.png)  
-- [2023-10-29-更高清写实的人体生成模型HyperHuman来了，基于隐式结构扩散，刷新多项SOTA](https://posts.careerengine.us/p/653e62bfd543c870b8a23669) ![](/assets/new.png)  
+- [2023-10-29-元乘象Chatimg3.0来了，赶超GPT-4V，还给出产业升级新打法](https://posts.careerengine.us/p/653e62a36bf1d1701f6b27e3)  
+- [2023-10-29-比Transformer更好，无Attention、MLPs的BERT、GPT反而更强了](https://posts.careerengine.us/p/653e62aa97e1eb705042baa6)  
+- [2023-10-29-用50多年时间，探索最令人困惑的复杂性理论知识极限](https://posts.careerengine.us/p/653e62bfd543c870b8a23671)  
+- [2023-10-29-更高清写实的人体生成模型HyperHuman来了，基于隐式结构扩散，刷新多项SOTA](https://posts.careerengine.us/p/653e62bfd543c870b8a23669)  
 - [2023-10-28-生成的分子几乎-100％-有效，用于逆向分子设计的引导扩散模型](https://posts.careerengine.us/p/653c8e8d832a803bad68b80f)  
 - [2023-10-28-小模型如何比肩大模型，北理工发布明德大模型MindLLM，小模型潜力巨大](https://posts.careerengine.us/p/653c8e80c279063b3719e3d8)  
 - [2023-10-28-多模态搜索算法如何让视频搜索更精准？腾讯独家揭秘，超详细](https://posts.careerengine.us/p/653c8e743a1d083af0034d14)  
@@ -176,26 +176,26 @@
 </summary>
 
 
+- [2023-10-30-为什么谷歌也不敢发布这项技术](https://posts.careerengine.us/p/653f40428bd9cf049a24ed9f) ![](/assets/new.png)  
+- [2023-10-30-A0级以上新能源汽车市占率60％，全球齿轮制造大厂的数字化实践](https://posts.careerengine.us/p/653f40540451dd04faa9c093) ![](/assets/new.png)  
 - [2023-10-29-程序员利用漏洞篡改ETC余额，一年私吞260余万元；小马智行获沙特1亿美元投资；AMD回应“中国区大幅裁员”-|-AI一周资讯](https://posts.careerengine.us/p/653e5f6ee8904f5af90a312f)  
 - [2023-10-28-颠覆式“下云”？英特尔-4400-万美元投资“从头开始捋云服务”的初创公司，硬刚公有云](https://posts.careerengine.us/p/653c9dae128d89738713c5b9)  
 - [2023-10-27-AI巨头混战，微软赢麻了？](https://posts.careerengine.us/p/653b4c66f340da4ea50ab3a3)  
-- [2023-10-26-平安人寿：算力和语料，是制约保险领域大模型应用的首要挑战](https://posts.careerengine.us/p/6539fac4040be3485e91d1c6)  
 - [2023-10-26-估值最高25亿美元，这家芯片设计巨头公司裁员20％，工程师成重灾区](https://posts.careerengine.us/p/6539fabccefb47483c428a24)  
+- [2023-10-26-平安人寿：算力和语料，是制约保险领域大模型应用的首要挑战](https://posts.careerengine.us/p/6539fac4040be3485e91d1c6)  
 - [2023-10-25-中国版Copilot？代码优化提效5倍、采纳率提升44％……讯飞iFlyCode2.0正式发布，各项能力全面开放](https://posts.careerengine.us/p/6538aafe06c94e72807df9ee)  
 - [2023-10-24-2023年AI与开源行业：今年第一篇盘点文章出炉了](https://posts.careerengine.us/p/653758eb748003374405dcae)  
 - [2023-10-23-头脑正常的人绝不会创业！英伟达CEO黄仁勋：如果能够重来，宁愿放弃创办公司](https://posts.careerengine.us/p/6536061bd62b5903aefb4229)  
 - [2023-10-22-传AMD上海将无差别裁员，可能赔偿N+7；微软新员工最高工资约265万；马斯克拟向X平台发帖新用户收费-|-AI一周资讯](https://posts.careerengine.us/p/6534b54e762b67092e7d1211)  
 - [2023-10-20-是时候彻底放弃“高分低能”的Leetcode了：AI时代的面试需要大变革！](https://posts.careerengine.us/p/653215e0e5d77106cbbb3926)  
-- [2023-10-19-一夜之间，有价无货！英伟达消费级-RTX-4090显卡遭全面下架，最高售价接近4万](https://posts.careerengine.us/p/6530c03f36a7a34a7f1e65cf)  
 - [2023-10-19-Gartner预测2026年超过80％的企业将使用生成式AI](https://posts.careerengine.us/p/6530c03148a75a4a21d40f99)  
+- [2023-10-19-一夜之间，有价无货！英伟达消费级-RTX-4090显卡遭全面下架，最高售价接近4万](https://posts.careerengine.us/p/6530c03f36a7a34a7f1e65cf)  
 - [2023-10-18-突发！美国限制向中国出口Nvidia-H800等先进AI芯片，壁仞科技、摩尔线程等中国GPU芯片企业被列入实体名单](https://posts.careerengine.us/p/652f5bf4046f3b436f5b5b02)  
 - [2023-10-17-重点裁技术和管理！领英重创核心工程团队，技术管理占据20％](https://posts.careerengine.us/p/652e1f9a6d170c55f56bc946)  
-- [2023-10-16-OpenAI悄悄改变核心价值观惹争议：埋头搞AGI，其他的都是浮云！](https://posts.careerengine.us/p/652ccc47f15bdb0cd3ce860d)  
 - [2023-10-16-创新风潮迭起，2023-深圳国际金融科技大赛——西丽湖金融科技大学生挑战赛正式启动](https://posts.careerengine.us/p/652ccc4f7f4f5e0cfbca1b53)  
+- [2023-10-16-OpenAI悄悄改变核心价值观惹争议：埋头搞AGI，其他的都是浮云！](https://posts.careerengine.us/p/652ccc47f15bdb0cd3ce860d)  
 - [2023-10-15-美的供应商回应员工自愿放弃公积金；23岁斯坦福博士生修复火狐浏览器22年陈旧bug；高通拟在加州裁逾1200人｜AI一周资讯](https://posts.careerengine.us/p/652b7a657b97064213db8a2e)  
 - [2023-10-13-开发成本降至5％！OpenAI计划推出新功能吸引开发者，也稳住用他们模型亏损的“大冤种”客户](https://posts.careerengine.us/p/6528d76adafcc11cec6a2c86)  
-- [2023-10-12-谷歌云为医生推出专用生成式AI工具，临床信息一键搜索](https://posts.careerengine.us/p/652785cedbabcc7395d62946)  
-- [2023-10-12-新型威胁：探索-LLM-攻击对网络安全的冲击](https://posts.careerengine.us/p/652718384044b96aeec06e46)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
