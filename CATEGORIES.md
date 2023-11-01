@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-10-31 21:00:15，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-01 15:00:12，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-10-31-独家-|-GPT-4、Midjourney之外，谭平创业团队要造一个3D基础模型](https://posts.careerengine.us/p/65407feedfbb20782dd32a16)  
-- [2023-10-31-万万没想到，ChatGPT参数只有200亿？](https://posts.careerengine.us/p/65407feedfbb20782dd32a0e)  
-- [2023-10-31-苹果M3系列登场，性能翻倍，M1、M2已成时代眼泪](https://posts.careerengine.us/p/65407ffc6e7c08787b5d1783)  
-- [2023-10-31-图模型也要大？清华朱文武团队有这样一些观点](https://posts.careerengine.us/p/6540800361a77278dd59e2a6)  
+- [2023-11-01-全球最强长文本大模型，一次可读35万汉字：Baichuan2-192K上线](https://posts.careerengine.us/p/6541dd47b89f5a4e5f0b3845) ![](/assets/new.png)  
+- [2023-11-01-吴恩达加入图灵奖得主讨论：「AI灭绝论」弊大于利](https://posts.careerengine.us/p/6541dd56349bad4e9b37f269) ![](/assets/new.png)  
+- [2023-11-01-斯坦福马腾宇创业，大模型方向，Manning、Chris-Re等是顾问](https://posts.careerengine.us/p/6541dd56349bad4e9b37f261) ![](/assets/new.png)  
+- [2023-11-01-GPT-4写代码，DALL·E-3+MJ搞定画面，AI版「愤怒的南瓜」来袭](https://posts.careerengine.us/p/6541dd5e5afc3a4ebd719093) ![](/assets/new.png)  
+- [2023-11-01-四万字详解AI对齐：北大联合多高校团队发布对齐全面性综述](https://posts.careerengine.us/p/6541dd5e5afc3a4ebd71908b) ![](/assets/new.png)  
 - [2023-10-31-用童话训练AI模型，微软找到了探索生成模型参数的新切入点](https://posts.careerengine.us/p/6540800f317853791e134d49)  
-- [2023-10-30-基于Transformer和注意力的可解释核苷酸语言模型，用于pegRNA优化设计](https://posts.careerengine.us/p/653f70024d9e15227fab1f72)  
-- [2023-10-30-像搭乐高一样做数学定理证明题，GPT-3.5证明成功率达新SOTA](https://posts.careerengine.us/p/653f70024d9e15227fab1f7a)  
-- [2023-10-30-ChatGPT上新文件分析、自动搜索等功能，初创公司的产品被取代？](https://posts.careerengine.us/p/653f6ffbef12002255ba6e1c)  
-- [2023-10-30-图灵奖得主吵起来了，LeCun：Bengio、Hinton等的AI灭绝论是荒谬的](https://posts.careerengine.us/p/653f6ff3c2beac2232c278ae)  
+- [2023-10-31-图模型也要大？清华朱文武团队有这样一些观点](https://posts.careerengine.us/p/6540800361a77278dd59e2a6)  
+- [2023-10-31-苹果M3系列登场，性能翻倍，M1、M2已成时代眼泪](https://posts.careerengine.us/p/65407ffc6e7c08787b5d1783)  
+- [2023-10-31-万万没想到，ChatGPT参数只有200亿？](https://posts.careerengine.us/p/65407feedfbb20782dd32a0e)  
+- [2023-10-31-独家-|-GPT-4、Midjourney之外，谭平创业团队要造一个3D基础模型](https://posts.careerengine.us/p/65407feedfbb20782dd32a16)  
 - [2023-10-30-苹果文生图大模型亮相：俄罗斯套娃式扩散，支持1024x1024分辨率](https://posts.careerengine.us/p/653f6ff2c2beac2232c278a6)  
-- [2023-10-29-元乘象Chatimg3.0来了，赶超GPT-4V，还给出产业升级新打法](https://posts.careerengine.us/p/653e62a36bf1d1701f6b27e3)  
-- [2023-10-29-比Transformer更好，无Attention、MLPs的BERT、GPT反而更强了](https://posts.careerengine.us/p/653e62aa97e1eb705042baa6)  
-- [2023-10-29-用50多年时间，探索最令人困惑的复杂性理论知识极限](https://posts.careerengine.us/p/653e62bfd543c870b8a23671)  
+- [2023-10-30-图灵奖得主吵起来了，LeCun：Bengio、Hinton等的AI灭绝论是荒谬的](https://posts.careerengine.us/p/653f6ff3c2beac2232c278ae)  
+- [2023-10-30-ChatGPT上新文件分析、自动搜索等功能，初创公司的产品被取代？](https://posts.careerengine.us/p/653f6ffbef12002255ba6e1c)  
+- [2023-10-30-像搭乐高一样做数学定理证明题，GPT-3.5证明成功率达新SOTA](https://posts.careerengine.us/p/653f70024d9e15227fab1f7a)  
+- [2023-10-30-基于Transformer和注意力的可解释核苷酸语言模型，用于pegRNA优化设计](https://posts.careerengine.us/p/653f70024d9e15227fab1f72)  
 - [2023-10-29-更高清写实的人体生成模型HyperHuman来了，基于隐式结构扩散，刷新多项SOTA](https://posts.careerengine.us/p/653e62bfd543c870b8a23669)  
-- [2023-10-28-生成的分子几乎-100％-有效，用于逆向分子设计的引导扩散模型](https://posts.careerengine.us/p/653c8e8d832a803bad68b80f)  
-- [2023-10-28-小模型如何比肩大模型，北理工发布明德大模型MindLLM，小模型潜力巨大](https://posts.careerengine.us/p/653c8e80c279063b3719e3d8)  
-- [2023-10-28-多模态搜索算法如何让视频搜索更精准？腾讯独家揭秘，超详细](https://posts.careerengine.us/p/653c8e743a1d083af0034d14)  
-- [2023-10-28-谷歌20亿美元砸向Anthropic：大模型军备竞赛升级](https://posts.careerengine.us/p/653c8e743a1d083af0034d0c)  
+- [2023-10-29-用50多年时间，探索最令人困惑的复杂性理论知识极限](https://posts.careerengine.us/p/653e62bfd543c870b8a23671)  
+- [2023-10-29-比Transformer更好，无Attention、MLPs的BERT、GPT反而更强了](https://posts.careerengine.us/p/653e62aa97e1eb705042baa6)  
+- [2023-10-29-元乘象Chatimg3.0来了，赶超GPT-4V，还给出产业升级新打法](https://posts.careerengine.us/p/653e62a36bf1d1701f6b27e3)  
 - [2023-10-28-国内唯一全面对标OpenAI的创业公司，大模型已经出到第三代](https://posts.careerengine.us/p/653c8e6c98f6f03accc74253)  
-- [2023-10-26-腾讯混元大模型再进化，文生图能力重磅上线，这里是一手实测](https://posts.careerengine.us/p/653a3ee84be3d53def87365a)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,8 +52,8 @@
 </summary>
 
 
-- [2023-10-31-苹果3纳米M3芯片首发即Max，顶配56000元最强笔记本抱回家](https://posts.careerengine.us/p/6540e17f92991d1f025f5b90) ![](/assets/new.png)  
-- [2023-10-31-5分钟搞出大模型应用！阿里云通义“全家桶”来了，从基础设施到应用平台全栈技术UP](https://posts.careerengine.us/p/6540e17f92991d1f025f5b88) ![](/assets/new.png)  
+- [2023-10-31-苹果3纳米M3芯片首发即Max，顶配56000元最强笔记本抱回家](https://posts.careerengine.us/p/6540e17f92991d1f025f5b90)  
+- [2023-10-31-5分钟搞出大模型应用！阿里云通义“全家桶”来了，从基础设施到应用平台全栈技术UP](https://posts.careerengine.us/p/6540e17f92991d1f025f5b88)  
 - [2023-10-30-百川智能推出全球最长上下文窗口大模型Baichuan2-192K，一次可输入35万字超越Claude2](https://posts.careerengine.us/p/653f552a307d0f4897e892b3)  
 - [2023-10-30-豆瓣9分线代教材免费了！斯坦福伯克利都在用，新版PDF直接下载](https://posts.careerengine.us/p/653f551e58ea70486ae4f723)  
 - [2023-10-30-ChatGPT再进化！全工具All-in-One，网友：多少创业项目死于今天](https://posts.careerengine.us/p/653f55112f85f848407b78f2)  
