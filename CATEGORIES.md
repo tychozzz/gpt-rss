@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-01 15:00:12，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-02 12:00:11，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-11-01-全球最强长文本大模型，一次可读35万汉字：Baichuan2-192K上线](https://posts.careerengine.us/p/6541dd47b89f5a4e5f0b3845) ![](/assets/new.png)  
-- [2023-11-01-吴恩达加入图灵奖得主讨论：「AI灭绝论」弊大于利](https://posts.careerengine.us/p/6541dd56349bad4e9b37f269) ![](/assets/new.png)  
-- [2023-11-01-斯坦福马腾宇创业，大模型方向，Manning、Chris-Re等是顾问](https://posts.careerengine.us/p/6541dd56349bad4e9b37f261) ![](/assets/new.png)  
-- [2023-11-01-GPT-4写代码，DALL·E-3+MJ搞定画面，AI版「愤怒的南瓜」来袭](https://posts.careerengine.us/p/6541dd5e5afc3a4ebd719093) ![](/assets/new.png)  
-- [2023-11-01-四万字详解AI对齐：北大联合多高校团队发布对齐全面性综述](https://posts.careerengine.us/p/6541dd5e5afc3a4ebd71908b) ![](/assets/new.png)  
+- [2023-11-01-全球最强长文本大模型，一次可读35万汉字：Baichuan2-192K上线](https://posts.careerengine.us/p/6541dd47b89f5a4e5f0b3845)  
+- [2023-11-01-吴恩达加入图灵奖得主讨论：「AI灭绝论」弊大于利](https://posts.careerengine.us/p/6541dd56349bad4e9b37f269)  
+- [2023-11-01-斯坦福马腾宇创业，大模型方向，Manning、Chris-Re等是顾问](https://posts.careerengine.us/p/6541dd56349bad4e9b37f261)  
+- [2023-11-01-GPT-4写代码，DALL·E-3+MJ搞定画面，AI版「愤怒的南瓜」来袭](https://posts.careerengine.us/p/6541dd5e5afc3a4ebd719093)  
+- [2023-11-01-四万字详解AI对齐：北大联合多高校团队发布对齐全面性综述](https://posts.careerengine.us/p/6541dd5e5afc3a4ebd71908b)  
 - [2023-10-31-用童话训练AI模型，微软找到了探索生成模型参数的新切入点](https://posts.careerengine.us/p/6540800f317853791e134d49)  
 - [2023-10-31-图模型也要大？清华朱文武团队有这样一些观点](https://posts.careerengine.us/p/6540800361a77278dd59e2a6)  
 - [2023-10-31-苹果M3系列登场，性能翻倍，M1、M2已成时代眼泪](https://posts.careerengine.us/p/65407ffc6e7c08787b5d1783)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2023-10-31-苹果3纳米M3芯片首发即Max，顶配56000元最强笔记本抱回家](https://posts.careerengine.us/p/6540e17f92991d1f025f5b90)  
+- [2023-11-01-OpenAI潜入黑客群聊！盗用ChatGPT被换成“喵喵GPT”，网友：绝对的传奇](https://posts.careerengine.us/p/65430ea16ef7160f75293bb3) ![](/assets/new.png)  
+- [2023-11-01-“液态金属”材料亮相，科学方法沙漠取水，这届WE大会很赛博朋克](https://posts.careerengine.us/p/65430eb3dc09c210076027be) ![](/assets/new.png)  
+- [2023-11-01-活久见！AI巨佬为“人类灭绝论”正面开撕，Hinton吴恩达LeCun下场，马斯克强势围观](https://posts.careerengine.us/p/65430e9081e4620f2920044d) ![](/assets/new.png)  
+- [2023-11-01-vivo自研大模型/操作系统齐面世！蓝心大模型加持最新OriginOS4](https://posts.careerengine.us/p/65430ea16ef7160f75293bab) ![](/assets/new.png)  
+- [2023-11-01-姚班斯隆奖马腾宇创业：大模型+顾问李飞飞](https://posts.careerengine.us/p/65430e9081e4620f29200445) ![](/assets/new.png)  
 - [2023-10-31-5分钟搞出大模型应用！阿里云通义“全家桶”来了，从基础设施到应用平台全栈技术UP](https://posts.careerengine.us/p/6540e17f92991d1f025f5b88)  
-- [2023-10-30-百川智能推出全球最长上下文窗口大模型Baichuan2-192K，一次可输入35万字超越Claude2](https://posts.careerengine.us/p/653f552a307d0f4897e892b3)  
-- [2023-10-30-豆瓣9分线代教材免费了！斯坦福伯克利都在用，新版PDF直接下载](https://posts.careerengine.us/p/653f551e58ea70486ae4f723)  
-- [2023-10-30-ChatGPT再进化！全工具All-in-One，网友：多少创业项目死于今天](https://posts.careerengine.us/p/653f55112f85f848407b78f2)  
-- [2023-10-30-科学春晚，还得是B站：稚晖君机械臂搭广寒宫，院士下半身直接消失](https://posts.careerengine.us/p/653f550b0c153948268b3389)  
+- [2023-10-31-苹果3纳米M3芯片首发即Max，顶配56000元最强笔记本抱回家](https://posts.careerengine.us/p/6540e17f92991d1f025f5b90)  
 - [2023-10-30-中文最强开源大模型来了！130亿参数，0门槛商用，来自昆仑万维](https://posts.careerengine.us/p/653f550b0c153948268b3391)  
-- [2023-10-29-起底PC新机皇：高通4nm芯片，Arm架构Windows系统，内置Transformer加速，还配了5G和WiFi7](https://posts.careerengine.us/p/653ddc712a7bf9125e4036dd)  
-- [2023-10-29-中国AI平台最新格局出炉！百度综合得分第一，第二梯队竞争激烈，大模型加速云厂商进化](https://posts.careerengine.us/p/653ddc722a7bf9125e4036e5)  
-- [2023-10-29-颠覆《时间简史》，霍金的终极理论面世](https://posts.careerengine.us/p/653ddc79bf40791282f4cdc9)  
-- [2023-10-29-北大团队：诱导大模型“幻觉”只需一串乱码！大小羊驼全中招](https://posts.careerengine.us/p/653ddc86e650eb12b129b8a9)  
+- [2023-10-30-科学春晚，还得是B站：稚晖君机械臂搭广寒宫，院士下半身直接消失](https://posts.careerengine.us/p/653f550b0c153948268b3389)  
+- [2023-10-30-ChatGPT再进化！全工具All-in-One，网友：多少创业项目死于今天](https://posts.careerengine.us/p/653f55112f85f848407b78f2)  
+- [2023-10-30-豆瓣9分线代教材免费了！斯坦福伯克利都在用，新版PDF直接下载](https://posts.careerengine.us/p/653f551e58ea70486ae4f723)  
+- [2023-10-30-百川智能推出全球最长上下文窗口大模型Baichuan2-192K，一次可输入35万字超越Claude2](https://posts.careerengine.us/p/653f552a307d0f4897e892b3)  
 - [2023-10-29-多模态LLM幻觉问题降低30％！业内首个“啄木鸟”免重训方法诞生｜中科大](https://posts.careerengine.us/p/653ddc86e650eb12b129b8b1)  
-- [2023-10-28-TF线下活动报名-|-11月4日，TF121邀您一起寻找企业数字化的第二曲线！](https://posts.careerengine.us/p/653cd07be523dd1a26caae1f)  
-- [2023-10-28-姚期智Hinton-Bengio联名发文：18个月内AI规模将扩大100倍，得有人管管了](https://posts.careerengine.us/p/653cd070f7a11f19d3a0bf45)  
-- [2023-10-28-最好7B模型再易主！打败700亿LLaMA2，苹果电脑就能跑｜开源免费](https://posts.careerengine.us/p/653cd070f7a11f19d3a0bf4d)  
-- [2023-10-28-「20万级最强智驾」还不用激光雷达，极越01到底是一款什么样的车？](https://posts.careerengine.us/p/653cd064969192195a739cad)  
+- [2023-10-29-北大团队：诱导大模型“幻觉”只需一串乱码！大小羊驼全中招](https://posts.careerengine.us/p/653ddc86e650eb12b129b8a9)  
+- [2023-10-29-颠覆《时间简史》，霍金的终极理论面世](https://posts.careerengine.us/p/653ddc79bf40791282f4cdc9)  
+- [2023-10-29-中国AI平台最新格局出炉！百度综合得分第一，第二梯队竞争激烈，大模型加速云厂商进化](https://posts.careerengine.us/p/653ddc722a7bf9125e4036e5)  
+- [2023-10-29-起底PC新机皇：高通4nm芯片，Arm架构Windows系统，内置Transformer加速，还配了5G和WiFi7](https://posts.careerengine.us/p/653ddc712a7bf9125e4036dd)  
 - [2023-10-28-正面硬刚OpenAI！智谱AI推出第三代基座模型，功能对标GPT-4V，代码解释器随便玩](https://posts.careerengine.us/p/653cd05c29efe11941188a52)  
-- [2023-10-27-实测腾讯AI文生图！王者荣耀画风一键直出，小程序就能玩](https://posts.careerengine.us/p/653b4a361faeed486d9853c9)  
-- [2023-10-27-波士顿动力机器狗能开口聊天了！ChatGPT加持，对话机智妙语连珠](https://posts.careerengine.us/p/653b4a414da63348c1b5c3f9)  
-- [2023-10-27-郭德纲用英语说相声，那叫一个地地地地地道！](https://posts.careerengine.us/p/653b4a414da63348c1b5c401)  
+- [2023-10-28-「20万级最强智驾」还不用激光雷达，极越01到底是一款什么样的车？](https://posts.careerengine.us/p/653cd064969192195a739cad)  
+- [2023-10-28-最好7B模型再易主！打败700亿LLaMA2，苹果电脑就能跑｜开源免费](https://posts.careerengine.us/p/653cd070f7a11f19d3a0bf4d)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
