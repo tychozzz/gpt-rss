@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-02 15:00:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-02 18:00:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-11-02-支持二次编辑、导入虚拟引擎5，Stable-Diffusion进化出3D生成功能](https://posts.careerengine.us/p/65433f3ebc56941b0fbfebf6) 
 - [2023-09-01-听说文心一言App霸榜了，那必须来一波全方位实测了](https://posts.careerengine.us/p/64f184b6bb609876ce11d0c2) 
 - [2023-07-17-Sam-Altman：大家如此喜爱Code-Interpreter！这是结合Midjourney的神奇用例](https://posts.careerengine.us/p/64b4d25df9c5be14d18bc8f9) 
 - [2023-07-16-一张截图生成iPhone应用、还能转成代码、创建网站，升级后谷歌Bard真成了](https://posts.careerengine.us/p/64b37a81149433457e8154f9) 
