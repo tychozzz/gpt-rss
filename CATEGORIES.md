@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-03 15:00:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-03 23:00:44，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -8,9 +8,9 @@
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -118,25 +118,25 @@
 </summary>
 
 
-- [2023-11-02-大语言模型的数学之路](https://posts.careerengine.us/p/65433b010c63d77df675cdb6)  
-- [2023-11-02-文末送书-|-GPT时代的量化交易：全景展现底层逻辑+大量揭秘实战案例](https://posts.careerengine.us/p/65433b116de5cb7e42469036)  
+- [2023-11-03-ShareGPT平替！利用苏格拉底提问模拟器更好地蒸馏ChatGPT对话能力](https://posts.careerengine.us/p/6544f2146be3e4618063480d) ![](/assets/new.png)  
+- [2023-11-03-NeurIPS-2023-|-如何从理论上研究生成式数据增强的效果？](https://posts.careerengine.us/p/6544f2156be3e46180634815) ![](/assets/new.png)  
+- [2023-11-03-上海内推-|-微软亚洲研究院工业创新中心招聘研究开发型实习生](https://posts.careerengine.us/p/6544f2273d497161ad1e6eaa) ![](/assets/new.png)  
 - [2023-11-02-北京内推-|-北京大学光华管理学院彭一杰教授招收大语言模型方向算法实习生](https://posts.careerengine.us/p/65433b1ab3528d7e5866543f)  
-- [2023-11-01-ICCV-2023-|-首个用于目标检测任务的直接训练脉冲神经网络](https://posts.careerengine.us/p/65430f52650460145a7ec05c)  
-- [2023-11-01-交叉熵损失的“替代品”：基于最优传输思想设计的分类损失函数EMO](https://posts.careerengine.us/p/65430f488e06f9142b6f4c55)  
+- [2023-11-02-文末送书-|-GPT时代的量化交易：全景展现底层逻辑+大量揭秘实战案例](https://posts.careerengine.us/p/65433b116de5cb7e42469036)  
+- [2023-11-02-大语言模型的数学之路](https://posts.careerengine.us/p/65433b010c63d77df675cdb6)  
 - [2023-11-01-深圳内推-|-光明实验室媒体内容生成团队招聘全职研究员/工程师/实习生等岗位](https://posts.careerengine.us/p/65430f6293681f14d9b3de31)  
-- [2023-10-31-博士申请-|-圣路易斯华盛顿大学王晨光老师招收NLP/ML方向全奖博士/博后/RA](https://posts.careerengine.us/p/65430f52650460145a7ec053)  
+- [2023-11-01-交叉熵损失的“替代品”：基于最优传输思想设计的分类损失函数EMO](https://posts.careerengine.us/p/65430f488e06f9142b6f4c55)  
+- [2023-11-01-ICCV-2023-|-首个用于目标检测任务的直接训练脉冲神经网络](https://posts.careerengine.us/p/65430f52650460145a7ec05c)  
 - [2023-10-31-NeurIPS-2023-Spotlight-|-探索不变学习中的充分必要因果](https://posts.careerengine.us/p/65408e2c35cd033df4e9b06e)  
-- [2023-10-30-杭州/北京内推-|-阿里云人工智能平台深度学习团队招聘算法研究实习生](https://posts.careerengine.us/p/653f844911a61c758d1cf53b)  
-- [2023-10-30-ICCV-2023-|-用“自编码器+多模态学习”更有效地解决3D物体可供性问题](https://posts.careerengine.us/p/653f843a0e930675499fdf05)  
-- [2023-10-30-Transformer是唯一选择吗？无Attention和MLP的语言模型反而更强了](https://posts.careerengine.us/p/653f843a0e930675499fdf0d)  
+- [2023-10-31-博士申请-|-圣路易斯华盛顿大学王晨光老师招收NLP/ML方向全奖博士/博后/RA](https://posts.careerengine.us/p/65430f52650460145a7ec053)  
 - [2023-10-30-百川智能再发新模型，超越Claude2将上下文窗口做到了全球第一](https://posts.careerengine.us/p/653f8431434c70751ff5a415)  
-- [2023-10-29-港大联合百度开源通用图大模型GraphGPT：让大语言模型读懂图数据](https://posts.careerengine.us/p/653e5b30d634ea3ed4b0c762)  
-- [2023-10-29-NeurIPS-2023-|-连接多模态对比表征：无需配对数据的高效对比表征学习方法](https://posts.careerengine.us/p/653e5b3e28e53a3f2e6b1227)  
-- [2023-10-29-深圳/北京内推-|-快手Y-tech部门招聘计算机视觉算法实习生](https://posts.careerengine.us/p/653e5b48860ce33f59b27c34)  
+- [2023-10-30-Transformer是唯一选择吗？无Attention和MLP的语言模型反而更强了](https://posts.careerengine.us/p/653f843a0e930675499fdf0d)  
+- [2023-10-30-ICCV-2023-|-用“自编码器+多模态学习”更有效地解决3D物体可供性问题](https://posts.careerengine.us/p/653f843a0e930675499fdf05)  
+- [2023-10-30-杭州/北京内推-|-阿里云人工智能平台深度学习团队招聘算法研究实习生](https://posts.careerengine.us/p/653f844911a61c758d1cf53b)  
 - [2023-10-29-博士申请-|-丹麦哥本哈根大学计算机系招收机器学习方向全奖博士生](https://posts.careerengine.us/p/653e5b49860ce33f59b27c3c)  
-- [2023-10-28-科研实习-|-北京大学网络信息处理实验室招收大模型方向研究型实习生](https://posts.careerengine.us/p/653d127794491c14b532820d)  
-- [2023-10-28-幻觉降低30％！首个多模态大模型幻觉修正工作Woodpecker](https://posts.careerengine.us/p/653d126f2ee6b11492380811)  
-- [2023-10-28-多组学数据整合更精确，川大团队借助迁移学习揭示细胞异质性可用于改善数据整合](https://posts.careerengine.us/p/653d126f2ee6b11492380827)  
+- [2023-10-29-深圳/北京内推-|-快手Y-tech部门招聘计算机视觉算法实习生](https://posts.careerengine.us/p/653e5b48860ce33f59b27c34)  
+- [2023-10-29-NeurIPS-2023-|-连接多模态对比表征：无需配对数据的高效对比表征学习方法](https://posts.careerengine.us/p/653e5b3e28e53a3f2e6b1227)  
+- [2023-10-29-港大联合百度开源通用图大模型GraphGPT：让大语言模型读懂图数据](https://posts.careerengine.us/p/653e5b30d634ea3ed4b0c762)  
 - [2023-10-28-哈工大发布大模型思维链推理综述：200+文献全面解析大语言模型思维链推理最新进展](https://posts.careerengine.us/p/653d12620d09e01460aaecbc)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2023-11-03-靠Kafka挣不了钱了？Confluent-财报一发，股价暴跌超-44％！](https://posts.careerengine.us/p/65448e3f849dd51c8012a834) ![](/assets/new.png)  
+- [2023-11-03-靠Kafka挣不了钱了？Confluent-财报一发，股价暴跌超-44％！](https://posts.careerengine.us/p/65448e3f849dd51c8012a834)  
 - [2023-11-02-美的集团将上线国内首个智能家居大模型，已开源边端-AI-算法部署工具链](https://posts.careerengine.us/p/654339273044657115d43c53)  
 - [2023-11-02-仅凭7页PPT拿下1亿美元融资、半年后估值超10亿！“欧洲OpenAI”杀疯了](https://posts.careerengine.us/p/654339273044657115d43c3b)  
 - [2023-10-31-首次采用3nm制程、比M1-Max快80％！苹果亮相M3系列芯片，最高搭载40核GPU](https://posts.careerengine.us/p/6540819fb0babf03b0bfa490)  
