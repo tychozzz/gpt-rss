@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-07 15:00:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-08 15:00:14。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -33,26 +33,26 @@
 
 
 
-- [【机器之心】DeepMind指出「Transformer无法超出预训练数据实现泛化」，但有人投来质疑](https://posts.careerengine.us/p/6549b1fea4ae57254202f942)
-- [【机器之心】OpenAI首个开发者日：自定义GPT、GPT商店太炸，还有模型更强更便宜了](https://posts.careerengine.us/p/6549b1fea4ae57254202f93a)
+- [【机器之心】解说梅西球赛、英雄联盟，OpenAI-GPT-4视觉API被开发者玩出新花样](https://posts.careerengine.us/p/654b171fb55ced032a19a568)
 - [【机器之心】马斯克第二款AI产品PromptIDE公布，Grok的开发离不开它](https://posts.careerengine.us/p/6549b1fea4ae57254202f94e)
+- [【机器之心】OpenAI首个开发者日：自定义GPT、GPT商店太炸，还有模型更强更便宜了](https://posts.careerengine.us/p/6549b1fea4ae57254202f93a)
+- [【机器之心】DeepMind指出「Transformer无法超出预训练数据实现泛化」，但有人投来质疑](https://posts.careerengine.us/p/6549b1fea4ae57254202f942)
 - [【机器之心】马斯克xAI公布大模型详细进展，Grok只训练了2个月](https://posts.careerengine.us/p/65486e6642524d311e16be33)
-- [【机器之心】OpenAI首届开发者大会被人提前「掀底牌」，全新ChatGPT原型Gizmo大曝光](https://posts.careerengine.us/p/65470e40ca31003b66b9880a)
 - [【机器之心】重新审视Transformer：倒置更有效，真实世界预测的新SOTA出现了](https://posts.careerengine.us/p/65470e40ca31003b66b9881a)
-- [【机器之心】比人类同行快六倍，三星电子开发AI驱动的机器人化学家，自主合成有机分子](https://posts.careerengine.us/p/6545da8382b21462be9d8e10)
-- [【机器之心】两天star量破千：OpenAI的Whisper被蒸馏后，语音识别数倍加速](https://posts.careerengine.us/p/6545da73c0155e6283c2425d)
+- [【机器之心】OpenAI首届开发者大会被人提前「掀底牌」，全新ChatGPT原型Gizmo大曝光](https://posts.careerengine.us/p/65470e40ca31003b66b9880a)
 - [【机器之心】AI能理解自己生成的东西吗？-在GPT-4、Midjourney上实验后，有人破案了](https://posts.careerengine.us/p/6545da72c0155e6283c24255)
-- [【机器之心】微软免费课程、吴恩达开新课，顶级生成式AI必备课程来了](https://posts.careerengine.us/p/65433f3ebc56941b0fbfebee)
+- [【机器之心】两天star量破千：OpenAI的Whisper被蒸馏后，语音识别数倍加速](https://posts.careerengine.us/p/6545da73c0155e6283c2425d)
+- [【机器之心】比人类同行快六倍，三星电子开发AI驱动的机器人化学家，自主合成有机分子](https://posts.careerengine.us/p/6545da8382b21462be9d8e10)
 - [【机器之心】GPT-4能「伪装」成人类吗？图灵测试结果出炉](https://posts.careerengine.us/p/65433f4b4bcad51b7f23552d)
-- [【机器之心】四万字详解AI对齐：北大联合多高校团队发布对齐全面性综述](https://posts.careerengine.us/p/6541dd5e5afc3a4ebd71908b)
-- [【机器之心】GPT-4写代码，DALL·E-3+MJ搞定画面，AI版「愤怒的南瓜」来袭](https://posts.careerengine.us/p/6541dd5e5afc3a4ebd719093)
-- [【机器之心】吴恩达加入图灵奖得主讨论：「AI灭绝论」弊大于利](https://posts.careerengine.us/p/6541dd56349bad4e9b37f269)
+- [【机器之心】微软免费课程、吴恩达开新课，顶级生成式AI必备课程来了](https://posts.careerengine.us/p/65433f3ebc56941b0fbfebee)
 - [【机器之心】全球最强长文本大模型，一次可读35万汉字：Baichuan2-192K上线](https://posts.careerengine.us/p/6541dd47b89f5a4e5f0b3845)
+- [【机器之心】吴恩达加入图灵奖得主讨论：「AI灭绝论」弊大于利](https://posts.careerengine.us/p/6541dd56349bad4e9b37f269)
+- [【机器之心】GPT-4写代码，DALL·E-3+MJ搞定画面，AI版「愤怒的南瓜」来袭](https://posts.careerengine.us/p/6541dd5e5afc3a4ebd719093)
+- [【机器之心】四万字详解AI对齐：北大联合多高校团队发布对齐全面性综述](https://posts.careerengine.us/p/6541dd5e5afc3a4ebd71908b)
 - [【机器之心】用童话训练AI模型，微软找到了探索生成模型参数的新切入点](https://posts.careerengine.us/p/6540800f317853791e134d49)
-- [【机器之心】基于Transformer和注意力的可解释核苷酸语言模型，用于pegRNA优化设计](https://posts.careerengine.us/p/653f70024d9e15227fab1f72)
 - [【机器之心】图灵奖得主吵起来了，LeCun：Bengio、Hinton等的AI灭绝论是荒谬的](https://posts.careerengine.us/p/653f6ff3c2beac2232c278ae)
+- [【机器之心】基于Transformer和注意力的可解释核苷酸语言模型，用于pegRNA优化设计](https://posts.careerengine.us/p/653f70024d9e15227fab1f72)
 - [【机器之心】比Transformer更好，无Attention、MLPs的BERT、GPT反而更强了](https://posts.careerengine.us/p/653e62aa97e1eb705042baa6)
-- [【机器之心】国内唯一全面对标OpenAI的创业公司，大模型已经出到第三代](https://posts.careerengine.us/p/653c8e6c98f6f03accc74253)
 - [......【查看更多】......](/details/tags/ai.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -70,25 +70,25 @@
 
 
 - [【机器之心】让大模型自主探索开放世界，北大&智源提出训练框架LLaMA-Rider](https://posts.careerengine.us/p/6549b214f0473825acbce20e)
-- [【机器之心】大幅提升用户行为表征通用性，蚂蚁新模型获CIKM-2023最佳应用论文奖](https://posts.careerengine.us/p/65486e792fe03a3193ea0d41)
-- [【机器之心】元象XVERSE-65B：国内最大开源模型来了，高性能无条件免费商用](https://posts.careerengine.us/p/65486e6642524d311e16be27)
-- [【机器之心】李开复官宣「全球最强」开源大模型：一次处理40万汉字、中英均霸榜](https://posts.careerengine.us/p/65486e6642524d311e16be1f)
 - [【机器之心】GPU推理提速4倍，256K上下文全球最长：无问芯穹刷新大模型优化记录](https://posts.careerengine.us/p/65486e538bd1a630dea2fc3c)
+- [【机器之心】李开复官宣「全球最强」开源大模型：一次处理40万汉字、中英均霸榜](https://posts.careerengine.us/p/65486e6642524d311e16be1f)
+- [【机器之心】元象XVERSE-65B：国内最大开源模型来了，高性能无条件免费商用](https://posts.careerengine.us/p/65486e6642524d311e16be27)
+- [【机器之心】大幅提升用户行为表征通用性，蚂蚁新模型获CIKM-2023最佳应用论文奖](https://posts.careerengine.us/p/65486e792fe03a3193ea0d41)
 - [【机器之心】给大模型评分的基准靠谱吗？Anthropic来了次大评估](https://posts.careerengine.us/p/65470e40ca31003b66b98812)
-- [【机器之心】性能全面超越LLaMA2，0门槛商用，这个国产大模型要改变开源竞争格局了](https://posts.careerengine.us/p/65433f3ebc56941b0fbfebe6)
-- [【机器之心】用FP8训练大模型有多香？微软：比BF16快64％，省42％内存](https://posts.careerengine.us/p/65433f3ebc56941b0fbfebde)
 - [【机器之心】vivo发布蓝心大模型，手机端运行且开源，自研系统亮相](https://posts.careerengine.us/p/65433f4b4bcad51b7f235535)
+- [【机器之心】用FP8训练大模型有多香？微软：比BF16快64％，省42％内存](https://posts.careerengine.us/p/65433f3ebc56941b0fbfebde)
+- [【机器之心】性能全面超越LLaMA2，0门槛商用，这个国产大模型要改变开源竞争格局了](https://posts.careerengine.us/p/65433f3ebc56941b0fbfebe6)
 - [【机器之心】斯坦福马腾宇创业，大模型方向，Manning、Chris-Re等是顾问](https://posts.careerengine.us/p/6541dd56349bad4e9b37f261)
-- [【机器之心】独家-|-GPT-4、Midjourney之外，谭平创业团队要造一个3D基础模型](https://posts.careerengine.us/p/65407feedfbb20782dd32a16)
 - [【机器之心】图模型也要大？清华朱文武团队有这样一些观点](https://posts.careerengine.us/p/6540800361a77278dd59e2a6)
+- [【机器之心】独家-|-GPT-4、Midjourney之外，谭平创业团队要造一个3D基础模型](https://posts.careerengine.us/p/65407feedfbb20782dd32a16)
 - [【机器之心】苹果文生图大模型亮相：俄罗斯套娃式扩散，支持1024x1024分辨率](https://posts.careerengine.us/p/653f6ff2c2beac2232c278a6)
 - [【机器之心】更高清写实的人体生成模型HyperHuman来了，基于隐式结构扩散，刷新多项SOTA](https://posts.careerengine.us/p/653e62bfd543c870b8a23669)
-- [【机器之心】生成的分子几乎-100％-有效，用于逆向分子设计的引导扩散模型](https://posts.careerengine.us/p/653c8e8d832a803bad68b80f)
-- [【机器之心】小模型如何比肩大模型，北理工发布明德大模型MindLLM，小模型潜力巨大](https://posts.careerengine.us/p/653c8e80c279063b3719e3d8)
 - [【机器之心】谷歌20亿美元砸向Anthropic：大模型军备竞赛升级](https://posts.careerengine.us/p/653c8e743a1d083af0034d0c)
-- [【机器之心】腾讯混元大模型再进化，文生图能力重磅上线，这里是一手实测](https://posts.careerengine.us/p/653a3ee84be3d53def87365a)
+- [【机器之心】小模型如何比肩大模型，北理工发布明德大模型MindLLM，小模型潜力巨大](https://posts.careerengine.us/p/653c8e80c279063b3719e3d8)
+- [【机器之心】生成的分子几乎-100％-有效，用于逆向分子设计的引导扩散模型](https://posts.careerengine.us/p/653c8e8d832a803bad68b80f)
 - [【机器之心】Nature-|-30多年前的断言被打破了？大模型具备了人类水平的系统泛化能力](https://posts.careerengine.us/p/653a3ee84be3d53def873652)
-- [【机器之心】DISC-FinLLM：复旦大学团队发布中文智慧金融系统，采用多专家微调框架](https://posts.careerengine.us/p/65389d207de2583da37ae97f)
+- [【机器之心】腾讯混元大模型再进化，文生图能力重磅上线，这里是一手实测](https://posts.careerengine.us/p/653a3ee84be3d53def87365a)
+- [【机器之心】LeCun又双叒唱衰自回归LLM：GPT-4的推理能力非常有限，有两篇论文为证](https://posts.careerengine.us/p/65389d0af88d963d013a4a0e)
 - [......【查看更多】......](/details/tags/llm.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -105,11 +105,13 @@
 
 
 
+- [【机器之心】用过GPT-4-Turbo以后，我们再也回不去了](https://posts.careerengine.us/p/654b171fb55ced032a19a558)
+- [【机器之心】热乎的GPTs体验报告：创建专属GPT，不懂代码人的春天来了](https://posts.careerengine.us/p/654b171fb55ced032a19a560)
 - [【机器之心】178页，128个案例，GPT-4V医疗领域全面测评，离临床应用与实际决策尚有距离](https://posts.careerengine.us/p/65470e5038791d3b97f7f3b9)
 - [【机器之心】懂幽默，嘲讽技能拉满，马斯克打造的ChatGPT竞品终于爆出了聊天截图](https://posts.careerengine.us/p/6545da61e4c5dd61e4cafa26)
 - [【机器之心】万万没想到，ChatGPT参数只有200亿？](https://posts.careerengine.us/p/65407feedfbb20782dd32a0e)
-- [【机器之心】像搭乐高一样做数学定理证明题，GPT-3.5证明成功率达新SOTA](https://posts.careerengine.us/p/653f70024d9e15227fab1f7a)
 - [【机器之心】ChatGPT上新文件分析、自动搜索等功能，初创公司的产品被取代？](https://posts.careerengine.us/p/653f6ffbef12002255ba6e1c)
+- [【机器之心】像搭乐高一样做数学定理证明题，GPT-3.5证明成功率达新SOTA](https://posts.careerengine.us/p/653f70024d9e15227fab1f7a)
 - [【机器之心】元乘象Chatimg3.0来了，赶超GPT-4V，还给出产业升级新打法](https://posts.careerengine.us/p/653e62a36bf1d1701f6b27e3)
 - [【机器之心】开源版「ChatGPT-Plus」来了，能做数据分析、插件调用、自动上网，落地真实世界的智能体](https://posts.careerengine.us/p/65389d207de2583da37ae987)
 - [【机器之心】讯飞星火升级-3.0：整体超越-ChatGPT，2024-年将实现对标-GPT-4](https://posts.careerengine.us/p/6537a0f96d4ab12ced07e5a7)
@@ -121,10 +123,8 @@
 - [【机器之心】陶哲轩：我用GPT-4辅助证明不等式定理，论文还会上传arXiv](https://posts.careerengine.us/p/6524d4fd32095522ef2691c5)
 - [【机器之心】媲美GPT-4V，仅使用1.2M数据、8个A100，一天内完成训练，LLaVA-1.5刷新11个基准SOTA](https://posts.careerengine.us/p/65238a61a3e59847a112618a)
 - [【机器之心】试过GPT-4V后，微软写了个166页的测评报告，业内人士：高级用户必读](https://posts.careerengine.us/p/651ba97efaad2465443e872a)
-- [【机器之心】ChatGPT终于正式联网，还能给出答案出处](https://posts.careerengine.us/p/6514ef644fb3c763fcf1d4c2)
 - [【机器之心】Meta版ChatGPT来了：Llama-2加持，接入必应搜索，小扎现场演示](https://posts.careerengine.us/p/6514ef644fb3c763fcf1d4ca)
-- [【机器之心】ChatGPT最重大更新来了：多模态将上线，能说会看了](https://posts.careerengine.us/p/651248196ed5491da65764ea)
-- [【机器之心】ChatGPT发力《龙与地下城》剧情设计，帮你一步步上手地下城主](https://posts.careerengine.us/p/650e67c0da9fb227c9e23353)
+- [【机器之心】ChatGPT终于正式联网，还能给出答案出处](https://posts.careerengine.us/p/6514ef644fb3c763fcf1d4c2)
 - [......【查看更多】......](/details/tags/gpt.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -391,25 +391,25 @@
 
 
 
+- [【机器之心】受8位合著者举报，引爆物理圈的室温超导论文被Nature撤稿，一作正接受调查](https://posts.careerengine.us/p/654b173afffab303b35f53c8)
+- [【机器之心】北大具身智能团队提出需求驱动导航，对齐人类需求，让机器人更高效](https://posts.careerengine.us/p/654b173afffab303b35f53b7)
 - [【机器之心】联发科翻身，同蓝厂联合研发「全大核」体系，vivo-X100稳了](https://posts.careerengine.us/p/6549b1e4bb35ca24ee987a5d)
 - [【机器之心】苹果M3系列登场，性能翻倍，M1、M2已成时代眼泪](https://posts.careerengine.us/p/65407ffc6e7c08787b5d1783)
 - [【机器之心】用50多年时间，探索最令人困惑的复杂性理论知识极限](https://posts.careerengine.us/p/653e62bfd543c870b8a23671)
 - [【机器之心】清华光电计算新突破：芯片性能提升万倍，研究登顶Nature](https://posts.careerengine.us/p/653a3eef09a9543e0ee5db29)
-- [【机器之心】公开出售GitHub-star、Kaggle点赞，「黑市」越来越明目张胆了吗？](https://posts.careerengine.us/p/6537a109018ff72d3c2b7873)
-- [【机器之心】大咖云集，看点前瞻：蚂蚁集团主办CNCC2023五大论坛](https://posts.careerengine.us/p/6537a109018ff72d3c2b787b)
-- [【机器之心】4K画质3D合成视频，渲染速度提升30多倍，论文作者带你解读新研究](https://posts.careerengine.us/p/6537a11eb17f782da2c64549)
 - [【机器之心】NeurIPS-2023-|-「解释一切」图像概念解释器来了，港科大团队出品](https://posts.careerengine.us/p/6537a11eb17f782da2c64541)
-- [【机器之心】清华朱文武团队：开源世界首个轻量图自动机器学习库AutoGL-light](https://posts.careerengine.us/p/6534aa9507f19e64be3eddea)
+- [【机器之心】4K画质3D合成视频，渲染速度提升30多倍，论文作者带你解读新研究](https://posts.careerengine.us/p/6537a11eb17f782da2c64549)
+- [【机器之心】大咖云集，看点前瞻：蚂蚁集团主办CNCC2023五大论坛](https://posts.careerengine.us/p/6537a109018ff72d3c2b787b)
+- [【机器之心】公开出售GitHub-star、Kaggle点赞，「黑市」越来越明目张胆了吗？](https://posts.careerengine.us/p/6537a109018ff72d3c2b7873)
 - [【机器之心】220亿晶体管，IBM机器学习专用处理器NorthPole，能效25倍提升](https://posts.careerengine.us/p/6534aa9607f19e64be3eddf2)
-- [【机器之心】数学逻辑和计算机程序代码之间的深层联系：互为镜像](https://posts.careerengine.us/p/65335250014744200cf6460a)
+- [【机器之心】清华朱文武团队：开源世界首个轻量图自动机器学习库AutoGL-light](https://posts.careerengine.us/p/6534aa9507f19e64be3eddea)
 - [【机器之心】聚焦计算赋能创新，第三届智能计算创新论坛成功举行](https://posts.careerengine.us/p/65335247131bf81fe0d8ae65)
-- [【机器之心】获1000万美元捐款，用于代码重构、上云，论文预印版平台arXiv「好起来了」](https://posts.careerengine.us/p/653202f54d31072972184a79)
+- [【机器之心】数学逻辑和计算机程序代码之间的深层联系：互为镜像](https://posts.careerengine.us/p/65335250014744200cf6460a)
 - [【机器之心】复旦大学联合华为诺亚提出VidRD框架，实现迭代式的高质量视频生成](https://posts.careerengine.us/p/653202feb53c20299daea856)
-- [【机器之心】RTX-4090也被禁售了？](https://posts.careerengine.us/p/6530b97b8295b420b5a31b98)
+- [【机器之心】获1000万美元捐款，用于代码重构、上云，论文预印版平台arXiv「好起来了」](https://posts.careerengine.us/p/653202f54d31072972184a79)
 - [【机器之心】4K画质3D合成视频不再卡成幻灯片，新方法将渲染速度提高了30多倍](https://posts.careerengine.us/p/6530b97b8295b420b5a31ba7)
+- [【机器之心】RTX-4090也被禁售了？](https://posts.careerengine.us/p/6530b97b8295b420b5a31b98)
 - [【机器之心】CityDreamer：一键生成无边界的3D城市](https://posts.careerengine.us/p/652b6d97846df4040dc59261)
-- [【机器之心】别再「浪费」GPU了，FlashAttention重磅升级，实现长文本推理速度8倍提升](https://posts.careerengine.us/p/652a2bfa4f736d13887f8fd0)
-- [【机器之心】全球这十所高校实验室招硕、博、研究助理](https://posts.careerengine.us/p/652a2c2a44a67e1413f8ca39)
 - [【机器之心】​将专家知识与深度学习结合，清华团队开发DeepSEED进行高效启动子设计](https://posts.careerengine.us/p/652a2c45cd0c3914a6f8de16)
 - [......【查看更多】......](/details/tags/other.md)
 
