@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-08 18:00:14，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-08 21:01:20，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2023-11-08-不到1分钟开发一个GPT应用！各路大神疯狂整活，网友：ChatGPT就是新iPhone](https://posts.careerengine.us/p/654b3f1ba6c31056f1a95b9c) ![](/assets/new.png)  
-- [2023-11-08-姚班天才开发《完蛋！我被大模型包围了》游戏爆火，一日用户过万挤爆服务器](https://posts.careerengine.us/p/654b3f1ca6c31056f1a95bb5) ![](/assets/new.png)  
-- [2023-11-08-马斯克最新芯片：脑机专用，让失明人群“看见”](https://posts.careerengine.us/p/654b3f1ca6c31056f1a95bac) ![](/assets/new.png)  
-- [2023-11-08-ChatGPT只算L1阶段，谷歌提出AGI完整路线图](https://posts.careerengine.us/p/654b3f1fa6c31056f1a95bdf) ![](/assets/new.png)  
-- [2023-11-08-48小时极限大模型创新：一群年轻人在杭州搞了场AI创业实验](https://posts.careerengine.us/p/654b3f413b0de757c61c0c26) ![](/assets/new.png)  
+- [2023-11-08-不到1分钟开发一个GPT应用！各路大神疯狂整活，网友：ChatGPT就是新iPhone](https://posts.careerengine.us/p/654b3f1ba6c31056f1a95b9c)  
+- [2023-11-08-姚班天才开发《完蛋！我被大模型包围了》游戏爆火，一日用户过万挤爆服务器](https://posts.careerengine.us/p/654b3f1ca6c31056f1a95bb5)  
+- [2023-11-08-马斯克最新芯片：脑机专用，让失明人群“看见”](https://posts.careerengine.us/p/654b3f1ca6c31056f1a95bac)  
+- [2023-11-08-ChatGPT只算L1阶段，谷歌提出AGI完整路线图](https://posts.careerengine.us/p/654b3f1fa6c31056f1a95bdf)  
+- [2023-11-08-48小时极限大模型创新：一群年轻人在杭州搞了场AI创业实验](https://posts.careerengine.us/p/654b3f413b0de757c61c0c26)  
 - [2023-11-07-马斯克版ChatGPT背后开发工具上线！xAI产品两连发，网友：交付速度太疯狂](https://posts.careerengine.us/p/654953b834fbe06e8e099aeb)  
 - [2023-11-07-让大模型忘记哈利波特，微软新研究上演Llama-2记忆消除术，真·用魔法打败魔法（doge）](https://posts.careerengine.us/p/654953a9ede1056e0500f7bc)  
 - [2023-11-07-大模型集体失控！南洋理工新型攻击，主流AI无一幸免](https://posts.careerengine.us/p/654953a9ede1056e0500f7b4)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-11-07-CIKM-2023最佳应用论文：多时间尺度分布预测的用户表征学习方法](https://posts.careerengine.us/p/6549ca5d535bde188ae81d66)  
-- [2023-11-07-深圳内推-|-腾讯光子工作室群招聘大语言模型方向算法实习生](https://posts.careerengine.us/p/6549ca5e535bde188ae81d76)  
-- [2023-11-07-​NeurIPS-2023-|-PropCare：面向因果关系推荐系统的倾向性估计方法](https://posts.careerengine.us/p/6549ca5e535bde188ae81d6e)  
+- [2023-11-08-北京师范大学人工智能学院诚邀海内外优秀人才加盟](https://posts.careerengine.us/p/654b66ff9e58f1292c064147) ![](/assets/new.png)  
+- [2023-11-08-NeurIPS-2023-Spotlight-|-半监督与扩散模型结合，实现少标签下可控生成](https://posts.careerengine.us/p/654b66ff9e58f1292c06413e) ![](/assets/new.png)  
+- [2023-11-08-EMNLP-2023-|-MMEdit——如何编辑多模态大语言模型？](https://posts.careerengine.us/p/654b672880a6742a1078225a) ![](/assets/new.png)  
+- [2023-11-08-科研实习-|-南方科技大学魏鸿鑫老师招收机器学习方向访问学生/RA/博后](https://posts.careerengine.us/p/654b672a80a6742a1078229e) ![](/assets/new.png)  
 - [2023-11-07-传统卷积已经彻底输给Transformer了吗？](https://posts.careerengine.us/p/6549ca5f535bde188ae81d90)  
-- [2023-11-06-窥探机器中的“人”性：探索LLM多智能体社会的行为特质](https://posts.careerengine.us/p/6548783afeb8d35a3cba838e)  
-- [2023-11-06-大模型并行推理的太祖长拳：解读Jeff-Dean署名MLSys-2023杰出论文](https://posts.careerengine.us/p/6548783afeb8d35a3cba8396)  
-- [2023-11-06-ICML-2023-|-子群体偏移问题深入研究](https://posts.careerengine.us/p/6547c69cbd806741f8d9de70)  
-- [2023-11-06-NeurIPS-2023-|-基于多模态统一表达的跨模态泛化](https://posts.careerengine.us/p/6547c6b2256ac242c107aaa4)  
-- [2023-11-06-博士申请-|-南方科技大学——鹏城实验室任智祥老师招收AI-for-Science方向联培博士生](https://posts.careerengine.us/p/6547c6b2256ac242c107aa9c)  
+- [2023-11-07-​NeurIPS-2023-|-PropCare：面向因果关系推荐系统的倾向性估计方法](https://posts.careerengine.us/p/6549ca5e535bde188ae81d6e)  
+- [2023-11-07-深圳内推-|-腾讯光子工作室群招聘大语言模型方向算法实习生](https://posts.careerengine.us/p/6549ca5e535bde188ae81d76)  
+- [2023-11-07-CIKM-2023最佳应用论文：多时间尺度分布预测的用户表征学习方法](https://posts.careerengine.us/p/6549ca5d535bde188ae81d66)  
 - [2023-11-06-上海内推-|-上海人工智能实验室招聘AI-for-Astronomy方向研究实习生](https://posts.careerengine.us/p/6547c6b2256ac242c107aaac)  
-- [2023-11-04-ACM-MM-2023-|-清华、华为联合提出MISSRec：兴趣感知的多模态序列推荐预训练](https://posts.careerengine.us/p/654645c378366022ddd3306f)  
-- [2023-11-04-武汉内推-|-金山办公WPS招聘AIGC方向算法实习生](https://posts.careerengine.us/p/654645c378366022ddd33067)  
-- [2023-11-04-博后招募-|-大湾区大学（筹）余梓彤、郑旭彬课题组招收CV方向博后/RA/访问学生](https://posts.careerengine.us/p/654645c378366022ddd3305f)  
+- [2023-11-06-博士申请-|-南方科技大学——鹏城实验室任智祥老师招收AI-for-Science方向联培博士生](https://posts.careerengine.us/p/6547c6b2256ac242c107aa9c)  
+- [2023-11-06-NeurIPS-2023-|-基于多模态统一表达的跨模态泛化](https://posts.careerengine.us/p/6547c6b2256ac242c107aaa4)  
+- [2023-11-06-ICML-2023-|-子群体偏移问题深入研究](https://posts.careerengine.us/p/6547c69cbd806741f8d9de70)  
+- [2023-11-06-大模型并行推理的太祖长拳：解读Jeff-Dean署名MLSys-2023杰出论文](https://posts.careerengine.us/p/6548783afeb8d35a3cba8396)  
+- [2023-11-06-窥探机器中的“人”性：探索LLM多智能体社会的行为特质](https://posts.careerengine.us/p/6548783afeb8d35a3cba838e)  
 - [2023-11-04-FaceChain开源虚拟试衣功能，打造更便捷高效的试衣新体验](https://posts.careerengine.us/p/654645c278366022ddd33057)  
-- [2023-11-03-ShareGPT平替！利用苏格拉底提问模拟器更好地蒸馏ChatGPT对话能力](https://posts.careerengine.us/p/6544f2146be3e4618063480d)  
-- [2023-11-03-NeurIPS-2023-|-如何从理论上研究生成式数据增强的效果？](https://posts.careerengine.us/p/6544f2156be3e46180634815)  
+- [2023-11-04-博后招募-|-大湾区大学（筹）余梓彤、郑旭彬课题组招收CV方向博后/RA/访问学生](https://posts.careerengine.us/p/654645c378366022ddd3305f)  
+- [2023-11-04-武汉内推-|-金山办公WPS招聘AIGC方向算法实习生](https://posts.careerengine.us/p/654645c378366022ddd33067)  
+- [2023-11-04-ACM-MM-2023-|-清华、华为联合提出MISSRec：兴趣感知的多模态序列推荐预训练](https://posts.careerengine.us/p/654645c378366022ddd3306f)  
 - [2023-11-03-上海内推-|-微软亚洲研究院工业创新中心招聘研究开发型实习生](https://posts.careerengine.us/p/6544f2273d497161ad1e6eaa)  
-- [2023-11-02-北京内推-|-北京大学光华管理学院彭一杰教授招收大语言模型方向算法实习生](https://posts.careerengine.us/p/65433b1ab3528d7e5866543f)  
-- [2023-11-02-文末送书-|-GPT时代的量化交易：全景展现底层逻辑+大量揭秘实战案例](https://posts.careerengine.us/p/65433b116de5cb7e42469036)  
-- [2023-11-02-大语言模型的数学之路](https://posts.careerengine.us/p/65433b010c63d77df675cdb6)  
+- [2023-11-03-NeurIPS-2023-|-如何从理论上研究生成式数据增强的效果？](https://posts.careerengine.us/p/6544f2156be3e46180634815)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
