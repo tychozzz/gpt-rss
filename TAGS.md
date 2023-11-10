@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-10 15:00:29。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-10 18:00:24。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -174,6 +174,7 @@
 
 
 - [【机器之心】上万张照片怎么找？百度网盘：你只管说，我们帮你找](https://posts.careerengine.us/p/64b4d23d444d8c144cfe2963)
+- [【量子位】百度网盘变了！进化成学习神器：音视频转文稿、加字幕，还能一键生成PPT！](https://posts.careerengine.us/p/654dd01fd529c81123add4cb)
 - [【量子位】百度开大会，王小川伺机宣布新融资](https://posts.careerengine.us/p/652e6697c102505aa26cc485)
 - [【PaperWeekly】深圳内推-|-百度文心ERNIE团队招聘NLP数据科学算法实习生](https://posts.careerengine.us/p/64faa0106ebf823fe3343af1)
 - [【PaperWeekly】北京/上海/深圳内推-|-百度视觉技术部招聘内容理解/3D视觉等方向算法实习生](https://posts.careerengine.us/p/64e58af081107341ef9c560a)
@@ -194,6 +195,7 @@
 
 
 - [【机器之心】中科院、阿里出品FF3D，创建自定义风格化3D人像只需三分钟](https://posts.careerengine.us/p/64a8f17356a2e2354e54ec78)
+- [【量子位】4999！这款智能眼镜在进博会上火了，背后团队已获阿里千万元战略投资](https://posts.careerengine.us/p/654dd02e030481116c4535e8)
 - [【量子位】渐冻症少年闪光阿里数学竞赛！靠自学进MIT研究黑洞，导师：很像霍金](https://posts.careerengine.us/p/651f913d4eea38290b9d0929)
 - [【量子位】阿里数学竞赛最年轻金奖得主：17岁北大读大二，小学就在看数学分析](https://posts.careerengine.us/p/650590fc74c19334bdafec1f)
 - [【量子位】逍遥子突然辞去阿里一切职务！之前不再担任董事长，现在阿里云CEO也卸了](https://posts.careerengine.us/p/64fe97375a95ca2620951c98)
