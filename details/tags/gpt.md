@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-11 15:00:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-11 18:00:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## GPT
 
@@ -125,6 +125,7 @@
 - [2023-07-05-ChatGPT紧急下线联网模式，曾被曝能白嫖付费网页](https://posts.careerengine.us/p/64a50a67269b326ee12fcf91) 
 - [2023-06-29-英伟达H100杀疯了：11分钟训完GPT-3，霸榜8项测试，集群性能逼近线性增长](https://posts.careerengine.us/p/649d742dd905e33ebbfb90c6) 
 - [2023-06-29-ChatGPT做的简历戳中HR心巴，小伙刚毕业就拿下梦想offer！](https://posts.careerengine.us/p/649d742dd905e33ebbfb90b6) 
+- [2023-11-11-双11最后一波，低至3折！ChatGPT入门好书任你挑，文末还有独家福利](https://posts.careerengine.us/p/654f274dcb775b3758a57d86) 
 - [2023-11-03-ShareGPT平替！利用苏格拉底提问模拟器更好地蒸馏ChatGPT对话能力](https://posts.careerengine.us/p/6544f2146be3e4618063480d) 
 - [2023-11-02-文末送书-|-GPT时代的量化交易：全景展现底层逻辑+大量揭秘实战案例](https://posts.careerengine.us/p/65433b116de5cb7e42469036) 
 - [2023-10-24-北大提出RestGPT框架，通过RESTful-API控制真实应用的Agent](https://posts.careerengine.us/p/65379fb2072cd624480d7665) 
@@ -133,8 +134,8 @@
 - [2023-09-12-今晚直播-|-上海财经大学博士生蔡树阳：通过单个空格逃避ChatGPT检测器](https://posts.careerengine.us/p/64fffd047b1df532f2837aab) 
 - [2023-09-11-直播预告-|-上海财经大学博士生蔡树阳：通过单个空格逃避ChatGPT检测器](https://posts.careerengine.us/p/64fea2e01afa1124f54d90a9) 
 - [2023-08-26-独家采访WizardLM团队，详解WizardCoder/Math超越GPT4/ChatGPT的RLEIF算法](https://posts.careerengine.us/p/64e9e3d32437be37cd3692a6) 
-- [2023-07-11-GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316) 
 - [2023-07-11-学弟用-ChatGPT-发了一篇顶会…](https://posts.careerengine.us/p/64ace52b7d7f74078357f1b5) 
+- [2023-07-11-GPT-4.5来了！地表最强Code-Interpreter与Midjourney联动，5分做出大片-|-附保姆级攻略](https://posts.careerengine.us/p/64ace5380615df07a9c09316) 
 - [2023-06-28-文末送书-|-系统讲解ChatGPT核心原理，教你构建高质量的提示指令](https://posts.careerengine.us/p/649c0e3e94b82a73c3a5a93d) 
 - [2023-04-11-中科院张家俊：ChatGPT中的提示与指令学习](https://www.52nlp.cn/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%bc%a0%e5%ae%b6%e4%bf%8a%ef%bc%9achatgpt%e4%b8%ad%e7%9a%84%e6%8f%90%e7%a4%ba%e4%b8%8e%e6%8c%87%e4%bb%a4%e5%ad%a6%e4%b9%a0) 
 - [2023-03-27-“国产类-ChatGPT-”所存在的差距与挑战-专家圆桌](https://www.52nlp.cn/%e5%9b%bd%e4%ba%a7%e7%b1%bb-chatgpt-%e6%89%80%e5%ad%98%e5%9c%a8%e7%9a%84%e5%b7%ae%e8%b7%9d%e4%b8%8e%e6%8c%91%e6%88%98-%e4%b8%93%e5%ae%b6%e5%9c%86%e6%a1%8c) 
