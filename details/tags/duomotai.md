@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-11 18:00:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-12 15:00:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 多模态
 
@@ -11,6 +11,7 @@
 - [2023-10-28-多模态搜索算法如何让视频搜索更精准？腾讯独家揭秘，超详细](https://posts.careerengine.us/p/653c8e743a1d083af0034d14) 
 - [2023-09-30-多模态版Llama2上线，Meta发布AnyMAL](https://posts.careerengine.us/p/6517a4b73fec074ce07ab395) 
 - [2023-06-27-基于信息论的校准技术，CML让多模态机器学习更可靠](https://posts.careerengine.us/p/649a697cfba2fd44a974741f) 
+- [2023-11-12-北大&腾讯打造多模态15边形战士！语言作“纽带”，拳打脚踢各模态，超越Imagebind](https://posts.careerengine.us/p/65504ca2d8a0792896491abe) 
 - [2023-11-06-NeurIPS-2023-|-基于多模态统一表达的跨模态泛化](https://posts.careerengine.us/p/6547c6b2256ac242c107aaa4) 
 - [2023-11-04-ACM-MM-2023-|-清华、华为联合提出MISSRec：兴趣感知的多模态序列推荐预训练](https://posts.careerengine.us/p/654645c378366022ddd3306f) 
 - [2023-10-30-ICCV-2023-|-用“自编码器+多模态学习”更有效地解决3D物体可供性问题](https://posts.careerengine.us/p/653f843a0e930675499fdf05) 
