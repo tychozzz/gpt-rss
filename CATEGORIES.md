@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-12 23:00:16，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-13 15:00:11，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -10,7 +10,7 @@
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-11-12-EMNLP-2023-|-基于知识图谱嵌入的关系感知集成学习算法](https://posts.careerengine.us/p/6550c49fe124714fa12816b4) ![](/assets/new.png)  
-- [2023-11-12-从ID-based到LLM-based：可迁移推荐系统发展](https://posts.careerengine.us/p/6550c4b1aaece1504b291e9b) ![](/assets/new.png)  
-- [2023-11-12-科研实习-|-北京大学孔桂兰老师招收医疗大数据与人工智能方向实习访问学生](https://posts.careerengine.us/p/6550c4b2aaece1504b291eab) ![](/assets/new.png)  
-- [2023-11-12-NeurIPS-2023-|-北大具身智能团队提出需求驱动导航：对齐人类需求，让机器人更高效](https://posts.careerengine.us/p/6550c4b2aaece1504b291eb3) ![](/assets/new.png)  
-- [2023-11-11-双11最后一波，低至3折！ChatGPT入门好书任你挑，文末还有独家福利](https://posts.careerengine.us/p/654f274dcb775b3758a57d86)  
-- [2023-11-11-NeurIPS-2023-|-多模态基础大模型的高效微调](https://posts.careerengine.us/p/654f274ccb775b3758a57d66)  
+- [2023-11-13-从梯度最大化看Attention的Scale操作](https://posts.careerengine.us/p/6551acda4746b026514c5688) ![](/assets/new.png)  
+- [2023-11-13-论文辅导-|-为什么建议你早点发表一篇核心论文？答案在这里！](https://posts.careerengine.us/p/6551ace9f5124126bc3562c3) ![](/assets/new.png)  
+- [2023-11-13-NeurIPS-2023-|-MixFormerV2：基于Transformer的高效跟踪器](https://posts.careerengine.us/p/6551ace9f5124126bc3562bb) ![](/assets/new.png)  
+- [2023-11-13-北京/上海内推-|-小红书社区技术部智能创作组招聘AIGC方向算法实习生](https://posts.careerengine.us/p/6551acf7733b8c26eff52083) ![](/assets/new.png)  
+- [2023-11-12-NeurIPS-2023-|-北大具身智能团队提出需求驱动导航：对齐人类需求，让机器人更高效](https://posts.careerengine.us/p/6550c4b2aaece1504b291eb3)  
+- [2023-11-12-科研实习-|-北京大学孔桂兰老师招收医疗大数据与人工智能方向实习访问学生](https://posts.careerengine.us/p/6550c4b2aaece1504b291eab)  
+- [2023-11-12-从ID-based到LLM-based：可迁移推荐系统发展](https://posts.careerengine.us/p/6550c4b1aaece1504b291e9b)  
+- [2023-11-12-EMNLP-2023-|-基于知识图谱嵌入的关系感知集成学习算法](https://posts.careerengine.us/p/6550c49fe124714fa12816b4)  
 - [2023-11-11-国内AI彻底爆了！全网独一份GPT+AI资源….](https://posts.careerengine.us/p/654f2738d9a2173727ddf699)  
-- [2023-11-10-博士申请-|-香港城市大学赵翔宇老师招收AI/ML/LLM方向全奖/联培博士生](https://posts.careerengine.us/p/654e4608a03d8858dc31fc6d)  
-- [2023-11-10-简单得令人尴尬的FSQ：“四舍五入”超越了VQ-VAE](https://posts.careerengine.us/p/654e4608a03d8858dc31fc65)  
-- [2023-11-10-北京内推-|-中国电信总部大数据AI中心招聘多模态大模型算法实习生](https://posts.careerengine.us/p/654e4608a03d8858dc31fc5d)  
+- [2023-11-11-NeurIPS-2023-|-多模态基础大模型的高效微调](https://posts.careerengine.us/p/654f274ccb775b3758a57d66)  
+- [2023-11-11-双11最后一波，低至3折！ChatGPT入门好书任你挑，文末还有独家福利](https://posts.careerengine.us/p/654f274dcb775b3758a57d86)  
 - [2023-11-10-NeurIPS-2023-Spotlight-|-图对比学习的可证训练问题](https://posts.careerengine.us/p/654e4609a03d8858dc31fc7d)  
-- [2023-11-09-大语言模型里的Transformer还可以这么用？](https://posts.careerengine.us/p/654c70dfae10423e805c611f)  
-- [2023-11-09-北京内推-|-AMD北京算法团队招聘深度学习算法实习生（可远程）](https://posts.careerengine.us/p/654c70dfae10423e805c6107)  
-- [2023-11-09-NeurIPS-2023-|-MCUFormer：可在内存有限微控制器上部署的Vison-Transformer模型](https://posts.careerengine.us/p/654c70dfae10423e805c6117)  
+- [2023-11-10-北京内推-|-中国电信总部大数据AI中心招聘多模态大模型算法实习生](https://posts.careerengine.us/p/654e4608a03d8858dc31fc5d)  
+- [2023-11-10-简单得令人尴尬的FSQ：“四舍五入”超越了VQ-VAE](https://posts.careerengine.us/p/654e4608a03d8858dc31fc65)  
+- [2023-11-10-博士申请-|-香港城市大学赵翔宇老师招收AI/ML/LLM方向全奖/联培博士生](https://posts.careerengine.us/p/654e4608a03d8858dc31fc6d)  
 - [2023-11-09-独自一人，怒发AI顶会！](https://posts.careerengine.us/p/654c70c8643cc33e1eeff129)  
-- [2023-11-08-北京师范大学人工智能学院诚邀海内外优秀人才加盟](https://posts.careerengine.us/p/654b66ff9e58f1292c064147)  
-- [2023-11-08-NeurIPS-2023-Spotlight-|-半监督与扩散模型结合，实现少标签下可控生成](https://posts.careerengine.us/p/654b66ff9e58f1292c06413e)  
-- [2023-11-08-EMNLP-2023-|-MMEdit——如何编辑多模态大语言模型？](https://posts.careerengine.us/p/654b672880a6742a1078225a)  
+- [2023-11-09-NeurIPS-2023-|-MCUFormer：可在内存有限微控制器上部署的Vison-Transformer模型](https://posts.careerengine.us/p/654c70dfae10423e805c6117)  
+- [2023-11-09-北京内推-|-AMD北京算法团队招聘深度学习算法实习生（可远程）](https://posts.careerengine.us/p/654c70dfae10423e805c6107)  
+- [2023-11-09-大语言模型里的Transformer还可以这么用？](https://posts.careerengine.us/p/654c70dfae10423e805c611f)  
 - [2023-11-08-科研实习-|-南方科技大学魏鸿鑫老师招收机器学习方向访问学生/RA/博后](https://posts.careerengine.us/p/654b672a80a6742a1078229e)  
-- [2023-11-07-传统卷积已经彻底输给Transformer了吗？](https://posts.careerengine.us/p/6549ca5f535bde188ae81d90)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,26 +176,26 @@
 </summary>
 
 
+- [2023-11-13-年薪超80万美元Meta高管自述：焦虑、迷茫，即使拿到全美Top-1％的收入依然选择离职创业](https://posts.careerengine.us/p/6551b5d507d6a54f3e4b8d5f) ![](/assets/new.png)  
+- [2023-11-13-零一万物李开复：要做-ToC-的超级应用，成为-AI-2.0-时代的微信、抖音](https://posts.careerengine.us/p/6551b5d507d6a54f3e4b8d57) ![](/assets/new.png)  
 - [2023-11-12-爱立信被曝裁掉整个广州研发团队：赔偿N+3加年终奖；英伟达将为中国定制三款芯片；马斯克旗下首款聊天机器人将开源-|-AI一周资讯](https://posts.careerengine.us/p/655064799a82d917ec82f363)  
-- [2023-11-10-当大模型被塞进PC：如何提升算力利用效率？](https://posts.careerengine.us/p/654ddb882423f449a5dbe6e2)  
 - [2023-11-10-奥特曼放大招后，这家投资人砸了25亿的创业公司如何继续“中国OpenAI”称号？](https://posts.careerengine.us/p/654ddb882423f449a5dbe6da)  
-- [2023-11-09-重塑GitHub、颠覆程序开发：GitHub-Universe-2023发布重大更新](https://posts.careerengine.us/p/654c70f37561303eea90ac9d)  
-- [2023-11-09-阳光保险自研“正言”大模型，已应用于寿险和车险销售等场景](https://posts.careerengine.us/p/654c70f47561303eea90acad)  
+- [2023-11-10-当大模型被塞进PC：如何提升算力利用效率？](https://posts.careerengine.us/p/654ddb882423f449a5dbe6e2)  
 - [2023-11-09-极客时间-VIP-重磅升级｜买即赠左耳朵耗子《程序员练级攻略》新书](https://posts.careerengine.us/p/654c7106b55bb53f88f3f319)  
-- [2023-11-08-烧钱、裁员、叫停业务，这家曾经的自动驾驶独角兽正经历至暗时刻](https://posts.careerengine.us/p/654b1e5f55cba528c64b3018)  
+- [2023-11-09-阳光保险自研“正言”大模型，已应用于寿险和车险销售等场景](https://posts.careerengine.us/p/654c70f47561303eea90acad)  
+- [2023-11-09-重塑GitHub、颠覆程序开发：GitHub-Universe-2023发布重大更新](https://posts.careerengine.us/p/654c70f37561303eea90ac9d)  
 - [2023-11-08-AIGC是亏钱货？网易杭研是如何抓住大模型价值的](https://posts.careerengine.us/p/654b1e5f55cba528c64b300f)  
+- [2023-11-08-烧钱、裁员、叫停业务，这家曾经的自动驾驶独角兽正经历至暗时刻](https://posts.careerengine.us/p/654b1e5f55cba528c64b3018)  
 - [2023-11-07-GPTs一夜冲上热搜！OpenAI让不会编程的人也可以靠开发赚钱了](https://posts.careerengine.us/p/6549c7c9dede350abaf1da1a)  
 - [2023-11-06-李开复4个多月后“放大招”：对标OpenAI、谷歌，发布“全球最强”开源大模型](https://posts.careerengine.us/p/65487437d4e9f24837f9611d)  
 - [2023-11-05-字节宣布除夕放假、不占年假；印度“IT之父”要求年轻人每周工作70小时；Redis创始人用C语言写出最小聊天服务器｜AI一周资讯](https://posts.careerengine.us/p/6547298de81d653d2fce83ad)  
 - [2023-11-03-靠Kafka挣不了钱了？Confluent-财报一发，股价暴跌超-44％！](https://posts.careerengine.us/p/65448e3f849dd51c8012a834)  
-- [2023-11-02-仅凭7页PPT拿下1亿美元融资、半年后估值超10亿！“欧洲OpenAI”杀疯了](https://posts.careerengine.us/p/654339273044657115d43c3b)  
 - [2023-11-02-美的集团将上线国内首个智能家居大模型，已开源边端-AI-算法部署工具链](https://posts.careerengine.us/p/654339273044657115d43c53)  
-- [2023-10-31-解读-Gartner-2024-年十大战略技术趋势](https://posts.careerengine.us/p/654081a78efa720418eda137)  
+- [2023-11-02-仅凭7页PPT拿下1亿美元融资、半年后估值超10亿！“欧洲OpenAI”杀疯了](https://posts.careerengine.us/p/654339273044657115d43c3b)  
 - [2023-10-31-首次采用3nm制程、比M1-Max快80％！苹果亮相M3系列芯片，最高搭载40核GPU](https://posts.careerengine.us/p/6540819fb0babf03b0bfa490)  
-- [2023-10-30-为什么谷歌也不敢发布这项技术](https://posts.careerengine.us/p/653f40428bd9cf049a24ed9f)  
+- [2023-10-31-解读-Gartner-2024-年十大战略技术趋势](https://posts.careerengine.us/p/654081a78efa720418eda137)  
 - [2023-10-30-A0级以上新能源汽车市占率60％，全球齿轮制造大厂的数字化实践](https://posts.careerengine.us/p/653f40540451dd04faa9c093)  
-- [2023-10-29-程序员利用漏洞篡改ETC余额，一年私吞260余万元；小马智行获沙特1亿美元投资；AMD回应“中国区大幅裁员”-|-AI一周资讯](https://posts.careerengine.us/p/653e5f6ee8904f5af90a312f)  
-- [2023-10-28-颠覆式“下云”？英特尔-4400-万美元投资“从头开始捋云服务”的初创公司，硬刚公有云](https://posts.careerengine.us/p/653c9dae128d89738713c5b9)  
+- [2023-10-30-为什么谷歌也不敢发布这项技术](https://posts.careerengine.us/p/653f40428bd9cf049a24ed9f)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
