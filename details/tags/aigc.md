@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-15 23:00:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-16 15:00:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-11-16-0.6秒出图！手机跑Stable-Diffusion创下最快速度，而这仅仅是开始](https://posts.careerengine.us/p/65559bdb533fa46caf0327ea) 
 - [2023-11-02-支持二次编辑、导入虚拟引擎5，Stable-Diffusion进化出3D生成功能](https://posts.careerengine.us/p/65433f3ebc56941b0fbfebf6) 
 - [2023-09-01-听说文心一言App霸榜了，那必须来一波全方位实测了](https://posts.careerengine.us/p/64f184b6bb609876ce11d0c2) 
 - [2023-07-17-Sam-Altman：大家如此喜爱Code-Interpreter！这是结合Midjourney的神奇用例](https://posts.careerengine.us/p/64b4d25df9c5be14d18bc8f9) 
