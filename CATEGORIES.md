@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-17 23:00:38，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-18 08:00:10，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-11-17-Meta生成式AI连放大招：视频生成超越Gen-2，动图表情包随心定制](https://posts.careerengine.us/p/655765d3842df4219c5d8a12) ![](/assets/new.png)  
-- [2023-11-17-AndesGPT加潘塔纳尔：生成式AI端侧落地，OPPO给了我们答案](https://posts.careerengine.us/p/655765d3842df4219c5d8a1a) ![](/assets/new.png)  
-- [2023-11-17-数智上海2023峰会将于12月举办，邀各界共享数字化转型最新成果与经验](https://posts.careerengine.us/p/655765d3842df4219c5d8a02) ![](/assets/new.png)  
-- [2023-11-17-2023戈登贝尔奖揭晓：Frontier超算「量子级精度」材料模拟获奖](https://posts.careerengine.us/p/655765e50d969a21eb364fb5) ![](/assets/new.png)  
-- [2023-11-17-解决LLaMA、BERT等部署难题：首个4-bit浮点量化LLM来了](https://posts.careerengine.us/p/655765e50d969a21eb364fac) ![](/assets/new.png)  
+- [2023-11-17-Meta生成式AI连放大招：视频生成超越Gen-2，动图表情包随心定制](https://posts.careerengine.us/p/655765d3842df4219c5d8a12)  
+- [2023-11-17-AndesGPT加潘塔纳尔：生成式AI端侧落地，OPPO给了我们答案](https://posts.careerengine.us/p/655765d3842df4219c5d8a1a)  
+- [2023-11-17-数智上海2023峰会将于12月举办，邀各界共享数字化转型最新成果与经验](https://posts.careerengine.us/p/655765d3842df4219c5d8a02)  
+- [2023-11-17-2023戈登贝尔奖揭晓：Frontier超算「量子级精度」材料模拟获奖](https://posts.careerengine.us/p/655765e50d969a21eb364fb5)  
+- [2023-11-17-解决LLaMA、BERT等部署难题：首个4-bit浮点量化LLM来了](https://posts.careerengine.us/p/655765e50d969a21eb364fac)  
 - [2023-11-16-让天下没有难做的开发和运维，DevOps终于有了专属大模型，蚂蚁和北大联合发布](https://posts.careerengine.us/p/65559bea7533b76ce2a7e7aa)  
 - [2023-11-16-当韩国女团BLACKPINK进军二次元，清华叉院AI神器原来还能这么玩](https://posts.careerengine.us/p/65559bea7533b76ce2a7e7a2)  
 - [2023-11-16-当数据成为「生产资料」，三篇论文总结如何用水印技术保护AI训练数据版权](https://posts.careerengine.us/p/65559be97533b76ce2a7e79a)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2023-11-17-OceanBase数据库炸场！具备OLTP完整核心功能，实验室版本不输ClickHouse](https://posts.careerengine.us/p/65571500fd58bd15fc9349a2)  
-- [2023-11-17-腾讯最隐秘人才计划曝光！今年IOI金牌全员现身，数物化竞赛顶流星聚](https://posts.careerengine.us/p/65571500fd58bd15fc93499a)  
+- [2023-11-18-突发！奥特曼被解雇，OpenAI董事会内讧](https://posts.careerengine.us/p/6557fd2c2c667d267c452f6b) ![](/assets/new.png)  
+- [2023-11-18-传下去，这个地方上ChatGPT黑名单了](https://posts.careerengine.us/p/6557fd3a506fb826b3a664ce) ![](/assets/new.png)  
+- [2023-11-18-大模型「幻觉」，看这一篇就够了-|-哈工大华为出品](https://posts.careerengine.us/p/6557fd491a589626e24a36c7) ![](/assets/new.png)  
 - [2023-11-17-ChatGPT被曝测试新功能：学习所有历史聊天，还能重置记忆、“阅后即焚”](https://posts.careerengine.us/p/6557150ec43047162e57ca10)  
-- [2023-11-16-一文盘点2023人工智能进展，不止大模型而已](https://posts.careerengine.us/p/6555977dd5fe3856945e4e36)  
-- [2023-11-16-一招分辨刷榜作弊大模型，博士小哥开源AI数学“照妖镜”](https://posts.careerengine.us/p/6555977dd5fe3856945e4e2e)  
-- [2023-11-16-倒计时两周！2023人工智能年度评选：三大类别5大奖项，谁立科技潮流之巅？](https://posts.careerengine.us/p/6555977dd5fe3856945e4e3e)  
-- [2023-11-16-微软深夜连甩三大炸弹！Bing-Chat更名Copilot，自研芯片问世，还加入GPTs功能](https://posts.careerengine.us/p/6555976e35a6c5565adb69f9)  
+- [2023-11-17-腾讯最隐秘人才计划曝光！今年IOI金牌全员现身，数物化竞赛顶流星聚](https://posts.careerengine.us/p/65571500fd58bd15fc93499a)  
+- [2023-11-17-OceanBase数据库炸场！具备OLTP完整核心功能，实验室版本不输ClickHouse](https://posts.careerengine.us/p/65571500fd58bd15fc9349a2)  
 - [2023-11-16-掰开安卓手机，满屏都是三个字：大模型丨模力时代](https://posts.careerengine.us/p/6555976e35a6c5565adb69f1)  
-- [2023-11-15-成本2元开发游戏，最快3分钟完成！全程都是AI智能体“打工”，大模型加持的那种](https://posts.careerengine.us/p/655475819b74f66092484fa8)  
-- [2023-11-15-DeepMind大模型登Science：1分钟预测10天天气数据，90％指标超越人类最强模型](https://posts.careerengine.us/p/6554758f7f378b60c5655e27)  
-- [2023-11-15-大模型架构创新已死？](https://posts.careerengine.us/p/655475907f378b60c5655e2f)  
-- [2023-11-15-比Siri更懂iPhone！GPT-4V可“操作”手机完成任意指令，无需训练](https://posts.careerengine.us/p/655475907f378b60c5655e37)  
-- [2023-11-15-突发！ChatGPT-Plus流量爆炸暂停注册，恢复时间未定](https://posts.careerengine.us/p/6554759e3ea32a60ff36fc2e)  
+- [2023-11-16-微软深夜连甩三大炸弹！Bing-Chat更名Copilot，自研芯片问世，还加入GPTs功能](https://posts.careerengine.us/p/6555976e35a6c5565adb69f9)  
+- [2023-11-16-倒计时两周！2023人工智能年度评选：三大类别5大奖项，谁立科技潮流之巅？](https://posts.careerengine.us/p/6555977dd5fe3856945e4e3e)  
+- [2023-11-16-一招分辨刷榜作弊大模型，博士小哥开源AI数学“照妖镜”](https://posts.careerengine.us/p/6555977dd5fe3856945e4e2e)  
+- [2023-11-16-一文盘点2023人工智能进展，不止大模型而已](https://posts.careerengine.us/p/6555977dd5fe3856945e4e36)  
 - [2023-11-15-免费大模型实战课｜首周聚焦百度智能云千帆大模型平台使用，《大模型应用实践》实训营11月16日开讲！](https://posts.careerengine.us/p/655475ac56db206184acb382)  
-- [2023-11-14-GPT-5已开工！奥特曼：月入7亿不够烧，希望微软再投点](https://posts.careerengine.us/p/655308f564643871dd452c99)  
-- [2023-11-14-大模型手机，3999起](https://posts.careerengine.us/p/655308e7777dce715fed9cb3)  
-- [2023-11-14-中国AIGC数据标注全景报告：百亿市场规模，百万就业缺口](https://posts.careerengine.us/p/655308e7777dce715fed9cbb)  
-- [2023-11-14-最强大模型训练芯片H200发布！141G大内存，AI推理最高提升90％，还兼容H100](https://posts.careerengine.us/p/655308e7777dce715fed9caa)  
+- [2023-11-15-突发！ChatGPT-Plus流量爆炸暂停注册，恢复时间未定](https://posts.careerengine.us/p/6554759e3ea32a60ff36fc2e)  
+- [2023-11-15-比Siri更懂iPhone！GPT-4V可“操作”手机完成任意指令，无需训练](https://posts.careerengine.us/p/655475907f378b60c5655e37)  
+- [2023-11-15-大模型架构创新已死？](https://posts.careerengine.us/p/655475907f378b60c5655e2f)  
+- [2023-11-15-DeepMind大模型登Science：1分钟预测10天天气数据，90％指标超越人类最强模型](https://posts.careerengine.us/p/6554758f7f378b60c5655e27)  
+- [2023-11-15-成本2元开发游戏，最快3分钟完成！全程都是AI智能体“打工”，大模型加持的那种](https://posts.careerengine.us/p/655475819b74f66092484fa8)  
 - [2023-11-14-线下报名开启！年度科技盛会MEET2024首批嘉宾公布！](https://posts.careerengine.us/p/655308d51c3d02712c2a1eff)  
-- [2023-11-13-GPT-4作弊被抓！吉娃娃or松饼打乱顺序就出错，LeCun：警惕在训练集上测试](https://posts.careerengine.us/p/6552094ecd1c6d5977a735a8)  
+- [2023-11-14-最强大模型训练芯片H200发布！141G大内存，AI推理最高提升90％，还兼容H100](https://posts.careerengine.us/p/655308e7777dce715fed9caa)  
+- [2023-11-14-中国AIGC数据标注全景报告：百亿市场规模，百万就业缺口](https://posts.careerengine.us/p/655308e7777dce715fed9cbb)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
