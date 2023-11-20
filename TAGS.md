@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-20 18:00:18。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-20 23:00:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -303,6 +303,7 @@
 - [【机器之心】微软亚研提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f184c033169b76fba378eb)
 - [【机器之心】拖拽下图像就能生成视频，中科大、微软等DragNUWA属实惊艳](https://posts.careerengine.us/p/64e2eaab625f4e3d09aa9bcf)
 - [【机器之心】Let’s-Make-It-3D！上交&微软最新开源2D转3D生成研究，Star超过1k星](https://posts.careerengine.us/p/64cc84fc4c861516a2c22cbd)
+- [【量子位】奥特曼带队入职微软！Ilya刚刚首次发声：我很后悔](https://posts.careerengine.us/p/655b61af977dda04a35f140e)
 - [【量子位】Excel变天！微软把Python「塞」进去了，直接可搞机器学习](https://posts.careerengine.us/p/64e5962ab8c5f3756b91e3b9)
 - [【PaperWeekly】上海内推-|-微软亚洲研究院工业创新中心招聘研究开发型实习生](https://posts.careerengine.us/p/6544f2273d497161ad1e6eaa)
 - [【PaperWeekly】北京内推-|-微软亚洲研究院数据知识智能组招聘强化学习方向研究实习生](https://posts.careerengine.us/p/64f7fc4133fcdc69761cba17)
