@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-19 15:00:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-20 15:00:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 谷歌
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-11-20-真正实现一步文生图，谷歌UFOGen极速采样，生成高质量图像](https://posts.careerengine.us/p/655ae51d11f6942d9af9ce3b) 
 - [2023-10-13-谷歌2023博士奖学金公布，67位博士生获奖，华人近20位](https://posts.careerengine.us/p/6528ceadcf447574a67de992) 
 - [2023-10-05-亚马逊刚投40亿美元，谷歌等又要投20亿，Anthropic-估值狂飙](https://posts.careerengine.us/p/651e399e986ff466e2c67942) 
 - [2023-10-01-真实性惊人，谷歌、康奈尔提出真实的图像补全技术RealFill](https://posts.careerengine.us/p/6518fba578237b2c69902dcb) 
