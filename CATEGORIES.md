@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-21 15:00:21，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-22 06:00:20，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2023-11-20-开箱大模型营销神器，满眼都是：有劲、有用、有意思](https://posts.careerengine.us/p/655b61af977dda04a35f1406)  
-- [2023-11-20-奥特曼带队入职微软！Ilya刚刚首次发声：我很后悔](https://posts.careerengine.us/p/655b61af977dda04a35f140e)  
-- [2023-11-20-北大视频大模型新SOTA，搞笑抖音视频AI秒懂笑点｜开源](https://posts.careerengine.us/p/655b61be14000404e1e35b78)  
-- [2023-11-20-突发，Cruise-CEO辞职了](https://posts.careerengine.us/p/655b61be14000404e1e35b6f)  
+- [2023-11-21-把大模型装进手机，AI帮我打工更容易了](https://posts.careerengine.us/p/655cb0c31275d0128104e294) ![](/assets/new.png)  
+- [2023-11-21-别拿大模型当「AI焦虑症」唯一解](https://posts.careerengine.us/p/655cb0d1856af312aef7c494) ![](/assets/new.png)  
+- [2023-11-21-OpenAI董事会炸裂操作曝光！投资人准备起诉，网友：GPT-4都比你们会开人](https://posts.careerengine.us/p/655cb0d1856af312aef7c49c) ![](/assets/new.png)  
+- [2023-11-21-图片变视频只需一“指”！Gen-2运动笔刷免费上线，网友：史上最强更新](https://posts.careerengine.us/p/655cb0e0f5134112e65f7c08) ![](/assets/new.png)  
+- [2023-11-21-免费《大模型应用实践》实训营第二周课程来啦！百度算法工程师团队手把手教你构建大模型应用，另有第一周干货回顾！](https://posts.careerengine.us/p/655cb0e0f5134112e65f7c10) ![](/assets/new.png)  
 - [2023-11-20-GPT-4不会图形推理？“放水”后准确率依然只有33％](https://posts.careerengine.us/p/655b61be14000404e1e35b67)  
-- [2023-11-19-效果超越SDXL！港中大博士生推出超真实人像合成工具，训练用了3.4亿张图](https://posts.careerengine.us/p/655902dea52f281156893ba3)  
+- [2023-11-20-突发，Cruise-CEO辞职了](https://posts.careerengine.us/p/655b61be14000404e1e35b6f)  
+- [2023-11-20-北大视频大模型新SOTA，搞笑抖音视频AI秒懂笑点｜开源](https://posts.careerengine.us/p/655b61be14000404e1e35b78)  
+- [2023-11-20-奥特曼带队入职微软！Ilya刚刚首次发声：我很后悔](https://posts.careerengine.us/p/655b61af977dda04a35f140e)  
+- [2023-11-20-开箱大模型营销神器，满眼都是：有劲、有用、有意思](https://posts.careerengine.us/p/655b61af977dda04a35f1406)  
 - [2023-11-19-Nature：大模型只会搞角色扮演，并不真正具有自我意识](https://posts.careerengine.us/p/655902cfa93bc8110cce5bbe)  
-- [2023-11-18-突发！奥特曼被解雇，OpenAI董事会内讧](https://posts.careerengine.us/p/6557fd2c2c667d267c452f6b)  
-- [2023-11-18-传下去，这个地方上ChatGPT黑名单了](https://posts.careerengine.us/p/6557fd3a506fb826b3a664ce)  
+- [2023-11-19-效果超越SDXL！港中大博士生推出超真实人像合成工具，训练用了3.4亿张图](https://posts.careerengine.us/p/655902dea52f281156893ba3)  
 - [2023-11-18-大模型「幻觉」，看这一篇就够了-|-哈工大华为出品](https://posts.careerengine.us/p/6557fd491a589626e24a36c7)  
-- [2023-11-17-ChatGPT被曝测试新功能：学习所有历史聊天，还能重置记忆、“阅后即焚”](https://posts.careerengine.us/p/6557150ec43047162e57ca10)  
-- [2023-11-17-腾讯最隐秘人才计划曝光！今年IOI金牌全员现身，数物化竞赛顶流星聚](https://posts.careerengine.us/p/65571500fd58bd15fc93499a)  
+- [2023-11-18-传下去，这个地方上ChatGPT黑名单了](https://posts.careerengine.us/p/6557fd3a506fb826b3a664ce)  
+- [2023-11-18-突发！奥特曼被解雇，OpenAI董事会内讧](https://posts.careerengine.us/p/6557fd2c2c667d267c452f6b)  
 - [2023-11-17-OceanBase数据库炸场！具备OLTP完整核心功能，实验室版本不输ClickHouse](https://posts.careerengine.us/p/65571500fd58bd15fc9349a2)  
-- [2023-11-16-掰开安卓手机，满屏都是三个字：大模型丨模力时代](https://posts.careerengine.us/p/6555976e35a6c5565adb69f1)  
-- [2023-11-16-微软深夜连甩三大炸弹！Bing-Chat更名Copilot，自研芯片问世，还加入GPTs功能](https://posts.careerengine.us/p/6555976e35a6c5565adb69f9)  
-- [2023-11-16-倒计时两周！2023人工智能年度评选：三大类别5大奖项，谁立科技潮流之巅？](https://posts.careerengine.us/p/6555977dd5fe3856945e4e3e)  
-- [2023-11-16-一招分辨刷榜作弊大模型，博士小哥开源AI数学“照妖镜”](https://posts.careerengine.us/p/6555977dd5fe3856945e4e2e)  
+- [2023-11-17-腾讯最隐秘人才计划曝光！今年IOI金牌全员现身，数物化竞赛顶流星聚](https://posts.careerengine.us/p/65571500fd58bd15fc93499a)  
+- [2023-11-17-ChatGPT被曝测试新功能：学习所有历史聊天，还能重置记忆、“阅后即焚”](https://posts.careerengine.us/p/6557150ec43047162e57ca10)  
 - [2023-11-16-一文盘点2023人工智能进展，不止大模型而已](https://posts.careerengine.us/p/6555977dd5fe3856945e4e36)  
-- [2023-11-15-免费大模型实战课｜首周聚焦百度智能云千帆大模型平台使用，《大模型应用实践》实训营11月16日开讲！](https://posts.careerengine.us/p/655475ac56db206184acb382)  
-- [2023-11-15-突发！ChatGPT-Plus流量爆炸暂停注册，恢复时间未定](https://posts.careerengine.us/p/6554759e3ea32a60ff36fc2e)  
+- [2023-11-16-一招分辨刷榜作弊大模型，博士小哥开源AI数学“照妖镜”](https://posts.careerengine.us/p/6555977dd5fe3856945e4e2e)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2023-11-21-丢弃99％的参数！阿里团队提出语言模型合体术，性能暴涨且无需重新训练和GPU](https://posts.careerengine.us/p/655c324fe274582ffb30fc5f) ![](/assets/new.png)  
-- [2023-11-21-EMNLP-2023-|-解决LLaMA、BERT等部署难题：首个4-bit浮点量化LLM来了](https://posts.careerengine.us/p/655c325ee7fc55308bd0fed0) ![](/assets/new.png)  
-- [2023-11-21-大规模神经网络优化：神经网络损失空间“长”什么样？](https://posts.careerengine.us/p/655c325ee7fc55308bd0fec0) ![](/assets/new.png)  
-- [2023-11-21-博士申请-|-宁波东方理工大学沈晓宇老师招收NLP/AI方向博士/博后/RA/实习生等](https://posts.careerengine.us/p/655c325ee7fc55308bd0fec8) ![](/assets/new.png)  
+- [2023-11-21-丢弃99％的参数！阿里团队提出语言模型合体术，性能暴涨且无需重新训练和GPU](https://posts.careerengine.us/p/655c324fe274582ffb30fc5f)  
+- [2023-11-21-EMNLP-2023-|-解决LLaMA、BERT等部署难题：首个4-bit浮点量化LLM来了](https://posts.careerengine.us/p/655c325ee7fc55308bd0fed0)  
+- [2023-11-21-大规模神经网络优化：神经网络损失空间“长”什么样？](https://posts.careerengine.us/p/655c325ee7fc55308bd0fec0)  
+- [2023-11-21-博士申请-|-宁波东方理工大学沈晓宇老师招收NLP/AI方向博士/博后/RA/实习生等](https://posts.careerengine.us/p/655c325ee7fc55308bd0fec8)  
 - [2023-11-20-深圳内推-|-微信视觉团队招聘AIGC/多模态/LLM等方向算法实习生](https://posts.careerengine.us/p/655aede57f116e57e8465952)  
 - [2023-11-20-参数量13B模型全方位碾压GPT-4？这背后有什么猫腻](https://posts.careerengine.us/p/655aedd636d1c757a478cc86)  
 - [2023-11-20-​EMNLP-2023-findings-|-生成式框架下解决输入扰动槽填充任务](https://posts.careerengine.us/p/655aedd636d1c757a478cc8e)  
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2023-11-21-95％员工离职、大批客户流失，曝Altman和投资人想其回归OpenAI，董事会却找竞对合并？](https://posts.careerengine.us/p/655c3cbcc2ebcc62538817a7) ![](/assets/new.png)  
-- [2023-11-21-文生图大型实践：揭秘百度搜索-AIGC-绘画工具的背后故事！](https://posts.careerengine.us/p/655c3cca1d5fc562a295d760) ![](/assets/new.png)  
+- [2023-11-21-95％员工离职、大批客户流失，曝Altman和投资人想其回归OpenAI，董事会却找竞对合并？](https://posts.careerengine.us/p/655c3cbcc2ebcc62538817a7)  
+- [2023-11-21-文生图大型实践：揭秘百度搜索-AIGC-绘画工具的背后故事！](https://posts.careerengine.us/p/655c3cca1d5fc562a295d760)  
 - [2023-11-20-AIGC-在前端-Web-开发中的应用：响应式设计和-Tailwind-配置的完美搭档](https://posts.careerengine.us/p/655af19cb076a768e4a27080)  
 - [2023-11-20-OpenAI-“政变”48小时后：Altman夺回主导权、回归在即！微软入局、董事会或重组](https://posts.careerengine.us/p/655af19cb076a768e4a27088)  
 - [2023-11-19-蔚来技术岗员工贷款买自家品牌车仍被裁；李彦宏：文心一言调用量比国内两百家大模型还多；原vivo中国区总裁丁燚离职｜A一周资讯](https://posts.careerengine.us/p/65598855ee579b185c6fc9e7)  
