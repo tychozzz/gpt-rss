@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-22 08:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-22 15:00:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-11-22-Stable-Video-Diffusion来了，代码权重已上线](https://posts.careerengine.us/p/655d6b2f85eb0127d0b3ea85) 
 - [2023-11-20-谷歌Bard「破防」，用自然语言破解，提示注入引起数据泄漏风险](https://posts.careerengine.us/p/655ae51d11f6942d9af9ce32) 
 - [2023-11-16-0.6秒出图！手机跑Stable-Diffusion创下最快速度，而这仅仅是开始](https://posts.careerengine.us/p/65559bdb533fa46caf0327ea) 
 - [2023-11-02-支持二次编辑、导入虚拟引擎5，Stable-Diffusion进化出3D生成功能](https://posts.careerengine.us/p/65433f3ebc56941b0fbfebf6) 
