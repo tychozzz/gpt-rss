@@ -1,16 +1,17 @@
-:alarm_clock: 更新时间: 2023-11-07 06:00:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-22 08:00:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## ChatGPT
 
 
 
 
+- [2023-11-22-<b>ChatGPT-with-voice-is-available-to-all-users-November-21,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_3fb903d2d0) 
 - [2023-11-07-<b>Introducing-GPTs-November-6,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_61daed3949) 
-- [2023-10-18-<b>Browsing-is-now-out-of-beta-October-17,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_6401b89b6b) 
 - [2023-10-18-<b>DALL·E-3-is-now-rolling-out-in-beta-October-16,-2023-</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_d94d1efdaf) 
+- [2023-10-18-<b>Browsing-is-now-out-of-beta-October-17,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_6401b89b6b) 
 - [2023-09-28-<b>Browse-is-rolling-back-out-to-Plus-users-September-27,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4799933861) 
-- [2023-09-26-<b>New-voice-and-image-capabilities-in-ChatGPT-September-25,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e3a2ee7903) 
 - [2023-09-26-<b>ChatGPT-language-support---Alpha-on-web-September-11,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_2235297035) 
+- [2023-09-26-<b>New-voice-and-image-capabilities-in-ChatGPT-September-25,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e3a2ee7903) 
 - [2023-08-30-Introducing-ChatGPT-Enterprise-August-28,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9c2276ca4e) 
 - [2023-08-22-Custom-instructions-are-now-available-to-users-in-the-EU-&-UK-August-21,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e5d13591f0) 
 - [2023-08-10-Custom-instructions-are-now-available-to-free-users-August-9,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_88eefa0552) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-22 06:00:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-22 08:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AI
 
@@ -613,6 +613,7 @@
 - [2023-06-27-ChatGPT时代，很想问问AI这些金融难题何解？](https://posts.careerengine.us/p/649a69555762e843a7c32288) 
 - [2023-06-26-生成式AI搭台，Data+Analytics唱戏：-Snowflake、Databricks-2023年度大会前瞻](https://posts.careerengine.us/p/6499244181d48f0fc98a1608) 
 - [2023-06-26-35-亿+66-亿参数双模型，消费级显卡上也能跑！Stability-AI-发布重大升级，生成图像真假难辨](https://posts.careerengine.us/p/6499243af942d70f77acc5b3) 
+- [2023-11-22-<b>ChatGPT-with-voice-is-available-to-all-users-November-21,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_3fb903d2d0) 
 - [2023-08-22-Custom-instructions-are-now-available-to-users-in-the-EU-&-UK-August-21,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e5d13591f0) 
 - [2023-08-10-Custom-instructions-are-now-available-to-free-users-August-9,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_88eefa0552) 
 - [2023-05-24-iOS-app-available-in-more-countries,-shared-links-in-alpha,-Bing-Plugin,-disable-history-on-iOS-May-24](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_461971b989) 

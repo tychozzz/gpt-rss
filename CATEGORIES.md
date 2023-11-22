@@ -1,17 +1,17 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-22 06:00:20，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-22 08:00:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
-- [ChatGPT](#chatgpt)  
+- [ChatGPT](#chatgpt)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2023-11-21-把大模型装进手机，AI帮我打工更容易了](https://posts.careerengine.us/p/655cb0c31275d0128104e294) ![](/assets/new.png)  
-- [2023-11-21-别拿大模型当「AI焦虑症」唯一解](https://posts.careerengine.us/p/655cb0d1856af312aef7c494) ![](/assets/new.png)  
-- [2023-11-21-OpenAI董事会炸裂操作曝光！投资人准备起诉，网友：GPT-4都比你们会开人](https://posts.careerengine.us/p/655cb0d1856af312aef7c49c) ![](/assets/new.png)  
-- [2023-11-21-图片变视频只需一“指”！Gen-2运动笔刷免费上线，网友：史上最强更新](https://posts.careerengine.us/p/655cb0e0f5134112e65f7c08) ![](/assets/new.png)  
-- [2023-11-21-免费《大模型应用实践》实训营第二周课程来啦！百度算法工程师团队手把手教你构建大模型应用，另有第一周干货回顾！](https://posts.careerengine.us/p/655cb0e0f5134112e65f7c10) ![](/assets/new.png)  
+- [2023-11-21-把大模型装进手机，AI帮我打工更容易了](https://posts.careerengine.us/p/655cb0c31275d0128104e294)  
+- [2023-11-21-别拿大模型当「AI焦虑症」唯一解](https://posts.careerengine.us/p/655cb0d1856af312aef7c494)  
+- [2023-11-21-OpenAI董事会炸裂操作曝光！投资人准备起诉，网友：GPT-4都比你们会开人](https://posts.careerengine.us/p/655cb0d1856af312aef7c49c)  
+- [2023-11-21-图片变视频只需一“指”！Gen-2运动笔刷免费上线，网友：史上最强更新](https://posts.careerengine.us/p/655cb0e0f5134112e65f7c08)  
+- [2023-11-21-免费《大模型应用实践》实训营第二周课程来啦！百度算法工程师团队手把手教你构建大模型应用，另有第一周干货回顾！](https://posts.careerengine.us/p/655cb0e0f5134112e65f7c10)  
 - [2023-11-20-GPT-4不会图形推理？“放水”后准确率依然只有33％](https://posts.careerengine.us/p/655b61be14000404e1e35b67)  
 - [2023-11-20-突发，Cruise-CEO辞职了](https://posts.careerengine.us/p/655b61be14000404e1e35b6f)  
 - [2023-11-20-北大视频大模型新SOTA，搞笑抖音视频AI秒懂笑点｜开源](https://posts.careerengine.us/p/655b61be14000404e1e35b78)  
@@ -207,12 +207,13 @@
 </summary>
 
 
+- [2023-11-22-<b>ChatGPT-with-voice-is-available-to-all-users-November-21,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_3fb903d2d0) ![](/assets/new.png)  
 - [2023-11-07-<b>Introducing-GPTs-November-6,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_61daed3949)  
-- [2023-10-18-<b>Browsing-is-now-out-of-beta-October-17,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_6401b89b6b)  
 - [2023-10-18-<b>DALL·E-3-is-now-rolling-out-in-beta-October-16,-2023-</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_d94d1efdaf)  
+- [2023-10-18-<b>Browsing-is-now-out-of-beta-October-17,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_6401b89b6b)  
 - [2023-09-28-<b>Browse-is-rolling-back-out-to-Plus-users-September-27,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4799933861)  
-- [2023-09-26-<b>New-voice-and-image-capabilities-in-ChatGPT-September-25,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e3a2ee7903)  
 - [2023-09-26-<b>ChatGPT-language-support---Alpha-on-web-September-11,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_2235297035)  
+- [2023-09-26-<b>New-voice-and-image-capabilities-in-ChatGPT-September-25,-2023</b>](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e3a2ee7903)  
 - [2023-08-30-Introducing-ChatGPT-Enterprise-August-28,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9c2276ca4e)  
 - [2023-08-22-Custom-instructions-are-now-available-to-users-in-the-EU-&-UK-August-21,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_e5d13591f0)  
 - [2023-08-10-Custom-instructions-are-now-available-to-free-users-August-9,-2023](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_88eefa0552)  
@@ -226,7 +227,6 @@
 - [2023-05-24-iOS-app-available-in-more-countries,-shared-links-in-alpha,-Bing-Plugin,-disable-history-on-iOS-May-24](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_461971b989)  
 - [2023-05-12-Web-browsing-and-Plugins-are-now-rolling-out-in-beta-May-12](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9894d7b0a4)  
 - [2023-05-03-Release-notes-May-3](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_2818247821)  
-- [2023-03-23-Release-notes-March-23](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_98b0bcf5a4)  
 - [......【查看更多】......](/details/ChatGPT.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
