@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-22 15:00:12。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-23 10:00:07。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -150,6 +150,7 @@
 - [【机器之心】一张截图生成iPhone应用、还能转成代码、创建网站，升级后谷歌Bard真成了](https://posts.careerengine.us/p/64b37a81149433457e8154f9)
 - [【机器之心】谷歌Bard史上最大升级：中文、识图、存档导出能力都来了](https://posts.careerengine.us/p/64b137613b57e74bae33c801)
 - [【机器之心】DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89)
+- [【量子位】Stable-Video-Diffusion问世！3D合成功能引关注，网友：进步太快](https://posts.careerengine.us/p/655e8e202326ae4eda706577)
 - [【量子位】Midjourney大更新：开放自定义风格新功能！网友：最改变游戏规则的一集](https://posts.careerengine.us/p/654463c1085c906911712d48)
 - [【量子位】50张图“毒倒”Stable-Diffusion，汽车和牛都分不清了](https://posts.careerengine.us/p/6537a34544e0843b4ef2f2d3)
 - [【量子位】一周工作5分钟完成！新版文心一言实测：秒秒钟出广告片，几句话搞定代码，办公科研生产力直接ProMax](https://posts.careerengine.us/p/64dde4139a78ad6ca6d36434)
