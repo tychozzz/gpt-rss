@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-23 15:00:11，:rocket: 更新条数: +15， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-23 18:00:16，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,12 +21,12 @@
 </summary>
 
 
-- [2023-11-23-一封信导致Sam-Altman被开除？神秘「Q*」项目曝光，进化令人震惊](https://posts.careerengine.us/p/655ee8458b1bae0a74ecf83e) ![](/assets/new.png)  
-- [2023-11-23-智驾未来，创新动能，2023全球智能汽车AI挑战赛火热招募中](https://posts.careerengine.us/p/655ee8458b1bae0a74ecf836) ![](/assets/new.png)  
-- [2023-11-23-生产关系被重构的时代，我们需要怎样的智能伙伴？](https://posts.careerengine.us/p/655ee8458b1bae0a74ecf82e) ![](/assets/new.png)  
-- [2023-11-23-2024-IEEE-Fellow名单出炉：胡事民、崔斌、林倞等入选](https://posts.careerengine.us/p/655ee85466adb40aebdfd632) ![](/assets/new.png)  
-- [2023-11-23-历数5年89篇研究，这篇综述告诉我们深度学习中的代码数据增强怎么样了](https://posts.careerengine.us/p/655ee85466adb40aebdfd63a) ![](/assets/new.png)  
-- [2023-11-23-在自动驾驶领域，你根本绕不开数据集](https://posts.careerengine.us/p/655ee8629af9d40b0a9940c1) ![](/assets/new.png)  
+- [2023-11-23-一封信导致Sam-Altman被开除？神秘「Q*」项目曝光，进化令人震惊](https://posts.careerengine.us/p/655ee8458b1bae0a74ecf83e)  
+- [2023-11-23-智驾未来，创新动能，2023全球智能汽车AI挑战赛火热招募中](https://posts.careerengine.us/p/655ee8458b1bae0a74ecf836)  
+- [2023-11-23-生产关系被重构的时代，我们需要怎样的智能伙伴？](https://posts.careerengine.us/p/655ee8458b1bae0a74ecf82e)  
+- [2023-11-23-2024-IEEE-Fellow名单出炉：胡事民、崔斌、林倞等入选](https://posts.careerengine.us/p/655ee85466adb40aebdfd632)  
+- [2023-11-23-历数5年89篇研究，这篇综述告诉我们深度学习中的代码数据增强怎么样了](https://posts.careerengine.us/p/655ee85466adb40aebdfd63a)  
+- [2023-11-23-在自动驾驶领域，你根本绕不开数据集](https://posts.careerengine.us/p/655ee8629af9d40b0a9940c1)  
 - [2023-11-22-Stable-Video-Diffusion来了，代码权重已上线](https://posts.careerengine.us/p/655d6b2f85eb0127d0b3ea85)  
 - [2023-11-22-马斯克爆料OpenAI前员工举报信，指出Altman和Greg七宗罪，ChatGPT一度宕机](https://posts.careerengine.us/p/655d6b21e46c63279fb794fc)  
 - [2023-11-21-Sam-Altman要加入微软，推动者Ilya却后悔了，超500名员工请辞逼宫董事会](https://posts.careerengine.us/p/655b8814394c9949c7fa6958)  
@@ -57,12 +57,12 @@
 - [2023-11-23-CEO奥特曼王者归来，Ilya出局OpenAI董事会](https://posts.careerengine.us/p/655e8e0c4df6f44e4ced5045)  
 - [2023-11-23-大模型元年，万能的淘宝有了万能AI](https://posts.careerengine.us/p/655e8e0c4df6f44e4ced503d)  
 - [2023-11-23-大模型应用给百度打了剂强心针！净利增长23％，李彦宏：核心业务重构将带来数亿元增量收入](https://posts.careerengine.us/p/655e8e0c4df6f44e4ced5034)  
-- [2023-11-23-奥特曼不是第一次被开除！离职YC系“被创始人要求离开”](https://posts.careerengine.us/p/655ee0c01f378965ddfab74b) ![](/assets/new.png)  
-- [2023-11-23-LLaMA-2端到端推理打通！来自中国团队](https://posts.careerengine.us/p/655ee0c01f378965ddfab753) ![](/assets/new.png)  
-- [2023-11-23-老板塞给我一个AI新同事，一周后：真香](https://posts.careerengine.us/p/655ee0c01f378965ddfab75b) ![](/assets/new.png)  
-- [2023-11-23-GPT-4成学术造假“神器”，伪造数据又快又合理，Nature请统计学专家“断案”](https://posts.careerengine.us/p/655ee0ce65f09b66240016bb) ![](/assets/new.png)  
-- [2023-11-23-解题准确率较GPT高出70％-夸克大模型多项考试评测成绩领先行](https://posts.careerengine.us/p/655ee0dd1b044c66a4ae94e4) ![](/assets/new.png)  
-- [2023-11-23-AI领域又增院士！清华胡事民当选，「计图」框架出自其实验室](https://posts.careerengine.us/p/655ee0dd1b044c66a4ae94ec) ![](/assets/new.png)  
+- [2023-11-23-奥特曼不是第一次被开除！离职YC系“被创始人要求离开”](https://posts.careerengine.us/p/655ee0c01f378965ddfab74b)  
+- [2023-11-23-LLaMA-2端到端推理打通！来自中国团队](https://posts.careerengine.us/p/655ee0c01f378965ddfab753)  
+- [2023-11-23-老板塞给我一个AI新同事，一周后：真香](https://posts.careerengine.us/p/655ee0c01f378965ddfab75b)  
+- [2023-11-23-GPT-4成学术造假“神器”，伪造数据又快又合理，Nature请统计学专家“断案”](https://posts.careerengine.us/p/655ee0ce65f09b66240016bb)  
+- [2023-11-23-解题准确率较GPT高出70％-夸克大模型多项考试评测成绩领先行](https://posts.careerengine.us/p/655ee0dd1b044c66a4ae94e4)  
+- [2023-11-23-AI领域又增院士！清华胡事民当选，「计图」框架出自其实验室](https://posts.careerengine.us/p/655ee0dd1b044c66a4ae94ec)  
 - [2023-11-21-把大模型装进手机，AI帮我打工更容易了](https://posts.careerengine.us/p/655cb0c31275d0128104e294)  
 - [2023-11-21-别拿大模型当「AI焦虑症」唯一解](https://posts.careerengine.us/p/655cb0d1856af312aef7c494)  
 - [2023-11-21-OpenAI董事会炸裂操作曝光！投资人准备起诉，网友：GPT-4都比你们会开人](https://posts.careerengine.us/p/655cb0d1856af312aef7c49c)  
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2023-11-23-北京师范大学2023年第五届京师青年学者人工智能学院论坛报名开启](https://posts.careerengine.us/p/655ed3521e0f12264a6225a1) ![](/assets/new.png)  
-- [2023-11-23-EMNLP-2023-|-通过化学知识和自然语言关联以增强生物领域的跨模态学习](https://posts.careerengine.us/p/655ed3521e0f12264a6225a9) ![](/assets/new.png)  
-- [2023-11-23-最高10万大奖！2023“欧贝杯”工业品供应链数据智能创新大赛正式开启](https://posts.careerengine.us/p/655ed3654a5a10269346cded) ![](/assets/new.png)  
+- [2023-11-23-北京师范大学2023年第五届京师青年学者人工智能学院论坛报名开启](https://posts.careerengine.us/p/655ed3521e0f12264a6225a1)  
+- [2023-11-23-EMNLP-2023-|-通过化学知识和自然语言关联以增强生物领域的跨模态学习](https://posts.careerengine.us/p/655ed3521e0f12264a6225a9)  
+- [2023-11-23-最高10万大奖！2023“欧贝杯”工业品供应链数据智能创新大赛正式开启](https://posts.careerengine.us/p/655ed3654a5a10269346cded)  
 - [2023-11-22-单GPU运行数千大模型！UC伯克利提出全新微调方法S-LoRA](https://posts.careerengine.us/p/655d871688b10f329c2300d2)  
 - [2023-11-22-博士申请-|-香港科技大学冯雁教授招收LLM/NLP等方向全奖博士/博后](https://posts.careerengine.us/p/655d871688b10f329c2300da)  
 - [2023-11-22-CVPR-2023-|-无中生有：面向实时点云全景分割的中心聚焦网络](https://posts.careerengine.us/p/655d8708a86a8f3276e84750)  
@@ -176,26 +176,26 @@
 </summary>
 
 
+- [2023-11-23-好用的不通用，通用的不好用，金融落地大模型需要“专业型”选手](https://posts.careerengine.us/p/655ee45c0e26e37776de63a4) ![](/assets/new.png)  
+- [2023-11-23-OpenAI“宫斗戏”落幕！最大的赢家不是Altman，也不是微软](https://posts.careerengine.us/p/655ee45c0e26e37776de63ac) ![](/assets/new.png)  
 - [2023-11-22-又双叒反转！奥特曼与OpenAI重启谈判，却遭前员工指责“欺诈、排除异己、打压员工”](https://posts.careerengine.us/p/655d938489dc2a6e1931bd86)  
-- [2023-11-21-文生图大型实践：揭秘百度搜索-AIGC-绘画工具的背后故事！](https://posts.careerengine.us/p/655c3cca1d5fc562a295d760)  
 - [2023-11-21-95％员工离职、大批客户流失，曝Altman和投资人想其回归OpenAI，董事会却找竞对合并？](https://posts.careerengine.us/p/655c3cbcc2ebcc62538817a7)  
-- [2023-11-20-OpenAI-“政变”48小时后：Altman夺回主导权、回归在即！微软入局、董事会或重组](https://posts.careerengine.us/p/655af19cb076a768e4a27088)  
+- [2023-11-21-文生图大型实践：揭秘百度搜索-AIGC-绘画工具的背后故事！](https://posts.careerengine.us/p/655c3cca1d5fc562a295d760)  
 - [2023-11-20-AIGC-在前端-Web-开发中的应用：响应式设计和-Tailwind-配置的完美搭档](https://posts.careerengine.us/p/655af19cb076a768e4a27080)  
+- [2023-11-20-OpenAI-“政变”48小时后：Altman夺回主导权、回归在即！微软入局、董事会或重组](https://posts.careerengine.us/p/655af19cb076a768e4a27088)  
 - [2023-11-19-蔚来技术岗员工贷款买自家品牌车仍被裁；李彦宏：文心一言调用量比国内两百家大模型还多；原vivo中国区总裁丁燚离职｜A一周资讯](https://posts.careerengine.us/p/65598855ee579b185c6fc9e7)  
 - [2023-11-18-OpenAI-高层大地震为其首席科学家幕后推动？离职总裁爆料罢免经过、Altman-再次回应](https://posts.careerengine.us/p/655862fd4f3974704b311ecf)  
 - [2023-11-17-一个失败的AI女友产品，以及我的教训：来自一位中国开发者的总结](https://posts.careerengine.us/p/655707672acb3e5647ae70db)  
-- [2023-11-16-科技巨头不做选择题！微软发布两款自研5nm芯片，AI和云计算两大市场都想要](https://posts.careerengine.us/p/6555aab7d4b2d33114b81d02)  
 - [2023-11-16-招商银行如何利用AI提升审查效率和准确率？](https://posts.careerengine.us/p/6555aab8d4b2d33114b81d0a)  
-- [2023-11-15-香港-AI-产业：49％-受访企业表示有技术人才招聘困难](https://posts.careerengine.us/p/655450ea0bcf6831b2d0111a)  
+- [2023-11-16-科技巨头不做选择题！微软发布两款自研5nm芯片，AI和云计算两大市场都想要](https://posts.careerengine.us/p/6555aab7d4b2d33114b81d02)  
 - [2023-11-15-李开复旗下340亿参数开源大模型被指“套壳LLaMA”，最新回应来了！](https://posts.careerengine.us/p/655450db4652e7317e997a5a)  
-- [2023-11-14-囤H100的都成了大冤种！英伟达发布最新AI芯片H200：性能提升2倍，成本下降50％](https://posts.careerengine.us/p/65531af3ffcb7644575d1720)  
+- [2023-11-15-香港-AI-产业：49％-受访企业表示有技术人才招聘困难](https://posts.careerengine.us/p/655450ea0bcf6831b2d0111a)  
 - [2023-11-14-GitHub年度报告曝光：生成式AI项目暴涨2倍，个人贡献者激增148％，从趋势看机遇何在？](https://posts.careerengine.us/p/65531b02303f0844bfa8831f)  
-- [2023-11-13-零一万物李开复：要做-ToC-的超级应用，成为-AI-2.0-时代的微信、抖音](https://posts.careerengine.us/p/6551b5d507d6a54f3e4b8d57)  
+- [2023-11-14-囤H100的都成了大冤种！英伟达发布最新AI芯片H200：性能提升2倍，成本下降50％](https://posts.careerengine.us/p/65531af3ffcb7644575d1720)  
 - [2023-11-13-年薪超80万美元Meta高管自述：焦虑、迷茫，即使拿到全美Top-1％的收入依然选择离职创业](https://posts.careerengine.us/p/6551b5d507d6a54f3e4b8d5f)  
+- [2023-11-13-零一万物李开复：要做-ToC-的超级应用，成为-AI-2.0-时代的微信、抖音](https://posts.careerengine.us/p/6551b5d507d6a54f3e4b8d57)  
 - [2023-11-12-爱立信被曝裁掉整个广州研发团队：赔偿N+3加年终奖；英伟达将为中国定制三款芯片；马斯克旗下首款聊天机器人将开源-|-AI一周资讯](https://posts.careerengine.us/p/655064799a82d917ec82f363)  
-- [2023-11-10-当大模型被塞进PC：如何提升算力利用效率？](https://posts.careerengine.us/p/654ddb882423f449a5dbe6e2)  
 - [2023-11-10-奥特曼放大招后，这家投资人砸了25亿的创业公司如何继续“中国OpenAI”称号？](https://posts.careerengine.us/p/654ddb882423f449a5dbe6da)  
-- [2023-11-09-重塑GitHub、颠覆程序开发：GitHub-Universe-2023发布重大更新](https://posts.careerengine.us/p/654c70f37561303eea90ac9d)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
