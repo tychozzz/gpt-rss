@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-25 15:00:21，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-25 21:00:16，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-11-25-全网大讨论：引爆OpenAI全员乱斗的Q*到底是什么？](https://posts.careerengine.us/p/65618999bd50aa753095a4ad) ![](/assets/new.png)  
-- [2023-11-25-小模型如何进行上下文学习？字节跳动-&-华东师大联合提出自进化文本识别器](https://posts.careerengine.us/p/656189ab9f625f75696d43da) ![](/assets/new.png)  
-- [2023-11-25-人类考92分的题，GPT-4只能考15分：测试一升级，大模型全都现原形了](https://posts.careerengine.us/p/656189ab9f625f75696d43e2) ![](/assets/new.png)  
-- [2023-11-25-外媒：英伟达特供芯片H20推迟至明年一季度发布](https://posts.careerengine.us/p/656189ab9f625f75696d43d1) ![](/assets/new.png)  
-- [2023-11-25-改进分子表征学习，清华团队提出知识引导的图-Transformer-预训练框架](https://posts.careerengine.us/p/656189bbee5b5d75e4f56fa6) ![](/assets/new.png)  
+- [2023-11-25-全网大讨论：引爆OpenAI全员乱斗的Q*到底是什么？](https://posts.careerengine.us/p/65618999bd50aa753095a4ad)  
+- [2023-11-25-小模型如何进行上下文学习？字节跳动-&-华东师大联合提出自进化文本识别器](https://posts.careerengine.us/p/656189ab9f625f75696d43da)  
+- [2023-11-25-人类考92分的题，GPT-4只能考15分：测试一升级，大模型全都现原形了](https://posts.careerengine.us/p/656189ab9f625f75696d43e2)  
+- [2023-11-25-外媒：英伟达特供芯片H20推迟至明年一季度发布](https://posts.careerengine.us/p/656189ab9f625f75696d43d1)  
+- [2023-11-25-改进分子表征学习，清华团队提出知识引导的图-Transformer-预训练框架](https://posts.careerengine.us/p/656189bbee5b5d75e4f56fa6)  
 - [2023-11-24-能总结经验、持续进化，上交把智能体优化参数的成本打下来了](https://posts.careerengine.us/p/65602285a6448a776ad96907)  
 - [2023-11-24-OpenAI内斗时，Karpathy在录视频：《大型语言模型入门》上线](https://posts.careerengine.us/p/65602285a6448a776ad9690f)  
 - [2023-11-24-Meta对Transformer架构下手了：新注意力机制更懂推理](https://posts.careerengine.us/p/65602284a6448a776ad968fe)  
@@ -52,8 +52,8 @@
 </summary>
 
 
-- [2023-11-25-一个宿舍就三人，全当院士了！](https://posts.careerengine.us/p/6561744302dc0516cc54f817) ![](/assets/new.png)  
-- [2023-11-25-用视觉来做Prompt！沈向洋展示IDEA研究院新模型，无需训练或微调，开箱即用](https://posts.careerengine.us/p/65617466077c97178f7af8ac) ![](/assets/new.png)  
+- [2023-11-25-一个宿舍就三人，全当院士了！](https://posts.careerengine.us/p/6561744302dc0516cc54f817)  
+- [2023-11-25-用视觉来做Prompt！沈向洋展示IDEA研究院新模型，无需训练或微调，开箱即用](https://posts.careerengine.us/p/65617466077c97178f7af8ac)  
 - [2023-11-24-英伟达被指控窃取商业机密！开视频会议暴露证据，涉事员工已认罪](https://posts.careerengine.us/p/65602ded85648e30ef515a8b)  
 - [2023-11-24-谷歌18年老将痛斥劈柴哥：没有远见缺乏领导力，“这公司一切都变了”](https://posts.careerengine.us/p/65602ded85648e30ef515a93)  
 - [2023-11-24-OpenAI神秘新模型Q*曝光，太强大让董事会警惕，或是奥特曼被开除导火索](https://posts.careerengine.us/p/65602ddeeb33243046f7ed81)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-11-24-0.3％参数推理，实现78倍加速！ETH团队提出UltraFastBERT，构筑语言模型巨人](https://posts.careerengine.us/p/6560240ad4ca627f278f14ad)  
-- [2023-11-24-被OpenAI带火的Agent如何解放人力？清华NLP实验室发布流程自动化新范式](https://posts.careerengine.us/p/6560240ad4ca627f278f14b5)  
-- [2023-11-24-浙大提出KnowPAT框架：大模型的知识偏好对齐与垂域应用](https://posts.careerengine.us/p/6560240ad4ca627f278f14bd)  
+- [2023-11-25-NeurIPS-2023-|-AI-Agents先行者CAMEL：首个基于大模型的多智能体框架](https://posts.careerengine.us/p/6561c76afce2b67ed5d7010b) ![](/assets/new.png)  
+- [2023-11-25-开卷翻到毒蘑菇？浅谈大模型检索增强（RAG）的鲁棒性](https://posts.careerengine.us/p/6561c76bfce2b67ed5d70113) ![](/assets/new.png)  
+- [2023-11-25-Yann-LeCun点赞！Meta对Transformer架构下手了：新注意力机制更懂推理](https://posts.careerengine.us/p/6561c76bfce2b67ed5d7011b) ![](/assets/new.png)  
+- [2023-11-25-科研实习-|-鹏城实验室童倩倩老师招聘虚拟现实/人机交互等方向访问学生/博士后](https://posts.careerengine.us/p/6561c77c97c67d7f131ed98f) ![](/assets/new.png)  
 - [2023-11-24-博士申请-|-香港科技大学（广州）李昊昂老师招收计算机视觉方向全奖博士/RA/实习生](https://posts.careerengine.us/p/6560241ced872a7fbe95511b)  
-- [2023-11-23-最高10万大奖！2023“欧贝杯”工业品供应链数据智能创新大赛正式开启](https://posts.careerengine.us/p/655ed3654a5a10269346cded)  
-- [2023-11-23-EMNLP-2023-|-通过化学知识和自然语言关联以增强生物领域的跨模态学习](https://posts.careerengine.us/p/655ed3521e0f12264a6225a9)  
+- [2023-11-24-浙大提出KnowPAT框架：大模型的知识偏好对齐与垂域应用](https://posts.careerengine.us/p/6560240ad4ca627f278f14bd)  
+- [2023-11-24-被OpenAI带火的Agent如何解放人力？清华NLP实验室发布流程自动化新范式](https://posts.careerengine.us/p/6560240ad4ca627f278f14b5)  
+- [2023-11-24-0.3％参数推理，实现78倍加速！ETH团队提出UltraFastBERT，构筑语言模型巨人](https://posts.careerengine.us/p/6560240ad4ca627f278f14ad)  
 - [2023-11-23-北京师范大学2023年第五届京师青年学者人工智能学院论坛报名开启](https://posts.careerengine.us/p/655ed3521e0f12264a6225a1)  
-- [2023-11-22-一文速览NeurIPS-2023大模型/预训练/上下文学习相关Spotlight文章](https://posts.careerengine.us/p/655d8707a86a8f3276e84748)  
-- [2023-11-22-CVPR-2023-|-无中生有：面向实时点云全景分割的中心聚焦网络](https://posts.careerengine.us/p/655d8708a86a8f3276e84750)  
-- [2023-11-22-博士申请-|-香港科技大学冯雁教授招收LLM/NLP等方向全奖博士/博后](https://posts.careerengine.us/p/655d871688b10f329c2300da)  
+- [2023-11-23-EMNLP-2023-|-通过化学知识和自然语言关联以增强生物领域的跨模态学习](https://posts.careerengine.us/p/655ed3521e0f12264a6225a9)  
+- [2023-11-23-最高10万大奖！2023“欧贝杯”工业品供应链数据智能创新大赛正式开启](https://posts.careerengine.us/p/655ed3654a5a10269346cded)  
 - [2023-11-22-单GPU运行数千大模型！UC伯克利提出全新微调方法S-LoRA](https://posts.careerengine.us/p/655d871688b10f329c2300d2)  
-- [2023-11-21-博士申请-|-宁波东方理工大学沈晓宇老师招收NLP/AI方向博士/博后/RA/实习生等](https://posts.careerengine.us/p/655c325ee7fc55308bd0fec8)  
-- [2023-11-21-大规模神经网络优化：神经网络损失空间“长”什么样？](https://posts.careerengine.us/p/655c325ee7fc55308bd0fec0)  
-- [2023-11-21-EMNLP-2023-|-解决LLaMA、BERT等部署难题：首个4-bit浮点量化LLM来了](https://posts.careerengine.us/p/655c325ee7fc55308bd0fed0)  
+- [2023-11-22-博士申请-|-香港科技大学冯雁教授招收LLM/NLP等方向全奖博士/博后](https://posts.careerengine.us/p/655d871688b10f329c2300da)  
+- [2023-11-22-CVPR-2023-|-无中生有：面向实时点云全景分割的中心聚焦网络](https://posts.careerengine.us/p/655d8708a86a8f3276e84750)  
+- [2023-11-22-一文速览NeurIPS-2023大模型/预训练/上下文学习相关Spotlight文章](https://posts.careerengine.us/p/655d8707a86a8f3276e84748)  
 - [2023-11-21-丢弃99％的参数！阿里团队提出语言模型合体术，性能暴涨且无需重新训练和GPU](https://posts.careerengine.us/p/655c324fe274582ffb30fc5f)  
-- [2023-11-20-真正读懂此文的人，你100％会感谢我！！！](https://posts.careerengine.us/p/655aedc6c3ac845773e1a16f)  
-- [2023-11-20-​EMNLP-2023-findings-|-生成式框架下解决输入扰动槽填充任务](https://posts.careerengine.us/p/655aedd636d1c757a478cc8e)  
-- [2023-11-20-参数量13B模型全方位碾压GPT-4？这背后有什么猫腻](https://posts.careerengine.us/p/655aedd636d1c757a478cc86)  
+- [2023-11-21-EMNLP-2023-|-解决LLaMA、BERT等部署难题：首个4-bit浮点量化LLM来了](https://posts.careerengine.us/p/655c325ee7fc55308bd0fed0)  
+- [2023-11-21-大规模神经网络优化：神经网络损失空间“长”什么样？](https://posts.careerengine.us/p/655c325ee7fc55308bd0fec0)  
+- [2023-11-21-博士申请-|-宁波东方理工大学沈晓宇老师招收NLP/AI方向博士/博后/RA/实习生等](https://posts.careerengine.us/p/655c325ee7fc55308bd0fec8)  
 - [2023-11-20-深圳内推-|-微信视觉团队招聘AIGC/多模态/LLM等方向算法实习生](https://posts.careerengine.us/p/655aede57f116e57e8465952)  
-- [2023-11-17-博后招募-|-香港中文大学计算基因组宋永健老师招聘生物信息学研究员/博士后](https://posts.careerengine.us/p/6556f77b805a540c5529a023)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2023-11-25-像Docker一样编排大模型应用程序：这支十余人的年轻创业团队如何在2个月做出一个LLMOps平台？](https://posts.careerengine.us/p/656187ae57f3ac6ce7924706) ![](/assets/new.png)  
+- [2023-11-25-像Docker一样编排大模型应用程序：这支十余人的年轻创业团队如何在2个月做出一个LLMOps平台？](https://posts.careerengine.us/p/656187ae57f3ac6ce7924706)  
 - [2023-11-24-OpenAI忙着“宫斗”，手握2.2万块H100的竞争对手趁机发布新款大模型：1750亿参数，性能仅次于GPT-4](https://posts.careerengine.us/p/656035f6323808547d0fc116)  
 - [2023-11-23-好用的不通用，通用的不好用，金融落地大模型需要“专业型”选手](https://posts.careerengine.us/p/655ee45c0e26e37776de63a4)  
 - [2023-11-23-OpenAI“宫斗戏”落幕！最大的赢家不是Altman，也不是微软](https://posts.careerengine.us/p/655ee45c0e26e37776de63ac)  
