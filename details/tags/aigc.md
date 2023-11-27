@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-26 15:00:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-27 15:00:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -16,6 +16,7 @@
 - [2023-07-16-一张截图生成iPhone应用、还能转成代码、创建网站，升级后谷歌Bard真成了](https://posts.careerengine.us/p/64b37a81149433457e8154f9) 
 - [2023-07-14-谷歌Bard史上最大升级：中文、识图、存档导出能力都来了](https://posts.careerengine.us/p/64b137613b57e74bae33c801) 
 - [2023-06-28-DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89) 
+- [2023-11-27-经典表情包原来还有这“续集”！Stable-Video创意玩法火了](https://posts.careerengine.us/p/6564246101d031085f16205d) 
 - [2023-11-23-Stable-Video-Diffusion问世！3D合成功能引关注，网友：进步太快](https://posts.careerengine.us/p/655e8e202326ae4eda706577) 
 - [2023-11-03-Midjourney大更新：开放自定义风格新功能！网友：最改变游戏规则的一集](https://posts.careerengine.us/p/654463c1085c906911712d48) 
 - [2023-10-24-50张图“毒倒”Stable-Diffusion，汽车和牛都分不清了](https://posts.careerengine.us/p/6537a34544e0843b4ef2f2d3) 

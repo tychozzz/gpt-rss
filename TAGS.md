@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-26 15:00:45。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-27 15:00:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -150,6 +150,7 @@
 - [【机器之心】一张截图生成iPhone应用、还能转成代码、创建网站，升级后谷歌Bard真成了](https://posts.careerengine.us/p/64b37a81149433457e8154f9)
 - [【机器之心】谷歌Bard史上最大升级：中文、识图、存档导出能力都来了](https://posts.careerengine.us/p/64b137613b57e74bae33c801)
 - [【机器之心】DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89)
+- [【量子位】经典表情包原来还有这“续集”！Stable-Video创意玩法火了](https://posts.careerengine.us/p/6564246101d031085f16205d)
 - [【量子位】Stable-Video-Diffusion问世！3D合成功能引关注，网友：进步太快](https://posts.careerengine.us/p/655e8e202326ae4eda706577)
 - [【量子位】Midjourney大更新：开放自定义风格新功能！网友：最改变游戏规则的一集](https://posts.careerengine.us/p/654463c1085c906911712d48)
 - [【量子位】50张图“毒倒”Stable-Diffusion，汽车和牛都分不清了](https://posts.careerengine.us/p/6537a34544e0843b4ef2f2d3)
@@ -160,7 +161,6 @@
 - [【PaperWeekly】简单有效！Direct-Inversion：三行代码提升基于Diffusion的图像编辑效果](https://posts.careerengine.us/p/653540d3b40b6c39bb494403)
 - [【PaperWeekly】NeurIPS-2023-|-MSRA、清华、复旦等联合提出AR-Diffusion：基于自回归扩散的文本生成](https://posts.careerengine.us/p/6514ff55c1d7df4ab458e844)
 - [【AI前线】手机也能用文心一言了！百度文心一言-App-正式上架-iOS-平台](https://posts.careerengine.us/p/64a7a4792869b618fe665e61)
-- [【AI前线】DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -200,6 +200,7 @@
 
 
 - [【机器之心】中科院、阿里出品FF3D，创建自定义风格化3D人像只需三分钟](https://posts.careerengine.us/p/64a8f17356a2e2354e54ec78)
+- [【量子位】阿里确认放弃量子计算研发！实验室裁撤，设备送浙大](https://posts.careerengine.us/p/6564244b6ace1008276d37f3)
 - [【量子位】4999！这款智能眼镜在进博会上火了，背后团队已获阿里千万元战略投资](https://posts.careerengine.us/p/654dd02e030481116c4535e8)
 - [【量子位】渐冻症少年闪光阿里数学竞赛！靠自学进MIT研究黑洞，导师：很像霍金](https://posts.careerengine.us/p/651f913d4eea38290b9d0929)
 - [【量子位】阿里数学竞赛最年轻金奖得主：17岁北大读大二，小学就在看数学分析](https://posts.careerengine.us/p/650590fc74c19334bdafec1f)
