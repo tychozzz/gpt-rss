@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-11-29 18:00:13，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-29 21:00:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2023-11-29-Keras-3.0正式发布！一统TF/PyTorch/Jax三大后端框架，网友：改变游戏规则](https://posts.careerengine.us/p/6566ddbb829c382efdbba7ef) ![](/assets/new.png)  
-- [2023-11-29-斯坦福美女博士创业项目爆火！AI视频生成出道即顶流，半年融资5500万美元](https://posts.careerengine.us/p/6566ddbb829c382efdbba7f7) ![](/assets/new.png)  
-- [2023-11-29-GPT-4惨遭削弱，偷懒摸鱼绝不多写一行代码，OpenAI已介入调查](https://posts.careerengine.us/p/6566ddbb829c382efdbba7ff) ![](/assets/new.png)  
-- [2023-11-29-16000颗H200超级芯片！最强云计算亚马逊云科技和英伟达“合体”了：推出云AI超级计算机](https://posts.careerengine.us/p/6566ddc940bd502f7495504f) ![](/assets/new.png)  
-- [2023-11-29-北大最新多模态大模型开源：在混合数据集上训练，无需修改直接用到图像视频任务](https://posts.careerengine.us/p/6566ddc940bd502f74955057) ![](/assets/new.png)  
+- [2023-11-29-Keras-3.0正式发布！一统TF/PyTorch/Jax三大后端框架，网友：改变游戏规则](https://posts.careerengine.us/p/6566ddbb829c382efdbba7ef)  
+- [2023-11-29-斯坦福美女博士创业项目爆火！AI视频生成出道即顶流，半年融资5500万美元](https://posts.careerengine.us/p/6566ddbb829c382efdbba7f7)  
+- [2023-11-29-GPT-4惨遭削弱，偷懒摸鱼绝不多写一行代码，OpenAI已介入调查](https://posts.careerengine.us/p/6566ddbb829c382efdbba7ff)  
+- [2023-11-29-16000颗H200超级芯片！最强云计算亚马逊云科技和英伟达“合体”了：推出云AI超级计算机](https://posts.careerengine.us/p/6566ddc940bd502f7495504f)  
+- [2023-11-29-北大最新多模态大模型开源：在混合数据集上训练，无需修改直接用到图像视频任务](https://posts.careerengine.us/p/6566ddc940bd502f74955057)  
 - [2023-11-28-“高联杯”第五届首都高校创新创业大赛正式开赛！](https://posts.careerengine.us/p/6565993993ec876060504666)  
 - [2023-11-28-马斯克脑机接口公司再融资4300万美元，临床试验宣传片首次发布，网友：在哪儿付款？](https://posts.careerengine.us/p/6565993993ec87606050466e)  
 - [2023-11-28-法律ChatLaw、金融度小满轩辕大模型实战课程来袭！专家教你搭建-AI-原生应用，更有百度智能云千帆-SDK-加速应用创新](https://posts.careerengine.us/p/6565992a8d71a76015ef5156)  
@@ -176,26 +176,26 @@
 </summary>
 
 
+- [2023-11-29-了解你的系统和数据库、两天能升级上千Java应用！生成式AI大杀器Amazon-Q-才是开发专家？](https://posts.careerengine.us/p/6566fe2aa50fb03f5d24e168) ![](/assets/new.png)  
 - [2023-11-28-滴滴崩了一夜：这次的异常问题该由谁来“背锅”？](https://posts.careerengine.us/p/65656cac0af440190b15b609)  
 - [2023-11-27-中国生成式AI开发者生态调研-｜参与有礼](https://posts.careerengine.us/p/6564b2881041f51f4a8f35c1)  
 - [2023-11-26-拼多多成立大模型团队，年薪百万招聘人才；网传TCL旗下芯片公司“原地解散”；小伙被AI换脸的“表哥”骗走30万-|-AI一周资讯](https://posts.careerengine.us/p/6562d9394665b2406cea06e5)  
 - [2023-11-25-像Docker一样编排大模型应用程序：这支十余人的年轻创业团队如何在2个月做出一个LLMOps平台？](https://posts.careerengine.us/p/656187ae57f3ac6ce7924706)  
 - [2023-11-24-OpenAI忙着“宫斗”，手握2.2万块H100的竞争对手趁机发布新款大模型：1750亿参数，性能仅次于GPT-4](https://posts.careerengine.us/p/656035f6323808547d0fc116)  
-- [2023-11-23-OpenAI“宫斗戏”落幕！最大的赢家不是Altman，也不是微软](https://posts.careerengine.us/p/655ee45c0e26e37776de63ac)  
 - [2023-11-23-好用的不通用，通用的不好用，金融落地大模型需要“专业型”选手](https://posts.careerengine.us/p/655ee45c0e26e37776de63a4)  
+- [2023-11-23-OpenAI“宫斗戏”落幕！最大的赢家不是Altman，也不是微软](https://posts.careerengine.us/p/655ee45c0e26e37776de63ac)  
 - [2023-11-22-又双叒反转！奥特曼与OpenAI重启谈判，却遭前员工指责“欺诈、排除异己、打压员工”](https://posts.careerengine.us/p/655d938489dc2a6e1931bd86)  
-- [2023-11-21-文生图大型实践：揭秘百度搜索-AIGC-绘画工具的背后故事！](https://posts.careerengine.us/p/655c3cca1d5fc562a295d760)  
 - [2023-11-21-95％员工离职、大批客户流失，曝Altman和投资人想其回归OpenAI，董事会却找竞对合并？](https://posts.careerengine.us/p/655c3cbcc2ebcc62538817a7)  
-- [2023-11-20-OpenAI-“政变”48小时后：Altman夺回主导权、回归在即！微软入局、董事会或重组](https://posts.careerengine.us/p/655af19cb076a768e4a27088)  
+- [2023-11-21-文生图大型实践：揭秘百度搜索-AIGC-绘画工具的背后故事！](https://posts.careerengine.us/p/655c3cca1d5fc562a295d760)  
 - [2023-11-20-AIGC-在前端-Web-开发中的应用：响应式设计和-Tailwind-配置的完美搭档](https://posts.careerengine.us/p/655af19cb076a768e4a27080)  
+- [2023-11-20-OpenAI-“政变”48小时后：Altman夺回主导权、回归在即！微软入局、董事会或重组](https://posts.careerengine.us/p/655af19cb076a768e4a27088)  
 - [2023-11-19-蔚来技术岗员工贷款买自家品牌车仍被裁；李彦宏：文心一言调用量比国内两百家大模型还多；原vivo中国区总裁丁燚离职｜A一周资讯](https://posts.careerengine.us/p/65598855ee579b185c6fc9e7)  
 - [2023-11-18-OpenAI-高层大地震为其首席科学家幕后推动？离职总裁爆料罢免经过、Altman-再次回应](https://posts.careerengine.us/p/655862fd4f3974704b311ecf)  
 - [2023-11-17-一个失败的AI女友产品，以及我的教训：来自一位中国开发者的总结](https://posts.careerengine.us/p/655707672acb3e5647ae70db)  
-- [2023-11-16-科技巨头不做选择题！微软发布两款自研5nm芯片，AI和云计算两大市场都想要](https://posts.careerengine.us/p/6555aab7d4b2d33114b81d02)  
 - [2023-11-16-招商银行如何利用AI提升审查效率和准确率？](https://posts.careerengine.us/p/6555aab8d4b2d33114b81d0a)  
-- [2023-11-15-香港-AI-产业：49％-受访企业表示有技术人才招聘困难](https://posts.careerengine.us/p/655450ea0bcf6831b2d0111a)  
+- [2023-11-16-科技巨头不做选择题！微软发布两款自研5nm芯片，AI和云计算两大市场都想要](https://posts.careerengine.us/p/6555aab7d4b2d33114b81d02)  
 - [2023-11-15-李开复旗下340亿参数开源大模型被指“套壳LLaMA”，最新回应来了！](https://posts.careerengine.us/p/655450db4652e7317e997a5a)  
-- [2023-11-14-囤H100的都成了大冤种！英伟达发布最新AI芯片H200：性能提升2倍，成本下降50％](https://posts.careerengine.us/p/65531af3ffcb7644575d1720)  
+- [2023-11-15-香港-AI-产业：49％-受访企业表示有技术人才招聘困难](https://posts.careerengine.us/p/655450ea0bcf6831b2d0111a)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
