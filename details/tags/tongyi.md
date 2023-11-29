@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-28 18:00:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-29 15:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 通义千问
 
@@ -13,6 +13,7 @@
 - [2023-10-06-渐冻症少年闪光阿里数学竞赛！靠自学进MIT研究黑洞，导师：很像霍金](https://posts.careerengine.us/p/651f913d4eea38290b9d0929) 
 - [2023-09-16-阿里数学竞赛最年轻金奖得主：17岁北大读大二，小学就在看数学分析](https://posts.careerengine.us/p/650590fc74c19334bdafec1f) 
 - [2023-09-11-逍遥子突然辞去阿里一切职务！之前不再担任董事长，现在阿里云CEO也卸了](https://posts.careerengine.us/p/64fe97375a95ca2620951c98) 
+- [2023-11-29-2024算法寒假实习来啦！微软/腾讯/阿里/小红书等急招，可远程、可转正！](https://posts.careerengine.us/p/6566d480becb3c056ff8ad28) 
 - [2023-10-30-杭州/北京内推-|-阿里云人工智能平台深度学习团队招聘算法研究实习生](https://posts.careerengine.us/p/653f844911a61c758d1cf53b) 
 - [2023-10-14-杭州内推-|-​阿里巴巴淘天集团客户满意中心招聘自然语言处理算法工程师](https://posts.careerengine.us/p/652be6d9d900a769ab6eeada) 
 - [2023-09-19-今晚直播-|-阿里达摩院算法研究员黄斐：又快又好的非自回归文本生成](https://posts.careerengine.us/p/65099484f0de614b0d9f413a) 
