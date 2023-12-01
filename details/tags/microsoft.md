@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-30 21:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-01 15:00:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 微软
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-12-01-微软亚洲研究院韦福如：人工智能基础创新的第二增长曲线](https://posts.careerengine.us/p/6569633a1f1bd76df364faf8) 
 - [2023-11-21-Sam-Altman要加入微软，推动者Ilya却后悔了，超500名员工请辞逼宫董事会](https://posts.careerengine.us/p/655b8814394c9949c7fa6958) 
 - [2023-10-16-狂揽10k-star，微软AutoGen框架太火了，智能体聊聊天就把问题解决了](https://posts.careerengine.us/p/652cc1dd03569d5751c2319e) 
 - [2023-09-19-超38TB私人文件泄露，微软员工的聊天记录都被看到了](https://posts.careerengine.us/p/650986594ea7917fff4cabbc) 
