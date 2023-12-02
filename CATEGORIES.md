@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-01 21:00:32，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-02 15:00:12，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-12-01-踹不倒！国产人形机器人整活，售价不到9万美元](https://posts.careerengine.us/p/6569631aac6e7d6d38c13690)  
-- [2023-12-01-720亿参数大模型都拿来开源了！通义千问开源全家桶，最小18亿模型端侧都能跑](https://posts.careerengine.us/p/6569631aac6e7d6d38c13687)  
-- [2023-12-01-新一轮数智变革已至，创新合作正当时！院士大咖、产业链代表共探新机遇](https://posts.careerengine.us/p/6569632fbf98b96d7799b487)  
-- [2023-12-01-最强的GPT-4V都考不过？基于大学考试的测试基准MMMU诞生了](https://posts.careerengine.us/p/656963391f1bd76df364faef)  
+- [2023-12-02-全网都在模仿的「科目三」，梅西、钢铁侠、二次元小姐姐马上拿下](https://posts.careerengine.us/p/656aae43fe5a1549c07d6756) ![](/assets/new.png)  
+- [2023-12-02-一张照片生成视频，张嘴、点头、喜怒哀乐，都可以打字控制](https://posts.careerengine.us/p/656aae51ba3f514a032fe2a1) ![](/assets/new.png)  
+- [2023-12-02-用GPT-4V和人类演示训练机器人：眼睛学会了，手也能跟上](https://posts.careerengine.us/p/656aae5984bb314a2d02c672) ![](/assets/new.png)  
+- [2023-12-02-微软教小模型推理进阶版：Orca-2性能媲美10倍参数模型，已开源](https://posts.careerengine.us/p/656aae654c62f74ac7c93383) ![](/assets/new.png)  
+- [2023-12-02-专注图表理解，腾讯、南洋理工等开源图表羊驼大模型ChartLlama](https://posts.careerengine.us/p/656aae654c62f74ac7c9338b) ![](/assets/new.png)  
 - [2023-12-01-微软亚洲研究院韦福如：人工智能基础创新的第二增长曲线](https://posts.careerengine.us/p/6569633a1f1bd76df364faf8)  
-- [2023-11-30-只有大肠杆菌宽度的一半，「奇怪金属」电流流动和你想的不一样](https://posts.careerengine.us/p/65681203b8f9a652d32aeb03)  
-- [2023-11-30-ChatGPT发布一周年了，开源大模型都迎头赶上了吗？](https://posts.careerengine.us/p/65681203b8f9a652d32aeafb)  
-- [2023-11-30-SDXL-Turbo、LCM相继发布，AI画图进入实时生成时代：字打多快，出图就有多快](https://posts.careerengine.us/p/656811f7f18d985297a6ecd0)  
-- [2023-11-30-ChatGPT狂吐训练数据，还带个人信息：DeepMind发现大bug引争议](https://posts.careerengine.us/p/656811eef284c45272adfd7e)  
+- [2023-12-01-最强的GPT-4V都考不过？基于大学考试的测试基准MMMU诞生了](https://posts.careerengine.us/p/656963391f1bd76df364faef)  
+- [2023-12-01-新一轮数智变革已至，创新合作正当时！院士大咖、产业链代表共探新机遇](https://posts.careerengine.us/p/6569632fbf98b96d7799b487)  
+- [2023-12-01-720亿参数大模型都拿来开源了！通义千问开源全家桶，最小18亿模型端侧都能跑](https://posts.careerengine.us/p/6569631aac6e7d6d38c13687)  
+- [2023-12-01-踹不倒！国产人形机器人整活，售价不到9万美元](https://posts.careerengine.us/p/6569631aac6e7d6d38c13690)  
 - [2023-11-30-达摩院的AI研究，让人类首次实现了大规模胰腺癌早筛](https://posts.careerengine.us/p/656811e2b6d70751e60324ad)  
-- [2023-11-29-Keras-3.0正式发布：可用于TensorFlow、JAX和PyTorch](https://posts.careerengine.us/p/6566cb10e8300459289d7652)  
-- [2023-11-29-研究没思路的看过来，这是可信机器学习的1000个创新idea](https://posts.careerengine.us/p/6566cb10e8300459289d764a)  
-- [2023-11-29-训练130亿大模型仅3天，北大提出Chat-UniVi统一图片和视频理解](https://posts.careerengine.us/p/6566cb1eb9787d5962095b7d)  
+- [2023-11-30-ChatGPT狂吐训练数据，还带个人信息：DeepMind发现大bug引争议](https://posts.careerengine.us/p/656811eef284c45272adfd7e)  
+- [2023-11-30-SDXL-Turbo、LCM相继发布，AI画图进入实时生成时代：字打多快，出图就有多快](https://posts.careerengine.us/p/656811f7f18d985297a6ecd0)  
+- [2023-11-30-ChatGPT发布一周年了，开源大模型都迎头赶上了吗？](https://posts.careerengine.us/p/65681203b8f9a652d32aeafb)  
+- [2023-11-30-只有大肠杆菌宽度的一半，「奇怪金属」电流流动和你想的不一样](https://posts.careerengine.us/p/65681203b8f9a652d32aeb03)  
 - [2023-11-29-Transformer变革3D建模，MeshGPT生成效果惊动专业建模师，网友：革命性idea](https://posts.careerengine.us/p/6566cb1fb9787d5962095b85)  
-- [2023-11-28-规模小、效率高：DeepMind推出多模态解决方案Mirasol-3B](https://posts.careerengine.us/p/6565720813fe58322238a742)  
-- [2023-11-28-600万辆的「丰收」：比亚迪做对什么了](https://posts.careerengine.us/p/656571f8a7cb173190f04ad6)  
-- [2023-11-28-ChatGPT提示词新玩法「make-it-more」，文生图效果翻倍](https://posts.careerengine.us/p/656571f8a7cb173190f04ade)  
+- [2023-11-29-训练130亿大模型仅3天，北大提出Chat-UniVi统一图片和视频理解](https://posts.careerengine.us/p/6566cb1eb9787d5962095b7d)  
+- [2023-11-29-研究没思路的看过来，这是可信机器学习的1000个创新idea](https://posts.careerengine.us/p/6566cb10e8300459289d764a)  
+- [2023-11-29-Keras-3.0正式发布：可用于TensorFlow、JAX和PyTorch](https://posts.careerengine.us/p/6566cb10e8300459289d7652)  
 - [2023-11-28-简化版Transformer来了，网友：年度论文](https://posts.careerengine.us/p/656571e68a26ba31669e153b)  
-- [2023-11-27-佳期投资2024全球招聘正式开启！](https://posts.careerengine.us/p/6564b325765515224ef81ad4)  
-- [2023-11-27-单个A100生成3D图像只需30秒，这是Adobe让文本、图像都动起来的新方法](https://posts.careerengine.us/p/6564b325765515224ef81aca)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2023-12-01-AI诊疗或更准确，来自顶刊新研究！大模型搞医疗现状：在CPU上成功落地](https://posts.careerengine.us/p/6569b2a93fee6421d8639020) ![](/assets/new.png)  
-- [2023-12-01-人形机器人技术专利：中国第一](https://posts.careerengine.us/p/6569b2b06fe8c621f7930a37) ![](/assets/new.png)  
-- [2023-12-01-马斯克：离AGI还有三年，Ilya道德感很强，他认真了一定是严肃问题](https://posts.careerengine.us/p/6569b2b881c5292228d6d2ab) ![](/assets/new.png)  
-- [2023-12-01-国产720亿参数开源免费模型来了！对标Llama2-70B，一手实测在此](https://posts.careerengine.us/p/6569b2b881c5292228d6d2a3) ![](/assets/new.png)  
-- [2023-12-01-AI美术完成度超80％，游戏模型为何无法通用？三七互娱独家揭秘](https://posts.careerengine.us/p/6569b2c6e72fa9226719377c) ![](/assets/new.png)  
+- [2023-12-01-AI诊疗或更准确，来自顶刊新研究！大模型搞医疗现状：在CPU上成功落地](https://posts.careerengine.us/p/6569b2a93fee6421d8639020)  
+- [2023-12-01-人形机器人技术专利：中国第一](https://posts.careerengine.us/p/6569b2b06fe8c621f7930a37)  
+- [2023-12-01-马斯克：离AGI还有三年，Ilya道德感很强，他认真了一定是严肃问题](https://posts.careerengine.us/p/6569b2b881c5292228d6d2ab)  
+- [2023-12-01-国产720亿参数开源免费模型来了！对标Llama2-70B，一手实测在此](https://posts.careerengine.us/p/6569b2b881c5292228d6d2a3)  
+- [2023-12-01-AI美术完成度超80％，游戏模型为何无法通用？三七互娱独家揭秘](https://posts.careerengine.us/p/6569b2c6e72fa9226719377c)  
 - [2023-11-30-最新Claude2.1、Llama-2随便用！亚马逊把生成式AI开发门槛打下去了](https://posts.careerengine.us/p/656858385640e96ec897c774)  
 - [2023-11-30-用上这个工具包，大模型推理性能加速达40倍](https://posts.careerengine.us/p/656858385640e96ec897c77c)  
 - [2023-11-30-ChatGPT新漏洞：失控背出个人隐私泄露训练数据，OpenAI修复后依然有效](https://posts.careerengine.us/p/6568582fdd39726ea6d6d7b1)  
