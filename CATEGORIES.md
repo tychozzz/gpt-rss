@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-03 08:00:31，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-03 15:00:10，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-12-02-全网都在模仿的「科目三」，梅西、钢铁侠、二次元小姐姐马上拿下](https://posts.careerengine.us/p/656aae43fe5a1549c07d6756)  
-- [2023-12-02-一张照片生成视频，张嘴、点头、喜怒哀乐，都可以打字控制](https://posts.careerengine.us/p/656aae51ba3f514a032fe2a1)  
-- [2023-12-02-用GPT-4V和人类演示训练机器人：眼睛学会了，手也能跟上](https://posts.careerengine.us/p/656aae5984bb314a2d02c672)  
-- [2023-12-02-微软教小模型推理进阶版：Orca-2性能媲美10倍参数模型，已开源](https://posts.careerengine.us/p/656aae654c62f74ac7c93383)  
+- [2023-12-03-手机上0.2秒出图、当前速度之最，谷歌打造超快扩散模型MobileDiffusion](https://posts.careerengine.us/p/656c129e776d055f04f27b2b) ![](/assets/new.png)  
+- [2023-12-03-任意文本、视觉、音频混合生成，多模态有了强大的基础引擎CoDi-2](https://posts.careerengine.us/p/656c12ab0543675f3d38f541) ![](/assets/new.png)  
+- [2023-12-03-驶向未来，首个多视图预测+规划自动驾驶世界模型来了](https://posts.careerengine.us/p/656c12ab0543675f3d38f539) ![](/assets/new.png)  
+- [2023-12-03-Meta教你5步学会用Llama2：我见过最简单的大模型教学](https://posts.careerengine.us/p/656c12b5ca70795f75ab0243) ![](/assets/new.png)  
 - [2023-12-02-专注图表理解，腾讯、南洋理工等开源图表羊驼大模型ChartLlama](https://posts.careerengine.us/p/656aae654c62f74ac7c9338b)  
-- [2023-12-01-微软亚洲研究院韦福如：人工智能基础创新的第二增长曲线](https://posts.careerengine.us/p/6569633a1f1bd76df364faf8)  
-- [2023-12-01-最强的GPT-4V都考不过？基于大学考试的测试基准MMMU诞生了](https://posts.careerengine.us/p/656963391f1bd76df364faef)  
-- [2023-12-01-新一轮数智变革已至，创新合作正当时！院士大咖、产业链代表共探新机遇](https://posts.careerengine.us/p/6569632fbf98b96d7799b487)  
-- [2023-12-01-720亿参数大模型都拿来开源了！通义千问开源全家桶，最小18亿模型端侧都能跑](https://posts.careerengine.us/p/6569631aac6e7d6d38c13687)  
+- [2023-12-02-微软教小模型推理进阶版：Orca-2性能媲美10倍参数模型，已开源](https://posts.careerengine.us/p/656aae654c62f74ac7c93383)  
+- [2023-12-02-用GPT-4V和人类演示训练机器人：眼睛学会了，手也能跟上](https://posts.careerengine.us/p/656aae5984bb314a2d02c672)  
+- [2023-12-02-一张照片生成视频，张嘴、点头、喜怒哀乐，都可以打字控制](https://posts.careerengine.us/p/656aae51ba3f514a032fe2a1)  
+- [2023-12-02-全网都在模仿的「科目三」，梅西、钢铁侠、二次元小姐姐马上拿下](https://posts.careerengine.us/p/656aae43fe5a1549c07d6756)  
 - [2023-12-01-踹不倒！国产人形机器人整活，售价不到9万美元](https://posts.careerengine.us/p/6569631aac6e7d6d38c13690)  
-- [2023-11-30-达摩院的AI研究，让人类首次实现了大规模胰腺癌早筛](https://posts.careerengine.us/p/656811e2b6d70751e60324ad)  
-- [2023-11-30-ChatGPT狂吐训练数据，还带个人信息：DeepMind发现大bug引争议](https://posts.careerengine.us/p/656811eef284c45272adfd7e)  
-- [2023-11-30-SDXL-Turbo、LCM相继发布，AI画图进入实时生成时代：字打多快，出图就有多快](https://posts.careerengine.us/p/656811f7f18d985297a6ecd0)  
-- [2023-11-30-ChatGPT发布一周年了，开源大模型都迎头赶上了吗？](https://posts.careerengine.us/p/65681203b8f9a652d32aeafb)  
+- [2023-12-01-720亿参数大模型都拿来开源了！通义千问开源全家桶，最小18亿模型端侧都能跑](https://posts.careerengine.us/p/6569631aac6e7d6d38c13687)  
+- [2023-12-01-新一轮数智变革已至，创新合作正当时！院士大咖、产业链代表共探新机遇](https://posts.careerengine.us/p/6569632fbf98b96d7799b487)  
+- [2023-12-01-最强的GPT-4V都考不过？基于大学考试的测试基准MMMU诞生了](https://posts.careerengine.us/p/656963391f1bd76df364faef)  
+- [2023-12-01-微软亚洲研究院韦福如：人工智能基础创新的第二增长曲线](https://posts.careerengine.us/p/6569633a1f1bd76df364faf8)  
 - [2023-11-30-只有大肠杆菌宽度的一半，「奇怪金属」电流流动和你想的不一样](https://posts.careerengine.us/p/65681203b8f9a652d32aeb03)  
-- [2023-11-29-Transformer变革3D建模，MeshGPT生成效果惊动专业建模师，网友：革命性idea](https://posts.careerengine.us/p/6566cb1fb9787d5962095b85)  
-- [2023-11-29-训练130亿大模型仅3天，北大提出Chat-UniVi统一图片和视频理解](https://posts.careerengine.us/p/6566cb1eb9787d5962095b7d)  
-- [2023-11-29-研究没思路的看过来，这是可信机器学习的1000个创新idea](https://posts.careerengine.us/p/6566cb10e8300459289d764a)  
+- [2023-11-30-ChatGPT发布一周年了，开源大模型都迎头赶上了吗？](https://posts.careerengine.us/p/65681203b8f9a652d32aeafb)  
+- [2023-11-30-SDXL-Turbo、LCM相继发布，AI画图进入实时生成时代：字打多快，出图就有多快](https://posts.careerengine.us/p/656811f7f18d985297a6ecd0)  
+- [2023-11-30-ChatGPT狂吐训练数据，还带个人信息：DeepMind发现大bug引争议](https://posts.careerengine.us/p/656811eef284c45272adfd7e)  
+- [2023-11-30-达摩院的AI研究，让人类首次实现了大规模胰腺癌早筛](https://posts.careerengine.us/p/656811e2b6d70751e60324ad)  
 - [2023-11-29-Keras-3.0正式发布：可用于TensorFlow、JAX和PyTorch](https://posts.careerengine.us/p/6566cb10e8300459289d7652)  
-- [2023-11-28-简化版Transformer来了，网友：年度论文](https://posts.careerengine.us/p/656571e68a26ba31669e153b)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2023-12-03-LLaMA2+RLHF=脆皮大模型？ICLR-2024高分投稿：多样性驱动的红蓝对抗](https://posts.careerengine.us/p/656b96c7c2763c4d8687f508) ![](/assets/new.png)  
-- [2023-12-03-开源可试用！智源提出SegVol：通用且可交互的医学体素分割模型](https://posts.careerengine.us/p/656b96cebe43164db69a1774) ![](/assets/new.png)  
-- [2023-12-03-文末送书-|-统计至简：知乎数学可视化大神全角度拆解统计学与概率论](https://posts.careerengine.us/p/656b96cebe43164db69a176c) ![](/assets/new.png)  
-- [2023-12-03-北京/深圳内推-|-腾讯游戏AI大语言模型团队招聘LLM算法工程师/研究员](https://posts.careerengine.us/p/656b96d74abd5f4dd7ce9e9d) ![](/assets/new.png)  
+- [2023-12-03-LLaMA2+RLHF=脆皮大模型？ICLR-2024高分投稿：多样性驱动的红蓝对抗](https://posts.careerengine.us/p/656b96c7c2763c4d8687f508)  
+- [2023-12-03-开源可试用！智源提出SegVol：通用且可交互的医学体素分割模型](https://posts.careerengine.us/p/656b96cebe43164db69a1774)  
+- [2023-12-03-文末送书-|-统计至简：知乎数学可视化大神全角度拆解统计学与概率论](https://posts.careerengine.us/p/656b96cebe43164db69a176c)  
+- [2023-12-03-北京/深圳内推-|-腾讯游戏AI大语言模型团队招聘LLM算法工程师/研究员](https://posts.careerengine.us/p/656b96d74abd5f4dd7ce9e9d)  
 - [2023-12-01-科研实习-|-北京大学国际机器学习研究中心张文涛教授招收科研实习生/RA](https://posts.careerengine.us/p/656978859752f046f923a780)  
 - [2023-12-01-GPT-4联手开源建模软件Blender，打破文本到视频生成的物理界限](https://posts.careerengine.us/p/6569787cfd5f384690777e33)  
 - [2023-12-01-LLM准确率飙升27％！DeepMind提出全新「后退一步」Prompt技术](https://posts.careerengine.us/p/6569787cfd5f384690777e3b)  
