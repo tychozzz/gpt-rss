@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-02 15:00:12，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-03 08:00:31，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-12-02-全网都在模仿的「科目三」，梅西、钢铁侠、二次元小姐姐马上拿下](https://posts.careerengine.us/p/656aae43fe5a1549c07d6756) ![](/assets/new.png)  
-- [2023-12-02-一张照片生成视频，张嘴、点头、喜怒哀乐，都可以打字控制](https://posts.careerengine.us/p/656aae51ba3f514a032fe2a1) ![](/assets/new.png)  
-- [2023-12-02-用GPT-4V和人类演示训练机器人：眼睛学会了，手也能跟上](https://posts.careerengine.us/p/656aae5984bb314a2d02c672) ![](/assets/new.png)  
-- [2023-12-02-微软教小模型推理进阶版：Orca-2性能媲美10倍参数模型，已开源](https://posts.careerengine.us/p/656aae654c62f74ac7c93383) ![](/assets/new.png)  
-- [2023-12-02-专注图表理解，腾讯、南洋理工等开源图表羊驼大模型ChartLlama](https://posts.careerengine.us/p/656aae654c62f74ac7c9338b) ![](/assets/new.png)  
+- [2023-12-02-全网都在模仿的「科目三」，梅西、钢铁侠、二次元小姐姐马上拿下](https://posts.careerengine.us/p/656aae43fe5a1549c07d6756)  
+- [2023-12-02-一张照片生成视频，张嘴、点头、喜怒哀乐，都可以打字控制](https://posts.careerengine.us/p/656aae51ba3f514a032fe2a1)  
+- [2023-12-02-用GPT-4V和人类演示训练机器人：眼睛学会了，手也能跟上](https://posts.careerengine.us/p/656aae5984bb314a2d02c672)  
+- [2023-12-02-微软教小模型推理进阶版：Orca-2性能媲美10倍参数模型，已开源](https://posts.careerengine.us/p/656aae654c62f74ac7c93383)  
+- [2023-12-02-专注图表理解，腾讯、南洋理工等开源图表羊驼大模型ChartLlama](https://posts.careerengine.us/p/656aae654c62f74ac7c9338b)  
 - [2023-12-01-微软亚洲研究院韦福如：人工智能基础创新的第二增长曲线](https://posts.careerengine.us/p/6569633a1f1bd76df364faf8)  
 - [2023-12-01-最强的GPT-4V都考不过？基于大学考试的测试基准MMMU诞生了](https://posts.careerengine.us/p/656963391f1bd76df364faef)  
 - [2023-12-01-新一轮数智变革已至，创新合作正当时！院士大咖、产业链代表共探新机遇](https://posts.careerengine.us/p/6569632fbf98b96d7799b487)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-12-01-精彩进行中：Wiley携手上海理工大学，与您分享光学人工智能系统等领域前沿研究！](https://posts.careerengine.us/p/6569786745485746573c0a28)  
-- [2023-12-01-LLM准确率飙升27％！DeepMind提出全新「后退一步」Prompt技术](https://posts.careerengine.us/p/6569787cfd5f384690777e3b)  
-- [2023-12-01-GPT-4联手开源建模软件Blender，打破文本到视频生成的物理界限](https://posts.careerengine.us/p/6569787cfd5f384690777e33)  
+- [2023-12-03-LLaMA2+RLHF=脆皮大模型？ICLR-2024高分投稿：多样性驱动的红蓝对抗](https://posts.careerengine.us/p/656b96c7c2763c4d8687f508) ![](/assets/new.png)  
+- [2023-12-03-开源可试用！智源提出SegVol：通用且可交互的医学体素分割模型](https://posts.careerengine.us/p/656b96cebe43164db69a1774) ![](/assets/new.png)  
+- [2023-12-03-文末送书-|-统计至简：知乎数学可视化大神全角度拆解统计学与概率论](https://posts.careerengine.us/p/656b96cebe43164db69a176c) ![](/assets/new.png)  
+- [2023-12-03-北京/深圳内推-|-腾讯游戏AI大语言模型团队招聘LLM算法工程师/研究员](https://posts.careerengine.us/p/656b96d74abd5f4dd7ce9e9d) ![](/assets/new.png)  
 - [2023-12-01-科研实习-|-北京大学国际机器学习研究中心张文涛教授招收科研实习生/RA](https://posts.careerengine.us/p/656978859752f046f923a780)  
-- [2023-11-30-NeurIPS-2023-|-清华ETH提出首个二值化光谱重建算法](https://posts.careerengine.us/p/65681152176c014ec714e4bd)  
-- [2023-11-30-无需偏好数据也能RLHF？腾讯AI-Lab提出对抗式偏好对齐方法](https://posts.careerengine.us/p/65681149eecf4d4e9a965652)  
+- [2023-12-01-GPT-4联手开源建模软件Blender，打破文本到视频生成的物理界限](https://posts.careerengine.us/p/6569787cfd5f384690777e33)  
+- [2023-12-01-LLM准确率飙升27％！DeepMind提出全新「后退一步」Prompt技术](https://posts.careerengine.us/p/6569787cfd5f384690777e3b)  
+- [2023-12-01-精彩进行中：Wiley携手上海理工大学，与您分享光学人工智能系统等领域前沿研究！](https://posts.careerengine.us/p/6569786745485746573c0a28)  
 - [2023-11-30-入职享最高800万政策补贴！中国移动海外博士专场云聘会即将启动！](https://posts.careerengine.us/p/65681149eecf4d4e9a96565b)  
-- [2023-11-29-2024算法寒假实习来啦！微软/腾讯/阿里/小红书等急招，可远程、可转正！](https://posts.careerengine.us/p/6566d480becb3c056ff8ad28)  
-- [2023-11-29-ICML-2023-|-RACE：使用进化算法大幅提升多智能体强化学习算法学习](https://posts.careerengine.us/p/6566d480becb3c056ff8ad30)  
-- [2023-11-29-博士申请-|-西交利物浦大学颜宏盛副教授招收深度学习/CV方向全奖博士生](https://posts.careerengine.us/p/6566d48f8e4ce00595b6680c)  
+- [2023-11-30-无需偏好数据也能RLHF？腾讯AI-Lab提出对抗式偏好对齐方法](https://posts.careerengine.us/p/65681149eecf4d4e9a965652)  
+- [2023-11-30-NeurIPS-2023-|-清华ETH提出首个二值化光谱重建算法](https://posts.careerengine.us/p/65681152176c014ec714e4bd)  
 - [2023-11-29-真·任意时刻视频插帧利器，更清晰，可编辑！已开源，可在线试用](https://posts.careerengine.us/p/6566d49e1a868105fbde986f)  
-- [2023-11-28-三种8卡GPU评测Llama2：解密大模型训练、微调和推理运行时的性能问题](https://posts.careerengine.us/p/65656de1d72fb21ec1bab877)  
-- [2023-11-28-​EMNLP-2023-|-Explore-Instruct：通过LLM的主动探索提高特定领域指令多样性](https://posts.careerengine.us/p/65656de1d72fb21ec1bab867)  
+- [2023-11-29-博士申请-|-西交利物浦大学颜宏盛副教授招收深度学习/CV方向全奖博士生](https://posts.careerengine.us/p/6566d48f8e4ce00595b6680c)  
+- [2023-11-29-ICML-2023-|-RACE：使用进化算法大幅提升多智能体强化学习算法学习](https://posts.careerengine.us/p/6566d480becb3c056ff8ad30)  
+- [2023-11-29-2024算法寒假实习来啦！微软/腾讯/阿里/小红书等急招，可远程、可转正！](https://posts.careerengine.us/p/6566d480becb3c056ff8ad28)  
 - [2023-11-28-国内做医学图像处理的大牛有哪些？](https://posts.careerengine.us/p/65656dcf45104c1e95aad3f8)  
-- [2023-11-27-博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d)  
-- [2023-11-27-VQ一下Key，Transformer的复杂度就变成线性了](https://posts.careerengine.us/p/6564a410e7203652eb38dd15)  
-- [2023-11-27-NeurIPS-2023-|-无需配对数据就能学习！浙大等提出连接多模态对比表征C-MCR](https://posts.careerengine.us/p/6564a410e7203652eb38dd25)  
+- [2023-11-28-​EMNLP-2023-|-Explore-Instruct：通过LLM的主动探索提高特定领域指令多样性](https://posts.careerengine.us/p/65656de1d72fb21ec1bab867)  
+- [2023-11-28-三种8卡GPU评测Llama2：解密大模型训练、微调和推理运行时的性能问题](https://posts.careerengine.us/p/65656de1d72fb21ec1bab877)  
 - [2023-11-27-大语言模型之生成/推理：参数与解码策略原理及其代码实现](https://posts.careerengine.us/p/6564a4287d86785379717065)  
-- [2023-11-25-科研实习-|-鹏城实验室童倩倩老师招聘虚拟现实/人机交互等方向访问学生/博士后](https://posts.careerengine.us/p/6561c77c97c67d7f131ed98f)  
-- [2023-11-25-Yann-LeCun点赞！Meta对Transformer架构下手了：新注意力机制更懂推理](https://posts.careerengine.us/p/6561c76bfce2b67ed5d7011b)  
+- [2023-11-27-NeurIPS-2023-|-无需配对数据就能学习！浙大等提出连接多模态对比表征C-MCR](https://posts.careerengine.us/p/6564a410e7203652eb38dd25)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
