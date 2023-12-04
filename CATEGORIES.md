@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-03 18:00:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-04 12:00:15，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -52,7 +52,7 @@
 </summary>
 
 
-- [2023-12-03-AI视觉字谜爆火！梦露转180°秒变爱因斯坦，英伟达高级AI科学家：近期最酷的扩散模型](https://posts.careerengine.us/p/656c125ba76d115d27241515) ![](/assets/new.png)  
+- [2023-12-03-AI视觉字谜爆火！梦露转180°秒变爱因斯坦，英伟达高级AI科学家：近期最酷的扩散模型](https://posts.careerengine.us/p/656c125ba76d115d27241515)  
 - [2023-12-01-AI美术完成度超80％，游戏模型为何无法通用？三七互娱独家揭秘](https://posts.careerengine.us/p/6569b2c6e72fa9226719377c)  
 - [2023-12-01-国产720亿参数开源免费模型来了！对标Llama2-70B，一手实测在此](https://posts.careerengine.us/p/6569b2b881c5292228d6d2a3)  
 - [2023-12-01-马斯克：离AGI还有三年，Ilya道德感很强，他认真了一定是严肃问题](https://posts.careerengine.us/p/6569b2b881c5292228d6d2ab)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-12-03-LLaMA2+RLHF=脆皮大模型？ICLR-2024高分投稿：多样性驱动的红蓝对抗](https://posts.careerengine.us/p/656b96c7c2763c4d8687f508)  
-- [2023-12-03-开源可试用！智源提出SegVol：通用且可交互的医学体素分割模型](https://posts.careerengine.us/p/656b96cebe43164db69a1774)  
-- [2023-12-03-文末送书-|-统计至简：知乎数学可视化大神全角度拆解统计学与概率论](https://posts.careerengine.us/p/656b96cebe43164db69a176c)  
 - [2023-12-03-北京/深圳内推-|-腾讯游戏AI大语言模型团队招聘LLM算法工程师/研究员](https://posts.careerengine.us/p/656b96d74abd5f4dd7ce9e9d)  
-- [2023-12-01-科研实习-|-北京大学国际机器学习研究中心张文涛教授招收科研实习生/RA](https://posts.careerengine.us/p/656978859752f046f923a780)  
-- [2023-12-01-GPT-4联手开源建模软件Blender，打破文本到视频生成的物理界限](https://posts.careerengine.us/p/6569787cfd5f384690777e33)  
-- [2023-12-01-LLM准确率飙升27％！DeepMind提出全新「后退一步」Prompt技术](https://posts.careerengine.us/p/6569787cfd5f384690777e3b)  
+- [2023-12-03-文末送书-|-统计至简：知乎数学可视化大神全角度拆解统计学与概率论](https://posts.careerengine.us/p/656b96cebe43164db69a176c)  
+- [2023-12-03-开源可试用！智源提出SegVol：通用且可交互的医学体素分割模型](https://posts.careerengine.us/p/656b96cebe43164db69a1774)  
+- [2023-12-03-LLaMA2+RLHF=脆皮大模型？ICLR-2024高分投稿：多样性驱动的红蓝对抗](https://posts.careerengine.us/p/656b96c7c2763c4d8687f508)  
+- [2023-12-03-只剩3天！EMNLP-2023开幕倒计时：共绘自然语言处理的未来](https://posts.careerengine.us/p/656d1ed7308e9627be9e2354) ![](/assets/new.png)  
+- [2023-12-03-开源AI写真项目FaceChain集成SDXL，生成人像质感拉满](https://posts.careerengine.us/p/656d1ecf2d1e282785f6ec13) ![](/assets/new.png)  
+- [2023-12-03-科研实习-|-清华大学未来实验室人居组招收AI-Agent智能体系统方向科研实习生](https://posts.careerengine.us/p/656d1ecf2d1e282785f6ec1b) ![](/assets/new.png)  
+- [2023-12-03-NeurIPS-2023-|-GPT-ST：生成式时空预训练模型](https://posts.careerengine.us/p/656d1ec000d20527278d516e) ![](/assets/new.png)  
 - [2023-12-01-精彩进行中：Wiley携手上海理工大学，与您分享光学人工智能系统等领域前沿研究！](https://posts.careerengine.us/p/6569786745485746573c0a28)  
-- [2023-11-30-入职享最高800万政策补贴！中国移动海外博士专场云聘会即将启动！](https://posts.careerengine.us/p/65681149eecf4d4e9a96565b)  
-- [2023-11-30-无需偏好数据也能RLHF？腾讯AI-Lab提出对抗式偏好对齐方法](https://posts.careerengine.us/p/65681149eecf4d4e9a965652)  
+- [2023-12-01-LLM准确率飙升27％！DeepMind提出全新「后退一步」Prompt技术](https://posts.careerengine.us/p/6569787cfd5f384690777e3b)  
+- [2023-12-01-GPT-4联手开源建模软件Blender，打破文本到视频生成的物理界限](https://posts.careerengine.us/p/6569787cfd5f384690777e33)  
+- [2023-12-01-科研实习-|-北京大学国际机器学习研究中心张文涛教授招收科研实习生/RA](https://posts.careerengine.us/p/656978859752f046f923a780)  
 - [2023-11-30-NeurIPS-2023-|-清华ETH提出首个二值化光谱重建算法](https://posts.careerengine.us/p/65681152176c014ec714e4bd)  
-- [2023-11-29-真·任意时刻视频插帧利器，更清晰，可编辑！已开源，可在线试用](https://posts.careerengine.us/p/6566d49e1a868105fbde986f)  
-- [2023-11-29-博士申请-|-西交利物浦大学颜宏盛副教授招收深度学习/CV方向全奖博士生](https://posts.careerengine.us/p/6566d48f8e4ce00595b6680c)  
-- [2023-11-29-ICML-2023-|-RACE：使用进化算法大幅提升多智能体强化学习算法学习](https://posts.careerengine.us/p/6566d480becb3c056ff8ad30)  
+- [2023-11-30-无需偏好数据也能RLHF？腾讯AI-Lab提出对抗式偏好对齐方法](https://posts.careerengine.us/p/65681149eecf4d4e9a965652)  
+- [2023-11-30-入职享最高800万政策补贴！中国移动海外博士专场云聘会即将启动！](https://posts.careerengine.us/p/65681149eecf4d4e9a96565b)  
 - [2023-11-29-2024算法寒假实习来啦！微软/腾讯/阿里/小红书等急招，可远程、可转正！](https://posts.careerengine.us/p/6566d480becb3c056ff8ad28)  
-- [2023-11-28-国内做医学图像处理的大牛有哪些？](https://posts.careerengine.us/p/65656dcf45104c1e95aad3f8)  
-- [2023-11-28-​EMNLP-2023-|-Explore-Instruct：通过LLM的主动探索提高特定领域指令多样性](https://posts.careerengine.us/p/65656de1d72fb21ec1bab867)  
+- [2023-11-29-ICML-2023-|-RACE：使用进化算法大幅提升多智能体强化学习算法学习](https://posts.careerengine.us/p/6566d480becb3c056ff8ad30)  
+- [2023-11-29-博士申请-|-西交利物浦大学颜宏盛副教授招收深度学习/CV方向全奖博士生](https://posts.careerengine.us/p/6566d48f8e4ce00595b6680c)  
+- [2023-11-29-真·任意时刻视频插帧利器，更清晰，可编辑！已开源，可在线试用](https://posts.careerengine.us/p/6566d49e1a868105fbde986f)  
 - [2023-11-28-三种8卡GPU评测Llama2：解密大模型训练、微调和推理运行时的性能问题](https://posts.careerengine.us/p/65656de1d72fb21ec1bab877)  
-- [2023-11-27-大语言模型之生成/推理：参数与解码策略原理及其代码实现](https://posts.careerengine.us/p/6564a4287d86785379717065)  
-- [2023-11-27-NeurIPS-2023-|-无需配对数据就能学习！浙大等提出连接多模态对比表征C-MCR](https://posts.careerengine.us/p/6564a410e7203652eb38dd25)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
