@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-04 15:00:15，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-04 23:00:21，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-12-03-手机上0.2秒出图、当前速度之最，谷歌打造超快扩散模型MobileDiffusion](https://posts.careerengine.us/p/656c129e776d055f04f27b2b)  
-- [2023-12-03-任意文本、视觉、音频混合生成，多模态有了强大的基础引擎CoDi-2](https://posts.careerengine.us/p/656c12ab0543675f3d38f541)  
-- [2023-12-03-驶向未来，首个多视图预测+规划自动驾驶世界模型来了](https://posts.careerengine.us/p/656c12ab0543675f3d38f539)  
+- [2023-12-04-R-CNN作者Ross-Girshick离职，何恺明、谢赛宁回归学界，Meta-CV走出了多少大神](https://posts.careerengine.us/p/656dcd215dcb7e046063cf52) ![](/assets/new.png)  
+- [2023-12-04-通用视觉推理显现，UC伯克利炼出单一纯CV大模型，三位资深学者参与](https://posts.careerengine.us/p/656dcd3355b2d90519c14827) ![](/assets/new.png)  
+- [2023-12-04-不是大模型全局微调不起，只是LoRA更有性价比，教程已经准备好了](https://posts.careerengine.us/p/656dcd3355b2d90519c1481d) ![](/assets/new.png)  
+- [2023-12-04-全球首个开源多模态医疗基础模型：人工打分平均超越GPT-4V、支持2D/3D放射影像](https://posts.careerengine.us/p/656dcd3355b2d90519c1480d) ![](/assets/new.png)  
+- [2023-12-04-NeurIPS-2023｜北京大学提出类别级6D物体位姿估计新范式，取得新SOTA](https://posts.careerengine.us/p/656dcd3355b2d90519c14805) ![](/assets/new.png)  
 - [2023-12-03-Meta教你5步学会用Llama2：我见过最简单的大模型教学](https://posts.careerengine.us/p/656c12b5ca70795f75ab0243)  
-- [2023-12-02-专注图表理解，腾讯、南洋理工等开源图表羊驼大模型ChartLlama](https://posts.careerengine.us/p/656aae654c62f74ac7c9338b)  
-- [2023-12-02-微软教小模型推理进阶版：Orca-2性能媲美10倍参数模型，已开源](https://posts.careerengine.us/p/656aae654c62f74ac7c93383)  
-- [2023-12-02-用GPT-4V和人类演示训练机器人：眼睛学会了，手也能跟上](https://posts.careerengine.us/p/656aae5984bb314a2d02c672)  
-- [2023-12-02-一张照片生成视频，张嘴、点头、喜怒哀乐，都可以打字控制](https://posts.careerengine.us/p/656aae51ba3f514a032fe2a1)  
+- [2023-12-03-驶向未来，首个多视图预测+规划自动驾驶世界模型来了](https://posts.careerengine.us/p/656c12ab0543675f3d38f539)  
+- [2023-12-03-任意文本、视觉、音频混合生成，多模态有了强大的基础引擎CoDi-2](https://posts.careerengine.us/p/656c12ab0543675f3d38f541)  
+- [2023-12-03-手机上0.2秒出图、当前速度之最，谷歌打造超快扩散模型MobileDiffusion](https://posts.careerengine.us/p/656c129e776d055f04f27b2b)  
 - [2023-12-02-全网都在模仿的「科目三」，梅西、钢铁侠、二次元小姐姐马上拿下](https://posts.careerengine.us/p/656aae43fe5a1549c07d6756)  
-- [2023-12-01-踹不倒！国产人形机器人整活，售价不到9万美元](https://posts.careerengine.us/p/6569631aac6e7d6d38c13690)  
-- [2023-12-01-720亿参数大模型都拿来开源了！通义千问开源全家桶，最小18亿模型端侧都能跑](https://posts.careerengine.us/p/6569631aac6e7d6d38c13687)  
-- [2023-12-01-新一轮数智变革已至，创新合作正当时！院士大咖、产业链代表共探新机遇](https://posts.careerengine.us/p/6569632fbf98b96d7799b487)  
-- [2023-12-01-最强的GPT-4V都考不过？基于大学考试的测试基准MMMU诞生了](https://posts.careerengine.us/p/656963391f1bd76df364faef)  
+- [2023-12-02-一张照片生成视频，张嘴、点头、喜怒哀乐，都可以打字控制](https://posts.careerengine.us/p/656aae51ba3f514a032fe2a1)  
+- [2023-12-02-用GPT-4V和人类演示训练机器人：眼睛学会了，手也能跟上](https://posts.careerengine.us/p/656aae5984bb314a2d02c672)  
+- [2023-12-02-微软教小模型推理进阶版：Orca-2性能媲美10倍参数模型，已开源](https://posts.careerengine.us/p/656aae654c62f74ac7c93383)  
+- [2023-12-02-专注图表理解，腾讯、南洋理工等开源图表羊驼大模型ChartLlama](https://posts.careerengine.us/p/656aae654c62f74ac7c9338b)  
 - [2023-12-01-微软亚洲研究院韦福如：人工智能基础创新的第二增长曲线](https://posts.careerengine.us/p/6569633a1f1bd76df364faf8)  
-- [2023-11-30-只有大肠杆菌宽度的一半，「奇怪金属」电流流动和你想的不一样](https://posts.careerengine.us/p/65681203b8f9a652d32aeb03)  
-- [2023-11-30-ChatGPT发布一周年了，开源大模型都迎头赶上了吗？](https://posts.careerengine.us/p/65681203b8f9a652d32aeafb)  
-- [2023-11-30-SDXL-Turbo、LCM相继发布，AI画图进入实时生成时代：字打多快，出图就有多快](https://posts.careerengine.us/p/656811f7f18d985297a6ecd0)  
-- [2023-11-30-ChatGPT狂吐训练数据，还带个人信息：DeepMind发现大bug引争议](https://posts.careerengine.us/p/656811eef284c45272adfd7e)  
+- [2023-12-01-最强的GPT-4V都考不过？基于大学考试的测试基准MMMU诞生了](https://posts.careerengine.us/p/656963391f1bd76df364faef)  
+- [2023-12-01-新一轮数智变革已至，创新合作正当时！院士大咖、产业链代表共探新机遇](https://posts.careerengine.us/p/6569632fbf98b96d7799b487)  
+- [2023-12-01-720亿参数大模型都拿来开源了！通义千问开源全家桶，最小18亿模型端侧都能跑](https://posts.careerengine.us/p/6569631aac6e7d6d38c13687)  
+- [2023-12-01-踹不倒！国产人形机器人整活，售价不到9万美元](https://posts.careerengine.us/p/6569631aac6e7d6d38c13690)  
 - [2023-11-30-达摩院的AI研究，让人类首次实现了大规模胰腺癌早筛](https://posts.careerengine.us/p/656811e2b6d70751e60324ad)  
-- [2023-11-29-Keras-3.0正式发布：可用于TensorFlow、JAX和PyTorch](https://posts.careerengine.us/p/6566cb10e8300459289d7652)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2023-12-04-香港中文领衔港科广、复旦重磅发布：迈向通用图智能的新方法，图提示学习进展与挑战](https://posts.careerengine.us/p/656d51f92ee11e26f550b200) ![](/assets/new.png)  
-- [2023-12-04-中山大学开源VeryFL：基于区块链的联邦学习实验框架](https://posts.careerengine.us/p/656d52010ee2bb2723f49f7d) ![](/assets/new.png)  
-- [2023-12-04-CVPR-2023-|-MovieChat：集成视觉模型和LLM的长视频理解新型框架](https://posts.careerengine.us/p/656d52020ee2bb2723f49f85) ![](/assets/new.png)  
-- [2023-12-04-北京内推-|-​默沙东高阶分析团队招聘大语言模型方向NLP算法实习生](https://posts.careerengine.us/p/656d520ede0d5b2760783147) ![](/assets/new.png)  
+- [2023-12-04-香港中文领衔港科广、复旦重磅发布：迈向通用图智能的新方法，图提示学习进展与挑战](https://posts.careerengine.us/p/656d51f92ee11e26f550b200)  
+- [2023-12-04-中山大学开源VeryFL：基于区块链的联邦学习实验框架](https://posts.careerengine.us/p/656d52010ee2bb2723f49f7d)  
+- [2023-12-04-CVPR-2023-|-MovieChat：集成视觉模型和LLM的长视频理解新型框架](https://posts.careerengine.us/p/656d52020ee2bb2723f49f85)  
+- [2023-12-04-北京内推-|-​默沙东高阶分析团队招聘大语言模型方向NLP算法实习生](https://posts.careerengine.us/p/656d520ede0d5b2760783147)  
 - [2023-12-03-NeurIPS-2023-|-GPT-ST：生成式时空预训练模型](https://posts.careerengine.us/p/656d1ec000d20527278d516e)  
 - [2023-12-03-科研实习-|-清华大学未来实验室人居组招收AI-Agent智能体系统方向科研实习生](https://posts.careerengine.us/p/656d1ecf2d1e282785f6ec1b)  
 - [2023-12-03-开源AI写真项目FaceChain集成SDXL，生成人像质感拉满](https://posts.careerengine.us/p/656d1ecf2d1e282785f6ec13)  
