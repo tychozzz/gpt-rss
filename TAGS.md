@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-12-07 15:00:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-12-07 18:00:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -287,6 +287,7 @@
 - [【机器之心】亚马逊刚投40亿美元，谷歌等又要投20亿，Anthropic-估值狂飙](https://posts.careerengine.us/p/651e399e986ff466e2c67942)
 - [【机器之心】真实性惊人，谷歌、康奈尔提出真实的图像补全技术RealFill](https://posts.careerengine.us/p/6518fba578237b2c69902dcb)
 - [【机器之心】给机器下「遗忘咒」？谷歌发起首个机器遗忘挑战赛](https://posts.careerengine.us/p/64aa88110dded95d9df53a98)
+- [【量子位】谷歌Gemini刚发就惹质疑：测试标准有失偏颇，效果视频疑似剪辑](https://posts.careerengine.us/p/65716ec3b4df684de14de733)
 - [【量子位】谷歌18年老将痛斥劈柴哥：没有远见缺乏领导力，“这公司一切都变了”](https://posts.careerengine.us/p/65602ded85648e30ef515a93)
 - [【量子位】拍拍脑门就能打字，谷歌工程师“帽子键盘”圈粉无数，自己也能动手制作](https://posts.careerengine.us/p/652236f5dcf5fa2d9b8ecd4e)
 - [【PaperWeekly】谷歌最新研究：可交互式动态图片生成，细节逼真！](https://posts.careerengine.us/p/6513b2d93449e275617c0480)
