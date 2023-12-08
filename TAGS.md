@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-12-08 15:00:12。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-12-08 18:00:14。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -235,8 +235,9 @@
 - [【机器之心】多模态版Llama2上线，Meta发布AnyMAL](https://posts.careerengine.us/p/6517a4b73fec074ce07ab395)
 - [【机器之心】基于信息论的校准技术，CML让多模态机器学习更可靠](https://posts.careerengine.us/p/649a697cfba2fd44a974741f)
 - [【量子位】北大&腾讯打造多模态15边形战士！语言作“纽带”，拳打脚踢各模态，超越Imagebind](https://posts.careerengine.us/p/65504ca2d8a0792896491abe)
-- [【PaperWeekly】博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d)
+- [【PaperWeekly】上海内推-|-腾讯优图实验室招聘计算机视觉/多模态方向算法实习生](https://posts.careerengine.us/p/6572cd377aabbc207db1546d)
 - [【PaperWeekly】NeurIPS-2023-|-无需配对数据就能学习！浙大等提出连接多模态对比表征C-MCR](https://posts.careerengine.us/p/6564a410e7203652eb38dd25)
+- [【PaperWeekly】博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d)
 - [【PaperWeekly】NeurIPS-2023-|-基于多模态统一表达的跨模态泛化](https://posts.careerengine.us/p/6547c6b2256ac242c107aaa4)
 - [【PaperWeekly】ACM-MM-2023-|-清华、华为联合提出MISSRec：兴趣感知的多模态序列推荐预训练](https://posts.careerengine.us/p/654645c378366022ddd3306f)
 - [【PaperWeekly】ICCV-2023-|-用“自编码器+多模态学习”更有效地解决3D物体可供性问题](https://posts.careerengine.us/p/653f843a0e930675499fdf05)
@@ -248,7 +249,6 @@
 - [【PaperWeekly】北京内推-|-联想研究院招聘CV/多模态方向暑期/日常算法实习生](https://posts.careerengine.us/p/64c40c83e16794707b10ea63)
 - [【PaperWeekly】杭州内推-|-网易云音乐算法团队招聘多模态/NLP方向算法实习生](https://posts.careerengine.us/p/64ba0865d87c6d7e38114a17)
 - [【PaperWeekly】​ICML-2023-|-可证明的动态多模态融合框架：一个简单而有用的理论](https://posts.careerengine.us/p/649d11f12a6d1145e347e4e8)
-- [【AI前线】基于信息论的校准技术，CML让多模态机器学习更可靠](https://posts.careerengine.us/p/649a697cfba2fd44a974741f)
 - [......【查看更多】......](/details/tags/duomotai.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
