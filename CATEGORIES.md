@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-08 18:00:14，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-11 06:00:19，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-12-08-口碑翻转，Pika-1.0试用效果折服一大票人，直呼「最佳视频生成器」](https://posts.careerengine.us/p/65729d01681a475d5e9340c0)  
-- [2023-12-08-Gemini上线首日：用户褒贬不一，演示被质疑「造假」，谷歌承认了](https://posts.careerengine.us/p/65729d02681a475d5e9340c8)  
-- [2023-12-08-真实再现生物脊柱功能，老鼠机器人也能像杰瑞一样灵活，Science-Robotics-发布老鼠机器人最新研究成果](https://posts.careerengine.us/p/65729d151556da5db58ea248)  
-- [2023-12-08-GTA6预告片播放过亿，AI三巨头也能秒变GTA匪帮](https://posts.careerengine.us/p/65729d151556da5db58ea238)  
+- [2023-12-11-一条磁力链接席卷AI圈，87GB种子直接开源8x7B-MoE模型](https://posts.careerengine.us/p/6575e520ef20f4400bfb1e43) ![](/assets/new.png)  
+- [2023-12-11-​陶哲轩用-AI-形式化的证明究竟是什么？一文看懂-PFR-猜想的前世今生](https://posts.careerengine.us/p/6575e520ef20f4400bfb1e3b) ![](/assets/new.png)  
+- [2023-12-11-开源模型「幻觉」更严重，这是三元组粒度的幻觉检测套件](https://posts.careerengine.us/p/6575e5282d501740349d8676) ![](/assets/new.png)  
+- [2023-12-11-HumanGaussian开源：基于Gaussian-Splatting，高质量-3D-人体生成新框架](https://posts.careerengine.us/p/6575e5282d501740349d865e) ![](/assets/new.png)  
 - [2023-12-08-首个精通3D任务的具身通才智能体：感知、推理、规划、行动统统拿下](https://posts.careerengine.us/p/65729d1eb64bc75df747e089)  
-- [2023-12-07-苹果为自家芯片打造开源框架MLX，实现Llama-7B并在M2-Ultra上运行](https://posts.careerengine.us/p/6570bb79c98e267a619092b1)  
-- [2023-12-07-弥合2D和3D生成领域之间的次元壁，X-Dreamer实现高质量的文本到3D生成](https://posts.careerengine.us/p/6570bb79c98e267a619092c1)  
-- [2023-12-07-小模型也可以「分割一切」，Meta改进SAM，参数仅为原版5％](https://posts.careerengine.us/p/6570bb70b70d327a331327a1)  
-- [2023-12-07-思维链提出者Jason-Wei：关于大模型的6个直觉](https://posts.careerengine.us/p/6570bb66829efd7a05664eeb)  
+- [2023-12-08-GTA6预告片播放过亿，AI三巨头也能秒变GTA匪帮](https://posts.careerengine.us/p/65729d151556da5db58ea238)  
+- [2023-12-08-真实再现生物脊柱功能，老鼠机器人也能像杰瑞一样灵活，Science-Robotics-发布老鼠机器人最新研究成果](https://posts.careerengine.us/p/65729d151556da5db58ea248)  
+- [2023-12-08-Gemini上线首日：用户褒贬不一，演示被质疑「造假」，谷歌承认了](https://posts.careerengine.us/p/65729d02681a475d5e9340c8)  
+- [2023-12-08-口碑翻转，Pika-1.0试用效果折服一大票人，直呼「最佳视频生成器」](https://posts.careerengine.us/p/65729d01681a475d5e9340c0)  
 - [2023-12-07-谷歌大杀器终于来了，最大规模Gemini震撼发布：真超GPT4，三大版本，手机直接可用](https://posts.careerengine.us/p/6570bb66829efd7a05664eda)  
-- [2023-12-06-让3D编辑像PS一样简单，新算法GaussianEditor在几分钟内完成3D场景增删改](https://posts.careerengine.us/p/656f79a25991b56df839c084)  
-- [2023-12-06-一张照片，TikTok小姐姐就都能跳舞了](https://posts.careerengine.us/p/656f7982ad5a0b6d1a34b424)  
-- [2023-12-06-不到1000行代码，PyTorch团队让Llama-7B提速10倍](https://posts.careerengine.us/p/656f7982ad5a0b6d1a34b415)  
-- [2023-12-06-快速入局生成式AI，企业为什么选择携手亚马逊云科技？](https://posts.careerengine.us/p/656f7978f71a216cf039a27b)  
-- [2023-12-06-五倍吞吐量，性能全面包围Transformer：新架构Mamba引爆AI圈](https://posts.careerengine.us/p/656f7978f71a216cf039a283)  
-- [2023-12-06-五官乱飞，张嘴、瞪眼、挑眉，AI都能模仿到位，视频诈骗要防不住了](https://posts.careerengine.us/p/657004805f8fe567fe9db67b)  
-- [2023-12-06-分割一切「3D高斯」版来了：几毫秒完成3D分割、千倍加速](https://posts.careerengine.us/p/657004805f8fe567fe9db673)  
-- [2023-12-06-微调都不要了？3个样本、1个提示搞定LLM对齐，提示工程师：全都回来了](https://posts.careerengine.us/p/657004815f8fe567fe9db68b)  
-- [2023-12-06-线上开售！大模型时代的向量数据库-AI-技术论坛圆满收官](https://posts.careerengine.us/p/657004815f8fe567fe9db683)  
+- [2023-12-07-思维链提出者Jason-Wei：关于大模型的6个直觉](https://posts.careerengine.us/p/6570bb66829efd7a05664eeb)  
+- [2023-12-07-小模型也可以「分割一切」，Meta改进SAM，参数仅为原版5％](https://posts.careerengine.us/p/6570bb70b70d327a331327a1)  
+- [2023-12-07-弥合2D和3D生成领域之间的次元壁，X-Dreamer实现高质量的文本到3D生成](https://posts.careerengine.us/p/6570bb79c98e267a619092c1)  
+- [2023-12-07-苹果为自家芯片打造开源框架MLX，实现Llama-7B并在M2-Ultra上运行](https://posts.careerengine.us/p/6570bb79c98e267a619092b1)  
 - [2023-12-06-NeurIPS-2023-|-模仿人类举一反三，数据集扩增新范式GIF框架来了](https://posts.careerengine.us/p/657004917f941e687035b906)  
+- [2023-12-06-线上开售！大模型时代的向量数据库-AI-技术论坛圆满收官](https://posts.careerengine.us/p/657004815f8fe567fe9db683)  
+- [2023-12-06-微调都不要了？3个样本、1个提示搞定LLM对齐，提示工程师：全都回来了](https://posts.careerengine.us/p/657004815f8fe567fe9db68b)  
+- [2023-12-06-分割一切「3D高斯」版来了：几毫秒完成3D分割、千倍加速](https://posts.careerengine.us/p/657004805f8fe567fe9db673)  
+- [2023-12-06-五官乱飞，张嘴、瞪眼、挑眉，AI都能模仿到位，视频诈骗要防不住了](https://posts.careerengine.us/p/657004805f8fe567fe9db67b)  
+- [2023-12-06-五倍吞吐量，性能全面包围Transformer：新架构Mamba引爆AI圈](https://posts.careerengine.us/p/656f7978f71a216cf039a283)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-12-08-拆解大语言模型RLHF中的PPO算法](https://posts.careerengine.us/p/6572cd25db4ef12038128fc6) ![](/assets/new.png)  
-- [2023-12-08-文末送书-|-及时雨！《多模态大模型：技术原理与实战》首发上市](https://posts.careerengine.us/p/6572cd2cd05db9205aec2963) ![](/assets/new.png)  
-- [2023-12-08-EMNLP-2023-|-阅读顺序很重要：蚂蚁联合复旦提出全新多模态文档信息抽取模型](https://posts.careerengine.us/p/6572cd2cd05db9205aec296b) ![](/assets/new.png)  
-- [2023-12-08-上海内推-|-腾讯优图实验室招聘计算机视觉/多模态方向算法实习生](https://posts.careerengine.us/p/6572cd377aabbc207db1546d) ![](/assets/new.png)  
-- [2023-12-07-NeurIPS-2023-|-全新机械手算法：辅助花式抓杯子，GTX-1650实现150fps推断](https://posts.careerengine.us/p/6571583628786f4147cf2eda)  
-- [2023-12-07-视觉模型+大语言模型：首个支持10K+帧长视频理解任务的新型框架](https://posts.careerengine.us/p/6571582cc7fc444117678f68)  
+- [2023-12-11-随机分词浅探：从Viterbi-Sampling到完美采样算法](https://posts.careerengine.us/p/6575e433597a1a39d928bf82) ![](/assets/new.png)  
+- [2023-12-11-何恺明新作：简单框架达成无条件图像生成新SOTA！与MIT合作完成](https://posts.careerengine.us/p/6575e43ae5e96939fdb61186) ![](/assets/new.png)  
+- [2023-12-11-科研实习-|-中国科学院自动化研究所招聘激光雷达多模态感知算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea8504) ![](/assets/new.png)  
+- [2023-12-08-上海内推-|-腾讯优图实验室招聘计算机视觉/多模态方向算法实习生](https://posts.careerengine.us/p/6572cd377aabbc207db1546d)  
+- [2023-12-08-EMNLP-2023-|-阅读顺序很重要：蚂蚁联合复旦提出全新多模态文档信息抽取模型](https://posts.careerengine.us/p/6572cd2cd05db9205aec296b)  
+- [2023-12-08-文末送书-|-及时雨！《多模态大模型：技术原理与实战》首发上市](https://posts.careerengine.us/p/6572cd2cd05db9205aec2963)  
+- [2023-12-08-拆解大语言模型RLHF中的PPO算法](https://posts.careerengine.us/p/6572cd25db4ef12038128fc6)  
 - [2023-12-07-后GPT时代，这个方向在各大顶会杀疯了！](https://posts.careerengine.us/p/6571581da2e29d408e0d9289)  
-- [2023-12-06-无痛缓解多模态大模型幻觉！基于注意力惩罚与回退机制的解码方法「OPERA」](https://posts.careerengine.us/p/65700c104069e91678c679b7)  
-- [2023-12-06-微软仅凭「提示工程」让GPT-4成医学专家！超过一众高度微调模型，专业测试准确率首次超90％](https://posts.careerengine.us/p/65700c1c0d96a116b6657136)  
-- [2023-12-06-科研实习-|-新加坡科技研究局A*STAR招收CV/NLP研究实习生/AI科研实习生](https://posts.careerengine.us/p/65700c3157a8bc16edb3b17b)  
+- [2023-12-07-视觉模型+大语言模型：首个支持10K+帧长视频理解任务的新型框架](https://posts.careerengine.us/p/6571582cc7fc444117678f68)  
+- [2023-12-07-NeurIPS-2023-|-全新机械手算法：辅助花式抓杯子，GTX-1650实现150fps推断](https://posts.careerengine.us/p/6571583628786f4147cf2eda)  
+- [2023-12-07-北京内推-|-快手Y-tech部门招收多模态方向算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea850c) ![](/assets/new.png)  
 - [2023-12-06-RecSys-2023最佳短文奖：推荐系统中的可解释用户留存优化框架](https://posts.careerengine.us/p/65700c3157a8bc16edb3b183)  
-- [2023-12-05-上海/北京内推-|-​浙江清华长三角研究院招聘NLP算法实习生/AI科研实习生](https://posts.careerengine.us/p/656eaba91deeaa18f7cf22f1)  
-- [2023-12-05-复旦发布AIGC图像检测方法综合测评平台，整合并开源多种现有检测算法](https://posts.careerengine.us/p/656eaba81deeaa18f7cf22e9)  
-- [2023-12-05-NeurIPS-2023-|-从分布鲁棒优化角度理解对比学习的鲁棒性和温度系数的意义](https://posts.careerengine.us/p/656eab9f37007a18d92001ef)  
+- [2023-12-06-科研实习-|-新加坡科技研究局A*STAR招收CV/NLP研究实习生/AI科研实习生](https://posts.careerengine.us/p/65700c3157a8bc16edb3b17b)  
+- [2023-12-06-微软仅凭「提示工程」让GPT-4成医学专家！超过一众高度微调模型，专业测试准确率首次超90％](https://posts.careerengine.us/p/65700c1c0d96a116b6657136)  
+- [2023-12-06-无痛缓解多模态大模型幻觉！基于注意力惩罚与回退机制的解码方法「OPERA」](https://posts.careerengine.us/p/65700c104069e91678c679b7)  
 - [2023-12-05-GPT又迎重磅升级！万物皆可大模型（赠大模型系列课程+书籍）](https://posts.careerengine.us/p/656eab906d7edf1852fe8f11)  
-- [2023-12-04-香港中文领衔港科广、复旦重磅发布：迈向通用图智能的新方法，图提示学习进展与挑战](https://posts.careerengine.us/p/656d51f92ee11e26f550b200)  
-- [2023-12-04-中山大学开源VeryFL：基于区块链的联邦学习实验框架](https://posts.careerengine.us/p/656d52010ee2bb2723f49f7d)  
-- [2023-12-04-CVPR-2023-|-MovieChat：集成视觉模型和LLM的长视频理解新型框架](https://posts.careerengine.us/p/656d52020ee2bb2723f49f85)  
+- [2023-12-05-NeurIPS-2023-|-从分布鲁棒优化角度理解对比学习的鲁棒性和温度系数的意义](https://posts.careerengine.us/p/656eab9f37007a18d92001ef)  
+- [2023-12-05-复旦发布AIGC图像检测方法综合测评平台，整合并开源多种现有检测算法](https://posts.careerengine.us/p/656eaba81deeaa18f7cf22e9)  
+- [2023-12-05-上海/北京内推-|-​浙江清华长三角研究院招聘NLP算法实习生/AI科研实习生](https://posts.careerengine.us/p/656eaba91deeaa18f7cf22f1)  
 - [2023-12-04-北京内推-|-​默沙东高阶分析团队招聘大语言模型方向NLP算法实习生](https://posts.careerengine.us/p/656d520ede0d5b2760783147)  
-- [2023-12-03-NeurIPS-2023-|-GPT-ST：生成式时空预训练模型](https://posts.careerengine.us/p/656d1ec000d20527278d516e)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2023-12-08-如何看待-OpenAI-Q*-谣言](https://posts.careerengine.us/p/6572ca08811b580bbfd99d19) ![](/assets/new.png)  
+- [2023-12-08-如何看待-OpenAI-Q*-谣言](https://posts.careerengine.us/p/6572ca08811b580bbfd99d19)  
 - [2023-12-07-中信银行：用-AI-搞定普惠型财富管理的高成本问题](https://posts.careerengine.us/p/657156b9b6d8d83822aa04c9)  
 - [2023-12-07-谷歌又行了？超过GPT-4的“最强”大模型Gemini、“最高效”训练加速器，多模态帮谷歌挽尊](https://posts.careerengine.us/p/657156a51107f937c1ff86f9)  
 - [2023-12-06-互联网大厂“组团”宕机，都怪降本增“笑”？](https://posts.careerengine.us/p/6570860cb067d37832c05d5a)  
