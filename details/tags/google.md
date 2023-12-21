@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-12-20 21:00:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-21 15:00:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 谷歌
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-12-21-谷歌Gemini技术报告出炉，作者多达900余人](https://posts.careerengine.us/p/6583c9323fdfc274a836c9fc) 
 - [2023-12-08-Gemini上线首日：用户褒贬不一，演示被质疑「造假」，谷歌承认了](https://posts.careerengine.us/p/65729d02681a475d5e9340c8) 
 - [2023-11-24-留给谷歌的时间不多了：18年老员工辞职炮轰领导层](https://posts.careerengine.us/p/656022735420a2772b7b4eb5) 
 - [2023-11-20-真正实现一步文生图，谷歌UFOGen极速采样，生成高质量图像](https://posts.careerengine.us/p/655ae51d11f6942d9af9ce3b) 
