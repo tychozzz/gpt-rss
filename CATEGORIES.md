@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-23 10:00:15，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-23 12:00:21，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2023-12-21-入口和粘性决定大模型应用成败！小米场景天然，秀技术参数没意义｜小米栾剑@MEET2024](https://posts.careerengine.us/p/6583c4a079d9d663acec5b72)  
-- [2023-12-21-GPT-4搞科研登Nature！布洛芬配方轻松拿捏，诺奖得主提出的复杂反应也能完成](https://posts.careerengine.us/p/6583c4ae04061d63d682a6cf)  
-- [2023-12-21-开源+共训，双轮驱动基础大模型创新普惠-｜浪潮信息吴韶华@MEET2024](https://posts.careerengine.us/p/6583c4ae04061d63d682a6c7)  
-- [2023-12-21-“Transformer挑战者”Mamba，用Macbook也能跑了！GitHub半天斩获500+星](https://posts.careerengine.us/p/6583c4b6f4ccbe64411706af)  
+- [2023-12-22-谷歌Gemini扳回一局！多模态能力和GPT-4V不分伯仲｜港中文128页全面测评报告](https://posts.careerengine.us/p/65862941a46bd922d27de3e6) ![](/assets/new.png)  
+- [2023-12-22-终端侧AI才是生成式AI规模化的未来-|-高通颜辰巍@MEET2024](https://posts.careerengine.us/p/65862939b2c3b7229880ba20) ![](/assets/new.png)  
+- [2023-12-22-Midjourney能生成文字了！V6版5大升级惊艳网友](https://posts.careerengine.us/p/65862938b2c3b7229880ba09) ![](/assets/new.png)  
+- [2023-12-22-Rokid祝铭明：未来5年，希望把所有人的眼镜换成智能眼镜-|-MEET2024](https://posts.careerengine.us/p/65862939b2c3b7229880ba18) ![](/assets/new.png)  
 - [2023-12-21-Meta翻译大模型可模仿语气语速！AI再也不“莫得感情”了｜GitHub-9k标星](https://posts.careerengine.us/p/6583c4b6f4ccbe64411706b7)  
-- [2023-12-20-2080-Ti就能跑70B大模型，上交大新框架让LLM推理增速11倍](https://posts.careerengine.us/p/6582ce295a10d010d3d7ed0f)  
-- [2023-12-20-谷歌发布新大语言模型：零样本生成10秒视频达SOTA！网友：压力给到Runway/Pika](https://posts.careerengine.us/p/6582ce220282f7104c0e2d55)  
-- [2023-12-20-Gemini-Pro还不如GPT-3.5，CMU深入对比研究：保证公平透明可重复](https://posts.careerengine.us/p/6582ce11954c4d100bccad66)  
-- [2023-12-20-Meta头显新增舌头追踪，网友大写震惊：我不问也不想知道为什么](https://posts.careerengine.us/p/6582ce11954c4d100bccad6e)  
-- [2023-12-20-国产千卡千亿模型训练平台落地：70B到130B大模型训练，线性加速比达91％](https://posts.careerengine.us/p/6582ce0987a10a0fdeee4665)  
+- [2023-12-21-“Transformer挑战者”Mamba，用Macbook也能跑了！GitHub半天斩获500+星](https://posts.careerengine.us/p/6583c4b6f4ccbe64411706af)  
+- [2023-12-21-开源+共训，双轮驱动基础大模型创新普惠-｜浪潮信息吴韶华@MEET2024](https://posts.careerengine.us/p/6583c4ae04061d63d682a6c7)  
+- [2023-12-21-GPT-4搞科研登Nature！布洛芬配方轻松拿捏，诺奖得主提出的复杂反应也能完成](https://posts.careerengine.us/p/6583c4ae04061d63d682a6cf)  
+- [2023-12-21-入口和粘性决定大模型应用成败！小米场景天然，秀技术参数没意义｜小米栾剑@MEET2024](https://posts.careerengine.us/p/6583c4a079d9d663acec5b72)  
 - [2023-12-20-一手实测！0门槛、分钟级打造智能体](https://posts.careerengine.us/p/6582ce0987a10a0fdeee465d)  
-- [2023-12-19-英特尔第五代至强可扩展处理器发布，在CPU上跑AI更香了](https://posts.careerengine.us/p/6581727c8013e26b485e3193)  
-- [2023-12-19-大模型只有免费了才能迎来应用大爆发｜昆仑万维方汉@MEET2024](https://posts.careerengine.us/p/658172853279916b721e2e95)  
-- [2023-12-19-AI把OpenAI内斗魔改成晋江文学，插图也能画，最新工具爆火，网友冲崩服务器](https://posts.careerengine.us/p/658172921cd0696bef714efc)  
-- [2023-12-19-OpenAI：如GPT-5太危险，董事会有权阻止奥特曼发布](https://posts.careerengine.us/p/658172921cd0696bef714ef4)  
+- [2023-12-20-国产千卡千亿模型训练平台落地：70B到130B大模型训练，线性加速比达91％](https://posts.careerengine.us/p/6582ce0987a10a0fdeee4665)  
+- [2023-12-20-Meta头显新增舌头追踪，网友大写震惊：我不问也不想知道为什么](https://posts.careerengine.us/p/6582ce11954c4d100bccad6e)  
+- [2023-12-20-Gemini-Pro还不如GPT-3.5，CMU深入对比研究：保证公平透明可重复](https://posts.careerengine.us/p/6582ce11954c4d100bccad66)  
+- [2023-12-20-谷歌发布新大语言模型：零样本生成10秒视频达SOTA！网友：压力给到Runway/Pika](https://posts.careerengine.us/p/6582ce220282f7104c0e2d55)  
+- [2023-12-20-2080-Ti就能跑70B大模型，上交大新框架让LLM推理增速11倍](https://posts.careerengine.us/p/6582ce295a10d010d3d7ed0f)  
 - [2023-12-19-微软把DALL-E-3集成到键盘，任何APP中都可生图！](https://posts.careerengine.us/p/65817299eadb326c0a13a12c)  
-- [2023-12-18-华人团队用大模型实现“读心术”：大脑活动直接变文字-|-NeurIPS-2023](https://posts.careerengine.us/p/657fd8be7344d52a90a25466)  
-- [2023-12-18-word2vec作者曝与Ilya等十年积怨：seq2seq也是我的想法](https://posts.careerengine.us/p/657fd8b6fa31482a5ccca7cf)  
-- [2023-12-18-360集团梁志辉：企业不能指望员工都变成AI发烧友｜MEET2024](https://posts.careerengine.us/p/657fd8a27d48b129d7cadddc)  
-- [2023-12-18-Gemini自曝中文用百度文心一言训练，网友看呆：大公司互薅羊毛？？](https://posts.careerengine.us/p/657fd8a27d48b129d7caddd4)  
+- [2023-12-19-OpenAI：如GPT-5太危险，董事会有权阻止奥特曼发布](https://posts.careerengine.us/p/658172921cd0696bef714ef4)  
+- [2023-12-19-AI把OpenAI内斗魔改成晋江文学，插图也能画，最新工具爆火，网友冲崩服务器](https://posts.careerengine.us/p/658172921cd0696bef714efc)  
+- [2023-12-19-大模型只有免费了才能迎来应用大爆发｜昆仑万维方汉@MEET2024](https://posts.careerengine.us/p/658172853279916b721e2e95)  
+- [2023-12-19-英特尔第五代至强可扩展处理器发布，在CPU上跑AI更香了](https://posts.careerengine.us/p/6581727c8013e26b485e3193)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2023-12-22-北京内推-|-AMD北京AI算法团队招聘大语言模型算法实习生](https://posts.careerengine.us/p/65862be4ff1e6431d85ad47b) ![](/assets/new.png)  
-- [2023-12-22-港中文128页全球首份Gemini-vs-GPT-4V多模态PK报告](https://posts.careerengine.us/p/65862bc9accbf8315adddc26) ![](/assets/new.png)  
-- [2023-12-22-AAAI-2024-|-低光增强与曝光纠正的新方向：不良光照场景下的新视角合成](https://posts.careerengine.us/p/65862bd74e5977318fb11e83) ![](/assets/new.png)  
-- [2023-12-22-文末送书-|-机器学习统计分析：以统计思维推动模型实现（含Python实现）](https://posts.careerengine.us/p/65862bd64e5977318fb11e79) ![](/assets/new.png)  
+- [2023-12-22-北京内推-|-AMD北京AI算法团队招聘大语言模型算法实习生](https://posts.careerengine.us/p/65862be4ff1e6431d85ad47b)  
+- [2023-12-22-港中文128页全球首份Gemini-vs-GPT-4V多模态PK报告](https://posts.careerengine.us/p/65862bc9accbf8315adddc26)  
+- [2023-12-22-AAAI-2024-|-低光增强与曝光纠正的新方向：不良光照场景下的新视角合成](https://posts.careerengine.us/p/65862bd74e5977318fb11e83)  
+- [2023-12-22-文末送书-|-机器学习统计分析：以统计思维推动模型实现（含Python实现）](https://posts.careerengine.us/p/65862bd64e5977318fb11e79)  
 - [2023-12-21-以变分推断为视角：基于变分EM算法框架推导扩散模型](https://posts.careerengine.us/p/6583be6b6e4c434991c2c504)  
 - [2023-12-21-堪比Midjourney！上百种风格AI写真丝滑生成，这个开源项目能颠覆照相馆吗？](https://posts.careerengine.us/p/6583be61a4555d4958c5e970)  
 - [2023-12-20-个性有了，心眼坏了？大模型微调的潜在危害](https://posts.careerengine.us/p/65827a4d12515818c2ee87fd)  
