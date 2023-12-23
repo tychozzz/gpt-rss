@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-23 18:00:16，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-23 23:00:13，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2023-12-23-清华特奖焦剑涛大模型创业：突破GPT-4工具使用能力，搞开源种子轮融资七千万](https://posts.careerengine.us/p/65865fe767db5259122255fd) ![](/assets/new.png)  
-- [2023-12-23-自研大模型上车双足机器人，西湖大学系具身智能曝光](https://posts.careerengine.us/p/65865fe867db525912225606) ![](/assets/new.png)  
-- [2023-12-23-史上最快3D数字人生成器：半小时完成训练，渲染仅需16毫秒，苹果出品](https://posts.careerengine.us/p/65865ffe0ace6f593fb6418b) ![](/assets/new.png)  
-- [2023-12-23-医学通用分割模型来了！一口气分割200多个解剖类别，发布即开源-|-智源出品](https://posts.careerengine.us/p/65865fff0ace6f593fb64193) ![](/assets/new.png)  
+- [2023-12-23-清华特奖焦剑涛大模型创业：突破GPT-4工具使用能力，搞开源种子轮融资七千万](https://posts.careerengine.us/p/65865fe767db5259122255fd)  
+- [2023-12-23-自研大模型上车双足机器人，西湖大学系具身智能曝光](https://posts.careerengine.us/p/65865fe867db525912225606)  
+- [2023-12-23-史上最快3D数字人生成器：半小时完成训练，渲染仅需16毫秒，苹果出品](https://posts.careerengine.us/p/65865ffe0ace6f593fb6418b)  
+- [2023-12-23-医学通用分割模型来了！一口气分割200多个解剖类别，发布即开源-|-智源出品](https://posts.careerengine.us/p/65865fff0ace6f593fb64193)  
 - [2023-12-22-Rokid祝铭明：未来5年，希望把所有人的眼镜换成智能眼镜-|-MEET2024](https://posts.careerengine.us/p/65862939b2c3b7229880ba18)  
 - [2023-12-22-Midjourney能生成文字了！V6版5大升级惊艳网友](https://posts.careerengine.us/p/65862938b2c3b7229880ba09)  
 - [2023-12-22-终端侧AI才是生成式AI规模化的未来-|-高通颜辰巍@MEET2024](https://posts.careerengine.us/p/65862939b2c3b7229880ba20)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-12-22-北京内推-|-AMD北京AI算法团队招聘大语言模型算法实习生](https://posts.careerengine.us/p/65862be4ff1e6431d85ad47b)  
-- [2023-12-22-港中文128页全球首份Gemini-vs-GPT-4V多模态PK报告](https://posts.careerengine.us/p/65862bc9accbf8315adddc26)  
-- [2023-12-22-AAAI-2024-|-低光增强与曝光纠正的新方向：不良光照场景下的新视角合成](https://posts.careerengine.us/p/65862bd74e5977318fb11e83)  
+- [2023-12-23-注意力机制真的可以“集中注意力”吗？](https://posts.careerengine.us/p/6586d9f52ec4ee7f610dce1f) ![](/assets/new.png)  
+- [2023-12-23-再登Nature！DeepMind大模型突破60年数学难题，解法超出人类已有认知](https://posts.careerengine.us/p/6586d9f62ec4ee7f610dce28) ![](/assets/new.png)  
+- [2023-12-23-博后招募-|-清华大学信息国家研究中心招募数字人技术/三维生成与交互方向博士后](https://posts.careerengine.us/p/6586da1ee021cc0152433148) ![](/assets/new.png)  
 - [2023-12-22-文末送书-|-机器学习统计分析：以统计思维推动模型实现（含Python实现）](https://posts.careerengine.us/p/65862bd64e5977318fb11e79)  
-- [2023-12-21-以变分推断为视角：基于变分EM算法框架推导扩散模型](https://posts.careerengine.us/p/6583be6b6e4c434991c2c504)  
+- [2023-12-22-AAAI-2024-|-低光增强与曝光纠正的新方向：不良光照场景下的新视角合成](https://posts.careerengine.us/p/65862bd74e5977318fb11e83)  
+- [2023-12-22-港中文128页全球首份Gemini-vs-GPT-4V多模态PK报告](https://posts.careerengine.us/p/65862bc9accbf8315adddc26)  
+- [2023-12-22-北京内推-|-AMD北京AI算法团队招聘大语言模型算法实习生](https://posts.careerengine.us/p/65862be4ff1e6431d85ad47b)  
 - [2023-12-21-堪比Midjourney！上百种风格AI写真丝滑生成，这个开源项目能颠覆照相馆吗？](https://posts.careerengine.us/p/6583be61a4555d4958c5e970)  
-- [2023-12-20-个性有了，心眼坏了？大模型微调的潜在危害](https://posts.careerengine.us/p/65827a4d12515818c2ee87fd)  
-- [2023-12-20-AAAI-2024-|-HGPrompt：统一同质图和异质图的少样本图提示学习](https://posts.careerengine.us/p/65827a4d12515818c2ee8805)  
-- [2023-12-20-科研实习-|-新加坡国立大学尤洋老师课题组招收Data-centric-AI/LLM科研实习生](https://posts.careerengine.us/p/65827a5829cf1a18e369f554)  
+- [2023-12-21-以变分推断为视角：基于变分EM算法框架推导扩散模型](https://posts.careerengine.us/p/6583be6b6e4c434991c2c504)  
 - [2023-12-20-清华等团队研究登Nature子刊封面：用生物脑机制启发持续学习，让智能系统适者生存](https://posts.careerengine.us/p/65827a5829cf1a18e369f54c)  
-- [2023-12-19-上海内推-|-上海人工智能实验室浦视开源体系团队招聘音频生成方向算法实习生](https://posts.careerengine.us/p/658126b83c679c66b86ea220)  
-- [2023-12-19-NeurIPS-2023-|-有效提高视频编辑一致性：基于文生图模型新方法EI²](https://posts.careerengine.us/p/658126af0ef737669da83d19)  
-- [2023-12-19-OCR终结了？旷视提出可以文档级OCR的多模态大模型框架Vary，支持中英文，已开源！](https://posts.careerengine.us/p/658126af0ef737669da83d21)  
+- [2023-12-20-科研实习-|-新加坡国立大学尤洋老师课题组招收Data-centric-AI/LLM科研实习生](https://posts.careerengine.us/p/65827a5829cf1a18e369f554)  
+- [2023-12-20-AAAI-2024-|-HGPrompt：统一同质图和异质图的少样本图提示学习](https://posts.careerengine.us/p/65827a4d12515818c2ee8805)  
+- [2023-12-20-个性有了，心眼坏了？大模型微调的潜在危害](https://posts.careerengine.us/p/65827a4d12515818c2ee87fd)  
 - [2023-12-19-让炼丹更科学一些：SGD的平均收敛趋势](https://posts.careerengine.us/p/658126a69c16c1666d1fef47)  
-- [2023-12-18-更灵活、更多样、更美观！TextDiffuser-2有效解决文本渲染难题](https://posts.careerengine.us/p/657fd4a4c8e4dc180980a32f)  
-- [2023-12-18-2023年，大模型这个方向在顶会上太火了！](https://posts.careerengine.us/p/657fd4a4c8e4dc180980a326)  
-- [2023-12-18-顶刊TPAMI-2023-|-Temporal-Perceiver：通用时序边界检测方法](https://posts.careerengine.us/p/657fd4a4c8e4dc180980a316)  
+- [2023-12-19-OCR终结了？旷视提出可以文档级OCR的多模态大模型框架Vary，支持中英文，已开源！](https://posts.careerengine.us/p/658126af0ef737669da83d21)  
+- [2023-12-19-NeurIPS-2023-|-有效提高视频编辑一致性：基于文生图模型新方法EI²](https://posts.careerengine.us/p/658126af0ef737669da83d19)  
+- [2023-12-19-上海内推-|-上海人工智能实验室浦视开源体系团队招聘音频生成方向算法实习生](https://posts.careerengine.us/p/658126b83c679c66b86ea220)  
 - [2023-12-18-博后招募-|-西湖大学机器智能实验室招聘大模型/深度学习等方向博后/RA](https://posts.careerengine.us/p/657fd4af6ccf00187d5a0d92)  
-- [2023-12-17-北京/深圳内推-|-腾讯混元大模型团队招聘AIGC算法研究员/实习生](https://posts.careerengine.us/p/657f0531a408021b4ccd32db)  
-- [2023-12-17-源代码is-all-you-need！7B代码小模型同尺寸无敌，性能媲美ChatGPT和Gemini](https://posts.careerengine.us/p/657f052634ac201b1266cace)  
+- [2023-12-18-顶刊TPAMI-2023-|-Temporal-Perceiver：通用时序边界检测方法](https://posts.careerengine.us/p/657fd4a4c8e4dc180980a316)  
+- [2023-12-18-2023年，大模型这个方向在顶会上太火了！](https://posts.careerengine.us/p/657fd4a4c8e4dc180980a326)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,10 +176,10 @@
 </summary>
 
 
-- [2023-12-23-选择哪种编程语言已经不重要了，只提倡程序员下班后“多看看书”提升竞争力是误人子弟｜独家专访亚马逊-CTO](https://posts.careerengine.us/p/65867219f6bc2942bec88061) ![](/assets/new.png)  
-- [2023-12-23-文心一言App大前端负责人：AI在大前端技术的革新之路](https://posts.careerengine.us/p/65867223f6c6e342e10c57a2) ![](/assets/new.png)  
-- [2023-12-22-OpenAI-的超级对齐团队在做什么](https://posts.careerengine.us/p/6586803b471cb50c2fe1b994) ![](/assets/new.png)  
-- [2023-12-22-9个月、从零开始训练，Midjourney-V6来了！号称比以前所有版本都强大](https://posts.careerengine.us/p/6586803b471cb50c2fe1b98c) ![](/assets/new.png)  
+- [2023-12-23-选择哪种编程语言已经不重要了，只提倡程序员下班后“多看看书”提升竞争力是误人子弟｜独家专访亚马逊-CTO](https://posts.careerengine.us/p/65867219f6bc2942bec88061)  
+- [2023-12-23-文心一言App大前端负责人：AI在大前端技术的革新之路](https://posts.careerengine.us/p/65867223f6c6e342e10c57a2)  
+- [2023-12-22-OpenAI-的超级对齐团队在做什么](https://posts.careerengine.us/p/6586803b471cb50c2fe1b994)  
+- [2023-12-22-9个月、从零开始训练，Midjourney-V6来了！号称比以前所有版本都强大](https://posts.careerengine.us/p/6586803b471cb50c2fe1b98c)  
 - [2023-12-21-来-QCon15-周年上海站，看大模型技术应用展，共探-AI-技术新未来](https://posts.careerengine.us/p/6583e3f1c091525eb49e0aa9)  
 - [2023-12-21-子曰教育大模型加速落地应用：推出虚拟人AI产品，新增口语定级等功能](https://posts.careerengine.us/p/6583e3e5b45dfd5e7b210da0)  
 - [2023-12-20-奥特曼被套上“紧箍咒”？OpenAI发布27页安全指南，董事会有权否决新AI模型发布](https://posts.careerengine.us/p/65827d3400058c243042b105)  
