@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-23 12:00:21，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-23 15:00:16，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2023-12-23-Midjourney-V6迎来大升级：网友惊呼生成效果太逼真](https://posts.careerengine.us/p/658600ad4fd82832c37dcf19)  
-- [2023-12-23-14秒就能重建视频，还能变换角色，Meta让视频合成提速44倍](https://posts.careerengine.us/p/658600ad4fd82832c37dcf11)  
-- [2023-12-23-击败扩散模型，清华朱军团队基于薛定谔桥的新语音合成系统来了](https://posts.careerengine.us/p/658600b6cfa00732ee8ea55c)  
-- [2023-12-23-arXiv大升级，论文网页版本直接看](https://posts.careerengine.us/p/658600c3fa5e03333c32d12c)  
-- [2023-12-23-大模型竟然能玩手机了，还能用软件修图：「AppAgent」会成为2024年的新趋势吗？](https://posts.careerengine.us/p/658600c4fa5e03333c32d134)  
 - [2023-12-23-AAAI-2024-|-测试时领域适应的鲁棒性得以保证，TRIBE在多真实场景下达到SOTA](https://posts.careerengine.us/p/658600cdd78837335f606af3)  
-- [2023-12-21-只需一张图片、一句动作指令，Animate124轻松生成3D视频](https://posts.careerengine.us/p/6583c9462750737539369ffc)  
-- [2023-12-21-再也不怕合照缺人，Anydoor为图片编辑开了一道「任意门」](https://posts.careerengine.us/p/6583c93f08ee48751243f8d8)  
-- [2023-12-21-谷歌Gemini技术报告出炉，作者多达900余人](https://posts.careerengine.us/p/6583c9323fdfc274a836c9fc)  
-- [2023-12-21-开创全新通用3D大模型，VAST将3D生成带入「秒级」时代](https://posts.careerengine.us/p/6583c9313fdfc274a836c9ec)  
+- [2023-12-23-大模型竟然能玩手机了，还能用软件修图：「AppAgent」会成为2024年的新趋势吗？](https://posts.careerengine.us/p/658600c4fa5e03333c32d134)  
+- [2023-12-23-arXiv大升级，论文网页版本直接看](https://posts.careerengine.us/p/658600c3fa5e03333c32d12c)  
+- [2023-12-23-击败扩散模型，清华朱军团队基于薛定谔桥的新语音合成系统来了](https://posts.careerengine.us/p/658600b6cfa00732ee8ea55c)  
+- [2023-12-23-14秒就能重建视频，还能变换角色，Meta让视频合成提速44倍](https://posts.careerengine.us/p/658600ad4fd82832c37dcf11)  
+- [2023-12-23-Midjourney-V6迎来大升级：网友惊呼生成效果太逼真](https://posts.careerengine.us/p/658600ad4fd82832c37dcf19)  
+- [2023-12-23-智能澎湃，大有可为——机器之心2023年度榜单揭晓](https://posts.careerengine.us/p/65866c04f69c5a220814bddf) ![](/assets/new.png)  
+- [2023-12-23-CPU推理提升4到5倍，苹果用闪存加速大模型推理，Siri-2.0要来了？](https://posts.careerengine.us/p/65866c12fbdddb22426228e3) ![](/assets/new.png)  
+- [2023-12-23-OpenAI计划新一轮融资，估值超1000亿美元](https://posts.careerengine.us/p/65866c12fbdddb22426228d2) ![](/assets/new.png)  
+- [2023-12-23-量子计算凛冬将至，LeCun：现实冷酷，炒作太多](https://posts.careerengine.us/p/65866c12fbdddb22426228da) ![](/assets/new.png)  
+- [2023-12-23-阿里mPLUG-Owl新升级，鱼与熊掌兼得，模态协同实现MLLM新SOTA](https://posts.careerengine.us/p/65866c1cd86fa3228fb50aea) ![](/assets/new.png)  
 - [2023-12-21-4090成A100平替？token生成速度只比A100低18％，上交大推理引擎火了](https://posts.careerengine.us/p/6583c9313fdfc274a836c9f4)  
-- [2023-12-20-大模型+搜索构建完整技术栈，百川智能用搜索增强给企业定制化下了一剂「猛药」](https://posts.careerengine.us/p/65828f2593bf3f6c6836e556)  
-- [2023-12-20-卷生成式AI的旗舰手机，2024年会引发一场交互革命](https://posts.careerengine.us/p/65828f2bc1194d6c9096342d)  
-- [2023-12-20-霉霉演唱《稻香》，国内团队的Amphion音频生成火了](https://posts.careerengine.us/p/65828f37b95bf06cc8f0b001)  
-- [2023-12-20-视频生成可以无限长？谷歌VideoPoet大模型上线，网友：革命性技术](https://posts.careerengine.us/p/65828f37b95bf06cc8f0aff9)  
-- [2023-12-20-摸底谷歌Gemini：CMU全面测评，Gemini-Pro不敌GPT-3.5-Turbo](https://posts.careerengine.us/p/65828f3ebb897b6ce47cdf85)  
+- [2023-12-21-开创全新通用3D大模型，VAST将3D生成带入「秒级」时代](https://posts.careerengine.us/p/6583c9313fdfc274a836c9ec)  
+- [2023-12-21-谷歌Gemini技术报告出炉，作者多达900余人](https://posts.careerengine.us/p/6583c9323fdfc274a836c9fc)  
+- [2023-12-21-再也不怕合照缺人，Anydoor为图片编辑开了一道「任意门」](https://posts.careerengine.us/p/6583c93f08ee48751243f8d8)  
+- [2023-12-21-只需一张图片、一句动作指令，Animate124轻松生成3D视频](https://posts.careerengine.us/p/6583c9462750737539369ffc)  
 - [2023-12-20-NeurIPS-2023-Spotlight-|-腾讯AI-Lab绝悟新突破：在星际2灵活策略应对职业选手](https://posts.careerengine.us/p/65828f5569db8e6d2b86cdbb)  
-- [2023-12-19-Adobe终止200亿美元收购Figma计划：监管阻力难克服](https://posts.careerengine.us/p/6581631cda05282cee20889f)  
-- [2023-12-19-万人试用AI新应用：真人视频转动漫、像素风，从未如此丝滑](https://posts.careerengine.us/p/65816313af3adb2ca6c5bad9)  
-- [2023-12-19-用生物脑机制启发持续学习，让智能系统适者生存，清华朱军等团队研究登Nature子刊封面](https://posts.careerengine.us/p/65816312af3adb2ca6c5bad1)  
+- [2023-12-20-摸底谷歌Gemini：CMU全面测评，Gemini-Pro不敌GPT-3.5-Turbo](https://posts.careerengine.us/p/65828f3ebb897b6ce47cdf85)  
+- [2023-12-20-视频生成可以无限长？谷歌VideoPoet大模型上线，网友：革命性技术](https://posts.careerengine.us/p/65828f37b95bf06cc8f0aff9)  
+- [2023-12-20-霉霉演唱《稻香》，国内团队的Amphion音频生成火了](https://posts.careerengine.us/p/65828f37b95bf06cc8f0b001)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2023-12-22-谷歌Gemini扳回一局！多模态能力和GPT-4V不分伯仲｜港中文128页全面测评报告](https://posts.careerengine.us/p/65862941a46bd922d27de3e6) ![](/assets/new.png)  
-- [2023-12-22-终端侧AI才是生成式AI规模化的未来-|-高通颜辰巍@MEET2024](https://posts.careerengine.us/p/65862939b2c3b7229880ba20) ![](/assets/new.png)  
-- [2023-12-22-Midjourney能生成文字了！V6版5大升级惊艳网友](https://posts.careerengine.us/p/65862938b2c3b7229880ba09) ![](/assets/new.png)  
-- [2023-12-22-Rokid祝铭明：未来5年，希望把所有人的眼镜换成智能眼镜-|-MEET2024](https://posts.careerengine.us/p/65862939b2c3b7229880ba18) ![](/assets/new.png)  
+- [2023-12-22-谷歌Gemini扳回一局！多模态能力和GPT-4V不分伯仲｜港中文128页全面测评报告](https://posts.careerengine.us/p/65862941a46bd922d27de3e6)  
+- [2023-12-22-终端侧AI才是生成式AI规模化的未来-|-高通颜辰巍@MEET2024](https://posts.careerengine.us/p/65862939b2c3b7229880ba20)  
+- [2023-12-22-Midjourney能生成文字了！V6版5大升级惊艳网友](https://posts.careerengine.us/p/65862938b2c3b7229880ba09)  
+- [2023-12-22-Rokid祝铭明：未来5年，希望把所有人的眼镜换成智能眼镜-|-MEET2024](https://posts.careerengine.us/p/65862939b2c3b7229880ba18)  
 - [2023-12-21-Meta翻译大模型可模仿语气语速！AI再也不“莫得感情”了｜GitHub-9k标星](https://posts.careerengine.us/p/6583c4b6f4ccbe64411706b7)  
 - [2023-12-21-“Transformer挑战者”Mamba，用Macbook也能跑了！GitHub半天斩获500+星](https://posts.careerengine.us/p/6583c4b6f4ccbe64411706af)  
 - [2023-12-21-开源+共训，双轮驱动基础大模型创新普惠-｜浪潮信息吴韶华@MEET2024](https://posts.careerengine.us/p/6583c4ae04061d63d682a6c7)  
