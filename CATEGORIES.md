@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-23 08:00:09，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-23 10:00:15，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,12 +21,12 @@
 </summary>
 
 
-- [2023-12-23-Midjourney-V6迎来大升级：网友惊呼生成效果太逼真](https://posts.careerengine.us/p/658600ad4fd82832c37dcf19) ![](/assets/new.png)  
-- [2023-12-23-14秒就能重建视频，还能变换角色，Meta让视频合成提速44倍](https://posts.careerengine.us/p/658600ad4fd82832c37dcf11) ![](/assets/new.png)  
-- [2023-12-23-击败扩散模型，清华朱军团队基于薛定谔桥的新语音合成系统来了](https://posts.careerengine.us/p/658600b6cfa00732ee8ea55c) ![](/assets/new.png)  
-- [2023-12-23-arXiv大升级，论文网页版本直接看](https://posts.careerengine.us/p/658600c3fa5e03333c32d12c) ![](/assets/new.png)  
-- [2023-12-23-大模型竟然能玩手机了，还能用软件修图：「AppAgent」会成为2024年的新趋势吗？](https://posts.careerengine.us/p/658600c4fa5e03333c32d134) ![](/assets/new.png)  
-- [2023-12-23-AAAI-2024-|-测试时领域适应的鲁棒性得以保证，TRIBE在多真实场景下达到SOTA](https://posts.careerengine.us/p/658600cdd78837335f606af3) ![](/assets/new.png)  
+- [2023-12-23-Midjourney-V6迎来大升级：网友惊呼生成效果太逼真](https://posts.careerengine.us/p/658600ad4fd82832c37dcf19)  
+- [2023-12-23-14秒就能重建视频，还能变换角色，Meta让视频合成提速44倍](https://posts.careerengine.us/p/658600ad4fd82832c37dcf11)  
+- [2023-12-23-击败扩散模型，清华朱军团队基于薛定谔桥的新语音合成系统来了](https://posts.careerengine.us/p/658600b6cfa00732ee8ea55c)  
+- [2023-12-23-arXiv大升级，论文网页版本直接看](https://posts.careerengine.us/p/658600c3fa5e03333c32d12c)  
+- [2023-12-23-大模型竟然能玩手机了，还能用软件修图：「AppAgent」会成为2024年的新趋势吗？](https://posts.careerengine.us/p/658600c4fa5e03333c32d134)  
+- [2023-12-23-AAAI-2024-|-测试时领域适应的鲁棒性得以保证，TRIBE在多真实场景下达到SOTA](https://posts.careerengine.us/p/658600cdd78837335f606af3)  
 - [2023-12-21-只需一张图片、一句动作指令，Animate124轻松生成3D视频](https://posts.careerengine.us/p/6583c9462750737539369ffc)  
 - [2023-12-21-再也不怕合照缺人，Anydoor为图片编辑开了一道「任意门」](https://posts.careerengine.us/p/6583c93f08ee48751243f8d8)  
 - [2023-12-21-谷歌Gemini技术报告出炉，作者多达900余人](https://posts.careerengine.us/p/6583c9323fdfc274a836c9fc)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-12-21-堪比Midjourney！上百种风格AI写真丝滑生成，这个开源项目能颠覆照相馆吗？](https://posts.careerengine.us/p/6583be61a4555d4958c5e970)  
+- [2023-12-22-北京内推-|-AMD北京AI算法团队招聘大语言模型算法实习生](https://posts.careerengine.us/p/65862be4ff1e6431d85ad47b) ![](/assets/new.png)  
+- [2023-12-22-港中文128页全球首份Gemini-vs-GPT-4V多模态PK报告](https://posts.careerengine.us/p/65862bc9accbf8315adddc26) ![](/assets/new.png)  
+- [2023-12-22-AAAI-2024-|-低光增强与曝光纠正的新方向：不良光照场景下的新视角合成](https://posts.careerengine.us/p/65862bd74e5977318fb11e83) ![](/assets/new.png)  
+- [2023-12-22-文末送书-|-机器学习统计分析：以统计思维推动模型实现（含Python实现）](https://posts.careerengine.us/p/65862bd64e5977318fb11e79) ![](/assets/new.png)  
 - [2023-12-21-以变分推断为视角：基于变分EM算法框架推导扩散模型](https://posts.careerengine.us/p/6583be6b6e4c434991c2c504)  
-- [2023-12-20-清华等团队研究登Nature子刊封面：用生物脑机制启发持续学习，让智能系统适者生存](https://posts.careerengine.us/p/65827a5829cf1a18e369f54c)  
-- [2023-12-20-科研实习-|-新加坡国立大学尤洋老师课题组招收Data-centric-AI/LLM科研实习生](https://posts.careerengine.us/p/65827a5829cf1a18e369f554)  
-- [2023-12-20-AAAI-2024-|-HGPrompt：统一同质图和异质图的少样本图提示学习](https://posts.careerengine.us/p/65827a4d12515818c2ee8805)  
+- [2023-12-21-堪比Midjourney！上百种风格AI写真丝滑生成，这个开源项目能颠覆照相馆吗？](https://posts.careerengine.us/p/6583be61a4555d4958c5e970)  
 - [2023-12-20-个性有了，心眼坏了？大模型微调的潜在危害](https://posts.careerengine.us/p/65827a4d12515818c2ee87fd)  
-- [2023-12-19-让炼丹更科学一些：SGD的平均收敛趋势](https://posts.careerengine.us/p/658126a69c16c1666d1fef47)  
-- [2023-12-19-OCR终结了？旷视提出可以文档级OCR的多模态大模型框架Vary，支持中英文，已开源！](https://posts.careerengine.us/p/658126af0ef737669da83d21)  
-- [2023-12-19-NeurIPS-2023-|-有效提高视频编辑一致性：基于文生图模型新方法EI²](https://posts.careerengine.us/p/658126af0ef737669da83d19)  
+- [2023-12-20-AAAI-2024-|-HGPrompt：统一同质图和异质图的少样本图提示学习](https://posts.careerengine.us/p/65827a4d12515818c2ee8805)  
+- [2023-12-20-科研实习-|-新加坡国立大学尤洋老师课题组招收Data-centric-AI/LLM科研实习生](https://posts.careerengine.us/p/65827a5829cf1a18e369f554)  
+- [2023-12-20-清华等团队研究登Nature子刊封面：用生物脑机制启发持续学习，让智能系统适者生存](https://posts.careerengine.us/p/65827a5829cf1a18e369f54c)  
 - [2023-12-19-上海内推-|-上海人工智能实验室浦视开源体系团队招聘音频生成方向算法实习生](https://posts.careerengine.us/p/658126b83c679c66b86ea220)  
-- [2023-12-18-博后招募-|-西湖大学机器智能实验室招聘大模型/深度学习等方向博后/RA](https://posts.careerengine.us/p/657fd4af6ccf00187d5a0d92)  
-- [2023-12-18-顶刊TPAMI-2023-|-Temporal-Perceiver：通用时序边界检测方法](https://posts.careerengine.us/p/657fd4a4c8e4dc180980a316)  
-- [2023-12-18-2023年，大模型这个方向在顶会上太火了！](https://posts.careerengine.us/p/657fd4a4c8e4dc180980a326)  
+- [2023-12-19-NeurIPS-2023-|-有效提高视频编辑一致性：基于文生图模型新方法EI²](https://posts.careerengine.us/p/658126af0ef737669da83d19)  
+- [2023-12-19-OCR终结了？旷视提出可以文档级OCR的多模态大模型框架Vary，支持中英文，已开源！](https://posts.careerengine.us/p/658126af0ef737669da83d21)  
+- [2023-12-19-让炼丹更科学一些：SGD的平均收敛趋势](https://posts.careerengine.us/p/658126a69c16c1666d1fef47)  
 - [2023-12-18-更灵活、更多样、更美观！TextDiffuser-2有效解决文本渲染难题](https://posts.careerengine.us/p/657fd4a4c8e4dc180980a32f)  
-- [2023-12-17-AAAI-2024-|-高效端到端的3D指向性分割，1080Ti即可训练！代码已开源](https://posts.careerengine.us/p/657f051e538fe11aecc43319)  
-- [2023-12-17-AI炼金术革新化学：MIT学者使用生成式AI，六秒生成新化学反应](https://posts.careerengine.us/p/657f051f538fe11aecc43321)  
-- [2023-12-17-源代码is-all-you-need！7B代码小模型同尺寸无敌，性能媲美ChatGPT和Gemini](https://posts.careerengine.us/p/657f052634ac201b1266cace)  
+- [2023-12-18-2023年，大模型这个方向在顶会上太火了！](https://posts.careerengine.us/p/657fd4a4c8e4dc180980a326)  
+- [2023-12-18-顶刊TPAMI-2023-|-Temporal-Perceiver：通用时序边界检测方法](https://posts.careerengine.us/p/657fd4a4c8e4dc180980a316)  
+- [2023-12-18-博后招募-|-西湖大学机器智能实验室招聘大模型/深度学习等方向博后/RA](https://posts.careerengine.us/p/657fd4af6ccf00187d5a0d92)  
 - [2023-12-17-北京/深圳内推-|-腾讯混元大模型团队招聘AIGC算法研究员/实习生](https://posts.careerengine.us/p/657f0531a408021b4ccd32db)  
-- [2023-12-16-北京内推-|-好未来AI增长实验室招聘AI生成模型算法实习生](https://posts.careerengine.us/p/657db500c54ec3479ec54066)  
-- [2023-12-16-一文剖析GPT推断中的批处理（Batching）效应](https://posts.careerengine.us/p/657db4f8031c8747768bee28)  
+- [2023-12-17-源代码is-all-you-need！7B代码小模型同尺寸无敌，性能媲美ChatGPT和Gemini](https://posts.careerengine.us/p/657f052634ac201b1266cace)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
