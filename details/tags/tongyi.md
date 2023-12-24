@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-12-23 23:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-24 15:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 通义千问
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-12-24-无限新衣服零元购，阿里Outfit-Anyone实现真人百变换装](https://posts.careerengine.us/p/6587bb19a04fe96e21a701ce) 
 - [2023-12-16-阿里文生视频挑战Gen-2、Pika，1280×720分辨率无压力，3500万文本——视频对显奇效](https://posts.careerengine.us/p/657d2bc8f4d22f36a0b59114) 
 - [2023-12-12-阿里Animate-Anyone跳舞火了，作者带你解读背后技术](https://posts.careerengine.us/p/65774190514b6868b3ca45fb) 
 - [2023-07-08-中科院、阿里出品FF3D，创建自定义风格化3D人像只需三分钟](https://posts.careerengine.us/p/64a8f17356a2e2354e54ec78) 
