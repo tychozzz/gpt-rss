@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-12-26 23:00:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-27 15:00:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 多模态
 
@@ -16,8 +16,8 @@
 - [2023-12-11-科研实习-|-中国科学院自动化研究所招聘激光雷达多模态感知算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea8504) 
 - [2023-12-08-上海内推-|-腾讯优图实验室招聘计算机视觉/多模态方向算法实习生](https://posts.careerengine.us/p/6572cd377aabbc207db1546d) 
 - [2023-12-07-北京内推-|-快手Y-tech部门招收多模态方向算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea850c) 
-- [2023-11-27-博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d) 
 - [2023-11-27-NeurIPS-2023-|-无需配对数据就能学习！浙大等提出连接多模态对比表征C-MCR](https://posts.careerengine.us/p/6564a410e7203652eb38dd25) 
+- [2023-11-27-博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d) 
 - [2023-11-06-NeurIPS-2023-|-基于多模态统一表达的跨模态泛化](https://posts.careerengine.us/p/6547c6b2256ac242c107aaa4) 
 - [2023-11-04-ACM-MM-2023-|-清华、华为联合提出MISSRec：兴趣感知的多模态序列推荐预训练](https://posts.careerengine.us/p/654645c378366022ddd3306f) 
 - [2023-10-30-ICCV-2023-|-用“自编码器+多模态学习”更有效地解决3D物体可供性问题](https://posts.careerengine.us/p/653f843a0e930675499fdf05) 
