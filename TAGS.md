@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-12-27 15:00:12。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-12-27 21:00:12。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -348,6 +348,7 @@
 
 
 
+- [【量子位】2023达摩院青橙奖揭晓！平均仅33岁，半数学者带来“领域首次突破”成果](https://posts.careerengine.us/p/658bef0d52f9653cfdabd04d)
 - [【量子位】只需四步就能构建自己的Agent！达摩院新开源框架小白也能用](https://posts.careerengine.us/p/6505910e0cc792354daa5c38)
 - [【PaperWeekly】连续两年最佳论文！达摩院NLP引领检索增强和实体识别技术，U-RaNER荣膺9项评测冠军](https://posts.careerengine.us/p/64fea2d6b9ef9147141179bd)
 - [......【查看更多】......](/details/tags/alibaba.md)
