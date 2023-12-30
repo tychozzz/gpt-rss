@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2023-12-30 18:00:17，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-30 21:00:26，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2023-12-30-工业制造、商用和家庭，优必选人形机器人的三场战事](https://posts.careerengine.us/p/658fa5ae5ad71e0f7f4bfef2) ![](/assets/new.png)  
-- [2023-12-30-挑战Transformer，华为诺亚新架构盘古π来了，已有1B、7B模型](https://posts.careerengine.us/p/658fa5ae5ad71e0f7f4bfefa) ![](/assets/new.png)  
-- [2023-12-30-你们有什么底气和谷歌叫板？Perplexity-AI-CEO回应质疑](https://posts.careerengine.us/p/658fa5b67d4de20fb9393323) ![](/assets/new.png)  
-- [2023-12-30-「花果山名场面」有了高清画质版，NTU提出视频超分框架Upscale-A-Video](https://posts.careerengine.us/p/658fa5c483c5b0102a2eb617) ![](/assets/new.png)  
-- [2023-12-30-从模型、数据和框架三个视角出发，这里有份54页的高效大语言模型综述](https://posts.careerengine.us/p/658fa5c483c5b0102a2eb61f) ![](/assets/new.png)  
+- [2023-12-30-工业制造、商用和家庭，优必选人形机器人的三场战事](https://posts.careerengine.us/p/658fa5ae5ad71e0f7f4bfef2)  
+- [2023-12-30-挑战Transformer，华为诺亚新架构盘古π来了，已有1B、7B模型](https://posts.careerengine.us/p/658fa5ae5ad71e0f7f4bfefa)  
+- [2023-12-30-你们有什么底气和谷歌叫板？Perplexity-AI-CEO回应质疑](https://posts.careerengine.us/p/658fa5b67d4de20fb9393323)  
+- [2023-12-30-「花果山名场面」有了高清画质版，NTU提出视频超分框架Upscale-A-Video](https://posts.careerengine.us/p/658fa5c483c5b0102a2eb617)  
+- [2023-12-30-从模型、数据和框架三个视角出发，这里有份54页的高效大语言模型综述](https://posts.careerengine.us/p/658fa5c483c5b0102a2eb61f)  
 - [2023-12-29-2023年科研领域「-科学ChatGPT」有哪些？LLM-for-Science有哪些探索….](https://posts.careerengine.us/p/658e56043b8c4e65a20c9ea2)  
 - [2023-12-29-深度网络数据编码新突破，上交大SPARK登上计算机体系结构顶会](https://posts.careerengine.us/p/658e56033b8c4e65a20c9e9a)  
 - [2023-12-29-特供版显卡RTX4090D上市，售价12999元](https://posts.careerengine.us/p/658e55f7ab37bd65671b3926)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2023-12-29-OpenLAM-|-深度势能预训练大模型DPA-2发布](https://posts.careerengine.us/p/658e4ecc5fd83c4776a0aac0)  
-- [2023-12-29-NeurIPS-2023-|-用于多示例偏标记学习的消歧注意力嵌入](https://posts.careerengine.us/p/658e4ed60accf4479a966b93)  
-- [2023-12-29-原生3D场景的语言模型+物体级别交互精度：问答、定位等多个3D场景理解任务下取得SOTA性能！](https://posts.careerengine.us/p/658e4ed70accf4479a966b9b)  
+- [2023-12-30-清华大学刘永进教授课题组：连续可控的说话人视频面部表情编辑方法](https://posts.careerengine.us/p/658ff106f911f9746ba7f962) ![](/assets/new.png)  
+- [2023-12-30-AAAI-2024-|-用逆向思维图（ReX-GoT）进行多选对话常识推理](https://posts.careerengine.us/p/658ff106f911f9746ba7f95a) ![](/assets/new.png)  
+- [2023-12-30-挑战Transformer！华为诺亚新架构盘古π来了，已有1B、7B模型](https://posts.careerengine.us/p/658ff11815dcdf74ad293aad) ![](/assets/new.png)  
+- [2023-12-30-北京内推-|-微软亚洲研究院自然语言计算组招聘AGI研究实习生](https://posts.careerengine.us/p/658ff11815dcdf74ad293ac5) ![](/assets/new.png)  
 - [2023-12-29-上海内推-|-途深智合招聘AI4Science方向研发工程师/算法实习生](https://posts.careerengine.us/p/658e4edfccc15f482eccd378)  
-- [2023-12-28-博士申请-|-香港科技大学（广州）谢思泓教授招收机器学习全奖博士/博后/RA](https://posts.careerengine.us/p/658d10c3ed7f2b2cbdcf490e)  
-- [2023-12-28-用伪语言标签对CLIP进行自步课程自适应，实现到定位任务的无监督迁移](https://posts.careerengine.us/p/658d10b98401a02c8cd8fdc8)  
-- [2023-12-28-KDD-2023-|-MetricPrompt：基于度量的提示学习少标注文本分类方法](https://posts.careerengine.us/p/658d10b98401a02c8cd8fdd0)  
+- [2023-12-29-原生3D场景的语言模型+物体级别交互精度：问答、定位等多个3D场景理解任务下取得SOTA性能！](https://posts.careerengine.us/p/658e4ed70accf4479a966b9b)  
+- [2023-12-29-NeurIPS-2023-|-用于多示例偏标记学习的消歧注意力嵌入](https://posts.careerengine.us/p/658e4ed60accf4479a966b93)  
+- [2023-12-29-OpenLAM-|-深度势能预训练大模型DPA-2发布](https://posts.careerengine.us/p/658e4ecc5fd83c4776a0aac0)  
 - [2023-12-28-顶配版SAM！由分割一切迈向感知一切](https://posts.careerengine.us/p/658d10a9f950182c4e7d8df9)  
-- [2023-12-27-补齐大模型注意力短板，7B模型工具使用比肩GPT-4！](https://posts.careerengine.us/p/658bab1f2eb1db2575149c4b)  
-- [2023-12-27-北京内推-|-右脑科技RightBrain-AI招聘AIGC算法实习生](https://posts.careerengine.us/p/658bab3624e38526303e1568)  
-- [2023-12-27-Patterns开设新文章类型丨让数据成为艺术特刊征稿进行中！](https://posts.careerengine.us/p/658bab3624e38526303e1560)  
+- [2023-12-28-KDD-2023-|-MetricPrompt：基于度量的提示学习少标注文本分类方法](https://posts.careerengine.us/p/658d10b98401a02c8cd8fdd0)  
+- [2023-12-28-用伪语言标签对CLIP进行自步课程自适应，实现到定位任务的无监督迁移](https://posts.careerengine.us/p/658d10b98401a02c8cd8fdc8)  
+- [2023-12-28-博士申请-|-香港科技大学（广州）谢思泓教授招收机器学习全奖博士/博后/RA](https://posts.careerengine.us/p/658d10c3ed7f2b2cbdcf490e)  
 - [2023-12-27-InstructProtein：基于知识指令的人类语言——蛋白质语言对齐模型](https://posts.careerengine.us/p/658bab3624e38526303e1570)  
-- [2023-12-26-LMDrive：大语言模型加持的闭环端到端自动驾驶框架](https://posts.careerengine.us/p/658a5481dfba48464d628d5b)  
-- [2023-12-26-清华提出全新代理注意力范式：Softmax注意力与线性注意力的优雅融合](https://posts.careerengine.us/p/658a5481dfba48464d628d6a)  
-- [2023-12-26-博士申请-|-香港科技大学（广州）张延林老师招收AI4Science方向全奖博士生](https://posts.careerengine.us/p/658a5480dfba48464d628d4a)  
+- [2023-12-27-Patterns开设新文章类型丨让数据成为艺术特刊征稿进行中！](https://posts.careerengine.us/p/658bab3624e38526303e1560)  
+- [2023-12-27-北京内推-|-右脑科技RightBrain-AI招聘AIGC算法实习生](https://posts.careerengine.us/p/658bab3624e38526303e1568)  
+- [2023-12-27-补齐大模型注意力短板，7B模型工具使用比肩GPT-4！](https://posts.careerengine.us/p/658bab1f2eb1db2575149c4b)  
 - [2023-12-26-​NeurIPS-2023-|-SGFormer：仅使用一层全局注意力的简化图Transformer](https://posts.careerengine.us/p/658a5480dfba48464d628d52)  
-- [2023-12-25-轻松跟踪每日全球AI焦点，这个工具，让你的阅读论文效率飞跃一个level](https://posts.careerengine.us/p/65890a36cfb7c619b8442197)  
-- [2023-12-25-EMNLP-2023-|-上下文学习是否能够编辑事实知识？](https://posts.careerengine.us/p/65890a3d63e36d1a23dd60db)  
-- [2023-12-25-北京内推-|-Apple中国NLP团队招聘NLP/LLM方向算法实习生](https://posts.careerengine.us/p/65890a4cd339bc1a7f1857df)  
-- [2023-12-24-NeurIPS-2023-|-腾讯AI-Lab绝悟新突破：在星际2灵活策略应对职业选手](https://posts.careerengine.us/p/6587c3f5f4c6bf256dec2842)  
+- [2023-12-26-博士申请-|-香港科技大学（广州）张延林老师招收AI4Science方向全奖博士生](https://posts.careerengine.us/p/658a5480dfba48464d628d4a)  
+- [2023-12-26-清华提出全新代理注意力范式：Softmax注意力与线性注意力的优雅融合](https://posts.careerengine.us/p/658a5481dfba48464d628d6a)  
+- [2023-12-26-LMDrive：大语言模型加持的闭环端到端自动驾驶框架](https://posts.careerengine.us/p/658a5481dfba48464d628d5b)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
