@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-01 15:00:16，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-01 21:00:15，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-01-01-这是GPT-4变笨的新解释](https://posts.careerengine.us/p/6592420b9992aa683a42b5a6) ![](/assets/new.png)  
-- [2024-01-01-Mamba可以替代Transformer，但它们也能组合起来使用](https://posts.careerengine.us/p/6592421255431c685d61e43d) ![](/assets/new.png)  
-- [2024-01-01-你没有看过的全新版本，Transformer数学原理揭秘](https://posts.careerengine.us/p/6592421255431c685d61e435) ![](/assets/new.png)  
-- [2024-01-01-基础模型+机器人：现在已经走到哪一步了](https://posts.careerengine.us/p/65924220c57dc8689d1ba9f5) ![](/assets/new.png)  
-- [2024-01-01-AI研究也能借鉴印象派？这些栩栩如生的人竟然是3D模型](https://posts.careerengine.us/p/65924220c57dc8689d1ba9ed) ![](/assets/new.png)  
+- [2024-01-01-这是GPT-4变笨的新解释](https://posts.careerengine.us/p/6592420b9992aa683a42b5a6)  
+- [2024-01-01-Mamba可以替代Transformer，但它们也能组合起来使用](https://posts.careerengine.us/p/6592421255431c685d61e43d)  
+- [2024-01-01-你没有看过的全新版本，Transformer数学原理揭秘](https://posts.careerengine.us/p/6592421255431c685d61e435)  
+- [2024-01-01-基础模型+机器人：现在已经走到哪一步了](https://posts.careerengine.us/p/65924220c57dc8689d1ba9f5)  
+- [2024-01-01-AI研究也能借鉴印象派？这些栩栩如生的人竟然是3D模型](https://posts.careerengine.us/p/65924220c57dc8689d1ba9ed)  
 - [2023-12-31-告别冷启动，LoRA成为大模型「氮气加速器」，提速高达300％](https://posts.careerengine.us/p/65910ca8431d4a464dd3d49c)  
 - [2023-12-31-GitHub年终福利，编程聊天机器人开放给所有用户，网友直呼：破局者](https://posts.careerengine.us/p/65910c9678bf51461a22a7c3)  
 - [2023-12-31-8x7B-MoE与Flash-Attention-2结合，不到10行代码实现快速推理](https://posts.careerengine.us/p/65910c9678bf51461a22a7ba)  
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2024-01-01-“人形机器人第一股”诞生！优必选上市首日市值逼近390亿港元，人形机器人加速驶向商业化](https://posts.careerengine.us/p/65923a8164c2654007cbf945) ![](/assets/new.png)  
-- [2024-01-01-ChatGPT变笨新解释：世界被AI改变，与训练时不同了](https://posts.careerengine.us/p/65923a88b12e0c40281c0090) ![](/assets/new.png)  
-- [2024-01-01-点击领取你的2023年度科学回顾](https://posts.careerengine.us/p/65923a96c75bcb4063f124de) ![](/assets/new.png)  
-- [2024-01-01-AI绘图模型不会写字的难题，被阿里破解了](https://posts.careerengine.us/p/65923a96c75bcb4063f124d6) ![](/assets/new.png)  
+- [2024-01-01-“人形机器人第一股”诞生！优必选上市首日市值逼近390亿港元，人形机器人加速驶向商业化](https://posts.careerengine.us/p/65923a8164c2654007cbf945)  
+- [2024-01-01-ChatGPT变笨新解释：世界被AI改变，与训练时不同了](https://posts.careerengine.us/p/65923a88b12e0c40281c0090)  
+- [2024-01-01-点击领取你的2023年度科学回顾](https://posts.careerengine.us/p/65923a96c75bcb4063f124de)  
+- [2024-01-01-AI绘图模型不会写字的难题，被阿里破解了](https://posts.careerengine.us/p/65923a96c75bcb4063f124d6)  
 - [2023-12-31-无需额外训练提升模型30％性能！DeepMind科学家点赞MIT博士生实习成果](https://posts.careerengine.us/p/65910e1c90b5c84e4a86c295)  
 - [2023-12-31-盘点2023，大模型产业狂奔的365天](https://posts.careerengine.us/p/65910e13ed90234e1d35a30a)  
 - [2023-12-31-揭秘茅台背后的科技力量，看传统企业的数字化转型与升级](https://posts.careerengine.us/p/65910e13ed90234e1d35a300)  
@@ -118,25 +118,25 @@
 </summary>
 
 
-- [2023-12-31-​Github揽获3k+星！清华开源CogAgent：基于多模态大模型的GUI-Agent](https://posts.careerengine.us/p/659136ab63a84320c0625269)  
-- [2023-12-31-工具增强的奖励建模：可与外部工具进行交互并进行逐步推理](https://posts.careerengine.us/p/659136ab63a84320c0625261)  
-- [2023-12-31-北京内推-|-百川智能招聘行业大模型方向算法实习生（可转正）](https://posts.careerengine.us/p/659136b588b2eb20de59ded9)  
+- [2024-01-01-文末送书-|-吴翰清《计算》重磅来袭，为了可计算的价值，写给所有人！](https://posts.careerengine.us/p/6592a7359859d379dc514ea2) ![](/assets/new.png)  
+- [2024-01-01-生成扩散模型漫谈：中值定理加速ODE采样](https://posts.careerengine.us/p/6592a7369859d379dc514eaa) ![](/assets/new.png)  
+- [2024-01-01-上海内推-|-上海人工智能实验室浦视开源体系团队招聘音频生成方向实习生](https://posts.careerengine.us/p/6592a749393cef7a29bb0fcf) ![](/assets/new.png)  
 - [2023-12-31-KDD-2023-|-BPHGNN：基于行为模式建模的多层异质图神经网络](https://posts.careerengine.us/p/659136b588b2eb20de59dee1)  
-- [2023-12-30-北京内推-|-微软亚洲研究院自然语言计算组招聘AGI研究实习生](https://posts.careerengine.us/p/658ff11815dcdf74ad293ac5)  
-- [2023-12-30-挑战Transformer！华为诺亚新架构盘古π来了，已有1B、7B模型](https://posts.careerengine.us/p/658ff11815dcdf74ad293aad)  
-- [2023-12-30-AAAI-2024-|-用逆向思维图（ReX-GoT）进行多选对话常识推理](https://posts.careerengine.us/p/658ff106f911f9746ba7f95a)  
+- [2023-12-31-北京内推-|-百川智能招聘行业大模型方向算法实习生（可转正）](https://posts.careerengine.us/p/659136b588b2eb20de59ded9)  
+- [2023-12-31-工具增强的奖励建模：可与外部工具进行交互并进行逐步推理](https://posts.careerengine.us/p/659136ab63a84320c0625261)  
+- [2023-12-31-​Github揽获3k+星！清华开源CogAgent：基于多模态大模型的GUI-Agent](https://posts.careerengine.us/p/659136ab63a84320c0625269)  
 - [2023-12-30-清华大学刘永进教授课题组：连续可控的说话人视频面部表情编辑方法](https://posts.careerengine.us/p/658ff106f911f9746ba7f962)  
-- [2023-12-29-OpenLAM-|-深度势能预训练大模型DPA-2发布](https://posts.careerengine.us/p/658e4ecc5fd83c4776a0aac0)  
-- [2023-12-29-NeurIPS-2023-|-用于多示例偏标记学习的消歧注意力嵌入](https://posts.careerengine.us/p/658e4ed60accf4479a966b93)  
-- [2023-12-29-原生3D场景的语言模型+物体级别交互精度：问答、定位等多个3D场景理解任务下取得SOTA性能！](https://posts.careerengine.us/p/658e4ed70accf4479a966b9b)  
+- [2023-12-30-AAAI-2024-|-用逆向思维图（ReX-GoT）进行多选对话常识推理](https://posts.careerengine.us/p/658ff106f911f9746ba7f95a)  
+- [2023-12-30-挑战Transformer！华为诺亚新架构盘古π来了，已有1B、7B模型](https://posts.careerengine.us/p/658ff11815dcdf74ad293aad)  
+- [2023-12-30-北京内推-|-微软亚洲研究院自然语言计算组招聘AGI研究实习生](https://posts.careerengine.us/p/658ff11815dcdf74ad293ac5)  
 - [2023-12-29-上海内推-|-途深智合招聘AI4Science方向研发工程师/算法实习生](https://posts.careerengine.us/p/658e4edfccc15f482eccd378)  
-- [2023-12-28-博士申请-|-香港科技大学（广州）谢思泓教授招收机器学习全奖博士/博后/RA](https://posts.careerengine.us/p/658d10c3ed7f2b2cbdcf490e)  
-- [2023-12-28-用伪语言标签对CLIP进行自步课程自适应，实现到定位任务的无监督迁移](https://posts.careerengine.us/p/658d10b98401a02c8cd8fdc8)  
-- [2023-12-28-KDD-2023-|-MetricPrompt：基于度量的提示学习少标注文本分类方法](https://posts.careerengine.us/p/658d10b98401a02c8cd8fdd0)  
+- [2023-12-29-原生3D场景的语言模型+物体级别交互精度：问答、定位等多个3D场景理解任务下取得SOTA性能！](https://posts.careerengine.us/p/658e4ed70accf4479a966b9b)  
+- [2023-12-29-NeurIPS-2023-|-用于多示例偏标记学习的消歧注意力嵌入](https://posts.careerengine.us/p/658e4ed60accf4479a966b93)  
+- [2023-12-29-OpenLAM-|-深度势能预训练大模型DPA-2发布](https://posts.careerengine.us/p/658e4ecc5fd83c4776a0aac0)  
 - [2023-12-28-顶配版SAM！由分割一切迈向感知一切](https://posts.careerengine.us/p/658d10a9f950182c4e7d8df9)  
-- [2023-12-27-补齐大模型注意力短板，7B模型工具使用比肩GPT-4！](https://posts.careerengine.us/p/658bab1f2eb1db2575149c4b)  
-- [2023-12-27-北京内推-|-右脑科技RightBrain-AI招聘AIGC算法实习生](https://posts.careerengine.us/p/658bab3624e38526303e1568)  
-- [2023-12-27-Patterns开设新文章类型丨让数据成为艺术特刊征稿进行中！](https://posts.careerengine.us/p/658bab3624e38526303e1560)  
+- [2023-12-28-KDD-2023-|-MetricPrompt：基于度量的提示学习少标注文本分类方法](https://posts.careerengine.us/p/658d10b98401a02c8cd8fdd0)  
+- [2023-12-28-用伪语言标签对CLIP进行自步课程自适应，实现到定位任务的无监督迁移](https://posts.careerengine.us/p/658d10b98401a02c8cd8fdc8)  
+- [2023-12-28-博士申请-|-香港科技大学（广州）谢思泓教授招收机器学习全奖博士/博后/RA](https://posts.careerengine.us/p/658d10c3ed7f2b2cbdcf490e)  
 - [2023-12-27-InstructProtein：基于知识指令的人类语言——蛋白质语言对齐模型](https://posts.careerengine.us/p/658bab3624e38526303e1570)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2024-01-01-奥特曼倾情总结近40年人生，网友：你的“成功学”可不适合我](https://posts.careerengine.us/p/65924ece736f771779b5166f) ![](/assets/new.png)  
+- [2024-01-01-奥特曼倾情总结近40年人生，网友：你的“成功学”可不适合我](https://posts.careerengine.us/p/65924ece736f771779b5166f)  
 - [2023-12-31-某机器人公司发积分代替工资；京东采销员工涨薪近100％；马斯克回应特斯拉机器人暴力伤人传闻：媒体真可耻-|-AI一周资讯](https://posts.careerengine.us/p/659109619e14273275a279ea)  
 - [2023-12-29-英伟达发布中国特供版RTX-4090D：砍掉部分核心功能后，速度降低11％，性能只差5％](https://posts.careerengine.us/p/658e5b3b4ce5a87ad2bceb42)  
 - [2023-12-28-与Flink干了一架的那位创始人，写了份万字长文年终总结！](https://posts.careerengine.us/p/658e5b9aaeae4a7d2708e039)  
