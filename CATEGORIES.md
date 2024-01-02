@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-02 15:00:24，:rocket: 更新条数: +14， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-02 18:00:16，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-01-02-百度大模型这一年：文心一言国内首个用户破亿，飞桨开发者超千万](https://posts.careerengine.us/p/6593999486020d02a2745f05) ![](/assets/new.png)  
-- [2024-01-02-「唤醒」NPC，这家融资过亿的国内创企在做一种很新的游戏](https://posts.careerengine.us/p/6593999b34b94202d4e4a925) ![](/assets/new.png)  
-- [2024-01-02-文生视频下一站，Meta已经开始视频生视频了](https://posts.careerengine.us/p/6593999c34b94202d4e4a92d) ![](/assets/new.png)  
-- [2024-01-02-给3D资产生成高清纹理，腾讯让AI扩充游戏皮肤](https://posts.careerengine.us/p/659399ab3dbd07031f1f40f8) ![](/assets/new.png)  
-- [2024-01-02-大模型幻觉问题无解？理论证明校准的LM必然会出现幻觉](https://posts.careerengine.us/p/659399b2096c64033cd6dbf9) ![](/assets/new.png)  
+- [2024-01-02-百度大模型这一年：文心一言国内首个用户破亿，飞桨开发者超千万](https://posts.careerengine.us/p/6593999486020d02a2745f05)  
+- [2024-01-02-「唤醒」NPC，这家融资过亿的国内创企在做一种很新的游戏](https://posts.careerengine.us/p/6593999b34b94202d4e4a925)  
+- [2024-01-02-文生视频下一站，Meta已经开始视频生视频了](https://posts.careerengine.us/p/6593999c34b94202d4e4a92d)  
+- [2024-01-02-给3D资产生成高清纹理，腾讯让AI扩充游戏皮肤](https://posts.careerengine.us/p/659399ab3dbd07031f1f40f8)  
+- [2024-01-02-大模型幻觉问题无解？理论证明校准的LM必然会出现幻觉](https://posts.careerengine.us/p/659399b2096c64033cd6dbf9)  
 - [2024-01-01-AI研究也能借鉴印象派？这些栩栩如生的人竟然是3D模型](https://posts.careerengine.us/p/65924220c57dc8689d1ba9ed)  
 - [2024-01-01-基础模型+机器人：现在已经走到哪一步了](https://posts.careerengine.us/p/65924220c57dc8689d1ba9f5)  
 - [2024-01-01-你没有看过的全新版本，Transformer数学原理揭秘](https://posts.careerengine.us/p/6592421255431c685d61e435)  
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2024-01-02-年度最热AI应用TOP-50，除了ChatGPT还有这么多宝藏](https://posts.careerengine.us/p/659395d685abea6f2f7d5318) ![](/assets/new.png)  
-- [2024-01-02-华为改进Transformer架构！盘古——π解决特征缺陷问题，同规模性能超LLaMA](https://posts.careerengine.us/p/659395d685abea6f2f7d5320) ![](/assets/new.png)  
-- [2024-01-02-吴恩达最新预测：关于AI，这些事未来十年不会变](https://posts.careerengine.us/p/659395ddc49cb56f55aa3160) ![](/assets/new.png)  
-- [2024-01-02-「灌篮高手」模拟人形机器人，一比一照搬人类篮球招式，看一遍就能学会，无需特定任务的奖励](https://posts.careerengine.us/p/659395ebf136ae6f90dfba47) ![](/assets/new.png)  
-- [2024-01-02-《我的世界》化身AI小镇，NPC居民角色扮演如同真人](https://posts.careerengine.us/p/659395ebf136ae6f90dfba3f) ![](/assets/new.png)  
+- [2024-01-02-年度最热AI应用TOP-50，除了ChatGPT还有这么多宝藏](https://posts.careerengine.us/p/659395d685abea6f2f7d5318)  
+- [2024-01-02-华为改进Transformer架构！盘古——π解决特征缺陷问题，同规模性能超LLaMA](https://posts.careerengine.us/p/659395d685abea6f2f7d5320)  
+- [2024-01-02-吴恩达最新预测：关于AI，这些事未来十年不会变](https://posts.careerengine.us/p/659395ddc49cb56f55aa3160)  
+- [2024-01-02-「灌篮高手」模拟人形机器人，一比一照搬人类篮球招式，看一遍就能学会，无需特定任务的奖励](https://posts.careerengine.us/p/659395ebf136ae6f90dfba47)  
+- [2024-01-02-《我的世界》化身AI小镇，NPC居民角色扮演如同真人](https://posts.careerengine.us/p/659395ebf136ae6f90dfba3f)  
 - [2024-01-01-AI绘图模型不会写字的难题，被阿里破解了](https://posts.careerengine.us/p/65923a96c75bcb4063f124d6)  
 - [2024-01-01-点击领取你的2023年度科学回顾](https://posts.careerengine.us/p/65923a96c75bcb4063f124de)  
 - [2024-01-01-ChatGPT变笨新解释：世界被AI改变，与训练时不同了](https://posts.careerengine.us/p/65923a88b12e0c40281c0090)  
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2024-01-02-用跑1个LoRA微调大语言模型的延迟跑10个！](https://posts.careerengine.us/p/65939051101da0577e0c353d) ![](/assets/new.png)  
-- [2024-01-02-​AAAI-2024-|-视觉定位标注难？浙大赵天成博士团队提出零样本定位新SOTA模型GroundVLP](https://posts.careerengine.us/p/65939052101da0577e0c3545) ![](/assets/new.png)  
-- [2024-01-02-媲美RLHF！复旦NLP组提出基于表征工程的生成式语言大模型人类偏好对齐](https://posts.careerengine.us/p/6593905bd09e48579d5c243d) ![](/assets/new.png)  
-- [2024-01-02-杭州内推-|-阿里通义实验室多模态mPLUG团队招聘研究型实习生](https://posts.careerengine.us/p/6593905cd09e48579d5c2445) ![](/assets/new.png)  
+- [2024-01-02-用跑1个LoRA微调大语言模型的延迟跑10个！](https://posts.careerengine.us/p/65939051101da0577e0c353d)  
+- [2024-01-02-​AAAI-2024-|-视觉定位标注难？浙大赵天成博士团队提出零样本定位新SOTA模型GroundVLP](https://posts.careerengine.us/p/65939052101da0577e0c3545)  
+- [2024-01-02-媲美RLHF！复旦NLP组提出基于表征工程的生成式语言大模型人类偏好对齐](https://posts.careerengine.us/p/6593905bd09e48579d5c243d)  
+- [2024-01-02-杭州内推-|-阿里通义实验室多模态mPLUG团队招聘研究型实习生](https://posts.careerengine.us/p/6593905cd09e48579d5c2445)  
 - [2024-01-01-上海内推-|-上海人工智能实验室浦视开源体系团队招聘音频生成方向实习生](https://posts.careerengine.us/p/6592a749393cef7a29bb0fcf)  
 - [2024-01-01-生成扩散模型漫谈：中值定理加速ODE采样](https://posts.careerengine.us/p/6592a7369859d379dc514eaa)  
 - [2024-01-01-文末送书-|-吴翰清《计算》重磅来袭，为了可计算的价值，写给所有人！](https://posts.careerengine.us/p/6592a7359859d379dc514ea2)  
@@ -176,26 +176,26 @@
 </summary>
 
 
+- [2024-01-02-皮衣老黄套路多！被抢破头的GPU，其实没有任何惊喜](https://posts.careerengine.us/p/6593a0d302739323e271df04) ![](/assets/new.png)  
+- [2024-01-02-清华大学与智谱-AI-联合推出-CogAgent：基于多模态大模型的-GUI-Agent，具备视觉问答、视觉定位等能力](https://posts.careerengine.us/p/6593a0d9c92bc624119ec702) ![](/assets/new.png)  
 - [2024-01-01-奥特曼倾情总结近40年人生，网友：你的“成功学”可不适合我](https://posts.careerengine.us/p/65924ece736f771779b5166f)  
 - [2023-12-31-某机器人公司发积分代替工资；京东采销员工涨薪近100％；马斯克回应特斯拉机器人暴力伤人传闻：媒体真可耻-|-AI一周资讯](https://posts.careerengine.us/p/659109619e14273275a279ea)  
 - [2023-12-29-英伟达发布中国特供版RTX-4090D：砍掉部分核心功能后，速度降低11％，性能只差5％](https://posts.careerengine.us/p/658e5b3b4ce5a87ad2bceb42)  
 - [2023-12-28-与Flink干了一架的那位创始人，写了份万字长文年终总结！](https://posts.careerengine.us/p/658e5b9aaeae4a7d2708e039)  
-- [2023-12-27-对标微软，国内操作系统在-AI-上发力：统信发布-UOS-AI-新版本，正式开放-API](https://posts.careerengine.us/p/658bbe94f43809028f625eed)  
 - [2023-12-27-80岁Postgres创始人、数据库领域“祖师爷”想颠覆数据库设计：不推翻下当前技术，不足以谈人生](https://posts.careerengine.us/p/658bbe85b1c8900217498127)  
-- [2023-12-26-谷歌或将开启新一轮大裁员？3-万员工的饭碗可能被-AI-抢走](https://posts.careerengine.us/p/658a66fa83dc4a261782d2c4)  
+- [2023-12-27-对标微软，国内操作系统在-AI-上发力：统信发布-UOS-AI-新版本，正式开放-API](https://posts.careerengine.us/p/658bbe94f43809028f625eed)  
 - [2023-12-26-微软发布-Orca-2-LLM，表现优于-10-倍参数模型](https://posts.careerengine.us/p/658a66fa83dc4a261782d2bb)  
-- [2023-12-25-不要一味鼓吹让开发者用AI来写代码了](https://posts.careerengine.us/p/65891d4a598bbf6f51d0a93e)  
+- [2023-12-26-谷歌或将开启新一轮大裁员？3-万员工的饭碗可能被-AI-抢走](https://posts.careerengine.us/p/658a66fa83dc4a261782d2c4)  
 - [2023-12-25-苹果的封闭生态为大模型打开！发布开源多模态大模型、每天为AI烧百万美元，零碎的Android-生态打得过吗？](https://posts.careerengine.us/p/65891d4a598bbf6f51d0a946)  
+- [2023-12-25-不要一味鼓吹让开发者用AI来写代码了](https://posts.careerengine.us/p/65891d4a598bbf6f51d0a93e)  
 - [2023-12-24-谷歌Gemini自曝用百度文心一言训练；淘天集团管理团队全部换血；马斯克X平台再次遭遇全球性宕机-|-AI一周资讯](https://posts.careerengine.us/p/6587c39a9bf9e5237b2403aa)  
-- [2023-12-23-文心一言App大前端负责人：AI在大前端技术的革新之路](https://posts.careerengine.us/p/65867223f6c6e342e10c57a2)  
 - [2023-12-23-选择哪种编程语言已经不重要了，只提倡程序员下班后“多看看书”提升竞争力是误人子弟｜独家专访亚马逊-CTO](https://posts.careerengine.us/p/65867219f6bc2942bec88061)  
-- [2023-12-22-9个月、从零开始训练，Midjourney-V6来了！号称比以前所有版本都强大](https://posts.careerengine.us/p/6586803b471cb50c2fe1b98c)  
+- [2023-12-23-文心一言App大前端负责人：AI在大前端技术的革新之路](https://posts.careerengine.us/p/65867223f6c6e342e10c57a2)  
 - [2023-12-22-OpenAI-的超级对齐团队在做什么](https://posts.careerengine.us/p/6586803b471cb50c2fe1b994)  
-- [2023-12-21-子曰教育大模型加速落地应用：推出虚拟人AI产品，新增口语定级等功能](https://posts.careerengine.us/p/6583e3e5b45dfd5e7b210da0)  
+- [2023-12-22-9个月、从零开始训练，Midjourney-V6来了！号称比以前所有版本都强大](https://posts.careerengine.us/p/6586803b471cb50c2fe1b98c)  
 - [2023-12-21-来-QCon15-周年上海站，看大模型技术应用展，共探-AI-技术新未来](https://posts.careerengine.us/p/6583e3f1c091525eb49e0aa9)  
-- [2023-12-20-百川发布全新Baichuan2-Turbo系列API产品：构建“大模型+搜索增强”技术栈，解决99％-定制化需求](https://posts.careerengine.us/p/65827d3400058c243042b10d)  
+- [2023-12-21-子曰教育大模型加速落地应用：推出虚拟人AI产品，新增口语定级等功能](https://posts.careerengine.us/p/6583e3e5b45dfd5e7b210da0)  
 - [2023-12-20-奥特曼被套上“紧箍咒”？OpenAI发布27页安全指南，董事会有权否决新AI模型发布](https://posts.careerengine.us/p/65827d3400058c243042b105)  
-- [2023-12-19-在中国一夜爆红、一个半月后注销国内主体，明星创业公司HeyGen真有出路吗？](https://posts.careerengine.us/p/65813c4cc4a643571e8658bc)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
