@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-03 15:00:12，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-03 21:00:14，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-01-03-AAAI-2024-Fellow公布，清华大学朱军教授入选](https://posts.careerengine.us/p/6594df11b7cb901d3fc547ff) ![](/assets/new.png)  
-- [2024-01-03-骁龙888实时运行，美团、浙大等打造全流程移动端多模态大模型MobileVLM](https://posts.careerengine.us/p/6594df1c15eaeb1d7d0e58d3) ![](/assets/new.png)  
-- [2024-01-03-哈佛校长辞职：被指学术不端，史上在位时间最短](https://posts.careerengine.us/p/6594df1c15eaeb1d7d0e58db) ![](/assets/new.png)  
-- [2024-01-03-高情商的NPC来了，刚伸出手，它就做好了要配合下一步动作的准备](https://posts.careerengine.us/p/6594df2474f7761d99066a55) ![](/assets/new.png)  
-- [2024-01-03-面向超长上下文，大语言模型如何优化架构，这篇综述一网打尽了](https://posts.careerengine.us/p/6594df31d9da581de4f90082) ![](/assets/new.png)  
+- [2024-01-03-AAAI-2024-Fellow公布，清华大学朱军教授入选](https://posts.careerengine.us/p/6594df11b7cb901d3fc547ff)  
+- [2024-01-03-骁龙888实时运行，美团、浙大等打造全流程移动端多模态大模型MobileVLM](https://posts.careerengine.us/p/6594df1c15eaeb1d7d0e58d3)  
+- [2024-01-03-哈佛校长辞职：被指学术不端，史上在位时间最短](https://posts.careerengine.us/p/6594df1c15eaeb1d7d0e58db)  
+- [2024-01-03-高情商的NPC来了，刚伸出手，它就做好了要配合下一步动作的准备](https://posts.careerengine.us/p/6594df2474f7761d99066a55)  
+- [2024-01-03-面向超长上下文，大语言模型如何优化架构，这篇综述一网打尽了](https://posts.careerengine.us/p/6594df31d9da581de4f90082)  
 - [2024-01-02-大模型幻觉问题无解？理论证明校准的LM必然会出现幻觉](https://posts.careerengine.us/p/659399b2096c64033cd6dbf9)  
 - [2024-01-02-给3D资产生成高清纹理，腾讯让AI扩充游戏皮肤](https://posts.careerengine.us/p/659399ab3dbd07031f1f40f8)  
 - [2024-01-02-文生视频下一站，Meta已经开始视频生视频了](https://posts.careerengine.us/p/6593999c34b94202d4e4a92d)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-01-02-年度最热AI应用TOP-50，除了ChatGPT还有这么多宝藏](https://posts.careerengine.us/p/659395d685abea6f2f7d5318)  
-- [2024-01-02-华为改进Transformer架构！盘古——π解决特征缺陷问题，同规模性能超LLaMA](https://posts.careerengine.us/p/659395d685abea6f2f7d5320)  
-- [2024-01-02-吴恩达最新预测：关于AI，这些事未来十年不会变](https://posts.careerengine.us/p/659395ddc49cb56f55aa3160)  
-- [2024-01-02-「灌篮高手」模拟人形机器人，一比一照搬人类篮球招式，看一遍就能学会，无需特定任务的奖励](https://posts.careerengine.us/p/659395ebf136ae6f90dfba47)  
+- [2024-01-03-2024年AI还能帮你干什么？这十个趋势必须关注](https://posts.careerengine.us/p/65952a473ae900423d52760a) ![](/assets/new.png)  
+- [2024-01-03-百度量子计算有变化，官方证实：实验室及设备将赠予北京量子院](https://posts.careerengine.us/p/65952a501d2cfb42ab2a5b49) ![](/assets/new.png)  
+- [2024-01-03-商汤绝影王晓刚：未来一两年是智能汽车突破关键期，大模型是基础-|-MEET2024](https://posts.careerengine.us/p/65952a501d2cfb42ab2a5b51) ![](/assets/new.png)  
+- [2024-01-03-一条隐形短信让iPhone变“终极监控工具”，附近设备信息都能获取！苹果惊人漏洞历时4年才被发现](https://posts.careerengine.us/p/65952a5922febe42d1562d0f) ![](/assets/new.png)  
+- [2024-01-03-大模型都会标注图像了，简单对话即可！来自清华&NUS](https://posts.careerengine.us/p/65952a5ff5f22442ee7f99c6) ![](/assets/new.png)  
 - [2024-01-02-《我的世界》化身AI小镇，NPC居民角色扮演如同真人](https://posts.careerengine.us/p/659395ebf136ae6f90dfba3f)  
-- [2024-01-01-AI绘图模型不会写字的难题，被阿里破解了](https://posts.careerengine.us/p/65923a96c75bcb4063f124d6)  
-- [2024-01-01-点击领取你的2023年度科学回顾](https://posts.careerengine.us/p/65923a96c75bcb4063f124de)  
-- [2024-01-01-ChatGPT变笨新解释：世界被AI改变，与训练时不同了](https://posts.careerengine.us/p/65923a88b12e0c40281c0090)  
+- [2024-01-02-「灌篮高手」模拟人形机器人，一比一照搬人类篮球招式，看一遍就能学会，无需特定任务的奖励](https://posts.careerengine.us/p/659395ebf136ae6f90dfba47)  
+- [2024-01-02-吴恩达最新预测：关于AI，这些事未来十年不会变](https://posts.careerengine.us/p/659395ddc49cb56f55aa3160)  
+- [2024-01-02-华为改进Transformer架构！盘古——π解决特征缺陷问题，同规模性能超LLaMA](https://posts.careerengine.us/p/659395d685abea6f2f7d5320)  
+- [2024-01-02-年度最热AI应用TOP-50，除了ChatGPT还有这么多宝藏](https://posts.careerengine.us/p/659395d685abea6f2f7d5318)  
 - [2024-01-01-“人形机器人第一股”诞生！优必选上市首日市值逼近390亿港元，人形机器人加速驶向商业化](https://posts.careerengine.us/p/65923a8164c2654007cbf945)  
-- [2023-12-31-揭秘茅台背后的科技力量，看传统企业的数字化转型与升级](https://posts.careerengine.us/p/65910e13ed90234e1d35a300)  
-- [2023-12-31-盘点2023，大模型产业狂奔的365天](https://posts.careerengine.us/p/65910e13ed90234e1d35a30a)  
+- [2024-01-01-ChatGPT变笨新解释：世界被AI改变，与训练时不同了](https://posts.careerengine.us/p/65923a88b12e0c40281c0090)  
+- [2024-01-01-点击领取你的2023年度科学回顾](https://posts.careerengine.us/p/65923a96c75bcb4063f124de)  
+- [2024-01-01-AI绘图模型不会写字的难题，被阿里破解了](https://posts.careerengine.us/p/65923a96c75bcb4063f124d6)  
 - [2023-12-31-无需额外训练提升模型30％性能！DeepMind科学家点赞MIT博士生实习成果](https://posts.careerengine.us/p/65910e1c90b5c84e4a86c295)  
-- [2023-12-30-周鸿祎预测2024年大模型趋势](https://posts.careerengine.us/p/658fa7987c2222195aabc532)  
-- [2023-12-30-多模态大模型学杂了能力反下降？新研究：MoE+通用专家解决冲突](https://posts.careerengine.us/p/658fa7987c2222195aabc53a)  
-- [2023-12-30-对话硅谷VC张璐：2/3生成式AI机遇属于巨头，奥特曼还无法与乔布斯马斯克相提并论](https://posts.careerengine.us/p/658fa78fb4904119311494f5)  
+- [2023-12-31-盘点2023，大模型产业狂奔的365天](https://posts.careerengine.us/p/65910e13ed90234e1d35a30a)  
+- [2023-12-31-揭秘茅台背后的科技力量，看传统企业的数字化转型与升级](https://posts.careerengine.us/p/65910e13ed90234e1d35a300)  
 - [2023-12-30-“人形机器人第一股”诞生！优必选上市首日市值逼近390港元，人形机器人加速驶向商业化](https://posts.careerengine.us/p/658fa7876fc3e818ed4c68de)  
-- [2023-12-29-自动驾驶一定有ChatGPT时刻，最快明年就降临-|-MEET2024](https://posts.careerengine.us/p/658e567baa671b67240eed8a)  
-- [2023-12-29-百度交了份“大”作业：文心一言用户破1亿，累计37亿字文本创作，能力再升32％！](https://posts.careerengine.us/p/658e567baa671b67240eed7a)  
-- [2023-12-29-两只羊驼掐头去尾拼一起，屠榜HuggingFace](https://posts.careerengine.us/p/658e568cbff9fb678ed92d19)  
-- [2023-12-29-奥特曼挖走iPhone设计师，联手乔纳森造AI硬件](https://posts.careerengine.us/p/658e568cbff9fb678ed92d01)  
+- [2023-12-30-对话硅谷VC张璐：2/3生成式AI机遇属于巨头，奥特曼还无法与乔布斯马斯克相提并论](https://posts.careerengine.us/p/658fa78fb4904119311494f5)  
+- [2023-12-30-多模态大模型学杂了能力反下降？新研究：MoE+通用专家解决冲突](https://posts.careerengine.us/p/658fa7987c2222195aabc53a)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2024-01-03-达摩院攻克胰腺癌早筛难题！2024年会是AI4Science的真正风口吗？](https://posts.careerengine.us/p/6594df5acb9a1e1ecb667102) ![](/assets/new.png)  
-- [2024-01-03-AAAI-2024-|-武大提出神经元分类全新框架，联合学习神经元骨架与大脑回路拓扑结构](https://posts.careerengine.us/p/6594df5acb9a1e1ecb66710a) ![](/assets/new.png)  
-- [2024-01-03-你没有看过的全新版本！Transformer数学原理大揭秘](https://posts.careerengine.us/p/6594df639134ab1ee6d3afab) ![](/assets/new.png)  
-- [2024-01-03-科研实习-|-北京大学王乐业老师招收智能城市感知与计算方向科研实习生](https://posts.careerengine.us/p/6594df6d3e76fa1f0f5e8756) ![](/assets/new.png)  
+- [2024-01-03-达摩院攻克胰腺癌早筛难题！2024年会是AI4Science的真正风口吗？](https://posts.careerengine.us/p/6594df5acb9a1e1ecb667102)  
+- [2024-01-03-AAAI-2024-|-武大提出神经元分类全新框架，联合学习神经元骨架与大脑回路拓扑结构](https://posts.careerengine.us/p/6594df5acb9a1e1ecb66710a)  
+- [2024-01-03-你没有看过的全新版本！Transformer数学原理大揭秘](https://posts.careerengine.us/p/6594df639134ab1ee6d3afab)  
+- [2024-01-03-科研实习-|-北京大学王乐业老师招收智能城市感知与计算方向科研实习生](https://posts.careerengine.us/p/6594df6d3e76fa1f0f5e8756)  
 - [2024-01-02-杭州内推-|-阿里通义实验室多模态mPLUG团队招聘研究型实习生](https://posts.careerengine.us/p/6593905cd09e48579d5c2445)  
 - [2024-01-02-媲美RLHF！复旦NLP组提出基于表征工程的生成式语言大模型人类偏好对齐](https://posts.careerengine.us/p/6593905bd09e48579d5c243d)  
 - [2024-01-02-​AAAI-2024-|-视觉定位标注难？浙大赵天成博士团队提出零样本定位新SOTA模型GroundVLP](https://posts.careerengine.us/p/65939052101da0577e0c3545)  
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2024-01-03-“我们比云厂商做得好”！老师木新创业项目曝光：瞄准大模型成本问题，推理性能将得到数量级的提升](https://posts.careerengine.us/p/6594e4d10a71ec35b43b71a3) ![](/assets/new.png)  
+- [2024-01-03-“我们比云厂商做得好”！老师木新创业项目曝光：瞄准大模型成本问题，推理性能将得到数量级的提升](https://posts.careerengine.us/p/6594e4d10a71ec35b43b71a3)  
 - [2024-01-02-清华大学与智谱-AI-联合推出-CogAgent：基于多模态大模型的-GUI-Agent，具备视觉问答、视觉定位等能力](https://posts.careerengine.us/p/6593a0d9c92bc624119ec702)  
 - [2024-01-02-皮衣老黄套路多！被抢破头的GPU，其实没有任何惊喜](https://posts.careerengine.us/p/6593a0d302739323e271df04)  
 - [2024-01-01-奥特曼倾情总结近40年人生，网友：你的“成功学”可不适合我](https://posts.careerengine.us/p/65924ece736f771779b5166f)  
