@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-04 15:01:15，:rocket: 更新条数: +11， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-04 18:00:32，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-01-04-大模型加持的「全科AI家教」正式上岗，一场解放家长的教育革命在路上了](https://posts.careerengine.us/p/6596334c64fc38186a5e42c5) ![](/assets/new.png)  
-- [2024-01-04-马斯克也逃不过「科目三」，阿里这个应用都要把外国人馋哭了](https://posts.careerengine.us/p/6596334c64fc38186a5e42bd) ![](/assets/new.png)  
-- [2024-01-04-室温超导有续集？中国团队再次证明LK-99可能存在迈斯纳效应，论文刚刚上传](https://posts.careerengine.us/p/659633544ec8d81885532873) ![](/assets/new.png)  
-- [2024-01-04-李飞飞团队新作：AI透视眼，穿越障碍看清你，渲染遮挡人体有新突破了](https://posts.careerengine.us/p/659633602c1fd818f8a546e8) ![](/assets/new.png)  
-- [2024-01-04-让机器人感知你的「Here-you-are」，清华团队使用百万场景打造通用人机交接](https://posts.careerengine.us/p/659633602c1fd818f8a546f0) ![](/assets/new.png)  
+- [2024-01-04-大模型加持的「全科AI家教」正式上岗，一场解放家长的教育革命在路上了](https://posts.careerengine.us/p/6596334c64fc38186a5e42c5)  
+- [2024-01-04-马斯克也逃不过「科目三」，阿里这个应用都要把外国人馋哭了](https://posts.careerengine.us/p/6596334c64fc38186a5e42bd)  
+- [2024-01-04-室温超导有续集？中国团队再次证明LK-99可能存在迈斯纳效应，论文刚刚上传](https://posts.careerengine.us/p/659633544ec8d81885532873)  
+- [2024-01-04-李飞飞团队新作：AI透视眼，穿越障碍看清你，渲染遮挡人体有新突破了](https://posts.careerengine.us/p/659633602c1fd818f8a546e8)  
+- [2024-01-04-让机器人感知你的「Here-you-are」，清华团队使用百万场景打造通用人机交接](https://posts.careerengine.us/p/659633602c1fd818f8a546f0)  
 - [2024-01-03-面向超长上下文，大语言模型如何优化架构，这篇综述一网打尽了](https://posts.careerengine.us/p/6594df31d9da581de4f90082)  
 - [2024-01-03-高情商的NPC来了，刚伸出手，它就做好了要配合下一步动作的准备](https://posts.careerengine.us/p/6594df2474f7761d99066a55)  
 - [2024-01-03-哈佛校长辞职：被指学术不端，史上在位时间最短](https://posts.careerengine.us/p/6594df1c15eaeb1d7d0e58db)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-01-03-2024年AI还能帮你干什么？这十个趋势必须关注](https://posts.careerengine.us/p/65952a473ae900423d52760a)  
-- [2024-01-03-百度量子计算有变化，官方证实：实验室及设备将赠予北京量子院](https://posts.careerengine.us/p/65952a501d2cfb42ab2a5b49)  
-- [2024-01-03-商汤绝影王晓刚：未来一两年是智能汽车突破关键期，大模型是基础-|-MEET2024](https://posts.careerengine.us/p/65952a501d2cfb42ab2a5b51)  
-- [2024-01-03-一条隐形短信让iPhone变“终极监控工具”，附近设备信息都能获取！苹果惊人漏洞历时4年才被发现](https://posts.careerengine.us/p/65952a5922febe42d1562d0f)  
+- [2024-01-04-兵马俑跳《科目三》，是我万万没想到的](https://posts.careerengine.us/p/659636073b75b128394cec12) ![](/assets/new.png)  
+- [2024-01-04-中国AIGC广告营销产业全景报告：五大变革四大影响，生成式AI让只为「一个人」打造广告成为可能](https://posts.careerengine.us/p/659636109f9315285ed56bb6) ![](/assets/new.png)  
+- [2024-01-04-李飞飞团队实现“隔空建模”，透过遮挡物还原完整3D人体模型](https://posts.careerengine.us/p/65963620cb843628aab82179) ![](/assets/new.png)  
+- [2024-01-04-又导了？中科院等发现新疑似室温超导材料，作者：对结果很有信心](https://posts.careerengine.us/p/65963620cb843628aab82170) ![](/assets/new.png)  
+- [2024-01-04-图灵奖得主Niklaus-Wirth逝世，从Euler到Pascal，一代编程巨星陨落](https://posts.careerengine.us/p/6596362720c43028cef78346) ![](/assets/new.png)  
+- [2024-01-04-商汤用AI造了个台灯，售价1699元](https://posts.careerengine.us/p/6596362e4ec23028f7895038) ![](/assets/new.png)  
 - [2024-01-03-大模型都会标注图像了，简单对话即可！来自清华&NUS](https://posts.careerengine.us/p/65952a5ff5f22442ee7f99c6)  
-- [2024-01-02-《我的世界》化身AI小镇，NPC居民角色扮演如同真人](https://posts.careerengine.us/p/659395ebf136ae6f90dfba3f)  
-- [2024-01-02-「灌篮高手」模拟人形机器人，一比一照搬人类篮球招式，看一遍就能学会，无需特定任务的奖励](https://posts.careerengine.us/p/659395ebf136ae6f90dfba47)  
-- [2024-01-02-吴恩达最新预测：关于AI，这些事未来十年不会变](https://posts.careerengine.us/p/659395ddc49cb56f55aa3160)  
-- [2024-01-02-华为改进Transformer架构！盘古——π解决特征缺陷问题，同规模性能超LLaMA](https://posts.careerengine.us/p/659395d685abea6f2f7d5320)  
+- [2024-01-03-一条隐形短信让iPhone变“终极监控工具”，附近设备信息都能获取！苹果惊人漏洞历时4年才被发现](https://posts.careerengine.us/p/65952a5922febe42d1562d0f)  
+- [2024-01-03-商汤绝影王晓刚：未来一两年是智能汽车突破关键期，大模型是基础-|-MEET2024](https://posts.careerengine.us/p/65952a501d2cfb42ab2a5b51)  
+- [2024-01-03-百度量子计算有变化，官方证实：实验室及设备将赠予北京量子院](https://posts.careerengine.us/p/65952a501d2cfb42ab2a5b49)  
+- [2024-01-03-2024年AI还能帮你干什么？这十个趋势必须关注](https://posts.careerengine.us/p/65952a473ae900423d52760a)  
 - [2024-01-02-年度最热AI应用TOP-50，除了ChatGPT还有这么多宝藏](https://posts.careerengine.us/p/659395d685abea6f2f7d5318)  
-- [2024-01-01-“人形机器人第一股”诞生！优必选上市首日市值逼近390亿港元，人形机器人加速驶向商业化](https://posts.careerengine.us/p/65923a8164c2654007cbf945)  
-- [2024-01-01-ChatGPT变笨新解释：世界被AI改变，与训练时不同了](https://posts.careerengine.us/p/65923a88b12e0c40281c0090)  
-- [2024-01-01-点击领取你的2023年度科学回顾](https://posts.careerengine.us/p/65923a96c75bcb4063f124de)  
+- [2024-01-02-华为改进Transformer架构！盘古——π解决特征缺陷问题，同规模性能超LLaMA](https://posts.careerengine.us/p/659395d685abea6f2f7d5320)  
+- [2024-01-02-吴恩达最新预测：关于AI，这些事未来十年不会变](https://posts.careerengine.us/p/659395ddc49cb56f55aa3160)  
+- [2024-01-02-「灌篮高手」模拟人形机器人，一比一照搬人类篮球招式，看一遍就能学会，无需特定任务的奖励](https://posts.careerengine.us/p/659395ebf136ae6f90dfba47)  
+- [2024-01-02-《我的世界》化身AI小镇，NPC居民角色扮演如同真人](https://posts.careerengine.us/p/659395ebf136ae6f90dfba3f)  
 - [2024-01-01-AI绘图模型不会写字的难题，被阿里破解了](https://posts.careerengine.us/p/65923a96c75bcb4063f124d6)  
-- [2023-12-31-无需额外训练提升模型30％性能！DeepMind科学家点赞MIT博士生实习成果](https://posts.careerengine.us/p/65910e1c90b5c84e4a86c295)  
-- [2023-12-31-盘点2023，大模型产业狂奔的365天](https://posts.careerengine.us/p/65910e13ed90234e1d35a30a)  
-- [2023-12-31-揭秘茅台背后的科技力量，看传统企业的数字化转型与升级](https://posts.careerengine.us/p/65910e13ed90234e1d35a300)  
-- [2023-12-30-“人形机器人第一股”诞生！优必选上市首日市值逼近390港元，人形机器人加速驶向商业化](https://posts.careerengine.us/p/658fa7876fc3e818ed4c68de)  
-- [2023-12-30-对话硅谷VC张璐：2/3生成式AI机遇属于巨头，奥特曼还无法与乔布斯马斯克相提并论](https://posts.careerengine.us/p/658fa78fb4904119311494f5)  
-- [2023-12-30-多模态大模型学杂了能力反下降？新研究：MoE+通用专家解决冲突](https://posts.careerengine.us/p/658fa7987c2222195aabc53a)  
+- [2024-01-01-点击领取你的2023年度科学回顾](https://posts.careerengine.us/p/65923a96c75bcb4063f124de)  
+- [2024-01-01-ChatGPT变笨新解释：世界被AI改变，与训练时不同了](https://posts.careerengine.us/p/65923a88b12e0c40281c0090)  
+- [2024-01-01-“人形机器人第一股”诞生！优必选上市首日市值逼近390亿港元，人形机器人加速驶向商业化](https://posts.careerengine.us/p/65923a8164c2654007cbf945)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2024-01-04-AAAI-2024-|-浙大赵天成博士团队提出全新评测基准OVDEval，全面审视开放词汇目标检测模型的泛化能力](https://posts.careerengine.us/p/659631fba4eb45136ba3aef5) ![](/assets/new.png)  
-- [2024-01-04-「线索经营」PK「科学经营」，百度智能体商业时代，押注谁赢？](https://posts.careerengine.us/p/6596320408a3c6138d641c9e) ![](/assets/new.png)  
-- [2024-01-04-NeurIPS-2023-|-FedFed：特征蒸馏应对联邦学习中的数据异构](https://posts.careerengine.us/p/6596320408a3c6138d641ca6) ![](/assets/new.png)  
-- [2024-01-04-科研实习-|-伊利诺伊大学香槟分校张潼教授招收机器学习/LLM方向科研实习生](https://posts.careerengine.us/p/6596320d1b29dd13ad4bbf64) ![](/assets/new.png)  
+- [2024-01-04-AAAI-2024-|-浙大赵天成博士团队提出全新评测基准OVDEval，全面审视开放词汇目标检测模型的泛化能力](https://posts.careerengine.us/p/659631fba4eb45136ba3aef5)  
+- [2024-01-04-「线索经营」PK「科学经营」，百度智能体商业时代，押注谁赢？](https://posts.careerengine.us/p/6596320408a3c6138d641c9e)  
+- [2024-01-04-NeurIPS-2023-|-FedFed：特征蒸馏应对联邦学习中的数据异构](https://posts.careerengine.us/p/6596320408a3c6138d641ca6)  
+- [2024-01-04-科研实习-|-伊利诺伊大学香槟分校张潼教授招收机器学习/LLM方向科研实习生](https://posts.careerengine.us/p/6596320d1b29dd13ad4bbf64)  
 - [2024-01-03-科研实习-|-北京大学王乐业老师招收智能城市感知与计算方向科研实习生](https://posts.careerengine.us/p/6594df6d3e76fa1f0f5e8756)  
 - [2024-01-03-你没有看过的全新版本！Transformer数学原理大揭秘](https://posts.careerengine.us/p/6594df639134ab1ee6d3afab)  
 - [2024-01-03-AAAI-2024-|-武大提出神经元分类全新框架，联合学习神经元骨架与大脑回路拓扑结构](https://posts.careerengine.us/p/6594df5acb9a1e1ecb66710a)  
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-01-04-Redis之父亲自上手用大模型撸代码：通晓古今的白痴队友，将来可以取代99％程序员](https://posts.careerengine.us/p/659643af89d0766b830b3a51) ![](/assets/new.png)  
-- [2024-01-04-大模型在金融领域找到“业技融合”的最佳路径了吗？](https://posts.careerengine.us/p/659643beb08d386bc3c5217e) ![](/assets/new.png)  
+- [2024-01-04-Redis之父亲自上手用大模型撸代码：通晓古今的白痴队友，将来可以取代99％程序员](https://posts.careerengine.us/p/659643af89d0766b830b3a51)  
+- [2024-01-04-大模型在金融领域找到“业技融合”的最佳路径了吗？](https://posts.careerengine.us/p/659643beb08d386bc3c5217e)  
 - [2024-01-03-“我们比云厂商做得好”！老师木新创业项目曝光：瞄准大模型成本问题，推理性能将得到数量级的提升](https://posts.careerengine.us/p/6594e4d10a71ec35b43b71a3)  
 - [2024-01-02-皮衣老黄套路多！被抢破头的GPU，其实没有任何惊喜](https://posts.careerengine.us/p/6593a0d302739323e271df04)  
 - [2024-01-02-清华大学与智谱-AI-联合推出-CogAgent：基于多模态大模型的-GUI-Agent，具备视觉问答、视觉定位等能力](https://posts.careerengine.us/p/6593a0d9c92bc624119ec702)  
