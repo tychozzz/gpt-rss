@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-05 18:00:10，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-05 21:00:11，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-01-04-大模型加持的「全科AI家教」正式上岗，一场解放家长的教育革命在路上了](https://posts.careerengine.us/p/6596334c64fc38186a5e42c5)  
-- [2024-01-04-马斯克也逃不过「科目三」，阿里这个应用都要把外国人馋哭了](https://posts.careerengine.us/p/6596334c64fc38186a5e42bd)  
-- [2024-01-04-室温超导有续集？中国团队再次证明LK-99可能存在迈斯纳效应，论文刚刚上传](https://posts.careerengine.us/p/659633544ec8d81885532873)  
-- [2024-01-04-李飞飞团队新作：AI透视眼，穿越障碍看清你，渲染遮挡人体有新突破了](https://posts.careerengine.us/p/659633602c1fd818f8a546e8)  
+- [2024-01-05-文生视频“黑马”Morph-Studio来袭：好用、1080P-、7秒时长还免费](https://posts.careerengine.us/p/6597d80ed540a94bcc2391de) ![](/assets/new.png)  
+- [2024-01-05-斯坦福开源的机器人厨子，今天又接手了所有家务](https://posts.careerengine.us/p/6597d8163299ab4c3db331da) ![](/assets/new.png)  
+- [2024-01-05-国内视频生成爆发前夕，我们组织了一场核心玩家都参与的分享交流会](https://posts.careerengine.us/p/6597d823adce6b4c8df4b14e) ![](/assets/new.png)  
+- [2024-01-05-大模型正在重构机器人，谷歌Deepmind这样定义具身智能的未来](https://posts.careerengine.us/p/6597d82c397a494ca7d2e128) ![](/assets/new.png)  
+- [2024-01-05-当LLM学会左右互搏，基础模型或将迎来集体进化](https://posts.careerengine.us/p/6597d82c397a494ca7d2e130) ![](/assets/new.png)  
+- [2024-01-05-只需1080ti，即可在遥感图像中对目标进行像素级定位！代码数据集已开源！](https://posts.careerengine.us/p/6597d833d6f6324cd59c125e) ![](/assets/new.png)  
 - [2024-01-04-让机器人感知你的「Here-you-are」，清华团队使用百万场景打造通用人机交接](https://posts.careerengine.us/p/659633602c1fd818f8a546f0)  
-- [2024-01-03-面向超长上下文，大语言模型如何优化架构，这篇综述一网打尽了](https://posts.careerengine.us/p/6594df31d9da581de4f90082)  
-- [2024-01-03-高情商的NPC来了，刚伸出手，它就做好了要配合下一步动作的准备](https://posts.careerengine.us/p/6594df2474f7761d99066a55)  
-- [2024-01-03-哈佛校长辞职：被指学术不端，史上在位时间最短](https://posts.careerengine.us/p/6594df1c15eaeb1d7d0e58db)  
-- [2024-01-03-骁龙888实时运行，美团、浙大等打造全流程移动端多模态大模型MobileVLM](https://posts.careerengine.us/p/6594df1c15eaeb1d7d0e58d3)  
+- [2024-01-04-李飞飞团队新作：AI透视眼，穿越障碍看清你，渲染遮挡人体有新突破了](https://posts.careerengine.us/p/659633602c1fd818f8a546e8)  
+- [2024-01-04-室温超导有续集？中国团队再次证明LK-99可能存在迈斯纳效应，论文刚刚上传](https://posts.careerengine.us/p/659633544ec8d81885532873)  
+- [2024-01-04-马斯克也逃不过「科目三」，阿里这个应用都要把外国人馋哭了](https://posts.careerengine.us/p/6596334c64fc38186a5e42bd)  
+- [2024-01-04-大模型加持的「全科AI家教」正式上岗，一场解放家长的教育革命在路上了](https://posts.careerengine.us/p/6596334c64fc38186a5e42c5)  
 - [2024-01-03-AAAI-2024-Fellow公布，清华大学朱军教授入选](https://posts.careerengine.us/p/6594df11b7cb901d3fc547ff)  
-- [2024-01-02-百度大模型这一年：文心一言国内首个用户破亿，飞桨开发者超千万](https://posts.careerengine.us/p/6593999486020d02a2745f05)  
-- [2024-01-02-「唤醒」NPC，这家融资过亿的国内创企在做一种很新的游戏](https://posts.careerengine.us/p/6593999b34b94202d4e4a925)  
-- [2024-01-02-文生视频下一站，Meta已经开始视频生视频了](https://posts.careerengine.us/p/6593999c34b94202d4e4a92d)  
-- [2024-01-02-给3D资产生成高清纹理，腾讯让AI扩充游戏皮肤](https://posts.careerengine.us/p/659399ab3dbd07031f1f40f8)  
+- [2024-01-03-骁龙888实时运行，美团、浙大等打造全流程移动端多模态大模型MobileVLM](https://posts.careerengine.us/p/6594df1c15eaeb1d7d0e58d3)  
+- [2024-01-03-哈佛校长辞职：被指学术不端，史上在位时间最短](https://posts.careerengine.us/p/6594df1c15eaeb1d7d0e58db)  
+- [2024-01-03-高情商的NPC来了，刚伸出手，它就做好了要配合下一步动作的准备](https://posts.careerengine.us/p/6594df2474f7761d99066a55)  
+- [2024-01-03-面向超长上下文，大语言模型如何优化架构，这篇综述一网打尽了](https://posts.careerengine.us/p/6594df31d9da581de4f90082)  
 - [2024-01-02-大模型幻觉问题无解？理论证明校准的LM必然会出现幻觉](https://posts.careerengine.us/p/659399b2096c64033cd6dbf9)  
-- [2024-01-01-AI研究也能借鉴印象派？这些栩栩如生的人竟然是3D模型](https://posts.careerengine.us/p/65924220c57dc8689d1ba9ed)  
-- [2024-01-01-基础模型+机器人：现在已经走到哪一步了](https://posts.careerengine.us/p/65924220c57dc8689d1ba9f5)  
-- [2024-01-01-你没有看过的全新版本，Transformer数学原理揭秘](https://posts.careerengine.us/p/6592421255431c685d61e435)  
-- [2024-01-01-Mamba可以替代Transformer，但它们也能组合起来使用](https://posts.careerengine.us/p/6592421255431c685d61e43d)  
-- [2024-01-01-这是GPT-4变笨的新解释](https://posts.careerengine.us/p/6592420b9992aa683a42b5a6)  
+- [2024-01-02-给3D资产生成高清纹理，腾讯让AI扩充游戏皮肤](https://posts.careerengine.us/p/659399ab3dbd07031f1f40f8)  
+- [2024-01-02-文生视频下一站，Meta已经开始视频生视频了](https://posts.careerengine.us/p/6593999c34b94202d4e4a92d)  
+- [2024-01-02-「唤醒」NPC，这家融资过亿的国内创企在做一种很新的游戏](https://posts.careerengine.us/p/6593999b34b94202d4e4a925)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-01-05-AI-裁员潮开始了：应用GPT-4不到一年，多邻国裁掉数千人](https://posts.careerengine.us/p/6597951eae9622461a180adc) ![](/assets/new.png)  
-- [2024-01-05-2024年或成国产大模型应用爆发年！有道再推多款大模型产品及应用](https://posts.careerengine.us/p/65979525a8fca9463eb4586f) ![](/assets/new.png)  
+- [2024-01-05-AI-裁员潮开始了：应用GPT-4不到一年，多邻国裁掉数千人](https://posts.careerengine.us/p/6597951eae9622461a180adc)  
+- [2024-01-05-2024年或成国产大模型应用爆发年！有道再推多款大模型产品及应用](https://posts.careerengine.us/p/65979525a8fca9463eb4586f)  
 - [2024-01-04-大模型在金融领域找到“业技融合”的最佳路径了吗？](https://posts.careerengine.us/p/659643beb08d386bc3c5217e)  
 - [2024-01-04-Redis之父亲自上手用大模型撸代码：通晓古今的白痴队友，将来可以取代99％程序员](https://posts.careerengine.us/p/659643af89d0766b830b3a51)  
 - [2024-01-03-“我们比云厂商做得好”！老师木新创业项目曝光：瞄准大模型成本问题，推理性能将得到数量级的提升](https://posts.careerengine.us/p/6594e4d10a71ec35b43b71a3)  
