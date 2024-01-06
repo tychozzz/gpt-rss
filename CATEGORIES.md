@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-01-06 15:00:18，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-07 06:00:10，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-01-06-模型A：幸亏有你，我才不得0分，模型B：俺也一样](https://posts.careerengine.us/p/6598e373c022d922ff931016) ![](/assets/new.png)  
-- [2024-01-06-看见这张图没有，你就照着画：谷歌图像生成AI掌握多模态指令](https://posts.careerengine.us/p/6598e381d409232384b72c16) ![](/assets/new.png)  
-- [2024-01-06-专补大模型短板的RAG有哪些新进展？这篇综述讲明白了](https://posts.careerengine.us/p/6598e38700821e23b306b48f) ![](/assets/new.png)  
-- [2024-01-06-语言模型是如何感知时间的？「时间向量」了解一下](https://posts.careerengine.us/p/6598e38700821e23b306b487) ![](/assets/new.png)  
-- [2024-01-06-无需文本标注，TF-T2V把AI量产视频的成本打下来了！华科阿里等联合打造](https://posts.careerengine.us/p/6598e3951321f623f9521ca8) ![](/assets/new.png)  
+- [2024-01-06-模型A：幸亏有你，我才不得0分，模型B：俺也一样](https://posts.careerengine.us/p/6598e373c022d922ff931016)  
+- [2024-01-06-看见这张图没有，你就照着画：谷歌图像生成AI掌握多模态指令](https://posts.careerengine.us/p/6598e381d409232384b72c16)  
+- [2024-01-06-专补大模型短板的RAG有哪些新进展？这篇综述讲明白了](https://posts.careerengine.us/p/6598e38700821e23b306b48f)  
+- [2024-01-06-语言模型是如何感知时间的？「时间向量」了解一下](https://posts.careerengine.us/p/6598e38700821e23b306b487)  
+- [2024-01-06-无需文本标注，TF-T2V把AI量产视频的成本打下来了！华科阿里等联合打造](https://posts.careerengine.us/p/6598e3951321f623f9521ca8)  
 - [2024-01-05-只需1080ti，即可在遥感图像中对目标进行像素级定位！代码数据集已开源！](https://posts.careerengine.us/p/6597d833d6f6324cd59c125e)  
 - [2024-01-05-当LLM学会左右互搏，基础模型或将迎来集体进化](https://posts.careerengine.us/p/6597d82c397a494ca7d2e130)  
 - [2024-01-05-大模型正在重构机器人，谷歌Deepmind这样定义具身智能的未来](https://posts.careerengine.us/p/6597d82c397a494ca7d2e128)  
@@ -52,9 +52,9 @@
 </summary>
 
 
-- [2024-01-06-一张图500元是目前AIGC最高“回报”？小冰李笛：调用API的商业模式不适用于未来-|-MEET-2024](https://posts.careerengine.us/p/6598da1b7cd4e1785710f7bd) ![](/assets/new.png)  
-- [2024-01-06-大翻车！斯坦福超火机器人自曝内幕，研究者救场还受伤了，网友：放心了](https://posts.careerengine.us/p/6598da1b7cd4e1785710f7b5) ![](/assets/new.png)  
-- [2024-01-06-一句话精准视频片段定位！清华新方法拿下SOTA｜已开源](https://posts.careerengine.us/p/6598da226dc43478c3bfdfab) ![](/assets/new.png)  
+- [2024-01-06-一张图500元是目前AIGC最高“回报”？小冰李笛：调用API的商业模式不适用于未来-|-MEET-2024](https://posts.careerengine.us/p/6598da1b7cd4e1785710f7bd)  
+- [2024-01-06-大翻车！斯坦福超火机器人自曝内幕，研究者救场还受伤了，网友：放心了](https://posts.careerengine.us/p/6598da1b7cd4e1785710f7b5)  
+- [2024-01-06-一句话精准视频片段定位！清华新方法拿下SOTA｜已开源](https://posts.careerengine.us/p/6598da226dc43478c3bfdfab)  
 - [2024-01-05-谷歌DeepMind机器人成果三连发！两大能力全提升，数据收集系统可同时管理20个机器人](https://posts.careerengine.us/p/659791d3dd77c23bc6e12ba8)  
 - [2024-01-05-雷军说好的百万美金大奖双倍发放：造车与造OS，都离不开AI了](https://posts.careerengine.us/p/659791c7118e583b816da5a2)  
 - [2024-01-05-AI搜索引擎再吸金5.28亿，英伟达贝佐斯入股，LeCun一众大佬夹道祝贺！网友：干翻谷歌](https://posts.careerengine.us/p/659791c7118e583b816da59a)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-01-05-大模型这么搞也能中A会论文？](https://posts.careerengine.us/p/659788d64ddc551751c7b583)  
-- [2024-01-05-NeurIPS-2023-Spotlight-|-基于超图的表格语言模型](https://posts.careerengine.us/p/659788dfc3495317c4d052da)  
-- [2024-01-05-博士申请-|-香港科技大学（广州）孙莹老师招收人工智能方向全奖博士生/RA](https://posts.careerengine.us/p/659788ec3e9e0a17fc0533a6)  
+- [2024-01-06-​AAAI-2024-|-首个多模态实体集扩展数据集MESED和多模态模型MultiExpan](https://posts.careerengine.us/p/6599556790368e496d241caa) ![](/assets/new.png)  
+- [2024-01-06-万字长文再论大语言模型的位置编码及其外推性](https://posts.careerengine.us/p/6599556fe6caf249e660346a) ![](/assets/new.png)  
+- [2024-01-06-深圳内推-|-腾讯大数据平台混元AIGC团队招聘文生3D方向算法实习生](https://posts.careerengine.us/p/6599557b52bc524a11aba87f) ![](/assets/new.png)  
 - [2024-01-05-清华叉院提出「GenH2R」框架，用百万场景打造基于视觉的通用人机交接策略](https://posts.careerengine.us/p/659788ec3e9e0a17fc05339e)  
-- [2024-01-04-科研实习-|-伊利诺伊大学香槟分校张潼教授招收机器学习/LLM方向科研实习生](https://posts.careerengine.us/p/6596320d1b29dd13ad4bbf64)  
-- [2024-01-04-NeurIPS-2023-|-FedFed：特征蒸馏应对联邦学习中的数据异构](https://posts.careerengine.us/p/6596320408a3c6138d641ca6)  
-- [2024-01-04-「线索经营」PK「科学经营」，百度智能体商业时代，押注谁赢？](https://posts.careerengine.us/p/6596320408a3c6138d641c9e)  
+- [2024-01-05-博士申请-|-香港科技大学（广州）孙莹老师招收人工智能方向全奖博士生/RA](https://posts.careerengine.us/p/659788ec3e9e0a17fc0533a6)  
+- [2024-01-05-NeurIPS-2023-Spotlight-|-基于超图的表格语言模型](https://posts.careerengine.us/p/659788dfc3495317c4d052da)  
+- [2024-01-05-大模型这么搞也能中A会论文？](https://posts.careerengine.us/p/659788d64ddc551751c7b583)  
 - [2024-01-04-AAAI-2024-|-浙大赵天成博士团队提出全新评测基准OVDEval，全面审视开放词汇目标检测模型的泛化能力](https://posts.careerengine.us/p/659631fba4eb45136ba3aef5)  
-- [2024-01-03-达摩院攻克胰腺癌早筛难题！2024年会是AI4Science的真正风口吗？](https://posts.careerengine.us/p/6594df5acb9a1e1ecb667102)  
-- [2024-01-03-AAAI-2024-|-武大提出神经元分类全新框架，联合学习神经元骨架与大脑回路拓扑结构](https://posts.careerengine.us/p/6594df5acb9a1e1ecb66710a)  
-- [2024-01-03-你没有看过的全新版本！Transformer数学原理大揭秘](https://posts.careerengine.us/p/6594df639134ab1ee6d3afab)  
+- [2024-01-04-「线索经营」PK「科学经营」，百度智能体商业时代，押注谁赢？](https://posts.careerengine.us/p/6596320408a3c6138d641c9e)  
+- [2024-01-04-NeurIPS-2023-|-FedFed：特征蒸馏应对联邦学习中的数据异构](https://posts.careerengine.us/p/6596320408a3c6138d641ca6)  
+- [2024-01-04-科研实习-|-伊利诺伊大学香槟分校张潼教授招收机器学习/LLM方向科研实习生](https://posts.careerengine.us/p/6596320d1b29dd13ad4bbf64)  
 - [2024-01-03-科研实习-|-北京大学王乐业老师招收智能城市感知与计算方向科研实习生](https://posts.careerengine.us/p/6594df6d3e76fa1f0f5e8756)  
-- [2024-01-02-杭州内推-|-阿里通义实验室多模态mPLUG团队招聘研究型实习生](https://posts.careerengine.us/p/6593905cd09e48579d5c2445)  
-- [2024-01-02-媲美RLHF！复旦NLP组提出基于表征工程的生成式语言大模型人类偏好对齐](https://posts.careerengine.us/p/6593905bd09e48579d5c243d)  
-- [2024-01-02-​AAAI-2024-|-视觉定位标注难？浙大赵天成博士团队提出零样本定位新SOTA模型GroundVLP](https://posts.careerengine.us/p/65939052101da0577e0c3545)  
+- [2024-01-03-你没有看过的全新版本！Transformer数学原理大揭秘](https://posts.careerengine.us/p/6594df639134ab1ee6d3afab)  
+- [2024-01-03-AAAI-2024-|-武大提出神经元分类全新框架，联合学习神经元骨架与大脑回路拓扑结构](https://posts.careerengine.us/p/6594df5acb9a1e1ecb66710a)  
+- [2024-01-03-达摩院攻克胰腺癌早筛难题！2024年会是AI4Science的真正风口吗？](https://posts.careerengine.us/p/6594df5acb9a1e1ecb667102)  
 - [2024-01-02-用跑1个LoRA微调大语言模型的延迟跑10个！](https://posts.careerengine.us/p/65939051101da0577e0c353d)  
-- [2024-01-01-文末送书-|-吴翰清《计算》重磅来袭，为了可计算的价值，写给所有人！](https://posts.careerengine.us/p/6592a7359859d379dc514ea2)  
-- [2024-01-01-生成扩散模型漫谈：中值定理加速ODE采样](https://posts.careerengine.us/p/6592a7369859d379dc514eaa)  
+- [2024-01-02-​AAAI-2024-|-视觉定位标注难？浙大赵天成博士团队提出零样本定位新SOTA模型GroundVLP](https://posts.careerengine.us/p/65939052101da0577e0c3545)  
+- [2024-01-02-媲美RLHF！复旦NLP组提出基于表征工程的生成式语言大模型人类偏好对齐](https://posts.careerengine.us/p/6593905bd09e48579d5c243d)  
+- [2024-01-02-杭州内推-|-阿里通义实验室多模态mPLUG团队招聘研究型实习生](https://posts.careerengine.us/p/6593905cd09e48579d5c2445)  
 - [2024-01-01-上海内推-|-上海人工智能实验室浦视开源体系团队招聘音频生成方向实习生](https://posts.careerengine.us/p/6592a749393cef7a29bb0fcf)  
-- [2023-12-31-KDD-2023-|-BPHGNN：基于行为模式建模的多层异质图神经网络](https://posts.careerengine.us/p/659136b588b2eb20de59dee1)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-01-06-“百模大战”诞生各种编程工具，但GPT-4-依然是天花板](https://posts.careerengine.us/p/6598e66fe532832fd5c63e11) ![](/assets/new.png)  
-- [2024-01-06-没有这些事儿，就没有现在的大模型-｜2023-AI-热点地图](https://posts.careerengine.us/p/6598e678079cb3300d04bbb8) ![](/assets/new.png)  
+- [2024-01-06-“百模大战”诞生各种编程工具，但GPT-4-依然是天花板](https://posts.careerengine.us/p/6598e66fe532832fd5c63e11)  
+- [2024-01-06-没有这些事儿，就没有现在的大模型-｜2023-AI-热点地图](https://posts.careerengine.us/p/6598e678079cb3300d04bbb8)  
 - [2024-01-05-2024年或成国产大模型应用爆发年！有道再推多款大模型产品及应用](https://posts.careerengine.us/p/65979525a8fca9463eb4586f)  
 - [2024-01-05-AI-裁员潮开始了：应用GPT-4不到一年，多邻国裁掉数千人](https://posts.careerengine.us/p/6597951eae9622461a180adc)  
 - [2024-01-04-Redis之父亲自上手用大模型撸代码：通晓古今的白痴队友，将来可以取代99％程序员](https://posts.careerengine.us/p/659643af89d0766b830b3a51)  
