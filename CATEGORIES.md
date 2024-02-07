@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-07 15:00:18，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-07 18:00:14，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-02-07-无需RLHF显著提升GPT-4/Llama2性能，北大团队提出Aligner对齐新范式](https://posts.careerengine.us/p/65c31f91a994694f352284c4) ![](/assets/new.png)  
-- [2024-02-07-抛弃编码器——解码器架构，用扩散模型做边缘检测效果更好，国防科大提出DiffusionEdge](https://posts.careerengine.us/p/65c31f91a994694f352284cc) ![](/assets/new.png)  
-- [2024-02-07-吉他摇滚、电子音乐都能搞定，Meta开源音频生成新模型MAGNeT，非自回归7倍提速](https://posts.careerengine.us/p/65c31f91a994694f352284b4) ![](/assets/new.png)  
-- [2024-02-07-黄仁勋：从此之后，请叫我黄院士](https://posts.careerengine.us/p/65c31f91a994694f352284bc) ![](/assets/new.png)  
-- [2024-02-07-斯坦福和OpenAI提出meta-prompting，最强零样本prompting技术诞生了](https://posts.careerengine.us/p/65c31f92a994694f352284d4) ![](/assets/new.png)  
+- [2024-02-07-无需RLHF显著提升GPT-4/Llama2性能，北大团队提出Aligner对齐新范式](https://posts.careerengine.us/p/65c31f91a994694f352284c4)  
+- [2024-02-07-抛弃编码器——解码器架构，用扩散模型做边缘检测效果更好，国防科大提出DiffusionEdge](https://posts.careerengine.us/p/65c31f91a994694f352284cc)  
+- [2024-02-07-吉他摇滚、电子音乐都能搞定，Meta开源音频生成新模型MAGNeT，非自回归7倍提速](https://posts.careerengine.us/p/65c31f91a994694f352284b4)  
+- [2024-02-07-黄仁勋：从此之后，请叫我黄院士](https://posts.careerengine.us/p/65c31f91a994694f352284bc)  
+- [2024-02-07-斯坦福和OpenAI提出meta-prompting，最强零样本prompting技术诞生了](https://posts.careerengine.us/p/65c31f92a994694f352284d4)  
 - [2024-02-06-俄罗斯小哥ChatGPT找女友：聊了5239个女生，现在订婚了](https://posts.careerengine.us/p/65c1ba3e6e03e777d245ec38)  
 - [2024-02-06-向完全自主性更进一步，清华、港大全新跨任务自我进化策略让智能体学会「以经验为鉴」](https://posts.careerengine.us/p/65c1ba3e6e03e777d245ec30)  
 - [2024-02-06-徒手搬螺丝，波士顿动力Atlas再进化：兄弟们，准备进厂了](https://posts.careerengine.us/p/65c1ba3e6e03e777d245ec40)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-02-05-全栈智能才能兑现AI红利？](https://posts.careerengine.us/p/65c070d0fe09225475ece9d6)  
-- [2024-02-05-打脸奥特曼，GPT-4今年比去年还懒！网友在线实测出炉](https://posts.careerengine.us/p/65c070d1fe09225475ece9de)  
-- [2024-02-05-奖金十万美元！寻找数学能力最强大模型](https://posts.careerengine.us/p/65c070d8046a0a549c3dade5)  
-- [2024-02-05-哪有人逛街不戴Vision-Pro的？？？（doge）](https://posts.careerengine.us/p/65c070d8046a0a549c3daddd)  
+- [2024-02-07-小鹏公然AI“造假”，啧啧啧](https://posts.careerengine.us/p/65c31f34eb05084cb2e9bddc) ![](/assets/new.png)  
+- [2024-02-07-硕士学历黄仁勋，现在是院士了](https://posts.careerengine.us/p/65c31f35eb05084cb2e9be0c) ![](/assets/new.png)  
+- [2024-02-07-三个Agent顶个GPT-4，基于开源小模型的那种｜中大阿里联合出品](https://posts.careerengine.us/p/65c31f35eb05084cb2e9be04) ![](/assets/new.png)  
+- [2024-02-07-7B开源数学模型干翻千亿GPT-4，中国团队出品](https://posts.careerengine.us/p/65c31f35eb05084cb2e9bdfb) ![](/assets/new.png)  
 - [2024-02-05-姚期智领衔，全球首颗零知识证明SOC流片成功](https://posts.careerengine.us/p/65c070e1697c9254c0919e26)  
-- [2024-02-04-苹果Vision-Pro，全球首拆！](https://posts.careerengine.us/p/65bf22b3e7afc710f0b01085)  
-- [2024-02-04-抱抱脸正面挑战OpenAI，推出开源版GPT商店！完全免费、支持六大开源模型当底座](https://posts.careerengine.us/p/65bf22bbb086d011192aabd5)  
-- [2024-02-04-两度被OpenAI相中的华裔CEO，干出全球最高年收入AI创企](https://posts.careerengine.us/p/65bf22bbb086d011192aabdd)  
+- [2024-02-05-哪有人逛街不戴Vision-Pro的？？？（doge）](https://posts.careerengine.us/p/65c070d8046a0a549c3daddd)  
+- [2024-02-05-奖金十万美元！寻找数学能力最强大模型](https://posts.careerengine.us/p/65c070d8046a0a549c3dade5)  
+- [2024-02-05-打脸奥特曼，GPT-4今年比去年还懒！网友在线实测出炉](https://posts.careerengine.us/p/65c070d1fe09225475ece9de)  
+- [2024-02-05-全栈智能才能兑现AI红利？](https://posts.careerengine.us/p/65c070d0fe09225475ece9d6)  
 - [2024-02-04-Agent像人一样分工协作，还能“群聊”交换信息｜ICLR2024-Oral](https://posts.careerengine.us/p/65bf22c704340e11a04b925c)  
+- [2024-02-04-两度被OpenAI相中的华裔CEO，干出全球最高年收入AI创企](https://posts.careerengine.us/p/65bf22bbb086d011192aabdd)  
+- [2024-02-04-抱抱脸正面挑战OpenAI，推出开源版GPT商店！完全免费、支持六大开源模型当底座](https://posts.careerengine.us/p/65bf22bbb086d011192aabd5)  
+- [2024-02-04-苹果Vision-Pro，全球首拆！](https://posts.careerengine.us/p/65bf22b3e7afc710f0b01085)  
 - [2024-02-03-Meta年终奖翻1.5倍！背后华裔CFO引发关注](https://posts.careerengine.us/p/65bdc5448c6ef3496a88d280)  
-- [2024-01-06-一句话精准视频片段定位！清华新方法拿下SOTA｜已开源](https://posts.careerengine.us/p/6598da226dc43478c3bfdfab)  
-- [2024-01-06-大翻车！斯坦福超火机器人自曝内幕，研究者救场还受伤了，网友：放心了](https://posts.careerengine.us/p/6598da1b7cd4e1785710f7b5)  
 - [2024-01-06-一张图500元是目前AIGC最高“回报”？小冰李笛：调用API的商业模式不适用于未来-|-MEET-2024](https://posts.careerengine.us/p/6598da1b7cd4e1785710f7bd)  
-- [2024-01-05-小冰正式发布克隆人：已经有人拿它年入100万了！](https://posts.careerengine.us/p/659791aa35f0753ab2ba9209)  
-- [2024-01-05-千元成本搞定专业大模型，系统优化+开源大模型是关键-|-潞晨卞正达@MEET2024](https://posts.careerengine.us/p/659791b201f31b3ad8c21de9)  
-- [2024-01-05-斯坦福为懒人献上大礼！机器人洗衣做饭逗猫看呆网友，成本3万美元自己也能DIY](https://posts.careerengine.us/p/659791bf4b3a3a3b10096e16)  
-- [2024-01-05-AI搜索引擎再吸金5.28亿，英伟达贝佐斯入股，LeCun一众大佬夹道祝贺！网友：干翻谷歌](https://posts.careerengine.us/p/659791c7118e583b816da59a)  
-- [2024-01-05-雷军说好的百万美金大奖双倍发放：造车与造OS，都离不开AI了](https://posts.careerengine.us/p/659791c7118e583b816da5a2)  
+- [2024-01-06-大翻车！斯坦福超火机器人自曝内幕，研究者救场还受伤了，网友：放心了](https://posts.careerengine.us/p/6598da1b7cd4e1785710f7b5)  
+- [2024-01-06-一句话精准视频片段定位！清华新方法拿下SOTA｜已开源](https://posts.careerengine.us/p/6598da226dc43478c3bfdfab)  
 - [2024-01-05-谷歌DeepMind机器人成果三连发！两大能力全提升，数据收集系统可同时管理20个机器人](https://posts.careerengine.us/p/659791d3dd77c23bc6e12ba8)  
-- [2024-01-04-商汤用AI造了个台灯，售价1699元](https://posts.careerengine.us/p/6596362e4ec23028f7895038)  
+- [2024-01-05-雷军说好的百万美金大奖双倍发放：造车与造OS，都离不开AI了](https://posts.careerengine.us/p/659791c7118e583b816da5a2)  
+- [2024-01-05-AI搜索引擎再吸金5.28亿，英伟达贝佐斯入股，LeCun一众大佬夹道祝贺！网友：干翻谷歌](https://posts.careerengine.us/p/659791c7118e583b816da59a)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
