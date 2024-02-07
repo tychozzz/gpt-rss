@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-01-07 06:00:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-07 11:29:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 腾讯
 
@@ -14,5 +14,6 @@
 - [2023-10-05-腾讯机器人实验室一号员工创业，人形机器人又添重磅玩家](https://posts.careerengine.us/p/651e37023bdf5d5b8e3ed35d) 
 - [2023-09-15-区块链在西北这么用？腾讯让老外都开了眼](https://posts.careerengine.us/p/65041f0ae25b5c35c5c7843f) 
 - [2023-07-25-这个让你「看片更爽」的领域，腾讯一次拿了15个世界冠军](https://posts.careerengine.us/p/64bf4d5953865c5f905707ec) 
+- [2024-02-04-港中文、腾讯团队提出对比式非似然训练框架，让LLaMA2胜率飙升30倍](https://posts.careerengine.us/p/65bf845d146c2b261944ee0b) 
 - [2023-08-06-成都内推-|-腾讯游戏王者荣耀算法团队招聘推荐算法实习生](https://posts.careerengine.us/p/64cf9675d9f5c20f5496ad19) 
 - [2023-07-12-深圳内推-|-腾讯游戏全球数据洞察组招聘数据科学家暑期实习生](https://posts.careerengine.us/p/64ae31c4cd55877f33b37a11) 
