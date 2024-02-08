@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-07 18:00:14，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-08 18:00:17，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-02-07-小鹏公然AI“造假”，啧啧啧](https://posts.careerengine.us/p/65c31f34eb05084cb2e9bddc) ![](/assets/new.png)  
-- [2024-02-07-硕士学历黄仁勋，现在是院士了](https://posts.careerengine.us/p/65c31f35eb05084cb2e9be0c) ![](/assets/new.png)  
-- [2024-02-07-三个Agent顶个GPT-4，基于开源小模型的那种｜中大阿里联合出品](https://posts.careerengine.us/p/65c31f35eb05084cb2e9be04) ![](/assets/new.png)  
-- [2024-02-07-7B开源数学模型干翻千亿GPT-4，中国团队出品](https://posts.careerengine.us/p/65c31f35eb05084cb2e9bdfb) ![](/assets/new.png)  
-- [2024-02-05-姚期智领衔，全球首颗零知识证明SOC流片成功](https://posts.careerengine.us/p/65c070e1697c9254c0919e26)  
-- [2024-02-05-哪有人逛街不戴Vision-Pro的？？？（doge）](https://posts.careerengine.us/p/65c070d8046a0a549c3daddd)  
-- [2024-02-05-奖金十万美元！寻找数学能力最强大模型](https://posts.careerengine.us/p/65c070d8046a0a549c3dade5)  
-- [2024-02-05-打脸奥特曼，GPT-4今年比去年还懒！网友在线实测出炉](https://posts.careerengine.us/p/65c070d1fe09225475ece9de)  
+- [2024-02-08-抖音CEO离任，奔赴AIGC视频新风口](https://posts.careerengine.us/p/65c47cb882aee06c74fdcae4) ![](/assets/new.png)  
+- [2024-02-08-为自证没用ChatGPT，副教授被迫用GitHub写论文｜Nature](https://posts.careerengine.us/p/65c47cb882aee06c74fdcad4) ![](/assets/new.png)  
+- [2024-02-08-GPT-4推理能力暴涨32％，谷歌新型思维链效果超CoT，计算成本可降至1/40](https://posts.careerengine.us/p/65c47cb882aee06c74fdcacc) ![](/assets/new.png)  
+- [2024-02-08-斯坦福爆火家务机器人升级二代！双手稳到能偷钱包，成本降至19万](https://posts.careerengine.us/p/65c47cb882aee06c74fdcac4) ![](/assets/new.png)  
+- [2024-02-07-7B开源数学模型干翻千亿GPT-4，中国团队出品](https://posts.careerengine.us/p/65c31f35eb05084cb2e9bdfb)  
+- [2024-02-07-三个Agent顶个GPT-4，基于开源小模型的那种｜中大阿里联合出品](https://posts.careerengine.us/p/65c31f35eb05084cb2e9be04)  
+- [2024-02-07-硕士学历黄仁勋，现在是院士了](https://posts.careerengine.us/p/65c31f35eb05084cb2e9be0c)  
+- [2024-02-07-小鹏公然AI“造假”，啧啧啧](https://posts.careerengine.us/p/65c31f34eb05084cb2e9bddc)  
 - [2024-02-05-全栈智能才能兑现AI红利？](https://posts.careerengine.us/p/65c070d0fe09225475ece9d6)  
-- [2024-02-04-Agent像人一样分工协作，还能“群聊”交换信息｜ICLR2024-Oral](https://posts.careerengine.us/p/65bf22c704340e11a04b925c)  
-- [2024-02-04-两度被OpenAI相中的华裔CEO，干出全球最高年收入AI创企](https://posts.careerengine.us/p/65bf22bbb086d011192aabdd)  
-- [2024-02-04-抱抱脸正面挑战OpenAI，推出开源版GPT商店！完全免费、支持六大开源模型当底座](https://posts.careerengine.us/p/65bf22bbb086d011192aabd5)  
+- [2024-02-05-打脸奥特曼，GPT-4今年比去年还懒！网友在线实测出炉](https://posts.careerengine.us/p/65c070d1fe09225475ece9de)  
+- [2024-02-05-奖金十万美元！寻找数学能力最强大模型](https://posts.careerengine.us/p/65c070d8046a0a549c3dade5)  
+- [2024-02-05-哪有人逛街不戴Vision-Pro的？？？（doge）](https://posts.careerengine.us/p/65c070d8046a0a549c3daddd)  
+- [2024-02-05-姚期智领衔，全球首颗零知识证明SOC流片成功](https://posts.careerengine.us/p/65c070e1697c9254c0919e26)  
 - [2024-02-04-苹果Vision-Pro，全球首拆！](https://posts.careerengine.us/p/65bf22b3e7afc710f0b01085)  
+- [2024-02-04-抱抱脸正面挑战OpenAI，推出开源版GPT商店！完全免费、支持六大开源模型当底座](https://posts.careerengine.us/p/65bf22bbb086d011192aabd5)  
+- [2024-02-04-两度被OpenAI相中的华裔CEO，干出全球最高年收入AI创企](https://posts.careerengine.us/p/65bf22bbb086d011192aabdd)  
+- [2024-02-04-Agent像人一样分工协作，还能“群聊”交换信息｜ICLR2024-Oral](https://posts.careerengine.us/p/65bf22c704340e11a04b925c)  
 - [2024-02-03-Meta年终奖翻1.5倍！背后华裔CFO引发关注](https://posts.careerengine.us/p/65bdc5448c6ef3496a88d280)  
-- [2024-01-06-一张图500元是目前AIGC最高“回报”？小冰李笛：调用API的商业模式不适用于未来-|-MEET-2024](https://posts.careerengine.us/p/6598da1b7cd4e1785710f7bd)  
-- [2024-01-06-大翻车！斯坦福超火机器人自曝内幕，研究者救场还受伤了，网友：放心了](https://posts.careerengine.us/p/6598da1b7cd4e1785710f7b5)  
 - [2024-01-06-一句话精准视频片段定位！清华新方法拿下SOTA｜已开源](https://posts.careerengine.us/p/6598da226dc43478c3bfdfab)  
-- [2024-01-05-谷歌DeepMind机器人成果三连发！两大能力全提升，数据收集系统可同时管理20个机器人](https://posts.careerengine.us/p/659791d3dd77c23bc6e12ba8)  
-- [2024-01-05-雷军说好的百万美金大奖双倍发放：造车与造OS，都离不开AI了](https://posts.careerengine.us/p/659791c7118e583b816da5a2)  
-- [2024-01-05-AI搜索引擎再吸金5.28亿，英伟达贝佐斯入股，LeCun一众大佬夹道祝贺！网友：干翻谷歌](https://posts.careerengine.us/p/659791c7118e583b816da59a)  
+- [2024-01-06-大翻车！斯坦福超火机器人自曝内幕，研究者救场还受伤了，网友：放心了](https://posts.careerengine.us/p/6598da1b7cd4e1785710f7b5)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
