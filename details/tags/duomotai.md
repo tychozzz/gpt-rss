@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-11 18:00:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-11 21:00:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 多模态
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-02-11-华为查询建议新范式MMQS入选WWW-2024，解锁基于人类反馈的多模态查询建议](https://posts.careerengine.us/p/65c88045e27e2944d282245e) 
 - [2023-12-03-任意文本、视觉、音频混合生成，多模态有了强大的基础引擎CoDi-2](https://posts.careerengine.us/p/656c12ab0543675f3d38f541) 
 - [2023-11-09-用语言对齐多模态信息，北大腾讯等提出LanguageBind，刷新多个榜单](https://posts.careerengine.us/p/654c64f38978cc7abe0f1dcc) 
 - [2023-10-28-多模态搜索算法如何让视频搜索更精准？腾讯独家揭秘，超详细](https://posts.careerengine.us/p/653c8e743a1d083af0034d14) 
