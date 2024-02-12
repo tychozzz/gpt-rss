@@ -1,10 +1,10 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-11 21:00:21，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-12 21:00:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
@@ -21,10 +21,10 @@
 </summary>
 
 
-- [2024-02-11-华为查询建议新范式MMQS入选WWW-2024，解锁基于人类反馈的多模态查询建议](https://posts.careerengine.us/p/65c88045e27e2944d282245e) ![](/assets/new.png)  
-- [2024-02-11-从框架到经典方法，全面了解分布式深度强化学习DDRL](https://posts.careerengine.us/p/65c88045e27e2944d2822456) ![](/assets/new.png)  
-- [2024-02-11-手把手教你，从零开始实现一个稀疏混合专家架构语言模型（MoE）](https://posts.careerengine.us/p/65c88046e27e2944d282246e) ![](/assets/new.png)  
-- [2024-02-11-PRO-|-Agent-爆火之后，具身智能才是-AI-下一站？](https://posts.careerengine.us/p/65c88046e27e2944d2822466) ![](/assets/new.png)  
+- [2024-02-11-华为查询建议新范式MMQS入选WWW-2024，解锁基于人类反馈的多模态查询建议](https://posts.careerengine.us/p/65c88045e27e2944d282245e)  
+- [2024-02-11-从框架到经典方法，全面了解分布式深度强化学习DDRL](https://posts.careerengine.us/p/65c88045e27e2944d2822456)  
+- [2024-02-11-手把手教你，从零开始实现一个稀疏混合专家架构语言模型（MoE）](https://posts.careerengine.us/p/65c88046e27e2944d282246e)  
+- [2024-02-11-PRO-|-Agent-爆火之后，具身智能才是-AI-下一站？](https://posts.careerengine.us/p/65c88046e27e2944d2822466)  
 - [2024-02-07-斯坦福和OpenAI提出meta-prompting，最强零样本prompting技术诞生了](https://posts.careerengine.us/p/65c31f92a994694f352284d4)  
 - [2024-02-07-黄仁勋：从此之后，请叫我黄院士](https://posts.careerengine.us/p/65c31f91a994694f352284bc)  
 - [2024-02-07-吉他摇滚、电子音乐都能搞定，Meta开源音频生成新模型MAGNeT，非自回归7倍提速](https://posts.careerengine.us/p/65c31f91a994694f352284b4)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-02-11-Deepfake假CFO骗走公司1.8个亿，员工：视频会议里每个人看起来都很真实啊](https://posts.careerengine.us/p/65c88006faea744373c1635f) ![](/assets/new.png)  
-- [2024-02-11-奥特曼兄弟合砍7.00015万亿美元，弟弟：山姆你给我留点露脸机会吧](https://posts.careerengine.us/p/65c88006faea744373c1634e) ![](/assets/new.png)  
-- [2024-02-11-首个登上央视春晚的-AI-视频-·-制作复盘](https://posts.careerengine.us/p/65c88006faea744373c1633e) ![](/assets/new.png)  
-- [2024-02-11-国产AI导演贼6，短视频镜头和物体各动各的｜港城大&快手&天大](https://posts.careerengine.us/p/65c8800e0e96e9438dde2e84) ![](/assets/new.png)  
-- [2024-02-10-端到端纯视觉！OpenAI押注的人形机器人献艺拜年了](https://posts.careerengine.us/p/65c74232367f6d7e706059de)  
+- [2024-02-12-大模型开车哪家强？普渡研究给指南：GPT-4真行啊](https://posts.careerengine.us/p/65ca044dc36f76064e9ece43) ![](/assets/new.png)  
+- [2024-02-12-大模型玩《宝可梦》达人类水平！网友喊话世界冠军：是时候一较高下了](https://posts.careerengine.us/p/65ca044dc36f76064e9ece33) ![](/assets/new.png)  
+- [2024-02-11-国产AI导演贼6，短视频镜头和物体各动各的｜港城大&快手&天大](https://posts.careerengine.us/p/65c8800e0e96e9438dde2e84)  
+- [2024-02-11-首个登上央视春晚的-AI-视频-·-制作复盘](https://posts.careerengine.us/p/65c88006faea744373c1633e)  
+- [2024-02-11-奥特曼兄弟合砍7.00015万亿美元，弟弟：山姆你给我留点露脸机会吧](https://posts.careerengine.us/p/65c88006faea744373c1634e)  
+- [2024-02-11-Deepfake假CFO骗走公司1.8个亿，员工：视频会议里每个人看起来都很真实啊](https://posts.careerengine.us/p/65c88006faea744373c1635f)  
 - [2024-02-10-陈丹琦团队新作：数据量砍95％，大模型性能更强了！Less-is-More](https://posts.careerengine.us/p/65c74232367f6d7e706059d6)  
-- [2024-02-08-抖音CEO离任，奔赴AIGC视频新风口](https://posts.careerengine.us/p/65c47cb882aee06c74fdcae4)  
-- [2024-02-08-为自证没用ChatGPT，副教授被迫用GitHub写论文｜Nature](https://posts.careerengine.us/p/65c47cb882aee06c74fdcad4)  
-- [2024-02-08-GPT-4推理能力暴涨32％，谷歌新型思维链效果超CoT，计算成本可降至1/40](https://posts.careerengine.us/p/65c47cb882aee06c74fdcacc)  
+- [2024-02-10-端到端纯视觉！OpenAI押注的人形机器人献艺拜年了](https://posts.careerengine.us/p/65c74232367f6d7e706059de)  
 - [2024-02-08-斯坦福爆火家务机器人升级二代！双手稳到能偷钱包，成本降至19万](https://posts.careerengine.us/p/65c47cb882aee06c74fdcac4)  
-- [2024-02-07-7B开源数学模型干翻千亿GPT-4，中国团队出品](https://posts.careerengine.us/p/65c31f35eb05084cb2e9bdfb)  
-- [2024-02-07-三个Agent顶个GPT-4，基于开源小模型的那种｜中大阿里联合出品](https://posts.careerengine.us/p/65c31f35eb05084cb2e9be04)  
-- [2024-02-07-硕士学历黄仁勋，现在是院士了](https://posts.careerengine.us/p/65c31f35eb05084cb2e9be0c)  
+- [2024-02-08-GPT-4推理能力暴涨32％，谷歌新型思维链效果超CoT，计算成本可降至1/40](https://posts.careerengine.us/p/65c47cb882aee06c74fdcacc)  
+- [2024-02-08-为自证没用ChatGPT，副教授被迫用GitHub写论文｜Nature](https://posts.careerengine.us/p/65c47cb882aee06c74fdcad4)  
+- [2024-02-08-抖音CEO离任，奔赴AIGC视频新风口](https://posts.careerengine.us/p/65c47cb882aee06c74fdcae4)  
 - [2024-02-07-小鹏公然AI“造假”，啧啧啧](https://posts.careerengine.us/p/65c31f34eb05084cb2e9bddc)  
-- [2024-02-05-全栈智能才能兑现AI红利？](https://posts.careerengine.us/p/65c070d0fe09225475ece9d6)  
-- [2024-02-05-打脸奥特曼，GPT-4今年比去年还懒！网友在线实测出炉](https://posts.careerengine.us/p/65c070d1fe09225475ece9de)  
-- [2024-02-05-奖金十万美元！寻找数学能力最强大模型](https://posts.careerengine.us/p/65c070d8046a0a549c3dade5)  
-- [2024-02-05-哪有人逛街不戴Vision-Pro的？？？（doge）](https://posts.careerengine.us/p/65c070d8046a0a549c3daddd)  
+- [2024-02-07-硕士学历黄仁勋，现在是院士了](https://posts.careerengine.us/p/65c31f35eb05084cb2e9be0c)  
+- [2024-02-07-三个Agent顶个GPT-4，基于开源小模型的那种｜中大阿里联合出品](https://posts.careerengine.us/p/65c31f35eb05084cb2e9be04)  
+- [2024-02-07-7B开源数学模型干翻千亿GPT-4，中国团队出品](https://posts.careerengine.us/p/65c31f35eb05084cb2e9bdfb)  
 - [2024-02-05-姚期智领衔，全球首颗零知识证明SOC流片成功](https://posts.careerengine.us/p/65c070e1697c9254c0919e26)  
-- [2024-02-04-苹果Vision-Pro，全球首拆！](https://posts.careerengine.us/p/65bf22b3e7afc710f0b01085)  
+- [2024-02-05-哪有人逛街不戴Vision-Pro的？？？（doge）](https://posts.careerengine.us/p/65c070d8046a0a549c3daddd)  
+- [2024-02-05-奖金十万美元！寻找数学能力最强大模型](https://posts.careerengine.us/p/65c070d8046a0a549c3dade5)  
+- [2024-02-05-打脸奥特曼，GPT-4今年比去年还懒！网友在线实测出炉](https://posts.careerengine.us/p/65c070d1fe09225475ece9de)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
