@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-13 18:00:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-15 18:00:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-02-15-生成速度快SDXL一倍，9GB-GPU也能运行，Stable-Cascade来搞性价比了](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7c1) 
 - [2023-12-23-Midjourney-V6迎来大升级：网友惊呼生成效果太逼真](https://posts.careerengine.us/p/658600ad4fd82832c37dcf19) 
 - [2023-11-22-Stable-Video-Diffusion来了，代码权重已上线](https://posts.careerengine.us/p/655d6b2f85eb0127d0b3ea85) 
 - [2023-11-20-谷歌Bard「破防」，用自然语言破解，提示注入引起数据泄漏风险](https://posts.careerengine.us/p/655ae51d11f6942d9af9ce32) 
