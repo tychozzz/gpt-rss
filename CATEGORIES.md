@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-15 18:00:22，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-15 21:00:20，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,10 +21,10 @@
 </summary>
 
 
-- [2024-02-15-陪跑又快又稳，机器人跑步搭子来了](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7c9) ![](/assets/new.png)  
-- [2024-02-15-PRO-|-模仿学习：OpenAI-放弃的路线是否已进入新篇章？](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7d2) ![](/assets/new.png)  
-- [2024-02-15-语音生成的「智能涌现」：10万小时数据训练，亚马逊祭出10亿参数BASE-TTS](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7b9) ![](/assets/new.png)  
-- [2024-02-15-生成速度快SDXL一倍，9GB-GPU也能运行，Stable-Cascade来搞性价比了](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7c1) ![](/assets/new.png)  
+- [2024-02-15-陪跑又快又稳，机器人跑步搭子来了](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7c9)  
+- [2024-02-15-PRO-|-模仿学习：OpenAI-放弃的路线是否已进入新篇章？](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7d2)  
+- [2024-02-15-语音生成的「智能涌现」：10万小时数据训练，亚马逊祭出10亿参数BASE-TTS](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7b9)  
+- [2024-02-15-生成速度快SDXL一倍，9GB-GPU也能运行，Stable-Cascade来搞性价比了](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7c1)  
 - [2024-02-11-PRO-|-Agent-爆火之后，具身智能才是-AI-下一站？](https://posts.careerengine.us/p/65c88046e27e2944d2822466)  
 - [2024-02-11-手把手教你，从零开始实现一个稀疏混合专家架构语言模型（MoE）](https://posts.careerengine.us/p/65c88046e27e2944d282246e)  
 - [2024-02-11-从框架到经典方法，全面了解分布式深度强化学习DDRL](https://posts.careerengine.us/p/65c88045e27e2944d2822456)  
@@ -52,9 +52,9 @@
 </summary>
 
 
-- [2024-02-15-UCLA蒋陈凡夫团队新研究：在VR里控制3D物体，高斯泼溅渲染](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4ea) ![](/assets/new.png)  
-- [2024-02-15-这个AI办公应用火了：简短提示词出PPT，打包GPTs帮你打工干活](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4d2) ![](/assets/new.png)  
-- [2024-02-15-下一代Windows系统曝光：基于GPT-4V，Agent跨应用调度，代号UFO](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4f2) ![](/assets/new.png)  
+- [2024-02-15-UCLA蒋陈凡夫团队新研究：在VR里控制3D物体，高斯泼溅渲染](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4ea)  
+- [2024-02-15-这个AI办公应用火了：简短提示词出PPT，打包GPTs帮你打工干活](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4d2)  
+- [2024-02-15-下一代Windows系统曝光：基于GPT-4V，Agent跨应用调度，代号UFO](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4f2)  
 - [2024-02-13-苹果让ChatGPT成为设计师助手，1分钟搞定动画设计](https://posts.careerengine.us/p/65cb06873042a02133eee8a6)  
 - [2024-02-13-黄院士回应奥特曼7万亿芯片计划：笑了](https://posts.careerengine.us/p/65cb06873042a02133eee89e)  
 - [2024-02-13-800块DIY爆火AI硬件，全流程开源，网友：新Linux时代来了](https://posts.careerengine.us/p/65cb06873042a02133eee8ae)  
@@ -176,26 +176,26 @@
 </summary>
 
 
+- [2024-02-15-我在技​​术面试中用ChatGPT作弊，没人知道](https://posts.careerengine.us/p/65cdc79474cbd77e6e2731fa) ![](/assets/new.png)  
+- [2024-02-14-首届大模型“相亲大会”开始啦！谁是你的天选CP？](https://posts.careerengine.us/p/65cdc98b0c9dc00bb33479b5) ![](/assets/new.png)  
+- [2024-02-13-代码人生攻略：程序员们如何为自己编织一份明朗未来？](https://posts.careerengine.us/p/65cdc98b0c9dc00bb334799e) ![](/assets/new.png)  
 - [2024-02-11-史上AI含量最高春晚来了；奥特曼筹资7万亿美元重塑芯片行业；除夕夜网络支付每秒最高10.9万笔，创历史新高｜AI周报](https://posts.careerengine.us/p/65c87ff6cc5b7e431bbbb63b)  
 - [2024-02-10-大厂年终奖疯狂不再？打工人集体怀念过去：想念那个靠年终奖一夜暴富的时代](https://posts.careerengine.us/p/65c741c01228e47c292fc8ed)  
 - [2024-02-09-龙行龘龘，「AI-前线」给大家送福利啦~](https://posts.careerengine.us/p/65c881c8848f634dfd032d78)  
-- [2024-02-08-​谷歌送出新年大礼！官宣发布-TensorFlow-GNN-1.0：用于构建大规模图神经网络，可动态和交互采样](https://posts.careerengine.us/p/65c881c8848f634dfd032d70)  
 - [2024-02-08-国产7B数学模型性能直逼千亿GPT-4，网友：他们用了很聪明的技巧](https://posts.careerengine.us/p/65c881c9848f634dfd032d87)  
-- [2024-02-06-10X增强！ChatGPT退位，Bard登基](https://posts.careerengine.us/p/65c744088a36bd066d665404)  
+- [2024-02-08-​谷歌送出新年大礼！官宣发布-TensorFlow-GNN-1.0：用于构建大规模图神经网络，可动态和交互采样](https://posts.careerengine.us/p/65c881c8848f634dfd032d70)  
 - [2024-02-06-Vision-Pro全球首拆来了！“真是让人既费解又赞叹”](https://posts.careerengine.us/p/65c744088a36bd066d66540c)  
+- [2024-02-06-10X增强！ChatGPT退位，Bard登基](https://posts.careerengine.us/p/65c744088a36bd066d665404)  
 - [2024-02-05-再也不用羡慕修仙永生了，我已经“做到”了](https://posts.careerengine.us/p/65c07f111ac67b136735fc2d)  
 - [2024-02-04-腾讯年终奖大放送：5个月薪起；裁员见效？Meta市值一夜涨近1.4万亿；Vision-Pro-开售买不起？库克回应-|-AI周报](https://posts.careerengine.us/p/65bf22ce133d9011c662ef66)  
 - [2024-02-02-清华系2B模型杀出，性能吊打LLaMA-13B，170万tokens仅需1块钱！](https://posts.careerengine.us/p/65bc87f26773fe2eab7f7b40)  
-- [2024-02-01-性能逼近GPT-4，开源Mistral-Medium意外泄露？CEO最新回应来了](https://posts.careerengine.us/p/65bb3e5f4789a26334552982)  
 - [2024-02-01-金融行业PaaS平台的机会所在：全面智能化与全面兼容](https://posts.careerengine.us/p/65bb3e66144a0b63481d9e6f)  
-- [2024-01-31-AI-狂飙突进，你的技术团队有能力顺势而上吗？|-极客时间](https://posts.careerengine.us/p/65b9dc3731d29039480594da)  
+- [2024-02-01-性能逼近GPT-4，开源Mistral-Medium意外泄露？CEO最新回应来了](https://posts.careerengine.us/p/65bb3e5f4789a26334552982)  
 - [2024-01-31-少样本轻量化：多个小模型互学习会比大模型好么？](https://posts.careerengine.us/p/65b9dc405b1edf3976f700b7)  
-- [2024-01-30-碾压前辈！Meta发布“最大、性能最好”的开源Code-Llama-70B，但开发者纷纷喊穷：玩不起！](https://posts.careerengine.us/p/65b8a42596f2991e34b68c0f)  
+- [2024-01-31-AI-狂飙突进，你的技术团队有能力顺势而上吗？|-极客时间](https://posts.careerengine.us/p/65b9dc3731d29039480594da)  
 - [2024-01-30-Neuralink-完成全球首例人类脑机芯片植入手术，马斯克：植入者恢复良好](https://posts.careerengine.us/p/65b8a42596f2991e34b68c07)  
+- [2024-01-30-碾压前辈！Meta发布“最大、性能最好”的开源Code-Llama-70B，但开发者纷纷喊穷：玩不起！](https://posts.careerengine.us/p/65b8a42596f2991e34b68c0f)  
 - [2024-01-29-百川智能发布超千亿大模型Baichuan-3，中文评测超越GPT-4](https://posts.careerengine.us/p/65b7540486c1f07c3733cbb9)  
-- [2024-01-06-没有这些事儿，就没有现在的大模型-｜2023-AI-热点地图](https://posts.careerengine.us/p/6598e678079cb3300d04bbb8)  
-- [2024-01-06-“百模大战”诞生各种编程工具，但GPT-4-依然是天花板](https://posts.careerengine.us/p/6598e66fe532832fd5c63e11)  
-- [2024-01-05-AI-裁员潮开始了：应用GPT-4不到一年，多邻国裁掉数千人](https://posts.careerengine.us/p/6597951eae9622461a180adc)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
