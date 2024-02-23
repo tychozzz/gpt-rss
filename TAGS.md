@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-02-22 15:00:12。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-02-23 23:00:11。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -152,6 +152,7 @@
 - [【机器之心】一张截图生成iPhone应用、还能转成代码、创建网站，升级后谷歌Bard真成了](https://posts.careerengine.us/p/64b37a81149433457e8154f9)
 - [【机器之心】谷歌Bard史上最大升级：中文、识图、存档导出能力都来了](https://posts.careerengine.us/p/64b137613b57e74bae33c801)
 - [【机器之心】DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89)
+- [【量子位】Stable-Diffusion-3更多隐藏功能曝光：文字可更改图片细节](https://posts.careerengine.us/p/65d8b039589bdc7e8994e851)
 - [【量子位】百度交了份“大”作业：文心一言用户破1亿，累计37亿字文本创作，能力再升32％！](https://posts.careerengine.us/p/658e567baa671b67240eed7a)
 - [【量子位】Midjourney能生成文字了！V6版5大升级惊艳网友](https://posts.careerengine.us/p/65862938b2c3b7229880ba09)
 - [【量子位】Gemini自曝中文用百度文心一言训练，网友看呆：大公司互薅羊毛？？](https://posts.careerengine.us/p/657fd8a27d48b129d7caddd4)
@@ -160,7 +161,6 @@
 - [【量子位】Midjourney大更新：开放自定义风格新功能！网友：最改变游戏规则的一集](https://posts.careerengine.us/p/654463c1085c906911712d48)
 - [【量子位】50张图“毒倒”Stable-Diffusion，汽车和牛都分不清了](https://posts.careerengine.us/p/6537a34544e0843b4ef2f2d3)
 - [【量子位】一周工作5分钟完成！新版文心一言实测：秒秒钟出广告片，几句话搞定代码，办公科研生产力直接ProMax](https://posts.careerengine.us/p/64dde4139a78ad6ca6d36434)
-- [【量子位】北大团队用Diffusion升级DragGAN，泛化更强生成质量更高，点一点「大山拔地而起」](https://posts.careerengine.us/p/64c9d2be26bca5709d3539b6)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -297,6 +297,7 @@
 - [【机器之心】亚马逊刚投40亿美元，谷歌等又要投20亿，Anthropic-估值狂飙](https://posts.careerengine.us/p/651e399e986ff466e2c67942)
 - [【机器之心】真实性惊人，谷歌、康奈尔提出真实的图像补全技术RealFill](https://posts.careerengine.us/p/6518fba578237b2c69902dcb)
 - [【机器之心】给机器下「遗忘咒」？谷歌发起首个机器遗忘挑战赛](https://posts.careerengine.us/p/64aa88110dded95d9df53a98)
+- [【量子位】200万上下文窗口创飞Gemini-1.5！微软来砸谷歌场子了（doge）](https://posts.careerengine.us/p/65d8b038589bdc7e8994e831)
 - [【量子位】谷歌创始人亲自给Gemini写代码，很核心那种](https://posts.careerengine.us/p/6587af91dfa71f27178157b1)
 - [【量子位】谷歌Gemini刚发就惹质疑：测试标准有失偏颇，效果视频疑似剪辑](https://posts.careerengine.us/p/65716ec3b4df684de14de733)
 - [【量子位】谷歌18年老将痛斥劈柴哥：没有远见缺乏领导力，“这公司一切都变了”](https://posts.careerengine.us/p/65602ded85648e30ef515a93)

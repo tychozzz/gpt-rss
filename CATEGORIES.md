@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-22 15:00:12，:rocket: 更新条数: +14， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-23 23:00:11，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -10,7 +10,7 @@
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-02-22-ChatGPT发癫已读乱回，网友：“高速运转的机械”AI版？](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723c2) ![](/assets/new.png)  
-- [2024-02-22-NLP独角兽被曝停工停产！融了10亿仍难造血，大模型热浪中更难活了](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723ba) ![](/assets/new.png)  
-- [2024-02-22-中国AIGC应用全景图谱案例征集启动｜量子位智库](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723b2) ![](/assets/new.png)  
-- [2024-02-22-阿里大模型员工也自曝了996作息表](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b07239a) ![](/assets/new.png)  
-- [2024-02-22-谷歌最强开源大模型亮相！Gemini技术下放，笔记本就能跑，可商用](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723aa) ![](/assets/new.png)  
-- [2024-02-22-英伟达日进5.7亿，黄院士躺印钞机上了](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b072392) ![](/assets/new.png)  
-- [2024-02-21-OpenAI员工自曝996作息表，网友：真正的卷不需要强迫](https://posts.careerengine.us/p/65d6cf4cdc8228094962648d) ![](/assets/new.png)  
-- [2024-02-19-在这里，看见生成式AI的应用未来！中国AIGC产业峰会来啦！](https://posts.careerengine.us/p/65d6cf4cdc82280949626483) ![](/assets/new.png)  
-- [2024-02-15-下一代Windows系统曝光：基于GPT-4V，Agent跨应用调度，代号UFO](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4f2)  
-- [2024-02-15-这个AI办公应用火了：简短提示词出PPT，打包GPTs帮你打工干活](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4d2)  
+- [2024-02-23-200万上下文窗口创飞Gemini-1.5！微软来砸谷歌场子了（doge）](https://posts.careerengine.us/p/65d8b038589bdc7e8994e831) ![](/assets/new.png)  
+- [2024-02-23-人类沦为工具人！斯坦福机器人“吸星大法”：从演示中转移技能，400美元打破训练数据悖论](https://posts.careerengine.us/p/65d8b039589bdc7e8994e871) ![](/assets/new.png)  
+- [2024-02-23-超级光盘中国造！一张就能装下小型数据中心](https://posts.careerengine.us/p/65d8b039589bdc7e8994e859) ![](/assets/new.png)  
+- [2024-02-23-YOLOv9来了：实时目标检测新SOTA，完胜各种轻量或大型模型！出自v7作者](https://posts.careerengine.us/p/65d8b039589bdc7e8994e841) ![](/assets/new.png)  
+- [2024-02-23-Stable-Diffusion-3更多隐藏功能曝光：文字可更改图片细节](https://posts.careerengine.us/p/65d8b039589bdc7e8994e851) ![](/assets/new.png)  
+- [2024-02-22-英伟达日进5.7亿，黄院士躺印钞机上了](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b072392)  
+- [2024-02-22-谷歌最强开源大模型亮相！Gemini技术下放，笔记本就能跑，可商用](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723aa)  
+- [2024-02-22-阿里大模型员工也自曝了996作息表](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b07239a)  
+- [2024-02-22-中国AIGC应用全景图谱案例征集启动｜量子位智库](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723b2)  
+- [2024-02-22-NLP独角兽被曝停工停产！融了10亿仍难造血，大模型热浪中更难活了](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723ba)  
+- [2024-02-22-ChatGPT发癫已读乱回，网友：“高速运转的机械”AI版？](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723c2)  
+- [2024-02-21-OpenAI员工自曝996作息表，网友：真正的卷不需要强迫](https://posts.careerengine.us/p/65d6cf4cdc8228094962648d)  
+- [2024-02-19-在这里，看见生成式AI的应用未来！中国AIGC产业峰会来啦！](https://posts.careerengine.us/p/65d6cf4cdc82280949626483)  
 - [2024-02-15-UCLA蒋陈凡夫团队新研究：在VR里控制3D物体，高斯泼溅渲染](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4ea)  
-- [2024-02-13-800块DIY爆火AI硬件，全流程开源，网友：新Linux时代来了](https://posts.careerengine.us/p/65cb06873042a02133eee8ae)  
-- [2024-02-13-黄院士回应奥特曼7万亿芯片计划：笑了](https://posts.careerengine.us/p/65cb06873042a02133eee89e)  
+- [2024-02-15-这个AI办公应用火了：简短提示词出PPT，打包GPTs帮你打工干活](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4d2)  
+- [2024-02-15-下一代Windows系统曝光：基于GPT-4V，Agent跨应用调度，代号UFO](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4f2)  
 - [2024-02-13-苹果让ChatGPT成为设计师助手，1分钟搞定动画设计](https://posts.careerengine.us/p/65cb06873042a02133eee8a6)  
-- [2024-02-12-大模型玩《宝可梦》达人类水平！网友喊话世界冠军：是时候一较高下了](https://posts.careerengine.us/p/65ca044dc36f76064e9ece33)  
+- [2024-02-13-黄院士回应奥特曼7万亿芯片计划：笑了](https://posts.careerengine.us/p/65cb06873042a02133eee89e)  
+- [2024-02-13-800块DIY爆火AI硬件，全流程开源，网友：新Linux时代来了](https://posts.careerengine.us/p/65cb06873042a02133eee8ae)  
 - [2024-02-12-大模型开车哪家强？普渡研究给指南：GPT-4真行啊](https://posts.careerengine.us/p/65ca044dc36f76064e9ece43)  
-- [2024-02-11-Deepfake假CFO骗走公司1.8个亿，员工：视频会议里每个人看起来都很真实啊](https://posts.careerengine.us/p/65c88006faea744373c1635f)  
-- [2024-02-11-奥特曼兄弟合砍7.00015万亿美元，弟弟：山姆你给我留点露脸机会吧](https://posts.careerengine.us/p/65c88006faea744373c1634e)  
-- [2024-02-11-首个登上央视春晚的-AI-视频-·-制作复盘](https://posts.careerengine.us/p/65c88006faea744373c1633e)  
-- [2024-02-11-国产AI导演贼6，短视频镜头和物体各动各的｜港城大&快手&天大](https://posts.careerengine.us/p/65c8800e0e96e9438dde2e84)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,12 +176,12 @@
 </summary>
 
 
-- [2024-02-22-被Sora抢了风头的谷歌“杀”回来了！谷歌的一群“书呆子”卷出了最强开放模型Gemma](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158f4) ![](/assets/new.png)  
-- [2024-02-22-2024最新知识福利，数字化转型案例集锦第三期上线（附下载）](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158e3) ![](/assets/new.png)  
-- [2024-02-22-收入翻三倍，市值超谷歌！英伟达凭人工智能创营收纪录，黄仁勋：生成式AI已到临界点](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158ec) ![](/assets/new.png)  
-- [2024-02-21-OpenAI-一线员工比国内还“卷”！深度揭秘-Sora-关键技术：时空补丁如何变成OpenAI-的新“魔法”](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54081) ![](/assets/new.png)  
-- [2024-02-20-OpenAI的Sora注定死路一条！Yann-LeCun火力全开怒喷：这种实现方式“完全没有现实意义”](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54079) ![](/assets/new.png)  
-- [2024-02-19-Sora生成的视频太真实？那是你遇到造假了](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54071) ![](/assets/new.png)  
+- [2024-02-22-被Sora抢了风头的谷歌“杀”回来了！谷歌的一群“书呆子”卷出了最强开放模型Gemma](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158f4)  
+- [2024-02-22-2024最新知识福利，数字化转型案例集锦第三期上线（附下载）](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158e3)  
+- [2024-02-22-收入翻三倍，市值超谷歌！英伟达凭人工智能创营收纪录，黄仁勋：生成式AI已到临界点](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158ec)  
+- [2024-02-21-OpenAI-一线员工比国内还“卷”！深度揭秘-Sora-关键技术：时空补丁如何变成OpenAI-的新“魔法”](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54081)  
+- [2024-02-20-OpenAI的Sora注定死路一条！Yann-LeCun火力全开怒喷：这种实现方式“完全没有现实意义”](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54079)  
+- [2024-02-19-Sora生成的视频太真实？那是你遇到造假了](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54071)  
 - [2024-02-15-我在技​​术面试中用ChatGPT作弊，没人知道](https://posts.careerengine.us/p/65cdc79474cbd77e6e2731fa)  
 - [2024-02-14-首届大模型“相亲大会”开始啦！谁是你的天选CP？](https://posts.careerengine.us/p/65cdc98b0c9dc00bb33479b5)  
 - [2024-02-13-代码人生攻略：程序员们如何为自己编织一份明朗未来？](https://posts.careerengine.us/p/65cdc98b0c9dc00bb334799e)  
