@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-23 23:00:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-24 15:00:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -32,6 +32,7 @@
 - [2023-07-04-文心一言APP国区可下载！免费体验120+玩法，PPT大纲Excel公式一键生成](https://posts.careerengine.us/p/64a3aad81cf43a681c3f51f3) 
 - [2023-10-22-简单有效！Direct-Inversion：三行代码提升基于Diffusion的图像编辑效果](https://posts.careerengine.us/p/653540d3b40b6c39bb494403) 
 - [2023-09-28-NeurIPS-2023-|-MSRA、清华、复旦等联合提出AR-Diffusion：基于自回归扩散的文本生成](https://posts.careerengine.us/p/6514ff55c1d7df4ab458e844) 
+- [2024-02-23-与Sora同架构的Stable-Diffusion-3.0-震撼发布！4-秒视频生成却翻车，网友：还是等-Sora-吧！](https://posts.careerengine.us/p/65d98f5b4f2a9143966c1772) 
 - [2023-12-22-9个月、从零开始训练，Midjourney-V6来了！号称比以前所有版本都强大](https://posts.careerengine.us/p/6586803b471cb50c2fe1b98c) 
 - [2023-07-07-手机也能用文心一言了！百度文心一言-App-正式上架-iOS-平台](https://posts.careerengine.us/p/64a7a4792869b618fe665e61) 
 - [2023-06-28-DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89) 

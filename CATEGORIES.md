@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-23 23:00:11，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-24 15:00:22，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2024-02-23-200万上下文窗口创飞Gemini-1.5！微软来砸谷歌场子了（doge）](https://posts.careerengine.us/p/65d8b038589bdc7e8994e831) ![](/assets/new.png)  
-- [2024-02-23-人类沦为工具人！斯坦福机器人“吸星大法”：从演示中转移技能，400美元打破训练数据悖论](https://posts.careerengine.us/p/65d8b039589bdc7e8994e871) ![](/assets/new.png)  
-- [2024-02-23-超级光盘中国造！一张就能装下小型数据中心](https://posts.careerengine.us/p/65d8b039589bdc7e8994e859) ![](/assets/new.png)  
-- [2024-02-23-YOLOv9来了：实时目标检测新SOTA，完胜各种轻量或大型模型！出自v7作者](https://posts.careerengine.us/p/65d8b039589bdc7e8994e841) ![](/assets/new.png)  
-- [2024-02-23-Stable-Diffusion-3更多隐藏功能曝光：文字可更改图片细节](https://posts.careerengine.us/p/65d8b039589bdc7e8994e851) ![](/assets/new.png)  
+- [2024-02-23-200万上下文窗口创飞Gemini-1.5！微软来砸谷歌场子了（doge）](https://posts.careerengine.us/p/65d8b038589bdc7e8994e831)  
+- [2024-02-23-人类沦为工具人！斯坦福机器人“吸星大法”：从演示中转移技能，400美元打破训练数据悖论](https://posts.careerengine.us/p/65d8b039589bdc7e8994e871)  
+- [2024-02-23-超级光盘中国造！一张就能装下小型数据中心](https://posts.careerengine.us/p/65d8b039589bdc7e8994e859)  
+- [2024-02-23-YOLOv9来了：实时目标检测新SOTA，完胜各种轻量或大型模型！出自v7作者](https://posts.careerengine.us/p/65d8b039589bdc7e8994e841)  
+- [2024-02-23-Stable-Diffusion-3更多隐藏功能曝光：文字可更改图片细节](https://posts.careerengine.us/p/65d8b039589bdc7e8994e851)  
 - [2024-02-22-英伟达日进5.7亿，黄院士躺印钞机上了](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b072392)  
 - [2024-02-22-谷歌最强开源大模型亮相！Gemini技术下放，笔记本就能跑，可商用](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723aa)  
 - [2024-02-22-阿里大模型员工也自曝了996作息表](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b07239a)  
@@ -176,9 +176,12 @@
 </summary>
 
 
-- [2024-02-22-被Sora抢了风头的谷歌“杀”回来了！谷歌的一群“书呆子”卷出了最强开放模型Gemma](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158f4)  
-- [2024-02-22-2024最新知识福利，数字化转型案例集锦第三期上线（附下载）](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158e3)  
+- [2024-02-24-蚂蚁、智源、百川、讯飞专家齐聚，大模型开发与应用探索，AICon-2024邀您共鉴](https://posts.careerengine.us/p/65d98e2fac17973c3c48abbd) ![](/assets/new.png)  
+- [2024-02-24-贾扬清质疑-Groq-CEO-“其芯片价格接近免费”说法，前员工出来实锤：根本不切实际！](https://posts.careerengine.us/p/65d98e2fac17973c3c48abb5) ![](/assets/new.png)  
+- [2024-02-23-与Sora同架构的Stable-Diffusion-3.0-震撼发布！4-秒视频生成却翻车，网友：还是等-Sora-吧！](https://posts.careerengine.us/p/65d98f5b4f2a9143966c1772) ![](/assets/new.png)  
 - [2024-02-22-收入翻三倍，市值超谷歌！英伟达凭人工智能创营收纪录，黄仁勋：生成式AI已到临界点](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158ec)  
+- [2024-02-22-2024最新知识福利，数字化转型案例集锦第三期上线（附下载）](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158e3)  
+- [2024-02-22-被Sora抢了风头的谷歌“杀”回来了！谷歌的一群“书呆子”卷出了最强开放模型Gemma](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158f4)  
 - [2024-02-21-OpenAI-一线员工比国内还“卷”！深度揭秘-Sora-关键技术：时空补丁如何变成OpenAI-的新“魔法”](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54081)  
 - [2024-02-20-OpenAI的Sora注定死路一条！Yann-LeCun火力全开怒喷：这种实现方式“完全没有现实意义”](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54079)  
 - [2024-02-19-Sora生成的视频太真实？那是你遇到造假了](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54071)  
@@ -188,14 +191,11 @@
 - [2024-02-11-史上AI含量最高春晚来了；奥特曼筹资7万亿美元重塑芯片行业；除夕夜网络支付每秒最高10.9万笔，创历史新高｜AI周报](https://posts.careerengine.us/p/65c87ff6cc5b7e431bbbb63b)  
 - [2024-02-10-大厂年终奖疯狂不再？打工人集体怀念过去：想念那个靠年终奖一夜暴富的时代](https://posts.careerengine.us/p/65c741c01228e47c292fc8ed)  
 - [2024-02-09-龙行龘龘，「AI-前线」给大家送福利啦~](https://posts.careerengine.us/p/65c881c8848f634dfd032d78)  
-- [2024-02-08-​谷歌送出新年大礼！官宣发布-TensorFlow-GNN-1.0：用于构建大规模图神经网络，可动态和交互采样](https://posts.careerengine.us/p/65c881c8848f634dfd032d70)  
 - [2024-02-08-国产7B数学模型性能直逼千亿GPT-4，网友：他们用了很聪明的技巧](https://posts.careerengine.us/p/65c881c9848f634dfd032d87)  
-- [2024-02-06-10X增强！ChatGPT退位，Bard登基](https://posts.careerengine.us/p/65c744088a36bd066d665404)  
+- [2024-02-08-​谷歌送出新年大礼！官宣发布-TensorFlow-GNN-1.0：用于构建大规模图神经网络，可动态和交互采样](https://posts.careerengine.us/p/65c881c8848f634dfd032d70)  
 - [2024-02-06-Vision-Pro全球首拆来了！“真是让人既费解又赞叹”](https://posts.careerengine.us/p/65c744088a36bd066d66540c)  
+- [2024-02-06-10X增强！ChatGPT退位，Bard登基](https://posts.careerengine.us/p/65c744088a36bd066d665404)  
 - [2024-02-05-再也不用羡慕修仙永生了，我已经“做到”了](https://posts.careerengine.us/p/65c07f111ac67b136735fc2d)  
-- [2024-02-04-腾讯年终奖大放送：5个月薪起；裁员见效？Meta市值一夜涨近1.4万亿；Vision-Pro-开售买不起？库克回应-|-AI周报](https://posts.careerengine.us/p/65bf22ce133d9011c662ef66)  
-- [2024-02-02-清华系2B模型杀出，性能吊打LLaMA-13B，170万tokens仅需1块钱！](https://posts.careerengine.us/p/65bc87f26773fe2eab7f7b40)  
-- [2024-02-01-性能逼近GPT-4，开源Mistral-Medium意外泄露？CEO最新回应来了](https://posts.careerengine.us/p/65bb3e5f4789a26334552982)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
