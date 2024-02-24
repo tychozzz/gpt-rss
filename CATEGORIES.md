@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-24 15:00:22，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-24 18:00:11，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-02-15-陪跑又快又稳，机器人跑步搭子来了](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7c9)  
-- [2024-02-15-PRO-|-模仿学习：OpenAI-放弃的路线是否已进入新篇章？](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7d2)  
-- [2024-02-15-语音生成的「智能涌现」：10万小时数据训练，亚马逊祭出10亿参数BASE-TTS](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7b9)  
+- [2024-02-24-谷歌Gemini生图功能紧急关闭，口碑一夜塌房，Yann-LeCun：我早就知道](https://posts.careerengine.us/p/65d98e51b998833cd8537bd5) ![](/assets/new.png)  
+- [2024-02-24-下个爆点人形机器人？OpenAI、英伟达、贝索斯向同一家公司投了6.7亿刀](https://posts.careerengine.us/p/65d98e51b998833cd8537bdd) ![](/assets/new.png)  
+- [2024-02-24-AAAI-2024杰出论文奖出炉：西安电子科技大学获奖](https://posts.careerengine.us/p/65d98e51b998833cd8537bcd) ![](/assets/new.png)  
+- [2024-02-24-国内高校打造类Sora模型VDT，通用视频扩散Transformer被ICLR-2024接收](https://posts.careerengine.us/p/65d98e52b998833cd8537bf5) ![](/assets/new.png)  
+- [2024-02-24-补齐Transformer规划短板，田渊栋团队的Searchformer火了](https://posts.careerengine.us/p/65d98e52b998833cd8537bed) ![](/assets/new.png)  
+- [2024-02-16-谷歌Gemini1.5火速上线：MoE架构，100万上下文](https://posts.careerengine.us/p/65d98fac3f495845ae15339b) ![](/assets/new.png)  
 - [2024-02-15-生成速度快SDXL一倍，9GB-GPU也能运行，Stable-Cascade来搞性价比了](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7c1)  
-- [2024-02-11-PRO-|-Agent-爆火之后，具身智能才是-AI-下一站？](https://posts.careerengine.us/p/65c88046e27e2944d2822466)  
-- [2024-02-11-手把手教你，从零开始实现一个稀疏混合专家架构语言模型（MoE）](https://posts.careerengine.us/p/65c88046e27e2944d282246e)  
-- [2024-02-11-从框架到经典方法，全面了解分布式深度强化学习DDRL](https://posts.careerengine.us/p/65c88045e27e2944d2822456)  
+- [2024-02-15-语音生成的「智能涌现」：10万小时数据训练，亚马逊祭出10亿参数BASE-TTS](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7b9)  
+- [2024-02-15-PRO-|-模仿学习：OpenAI-放弃的路线是否已进入新篇章？](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7d2)  
+- [2024-02-15-陪跑又快又稳，机器人跑步搭子来了](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7c9)  
 - [2024-02-11-华为查询建议新范式MMQS入选WWW-2024，解锁基于人类反馈的多模态查询建议](https://posts.careerengine.us/p/65c88045e27e2944d282245e)  
-- [2024-02-07-无需RLHF显著提升GPT-4/Llama2性能，北大团队提出Aligner对齐新范式](https://posts.careerengine.us/p/65c31f91a994694f352284c4)  
-- [2024-02-07-抛弃编码器——解码器架构，用扩散模型做边缘检测效果更好，国防科大提出DiffusionEdge](https://posts.careerengine.us/p/65c31f91a994694f352284cc)  
-- [2024-02-07-吉他摇滚、电子音乐都能搞定，Meta开源音频生成新模型MAGNeT，非自回归7倍提速](https://posts.careerengine.us/p/65c31f91a994694f352284b4)  
-- [2024-02-07-黄仁勋：从此之后，请叫我黄院士](https://posts.careerengine.us/p/65c31f91a994694f352284bc)  
+- [2024-02-11-从框架到经典方法，全面了解分布式深度强化学习DDRL](https://posts.careerengine.us/p/65c88045e27e2944d2822456)  
+- [2024-02-11-手把手教你，从零开始实现一个稀疏混合专家架构语言模型（MoE）](https://posts.careerengine.us/p/65c88046e27e2944d282246e)  
+- [2024-02-11-PRO-|-Agent-爆火之后，具身智能才是-AI-下一站？](https://posts.careerengine.us/p/65c88046e27e2944d2822466)  
 - [2024-02-07-斯坦福和OpenAI提出meta-prompting，最强零样本prompting技术诞生了](https://posts.careerengine.us/p/65c31f92a994694f352284d4)  
-- [2024-02-06-俄罗斯小哥ChatGPT找女友：聊了5239个女生，现在订婚了](https://posts.careerengine.us/p/65c1ba3e6e03e777d245ec38)  
-- [2024-02-06-向完全自主性更进一步，清华、港大全新跨任务自我进化策略让智能体学会「以经验为鉴」](https://posts.careerengine.us/p/65c1ba3e6e03e777d245ec30)  
-- [2024-02-06-徒手搬螺丝，波士顿动力Atlas再进化：兄弟们，准备进厂了](https://posts.careerengine.us/p/65c1ba3e6e03e777d245ec40)  
-- [2024-02-06-通义千问再开源，Qwen1.5带来六种体量模型，性能超越GPT3.5](https://posts.careerengine.us/p/65c1ba3d6e03e777d245ec28)  
+- [2024-02-07-黄仁勋：从此之后，请叫我黄院士](https://posts.careerengine.us/p/65c31f91a994694f352284bc)  
+- [2024-02-07-吉他摇滚、电子音乐都能搞定，Meta开源音频生成新模型MAGNeT，非自回归7倍提速](https://posts.careerengine.us/p/65c31f91a994694f352284b4)  
+- [2024-02-07-抛弃编码器——解码器架构，用扩散模型做边缘检测效果更好，国防科大提出DiffusionEdge](https://posts.careerengine.us/p/65c31f91a994694f352284cc)  
+- [2024-02-07-无需RLHF显著提升GPT-4/Llama2性能，北大团队提出Aligner对齐新范式](https://posts.careerengine.us/p/65c31f91a994694f352284c4)  
 - [2024-02-06-胡渊鸣创业公司Meshy产品升级：文本转3D，25秒就能出预览](https://posts.careerengine.us/p/65c1ba3d6e03e777d245ec20)  
-- [2024-02-05-比OpenAI官方提示词指南更全，这26条黄金准则让LLM性能飙升50％以上](https://posts.careerengine.us/p/65c067963e5422291118badb)  
-- [2024-02-05-CMU&ETH实现突破：机器狗点满敏捷值天赋，超高速穿越障碍，速度与安全兼备！](https://posts.careerengine.us/p/65c067963e5422291118bad2)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,9 +176,9 @@
 </summary>
 
 
-- [2024-02-24-蚂蚁、智源、百川、讯飞专家齐聚，大模型开发与应用探索，AICon-2024邀您共鉴](https://posts.careerengine.us/p/65d98e2fac17973c3c48abbd) ![](/assets/new.png)  
-- [2024-02-24-贾扬清质疑-Groq-CEO-“其芯片价格接近免费”说法，前员工出来实锤：根本不切实际！](https://posts.careerengine.us/p/65d98e2fac17973c3c48abb5) ![](/assets/new.png)  
-- [2024-02-23-与Sora同架构的Stable-Diffusion-3.0-震撼发布！4-秒视频生成却翻车，网友：还是等-Sora-吧！](https://posts.careerengine.us/p/65d98f5b4f2a9143966c1772) ![](/assets/new.png)  
+- [2024-02-24-蚂蚁、智源、百川、讯飞专家齐聚，大模型开发与应用探索，AICon-2024邀您共鉴](https://posts.careerengine.us/p/65d98e2fac17973c3c48abbd)  
+- [2024-02-24-贾扬清质疑-Groq-CEO-“其芯片价格接近免费”说法，前员工出来实锤：根本不切实际！](https://posts.careerengine.us/p/65d98e2fac17973c3c48abb5)  
+- [2024-02-23-与Sora同架构的Stable-Diffusion-3.0-震撼发布！4-秒视频生成却翻车，网友：还是等-Sora-吧！](https://posts.careerengine.us/p/65d98f5b4f2a9143966c1772)  
 - [2024-02-22-收入翻三倍，市值超谷歌！英伟达凭人工智能创营收纪录，黄仁勋：生成式AI已到临界点](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158ec)  
 - [2024-02-22-2024最新知识福利，数字化转型案例集锦第三期上线（附下载）](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158e3)  
 - [2024-02-22-被Sora抢了风头的谷歌“杀”回来了！谷歌的一群“书呆子”卷出了最强开放模型Gemma](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158f4)  

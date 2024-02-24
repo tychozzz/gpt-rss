@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-24 15:00:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-24 18:00:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 谷歌
 
@@ -7,6 +7,8 @@
 
 
 
+- [2024-02-24-谷歌Gemini生图功能紧急关闭，口碑一夜塌房，Yann-LeCun：我早就知道](https://posts.careerengine.us/p/65d98e51b998833cd8537bd5) 
+- [2024-02-16-谷歌Gemini1.5火速上线：MoE架构，100万上下文](https://posts.careerengine.us/p/65d98fac3f495845ae15339b) 
 - [2023-12-21-谷歌Gemini技术报告出炉，作者多达900余人](https://posts.careerengine.us/p/6583c9323fdfc274a836c9fc) 
 - [2023-12-08-Gemini上线首日：用户褒贬不一，演示被质疑「造假」，谷歌承认了](https://posts.careerengine.us/p/65729d02681a475d5e9340c8) 
 - [2023-11-24-留给谷歌的时间不多了：18年老员工辞职炮轰领导层](https://posts.careerengine.us/p/656022735420a2772b7b4eb5) 
