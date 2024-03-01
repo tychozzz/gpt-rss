@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-02-24 18:00:11，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-02 06:00:15，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,12 +21,12 @@
 </summary>
 
 
-- [2024-02-24-谷歌Gemini生图功能紧急关闭，口碑一夜塌房，Yann-LeCun：我早就知道](https://posts.careerengine.us/p/65d98e51b998833cd8537bd5) ![](/assets/new.png)  
-- [2024-02-24-下个爆点人形机器人？OpenAI、英伟达、贝索斯向同一家公司投了6.7亿刀](https://posts.careerengine.us/p/65d98e51b998833cd8537bdd) ![](/assets/new.png)  
-- [2024-02-24-AAAI-2024杰出论文奖出炉：西安电子科技大学获奖](https://posts.careerengine.us/p/65d98e51b998833cd8537bcd) ![](/assets/new.png)  
-- [2024-02-24-国内高校打造类Sora模型VDT，通用视频扩散Transformer被ICLR-2024接收](https://posts.careerengine.us/p/65d98e52b998833cd8537bf5) ![](/assets/new.png)  
-- [2024-02-24-补齐Transformer规划短板，田渊栋团队的Searchformer火了](https://posts.careerengine.us/p/65d98e52b998833cd8537bed) ![](/assets/new.png)  
-- [2024-02-16-谷歌Gemini1.5火速上线：MoE架构，100万上下文](https://posts.careerengine.us/p/65d98fac3f495845ae15339b) ![](/assets/new.png)  
+- [2024-02-24-谷歌Gemini生图功能紧急关闭，口碑一夜塌房，Yann-LeCun：我早就知道](https://posts.careerengine.us/p/65d98e51b998833cd8537bd5)  
+- [2024-02-24-下个爆点人形机器人？OpenAI、英伟达、贝索斯向同一家公司投了6.7亿刀](https://posts.careerengine.us/p/65d98e51b998833cd8537bdd)  
+- [2024-02-24-AAAI-2024杰出论文奖出炉：西安电子科技大学获奖](https://posts.careerengine.us/p/65d98e51b998833cd8537bcd)  
+- [2024-02-24-国内高校打造类Sora模型VDT，通用视频扩散Transformer被ICLR-2024接收](https://posts.careerengine.us/p/65d98e52b998833cd8537bf5)  
+- [2024-02-24-补齐Transformer规划短板，田渊栋团队的Searchformer火了](https://posts.careerengine.us/p/65d98e52b998833cd8537bed)  
+- [2024-02-16-谷歌Gemini1.5火速上线：MoE架构，100万上下文](https://posts.careerengine.us/p/65d98fac3f495845ae15339b)  
 - [2024-02-15-生成速度快SDXL一倍，9GB-GPU也能运行，Stable-Cascade来搞性价比了](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7c1)  
 - [2024-02-15-语音生成的「智能涌现」：10万小时数据训练，亚马逊祭出10亿参数BASE-TTS](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7b9)  
 - [2024-02-15-PRO-|-模仿学习：OpenAI-放弃的路线是否已进入新篇章？](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7d2)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-02-05-WSDM-2024-|-持续同调优化的图异常检测](https://posts.careerengine.us/p/65c0da0e1d166445640e1b89)  
-- [2024-02-05-Transformer升级之路：“复盘”长度外推技术](https://posts.careerengine.us/p/65c0da0f1d166445640e1b98)  
-- [2024-02-05-北京内推-|-阿里淘天集团招聘大模型/多模态大模型算法实习生](https://posts.careerengine.us/p/65c0da17c41103458b003b4b)  
+- [2024-03-02-上海内推-|-腾讯QQ影像中心招聘图像视频技术开发/算法研究实习生](https://posts.careerengine.us/p/65e20db2acfd4645274de2d0) ![](/assets/new.png)  
+- [2024-03-02-WSDM-2024-|-系统探究适配器微调对于可迁移推荐的影响](https://posts.careerengine.us/p/65e20db2acfd4645274de2c0) ![](/assets/new.png)  
+- [2024-03-02-用短输入模拟长样本，高效拓展LLM上下文窗口，北大联合MSRA提出PoSE](https://posts.careerengine.us/p/65e20db2acfd4645274de2b8) ![](/assets/new.png)  
+- [2024-03-02-文末送书-|-这本书太好了！150页就能让你上手大模型应用开发](https://posts.careerengine.us/p/65e20db2acfd4645274de2c8) ![](/assets/new.png)  
 - [2024-02-05-博士申请-|-美国佐治亚大学卢国玉老师招收计算机视觉/深度学习方向全奖博士生](https://posts.careerengine.us/p/65c0da18c41103458b003b5a)  
-- [2024-02-04-通往图大模型的路径？中科大和新大提出图上多任务预训练和提示学习方法](https://posts.careerengine.us/p/65bf844be5436d25c71d9a12)  
-- [2024-02-04-一键式越狱攻击：复旦等团队联合发布首个统一越狱框架EasyJailbreak](https://posts.careerengine.us/p/65bf8454354bc525fcfdcc21)  
+- [2024-02-05-北京内推-|-阿里淘天集团招聘大模型/多模态大模型算法实习生](https://posts.careerengine.us/p/65c0da17c41103458b003b4b)  
+- [2024-02-05-Transformer升级之路：“复盘”长度外推技术](https://posts.careerengine.us/p/65c0da0f1d166445640e1b98)  
+- [2024-02-05-WSDM-2024-|-持续同调优化的图异常检测](https://posts.careerengine.us/p/65c0da0e1d166445640e1b89)  
 - [2024-02-04-港中文、腾讯团队提出对比式非似然训练框架，让LLaMA2胜率飙升30倍](https://posts.careerengine.us/p/65bf845d146c2b261944ee0b)  
-- [2024-02-03-大模型人才的薪资，有点猛…](https://posts.careerengine.us/p/65bdc51857228d48a2ee5dc8)  
-- [2024-02-03-ICLR-2024-|-LLM-Agent领域第一高分论文，全网Star数最高的多智能体框架](https://posts.careerengine.us/p/65bdc51857228d48a2ee5dbf)  
+- [2024-02-04-一键式越狱攻击：复旦等团队联合发布首个统一越狱框架EasyJailbreak](https://posts.careerengine.us/p/65bf8454354bc525fcfdcc21)  
+- [2024-02-04-通往图大模型的路径？中科大和新大提出图上多任务预训练和提示学习方法](https://posts.careerengine.us/p/65bf844be5436d25c71d9a12)  
 - [2024-02-03-最强开源多模态生成模型MM-Interleaved：首创特征同步器，刷新多项SOTA](https://posts.careerengine.us/p/65bdc52613c86748e5345f44)  
-- [2024-01-06-深圳内推-|-腾讯大数据平台混元AIGC团队招聘文生3D方向算法实习生](https://posts.careerengine.us/p/6599557b52bc524a11aba87f)  
-- [2024-01-06-万字长文再论大语言模型的位置编码及其外推性](https://posts.careerengine.us/p/6599556fe6caf249e660346a)  
+- [2024-02-03-ICLR-2024-|-LLM-Agent领域第一高分论文，全网Star数最高的多智能体框架](https://posts.careerengine.us/p/65bdc51857228d48a2ee5dbf)  
+- [2024-02-03-大模型人才的薪资，有点猛…](https://posts.careerengine.us/p/65bdc51857228d48a2ee5dc8)  
 - [2024-01-06-​AAAI-2024-|-首个多模态实体集扩展数据集MESED和多模态模型MultiExpan](https://posts.careerengine.us/p/6599556790368e496d241caa)  
-- [2024-01-05-大模型这么搞也能中A会论文？](https://posts.careerengine.us/p/659788d64ddc551751c7b583)  
-- [2024-01-05-NeurIPS-2023-Spotlight-|-基于超图的表格语言模型](https://posts.careerengine.us/p/659788dfc3495317c4d052da)  
-- [2024-01-05-博士申请-|-香港科技大学（广州）孙莹老师招收人工智能方向全奖博士生/RA](https://posts.careerengine.us/p/659788ec3e9e0a17fc0533a6)  
+- [2024-01-06-万字长文再论大语言模型的位置编码及其外推性](https://posts.careerengine.us/p/6599556fe6caf249e660346a)  
+- [2024-01-06-深圳内推-|-腾讯大数据平台混元AIGC团队招聘文生3D方向算法实习生](https://posts.careerengine.us/p/6599557b52bc524a11aba87f)  
 - [2024-01-05-清华叉院提出「GenH2R」框架，用百万场景打造基于视觉的通用人机交接策略](https://posts.careerengine.us/p/659788ec3e9e0a17fc05339e)  
-- [2024-01-04-科研实习-|-伊利诺伊大学香槟分校张潼教授招收机器学习/LLM方向科研实习生](https://posts.careerengine.us/p/6596320d1b29dd13ad4bbf64)  
-- [2024-01-04-NeurIPS-2023-|-FedFed：特征蒸馏应对联邦学习中的数据异构](https://posts.careerengine.us/p/6596320408a3c6138d641ca6)  
-- [2024-01-04-「线索经营」PK「科学经营」，百度智能体商业时代，押注谁赢？](https://posts.careerengine.us/p/6596320408a3c6138d641c9e)  
+- [2024-01-05-博士申请-|-香港科技大学（广州）孙莹老师招收人工智能方向全奖博士生/RA](https://posts.careerengine.us/p/659788ec3e9e0a17fc0533a6)  
+- [2024-01-05-NeurIPS-2023-Spotlight-|-基于超图的表格语言模型](https://posts.careerengine.us/p/659788dfc3495317c4d052da)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

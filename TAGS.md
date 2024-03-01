@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-02-24 18:00:11。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-03-02 06:00:15。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -247,8 +247,8 @@
 - [【PaperWeekly】科研实习-|-中国科学院自动化研究所招聘激光雷达多模态感知算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea8504)
 - [【PaperWeekly】上海内推-|-腾讯优图实验室招聘计算机视觉/多模态方向算法实习生](https://posts.careerengine.us/p/6572cd377aabbc207db1546d)
 - [【PaperWeekly】北京内推-|-快手Y-tech部门招收多模态方向算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea850c)
-- [【PaperWeekly】博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d)
 - [【PaperWeekly】NeurIPS-2023-|-无需配对数据就能学习！浙大等提出连接多模态对比表征C-MCR](https://posts.careerengine.us/p/6564a410e7203652eb38dd25)
+- [【PaperWeekly】博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d)
 - [【PaperWeekly】NeurIPS-2023-|-基于多模态统一表达的跨模态泛化](https://posts.careerengine.us/p/6547c6b2256ac242c107aaa4)
 - [【PaperWeekly】ACM-MM-2023-|-清华、华为联合提出MISSRec：兴趣感知的多模态序列推荐预训练](https://posts.careerengine.us/p/654645c378366022ddd3306f)
 - [【PaperWeekly】ICCV-2023-|-用“自编码器+多模态学习”更有效地解决3D物体可供性问题](https://posts.careerengine.us/p/653f843a0e930675499fdf05)
@@ -384,6 +384,7 @@
 - [【量子位】腾讯机器人实验室一号员工创业，人形机器人又添重磅玩家](https://posts.careerengine.us/p/651e37023bdf5d5b8e3ed35d)
 - [【量子位】区块链在西北这么用？腾讯让老外都开了眼](https://posts.careerengine.us/p/65041f0ae25b5c35c5c7843f)
 - [【量子位】这个让你「看片更爽」的领域，腾讯一次拿了15个世界冠军](https://posts.careerengine.us/p/64bf4d5953865c5f905707ec)
+- [【PaperWeekly】上海内推-|-腾讯QQ影像中心招聘图像视频技术开发/算法研究实习生](https://posts.careerengine.us/p/65e20db2acfd4645274de2d0)
 - [【PaperWeekly】港中文、腾讯团队提出对比式非似然训练框架，让LLaMA2胜率飙升30倍](https://posts.careerengine.us/p/65bf845d146c2b261944ee0b)
 - [【PaperWeekly】成都内推-|-腾讯游戏王者荣耀算法团队招聘推荐算法实习生](https://posts.careerengine.us/p/64cf9675d9f5c20f5496ad19)
 - [【PaperWeekly】深圳内推-|-腾讯游戏全球数据洞察组招聘数据科学家暑期实习生](https://posts.careerengine.us/p/64ae31c4cd55877f33b37a11)
