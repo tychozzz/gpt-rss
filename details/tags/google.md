@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-03-02 15:00:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-03 21:00:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 谷歌
 
@@ -23,5 +23,6 @@
 - [2023-11-24-谷歌18年老将痛斥劈柴哥：没有远见缺乏领导力，“这公司一切都变了”](https://posts.careerengine.us/p/65602ded85648e30ef515a93) 
 - [2023-10-08-拍拍脑门就能打字，谷歌工程师“帽子键盘”圈粉无数，自己也能动手制作](https://posts.careerengine.us/p/652236f5dcf5fa2d9b8ecd4e) 
 - [2023-09-27-谷歌最新研究：可交互式动态图片生成，细节逼真！](https://posts.careerengine.us/p/6513b2d93449e275617c0480) 
+- [2024-02-29-Gemini翻车，谷歌决策十字路口：该解雇CEO还是该进行“结构化变革”？](https://posts.careerengine.us/p/65e4304fd4b222305c9c3121) 
 - [2024-02-08-​谷歌送出新年大礼！官宣发布-TensorFlow-GNN-1.0：用于构建大规模图神经网络，可动态和交互采样](https://posts.careerengine.us/p/65c881c8848f634dfd032d70) 
 - [2023-10-30-为什么谷歌也不敢发布这项技术](https://posts.careerengine.us/p/653f40428bd9cf049a24ed9f) 

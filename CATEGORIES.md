@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-02 15:00:16，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-03 21:00:14，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-03-02-马斯克起诉OpenAI：他们做出了AGI还授权给微软，这是对创始协议赤裸裸的背叛](https://posts.careerengine.us/p/65e2977e97a0852aefab2f28) ![](/assets/new.png)  
-- [2024-03-02-因为AI，构建「腹部地图」这个医学工作加速了数百倍](https://posts.careerengine.us/p/65e2977e97a0852aefab2f1f) ![](/assets/new.png)  
-- [2024-03-02-ControlNet作者又出新作：百万数据训练，AI图像生成迎来图层设计](https://posts.careerengine.us/p/65e2977e97a0852aefab2f0e) ![](/assets/new.png)  
-- [2024-03-02-2万多亿美元，英伟达市值创新高，华尔街排第三](https://posts.careerengine.us/p/65e2977e97a0852aefab2f17) ![](/assets/new.png)  
-- [2024-03-02-模型偏好只与大小有关？上交大全面解析人类与32种大模型偏好的定量组分](https://posts.careerengine.us/p/65e2978511fee12b10b5ecbe) ![](/assets/new.png)  
+- [2024-03-02-马斯克起诉OpenAI：他们做出了AGI还授权给微软，这是对创始协议赤裸裸的背叛](https://posts.careerengine.us/p/65e2977e97a0852aefab2f28)  
+- [2024-03-02-因为AI，构建「腹部地图」这个医学工作加速了数百倍](https://posts.careerengine.us/p/65e2977e97a0852aefab2f1f)  
+- [2024-03-02-ControlNet作者又出新作：百万数据训练，AI图像生成迎来图层设计](https://posts.careerengine.us/p/65e2977e97a0852aefab2f0e)  
+- [2024-03-02-2万多亿美元，英伟达市值创新高，华尔街排第三](https://posts.careerengine.us/p/65e2977e97a0852aefab2f17)  
+- [2024-03-02-模型偏好只与大小有关？上交大全面解析人类与32种大模型偏好的定量组分](https://posts.careerengine.us/p/65e2978511fee12b10b5ecbe)  
 - [2024-02-24-补齐Transformer规划短板，田渊栋团队的Searchformer火了](https://posts.careerengine.us/p/65d98e52b998833cd8537bed)  
 - [2024-02-24-国内高校打造类Sora模型VDT，通用视频扩散Transformer被ICLR-2024接收](https://posts.careerengine.us/p/65d98e52b998833cd8537bf5)  
 - [2024-02-24-AAAI-2024杰出论文奖出炉：西安电子科技大学获奖](https://posts.careerengine.us/p/65d98e51b998833cd8537bcd)  
@@ -176,26 +176,26 @@
 </summary>
 
 
-- [2024-02-24-蚂蚁、智源、百川、讯飞专家齐聚，大模型开发与应用探索，AICon-2024邀您共鉴](https://posts.careerengine.us/p/65d98e2fac17973c3c48abbd)  
+- [2024-03-03-OpenAI硬怼马斯克：没到AGI，就不开源；求职人潮“挤崩”智联招聘；周鸿祎、李志飞开AI-课，被网友质疑-|-AI周报](https://posts.careerengine.us/p/65e42d92f999491f51407558) ![](/assets/new.png)  
+- [2024-03-02-试了下-Stable-Video，我的建议是不如不用｜AI-测评室](https://posts.careerengine.us/p/65e42d92f999491f51407568) ![](/assets/new.png)  
+- [2024-03-01-阿里最新图生视频模型效果好得可比肩Sora，但0代码“假”开源让国内外网友骂翻了天？](https://posts.careerengine.us/p/65e4304fd4b222305c9c3119) ![](/assets/new.png)  
+- [2024-02-29-Gemini翻车，谷歌决策十字路口：该解雇CEO还是该进行“结构化变革”？](https://posts.careerengine.us/p/65e4304fd4b222305c9c3121) ![](/assets/new.png)  
+- [2024-02-28-文生视频模型“卷”出新天际；多家手机厂商AlI-in-Al，终端AI时代来临？|-大模型一周大事](https://posts.careerengine.us/p/65e4304fd4b222305c9c310a) ![](/assets/new.png)  
+- [2024-02-27-OpenAI-被微软-“绿”-了，法国-“小鲜肉”-Mistral-上位！](https://posts.careerengine.us/p/65e4304fd4b222305c9c3101) ![](/assets/new.png)  
+- [2024-02-26-就是“快”！字节跳动发布文生图开放模型，迅速冲上Hugging-Face-Spaces-热榜](https://posts.careerengine.us/p/65e4305a300d1f308649459b) ![](/assets/new.png)  
+- [2024-02-25-李一舟爆雷或牵连AI课程行业；谷歌联合创始人被控过失杀人；黄仁勋身家冲至全球21名，称赞华为；阿里效仿Sora作息？|-AI周报](https://posts.careerengine.us/p/65e434a359330141a34c75f2) ![](/assets/new.png)  
 - [2024-02-24-贾扬清质疑-Groq-CEO-“其芯片价格接近免费”说法，前员工出来实锤：根本不切实际！](https://posts.careerengine.us/p/65d98e2fac17973c3c48abb5)  
+- [2024-02-24-蚂蚁、智源、百川、讯飞专家齐聚，大模型开发与应用探索，AICon-2024邀您共鉴](https://posts.careerengine.us/p/65d98e2fac17973c3c48abbd)  
 - [2024-02-23-与Sora同架构的Stable-Diffusion-3.0-震撼发布！4-秒视频生成却翻车，网友：还是等-Sora-吧！](https://posts.careerengine.us/p/65d98f5b4f2a9143966c1772)  
-- [2024-02-22-收入翻三倍，市值超谷歌！英伟达凭人工智能创营收纪录，黄仁勋：生成式AI已到临界点](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158ec)  
-- [2024-02-22-2024最新知识福利，数字化转型案例集锦第三期上线（附下载）](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158e3)  
 - [2024-02-22-被Sora抢了风头的谷歌“杀”回来了！谷歌的一群“书呆子”卷出了最强开放模型Gemma](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158f4)  
+- [2024-02-22-2024最新知识福利，数字化转型案例集锦第三期上线（附下载）](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158e3)  
+- [2024-02-22-收入翻三倍，市值超谷歌！英伟达凭人工智能创营收纪录，黄仁勋：生成式AI已到临界点](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158ec)  
 - [2024-02-21-OpenAI-一线员工比国内还“卷”！深度揭秘-Sora-关键技术：时空补丁如何变成OpenAI-的新“魔法”](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54081)  
 - [2024-02-20-OpenAI的Sora注定死路一条！Yann-LeCun火力全开怒喷：这种实现方式“完全没有现实意义”](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54079)  
 - [2024-02-19-Sora生成的视频太真实？那是你遇到造假了](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54071)  
 - [2024-02-15-我在技​​术面试中用ChatGPT作弊，没人知道](https://posts.careerengine.us/p/65cdc79474cbd77e6e2731fa)  
 - [2024-02-14-首届大模型“相亲大会”开始啦！谁是你的天选CP？](https://posts.careerengine.us/p/65cdc98b0c9dc00bb33479b5)  
 - [2024-02-13-代码人生攻略：程序员们如何为自己编织一份明朗未来？](https://posts.careerengine.us/p/65cdc98b0c9dc00bb334799e)  
-- [2024-02-11-史上AI含量最高春晚来了；奥特曼筹资7万亿美元重塑芯片行业；除夕夜网络支付每秒最高10.9万笔，创历史新高｜AI周报](https://posts.careerengine.us/p/65c87ff6cc5b7e431bbbb63b)  
-- [2024-02-10-大厂年终奖疯狂不再？打工人集体怀念过去：想念那个靠年终奖一夜暴富的时代](https://posts.careerengine.us/p/65c741c01228e47c292fc8ed)  
-- [2024-02-09-龙行龘龘，「AI-前线」给大家送福利啦~](https://posts.careerengine.us/p/65c881c8848f634dfd032d78)  
-- [2024-02-08-国产7B数学模型性能直逼千亿GPT-4，网友：他们用了很聪明的技巧](https://posts.careerengine.us/p/65c881c9848f634dfd032d87)  
-- [2024-02-08-​谷歌送出新年大礼！官宣发布-TensorFlow-GNN-1.0：用于构建大规模图神经网络，可动态和交互采样](https://posts.careerengine.us/p/65c881c8848f634dfd032d70)  
-- [2024-02-06-Vision-Pro全球首拆来了！“真是让人既费解又赞叹”](https://posts.careerengine.us/p/65c744088a36bd066d66540c)  
-- [2024-02-06-10X增强！ChatGPT退位，Bard登基](https://posts.careerengine.us/p/65c744088a36bd066d665404)  
-- [2024-02-05-再也不用羡慕修仙永生了，我已经“做到”了](https://posts.careerengine.us/p/65c07f111ac67b136735fc2d)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
