@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-04 21:00:12，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-05 12:00:08，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -176,8 +176,10 @@
 </summary>
 
 
-- [2024-03-04-机器人再度大幅进化！阿西莫夫三法则还有效吗？|-大模型一周大事](https://posts.careerengine.us/p/65e59fb588ea7d1178390d05) ![](/assets/new.png)  
-- [2024-03-04-雷军、周鸿祎两会力挺大模型，隔壁印度GenAI却要被谷歌Gemini“扼杀”？](https://posts.careerengine.us/p/65e59fb588ea7d1178390d0e) ![](/assets/new.png)  
+- [2024-03-05-揭秘美图AI局部重绘技术](https://posts.careerengine.us/p/65e685ef041d4e122024d2d4) ![](/assets/new.png)  
+- [2024-03-05-Claude-3终于来了，最强大模型易主？不，网友亲测了才算数！](https://posts.careerengine.us/p/65e685ef041d4e122024d2cc) ![](/assets/new.png)  
+- [2024-03-04-雷军、周鸿祎两会力挺大模型，隔壁印度GenAI却要被谷歌Gemini“扼杀”？](https://posts.careerengine.us/p/65e59fb588ea7d1178390d0e)  
+- [2024-03-04-机器人再度大幅进化！阿西莫夫三法则还有效吗？|-大模型一周大事](https://posts.careerengine.us/p/65e59fb588ea7d1178390d05)  
 - [2024-03-03-OpenAI硬怼马斯克：没到AGI，就不开源；求职人潮“挤崩”智联招聘；周鸿祎、李志飞开AI-课，被网友质疑-|-AI周报](https://posts.careerengine.us/p/65e42d92f999491f51407558)  
 - [2024-03-02-试了下-Stable-Video，我的建议是不如不用｜AI-测评室](https://posts.careerengine.us/p/65e42d92f999491f51407568)  
 - [2024-03-01-阿里最新图生视频模型效果好得可比肩Sora，但0代码“假”开源让国内外网友骂翻了天？](https://posts.careerengine.us/p/65e4304fd4b222305c9c3119)  
@@ -186,16 +188,14 @@
 - [2024-02-27-OpenAI-被微软-“绿”-了，法国-“小鲜肉”-Mistral-上位！](https://posts.careerengine.us/p/65e4304fd4b222305c9c3101)  
 - [2024-02-26-就是“快”！字节跳动发布文生图开放模型，迅速冲上Hugging-Face-Spaces-热榜](https://posts.careerengine.us/p/65e4305a300d1f308649459b)  
 - [2024-02-25-李一舟爆雷或牵连AI课程行业；谷歌联合创始人被控过失杀人；黄仁勋身家冲至全球21名，称赞华为；阿里效仿Sora作息？|-AI周报](https://posts.careerengine.us/p/65e434a359330141a34c75f2)  
-- [2024-02-24-蚂蚁、智源、百川、讯飞专家齐聚，大模型开发与应用探索，AICon-2024邀您共鉴](https://posts.careerengine.us/p/65d98e2fac17973c3c48abbd)  
 - [2024-02-24-贾扬清质疑-Groq-CEO-“其芯片价格接近免费”说法，前员工出来实锤：根本不切实际！](https://posts.careerengine.us/p/65d98e2fac17973c3c48abb5)  
+- [2024-02-24-蚂蚁、智源、百川、讯飞专家齐聚，大模型开发与应用探索，AICon-2024邀您共鉴](https://posts.careerengine.us/p/65d98e2fac17973c3c48abbd)  
 - [2024-02-23-与Sora同架构的Stable-Diffusion-3.0-震撼发布！4-秒视频生成却翻车，网友：还是等-Sora-吧！](https://posts.careerengine.us/p/65d98f5b4f2a9143966c1772)  
-- [2024-02-22-收入翻三倍，市值超谷歌！英伟达凭人工智能创营收纪录，黄仁勋：生成式AI已到临界点](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158ec)  
-- [2024-02-22-2024最新知识福利，数字化转型案例集锦第三期上线（附下载）](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158e3)  
 - [2024-02-22-被Sora抢了风头的谷歌“杀”回来了！谷歌的一群“书呆子”卷出了最强开放模型Gemma](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158f4)  
+- [2024-02-22-2024最新知识福利，数字化转型案例集锦第三期上线（附下载）](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158e3)  
+- [2024-02-22-收入翻三倍，市值超谷歌！英伟达凭人工智能创营收纪录，黄仁勋：生成式AI已到临界点](https://posts.careerengine.us/p/65d6cd1e811b6e79b84158ec)  
 - [2024-02-21-OpenAI-一线员工比国内还“卷”！深度揭秘-Sora-关键技术：时空补丁如何变成OpenAI-的新“魔法”](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54081)  
 - [2024-02-20-OpenAI的Sora注定死路一条！Yann-LeCun火力全开怒喷：这种实现方式“完全没有现实意义”](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54079)  
-- [2024-02-19-Sora生成的视频太真实？那是你遇到造假了](https://posts.careerengine.us/p/65d6ceb44ed25d053ac54071)  
-- [2024-02-15-我在技​​术面试中用ChatGPT作弊，没人知道](https://posts.careerengine.us/p/65cdc79474cbd77e6e2731fa)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
