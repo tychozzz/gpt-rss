@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-05 12:00:08，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-06 18:00:14，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -8,9 +8,9 @@
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-03-02-上海内推-|-腾讯QQ影像中心招聘图像视频技术开发/算法研究实习生](https://posts.careerengine.us/p/65e20db2acfd4645274de2d0)  
-- [2024-03-02-WSDM-2024-|-系统探究适配器微调对于可迁移推荐的影响](https://posts.careerengine.us/p/65e20db2acfd4645274de2c0)  
-- [2024-03-02-用短输入模拟长样本，高效拓展LLM上下文窗口，北大联合MSRA提出PoSE](https://posts.careerengine.us/p/65e20db2acfd4645274de2b8)  
+- [2024-03-06-CVPR-2024-|-和马赛克说拜拜！华为、清华等提出基于认知的万物超分大模型](https://posts.careerengine.us/p/65e81916b1dc9b01d04bd485) ![](/assets/new.png)  
+- [2024-03-06-大模型在开放智能体场景中能意识到风险威胁吗？上海交大发布R-Judge安全评测](https://posts.careerengine.us/p/65e81916b1dc9b01d04bd47d) ![](/assets/new.png)  
+- [2024-03-06-YYDS！万物皆可大模型！](https://posts.careerengine.us/p/65e81916b1dc9b01d04bd475) ![](/assets/new.png)  
+- [2024-03-06-博士申请-|-澳洲国立大学张梦璇老师招收空间智能/图算法等方向博士生](https://posts.careerengine.us/p/65e81917b1dc9b01d04bd48d) ![](/assets/new.png)  
 - [2024-03-02-文末送书-|-这本书太好了！150页就能让你上手大模型应用开发](https://posts.careerengine.us/p/65e20db2acfd4645274de2c8)  
-- [2024-02-05-博士申请-|-美国佐治亚大学卢国玉老师招收计算机视觉/深度学习方向全奖博士生](https://posts.careerengine.us/p/65c0da18c41103458b003b5a)  
-- [2024-02-05-北京内推-|-阿里淘天集团招聘大模型/多模态大模型算法实习生](https://posts.careerengine.us/p/65c0da17c41103458b003b4b)  
-- [2024-02-05-Transformer升级之路：“复盘”长度外推技术](https://posts.careerengine.us/p/65c0da0f1d166445640e1b98)  
+- [2024-03-02-用短输入模拟长样本，高效拓展LLM上下文窗口，北大联合MSRA提出PoSE](https://posts.careerengine.us/p/65e20db2acfd4645274de2b8)  
+- [2024-03-02-WSDM-2024-|-系统探究适配器微调对于可迁移推荐的影响](https://posts.careerengine.us/p/65e20db2acfd4645274de2c0)  
+- [2024-03-02-上海内推-|-腾讯QQ影像中心招聘图像视频技术开发/算法研究实习生](https://posts.careerengine.us/p/65e20db2acfd4645274de2d0)  
+- [2024-02-29-数量即力量！腾讯揭秘：Agent数量越多，大语言模型效果越好](https://posts.careerengine.us/p/65e81c4daa69fe0ec97769c4) ![](/assets/new.png)  
+- [2024-02-20-工具调用效果比肩GPT-4！本地可微调的多模型协作工具学习agent框架α-UMi](https://posts.careerengine.us/p/65e81c4daa69fe0ec97769b5) ![](/assets/new.png)  
 - [2024-02-05-WSDM-2024-|-持续同调优化的图异常检测](https://posts.careerengine.us/p/65c0da0e1d166445640e1b89)  
-- [2024-02-04-港中文、腾讯团队提出对比式非似然训练框架，让LLaMA2胜率飙升30倍](https://posts.careerengine.us/p/65bf845d146c2b261944ee0b)  
-- [2024-02-04-一键式越狱攻击：复旦等团队联合发布首个统一越狱框架EasyJailbreak](https://posts.careerengine.us/p/65bf8454354bc525fcfdcc21)  
+- [2024-02-05-Transformer升级之路：“复盘”长度外推技术](https://posts.careerengine.us/p/65c0da0f1d166445640e1b98)  
+- [2024-02-05-北京内推-|-阿里淘天集团招聘大模型/多模态大模型算法实习生](https://posts.careerengine.us/p/65c0da17c41103458b003b4b)  
+- [2024-02-05-博士申请-|-美国佐治亚大学卢国玉老师招收计算机视觉/深度学习方向全奖博士生](https://posts.careerengine.us/p/65c0da18c41103458b003b5a)  
 - [2024-02-04-通往图大模型的路径？中科大和新大提出图上多任务预训练和提示学习方法](https://posts.careerengine.us/p/65bf844be5436d25c71d9a12)  
-- [2024-02-03-最强开源多模态生成模型MM-Interleaved：首创特征同步器，刷新多项SOTA](https://posts.careerengine.us/p/65bdc52613c86748e5345f44)  
-- [2024-02-03-ICLR-2024-|-LLM-Agent领域第一高分论文，全网Star数最高的多智能体框架](https://posts.careerengine.us/p/65bdc51857228d48a2ee5dbf)  
+- [2024-02-04-一键式越狱攻击：复旦等团队联合发布首个统一越狱框架EasyJailbreak](https://posts.careerengine.us/p/65bf8454354bc525fcfdcc21)  
+- [2024-02-04-港中文、腾讯团队提出对比式非似然训练框架，让LLaMA2胜率飙升30倍](https://posts.careerengine.us/p/65bf845d146c2b261944ee0b)  
 - [2024-02-03-大模型人才的薪资，有点猛…](https://posts.careerengine.us/p/65bdc51857228d48a2ee5dc8)  
-- [2024-01-06-​AAAI-2024-|-首个多模态实体集扩展数据集MESED和多模态模型MultiExpan](https://posts.careerengine.us/p/6599556790368e496d241caa)  
-- [2024-01-06-万字长文再论大语言模型的位置编码及其外推性](https://posts.careerengine.us/p/6599556fe6caf249e660346a)  
-- [2024-01-06-深圳内推-|-腾讯大数据平台混元AIGC团队招聘文生3D方向算法实习生](https://posts.careerengine.us/p/6599557b52bc524a11aba87f)  
-- [2024-01-05-清华叉院提出「GenH2R」框架，用百万场景打造基于视觉的通用人机交接策略](https://posts.careerengine.us/p/659788ec3e9e0a17fc05339e)  
-- [2024-01-05-博士申请-|-香港科技大学（广州）孙莹老师招收人工智能方向全奖博士生/RA](https://posts.careerengine.us/p/659788ec3e9e0a17fc0533a6)  
-- [2024-01-05-NeurIPS-2023-Spotlight-|-基于超图的表格语言模型](https://posts.careerengine.us/p/659788dfc3495317c4d052da)  
+- [2024-02-03-ICLR-2024-|-LLM-Agent领域第一高分论文，全网Star数最高的多智能体框架](https://posts.careerengine.us/p/65bdc51857228d48a2ee5dbf)  
+- [2024-02-03-最强开源多模态生成模型MM-Interleaved：首创特征同步器，刷新多项SOTA](https://posts.careerengine.us/p/65bdc52613c86748e5345f44)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-03-05-揭秘美图AI局部重绘技术](https://posts.careerengine.us/p/65e685ef041d4e122024d2d4) ![](/assets/new.png)  
-- [2024-03-05-Claude-3终于来了，最强大模型易主？不，网友亲测了才算数！](https://posts.careerengine.us/p/65e685ef041d4e122024d2cc) ![](/assets/new.png)  
+- [2024-03-05-揭秘美图AI局部重绘技术](https://posts.careerengine.us/p/65e685ef041d4e122024d2d4)  
+- [2024-03-05-Claude-3终于来了，最强大模型易主？不，网友亲测了才算数！](https://posts.careerengine.us/p/65e685ef041d4e122024d2cc)  
 - [2024-03-04-雷军、周鸿祎两会力挺大模型，隔壁印度GenAI却要被谷歌Gemini“扼杀”？](https://posts.careerengine.us/p/65e59fb588ea7d1178390d0e)  
 - [2024-03-04-机器人再度大幅进化！阿西莫夫三法则还有效吗？|-大模型一周大事](https://posts.careerengine.us/p/65e59fb588ea7d1178390d05)  
 - [2024-03-03-OpenAI硬怼马斯克：没到AGI，就不开源；求职人潮“挤崩”智联招聘；周鸿祎、李志飞开AI-课，被网友质疑-|-AI周报](https://posts.careerengine.us/p/65e42d92f999491f51407558)  
