@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-18 18:00:10，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-18 21:00:10，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -8,9 +8,9 @@
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-03-06-CVPR-2024-|-和马赛克说拜拜！华为、清华等提出基于认知的万物超分大模型](https://posts.careerengine.us/p/65e81916b1dc9b01d04bd485)  
-- [2024-03-06-大模型在开放智能体场景中能意识到风险威胁吗？上海交大发布R-Judge安全评测](https://posts.careerengine.us/p/65e81916b1dc9b01d04bd47d)  
-- [2024-03-06-YYDS！万物皆可大模型！](https://posts.careerengine.us/p/65e81916b1dc9b01d04bd475)  
+- [2024-03-18-北京师范大学人工智能学院诚聘海内外优秀人才](https://posts.careerengine.us/p/65f820ba72ab3101a8346525) ![](/assets/new.png)  
+- [2024-03-18-哈工大发布最新综述：大语言模型时代的表格推理技术](https://posts.careerengine.us/p/65f820cbe6399301fbf262cf) ![](/assets/new.png)  
+- [2024-03-18-ICLR-2024-|-无需训练，Fast-DetectGPT让文本检测速度提升340倍](https://posts.careerengine.us/p/65f820cbe6399301fbf262c7) ![](/assets/new.png)  
+- [2024-03-18-总奖金4万美元！亚马逊KDD-Cup-2024大模型在线购物竞赛正式启动](https://posts.careerengine.us/p/65f820d239846b02286685f9) ![](/assets/new.png)  
 - [2024-03-06-博士申请-|-澳洲国立大学张梦璇老师招收空间智能/图算法等方向博士生](https://posts.careerengine.us/p/65e81917b1dc9b01d04bd48d)  
-- [2024-03-02-文末送书-|-这本书太好了！150页就能让你上手大模型应用开发](https://posts.careerengine.us/p/65e20db2acfd4645274de2c8)  
-- [2024-03-02-用短输入模拟长样本，高效拓展LLM上下文窗口，北大联合MSRA提出PoSE](https://posts.careerengine.us/p/65e20db2acfd4645274de2b8)  
-- [2024-03-02-WSDM-2024-|-系统探究适配器微调对于可迁移推荐的影响](https://posts.careerengine.us/p/65e20db2acfd4645274de2c0)  
+- [2024-03-06-YYDS！万物皆可大模型！](https://posts.careerengine.us/p/65e81916b1dc9b01d04bd475)  
+- [2024-03-06-大模型在开放智能体场景中能意识到风险威胁吗？上海交大发布R-Judge安全评测](https://posts.careerengine.us/p/65e81916b1dc9b01d04bd47d)  
+- [2024-03-06-CVPR-2024-|-和马赛克说拜拜！华为、清华等提出基于认知的万物超分大模型](https://posts.careerengine.us/p/65e81916b1dc9b01d04bd485)  
 - [2024-03-02-上海内推-|-腾讯QQ影像中心招聘图像视频技术开发/算法研究实习生](https://posts.careerengine.us/p/65e20db2acfd4645274de2d0)  
+- [2024-03-02-WSDM-2024-|-系统探究适配器微调对于可迁移推荐的影响](https://posts.careerengine.us/p/65e20db2acfd4645274de2c0)  
+- [2024-03-02-用短输入模拟长样本，高效拓展LLM上下文窗口，北大联合MSRA提出PoSE](https://posts.careerengine.us/p/65e20db2acfd4645274de2b8)  
+- [2024-03-02-文末送书-|-这本书太好了！150页就能让你上手大模型应用开发](https://posts.careerengine.us/p/65e20db2acfd4645274de2c8)  
 - [2024-02-29-数量即力量！腾讯揭秘：Agent数量越多，大语言模型效果越好](https://posts.careerengine.us/p/65e81c4daa69fe0ec97769c4)  
 - [2024-02-20-工具调用效果比肩GPT-4！本地可微调的多模型协作工具学习agent框架α-UMi](https://posts.careerengine.us/p/65e81c4daa69fe0ec97769b5)  
-- [2024-02-05-WSDM-2024-|-持续同调优化的图异常检测](https://posts.careerengine.us/p/65c0da0e1d166445640e1b89)  
-- [2024-02-05-Transformer升级之路：“复盘”长度外推技术](https://posts.careerengine.us/p/65c0da0f1d166445640e1b98)  
-- [2024-02-05-北京内推-|-阿里淘天集团招聘大模型/多模态大模型算法实习生](https://posts.careerengine.us/p/65c0da17c41103458b003b4b)  
 - [2024-02-05-博士申请-|-美国佐治亚大学卢国玉老师招收计算机视觉/深度学习方向全奖博士生](https://posts.careerengine.us/p/65c0da18c41103458b003b5a)  
-- [2024-02-04-通往图大模型的路径？中科大和新大提出图上多任务预训练和提示学习方法](https://posts.careerengine.us/p/65bf844be5436d25c71d9a12)  
-- [2024-02-04-一键式越狱攻击：复旦等团队联合发布首个统一越狱框架EasyJailbreak](https://posts.careerengine.us/p/65bf8454354bc525fcfdcc21)  
+- [2024-02-05-北京内推-|-阿里淘天集团招聘大模型/多模态大模型算法实习生](https://posts.careerengine.us/p/65c0da17c41103458b003b4b)  
+- [2024-02-05-Transformer升级之路：“复盘”长度外推技术](https://posts.careerengine.us/p/65c0da0f1d166445640e1b98)  
+- [2024-02-05-WSDM-2024-|-持续同调优化的图异常检测](https://posts.careerengine.us/p/65c0da0e1d166445640e1b89)  
 - [2024-02-04-港中文、腾讯团队提出对比式非似然训练框架，让LLaMA2胜率飙升30倍](https://posts.careerengine.us/p/65bf845d146c2b261944ee0b)  
-- [2024-02-03-大模型人才的薪资，有点猛…](https://posts.careerengine.us/p/65bdc51857228d48a2ee5dc8)  
-- [2024-02-03-ICLR-2024-|-LLM-Agent领域第一高分论文，全网Star数最高的多智能体框架](https://posts.careerengine.us/p/65bdc51857228d48a2ee5dbf)  
-- [2024-02-03-最强开源多模态生成模型MM-Interleaved：首创特征同步器，刷新多项SOTA](https://posts.careerengine.us/p/65bdc52613c86748e5345f44)  
+- [2024-02-04-一键式越狱攻击：复旦等团队联合发布首个统一越狱框架EasyJailbreak](https://posts.careerengine.us/p/65bf8454354bc525fcfdcc21)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,16 +176,16 @@
 </summary>
 
 
-- [2024-03-18-如何用-AI-更“聪明”地进行物流路线规划？](https://posts.careerengine.us/p/65f7cba03106bc4d71e6265c) ![](/assets/new.png)  
-- [2024-03-18-刚刚！马斯克履约开源Grok，超越Llama成全球最大开源模型，却被怀疑是作秀？！](https://posts.careerengine.us/p/65f7cba03106bc4d71e62664) ![](/assets/new.png)  
-- [2024-03-18-炸裂登场！搭载了-ChatGPT-的机器人到底有多强-|-大模型一周大事](https://posts.careerengine.us/p/65f7cbb2c530954dbd978251) ![](/assets/new.png)  
-- [2024-03-17-零一万物刷榜遭怒怼：面向投资人编程；315锤AI诈骗：假老板骗走员工186万；知识星球屏蔽-ChatGPT、Sora|-AI周报](https://posts.careerengine.us/p/65f7cf3115378e641c9f6dcb) ![](/assets/new.png)  
-- [2024-03-16-身价7亿的周受资也没辙了？TikTok-弹窗1.7-亿用户强势反击，国会一分钟20个电话被打爆](https://posts.careerengine.us/p/65f7cf3115378e641c9f6dab) ![](/assets/new.png)  
-- [2024-03-15-苹果终于入局大模型了：300亿参数、MoE-架构，手机要迎来全面的大变革了？](https://posts.careerengine.us/p/65f7cf3115378e641c9f6db3) ![](/assets/new.png)  
-- [2024-03-15-搭载-ChatGPT，机器人-Figure-01-炸裂登场！能听会说，还能做家务](https://posts.careerengine.us/p/65f7d31a5c4f3f7da484bd56) ![](/assets/new.png)  
-- [2024-03-14-OpenAI-Sora发布时间定档，可能允许“裸体”内容出现](https://posts.careerengine.us/p/65f7cf3115378e641c9f6dbb) ![](/assets/new.png)  
-- [2024-03-13-微软过度服务-OpenAI-引员工不满、高管离职：内部很多-AI-项目已被取消](https://posts.careerengine.us/p/65f7d31a5c4f3f7da484bd46) ![](/assets/new.png)  
-- [2024-03-12-Midjourney控诉Stability-AI偷作品还搞崩了服务器！曝光后Stability-AI-CEO-紧急回应](https://posts.careerengine.us/p/65f7cf3115378e641c9f6dc3) ![](/assets/new.png)  
+- [2024-03-18-如何用-AI-更“聪明”地进行物流路线规划？](https://posts.careerengine.us/p/65f7cba03106bc4d71e6265c)  
+- [2024-03-18-刚刚！马斯克履约开源Grok，超越Llama成全球最大开源模型，却被怀疑是作秀？！](https://posts.careerengine.us/p/65f7cba03106bc4d71e62664)  
+- [2024-03-18-炸裂登场！搭载了-ChatGPT-的机器人到底有多强-|-大模型一周大事](https://posts.careerengine.us/p/65f7cbb2c530954dbd978251)  
+- [2024-03-17-零一万物刷榜遭怒怼：面向投资人编程；315锤AI诈骗：假老板骗走员工186万；知识星球屏蔽-ChatGPT、Sora|-AI周报](https://posts.careerengine.us/p/65f7cf3115378e641c9f6dcb)  
+- [2024-03-16-身价7亿的周受资也没辙了？TikTok-弹窗1.7-亿用户强势反击，国会一分钟20个电话被打爆](https://posts.careerengine.us/p/65f7cf3115378e641c9f6dab)  
+- [2024-03-15-苹果终于入局大模型了：300亿参数、MoE-架构，手机要迎来全面的大变革了？](https://posts.careerengine.us/p/65f7cf3115378e641c9f6db3)  
+- [2024-03-15-搭载-ChatGPT，机器人-Figure-01-炸裂登场！能听会说，还能做家务](https://posts.careerengine.us/p/65f7d31a5c4f3f7da484bd56)  
+- [2024-03-14-OpenAI-Sora发布时间定档，可能允许“裸体”内容出现](https://posts.careerengine.us/p/65f7cf3115378e641c9f6dbb)  
+- [2024-03-13-微软过度服务-OpenAI-引员工不满、高管离职：内部很多-AI-项目已被取消](https://posts.careerengine.us/p/65f7d31a5c4f3f7da484bd46)  
+- [2024-03-12-Midjourney控诉Stability-AI偷作品还搞崩了服务器！曝光后Stability-AI-CEO-紧急回应](https://posts.careerengine.us/p/65f7cf3115378e641c9f6dc3)  
 - [2024-03-05-Claude-3终于来了，最强大模型易主？不，网友亲测了才算数！](https://posts.careerengine.us/p/65e685ef041d4e122024d2cc)  
 - [2024-03-05-揭秘美图AI局部重绘技术](https://posts.careerengine.us/p/65e685ef041d4e122024d2d4)  
 - [2024-03-04-机器人再度大幅进化！阿西莫夫三法则还有效吗？|-大模型一周大事](https://posts.careerengine.us/p/65e59fb588ea7d1178390d05)  
