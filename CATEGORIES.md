@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-07 15:00:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-18 15:00:13，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,7 +21,7 @@
 </summary>
 
 
-- [2024-03-07-「还是谷歌好」，离职创业一年，我才发现训练大模型有这么多坑](https://posts.careerengine.us/p/65e94b657d340c6205eeeebe) ![](/assets/new.png)  
+- [2024-03-07-「还是谷歌好」，离职创业一年，我才发现训练大模型有这么多坑](https://posts.careerengine.us/p/65e94b657d340c6205eeeebe)  
 - [2024-03-02-模型偏好只与大小有关？上交大全面解析人类与32种大模型偏好的定量组分](https://posts.careerengine.us/p/65e2978511fee12b10b5ecbe)  
 - [2024-03-02-2万多亿美元，英伟达市值创新高，华尔街排第三](https://posts.careerengine.us/p/65e2977e97a0852aefab2f17)  
 - [2024-03-02-ControlNet作者又出新作：百万数据训练，AI图像生成迎来图层设计](https://posts.careerengine.us/p/65e2977e97a0852aefab2f0e)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-02-23-200万上下文窗口创飞Gemini-1.5！微软来砸谷歌场子了（doge）](https://posts.careerengine.us/p/65d8b038589bdc7e8994e831)  
-- [2024-02-23-人类沦为工具人！斯坦福机器人“吸星大法”：从演示中转移技能，400美元打破训练数据悖论](https://posts.careerengine.us/p/65d8b039589bdc7e8994e871)  
-- [2024-02-23-超级光盘中国造！一张就能装下小型数据中心](https://posts.careerengine.us/p/65d8b039589bdc7e8994e859)  
-- [2024-02-23-YOLOv9来了：实时目标检测新SOTA，完胜各种轻量或大型模型！出自v7作者](https://posts.careerengine.us/p/65d8b039589bdc7e8994e841)  
+- [2024-03-15-开源版“Devin”AI程序员炸场：自己分析股票、做报表、建模型](https://posts.careerengine.us/p/65f7c9e4d4ffa34270143738) ![](/assets/new.png)  
+- [2024-02-26-Sora时代，我们该如何关注新应用？一切尽在中国AIGC产业峰会](https://posts.careerengine.us/p/65f7cd3fff886557ce305674) ![](/assets/new.png)  
 - [2024-02-23-Stable-Diffusion-3更多隐藏功能曝光：文字可更改图片细节](https://posts.careerengine.us/p/65d8b039589bdc7e8994e851)  
-- [2024-02-22-英伟达日进5.7亿，黄院士躺印钞机上了](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b072392)  
-- [2024-02-22-谷歌最强开源大模型亮相！Gemini技术下放，笔记本就能跑，可商用](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723aa)  
-- [2024-02-22-阿里大模型员工也自曝了996作息表](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b07239a)  
-- [2024-02-22-中国AIGC应用全景图谱案例征集启动｜量子位智库](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723b2)  
-- [2024-02-22-NLP独角兽被曝停工停产！融了10亿仍难造血，大模型热浪中更难活了](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723ba)  
+- [2024-02-23-YOLOv9来了：实时目标检测新SOTA，完胜各种轻量或大型模型！出自v7作者](https://posts.careerengine.us/p/65d8b039589bdc7e8994e841)  
+- [2024-02-23-超级光盘中国造！一张就能装下小型数据中心](https://posts.careerengine.us/p/65d8b039589bdc7e8994e859)  
+- [2024-02-23-人类沦为工具人！斯坦福机器人“吸星大法”：从演示中转移技能，400美元打破训练数据悖论](https://posts.careerengine.us/p/65d8b039589bdc7e8994e871)  
+- [2024-02-23-200万上下文窗口创飞Gemini-1.5！微软来砸谷歌场子了（doge）](https://posts.careerengine.us/p/65d8b038589bdc7e8994e831)  
 - [2024-02-22-ChatGPT发癫已读乱回，网友：“高速运转的机械”AI版？](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723c2)  
+- [2024-02-22-NLP独角兽被曝停工停产！融了10亿仍难造血，大模型热浪中更难活了](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723ba)  
+- [2024-02-22-中国AIGC应用全景图谱案例征集启动｜量子位智库](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723b2)  
+- [2024-02-22-阿里大模型员工也自曝了996作息表](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b07239a)  
+- [2024-02-22-谷歌最强开源大模型亮相！Gemini技术下放，笔记本就能跑，可商用](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b0723aa)  
+- [2024-02-22-英伟达日进5.7亿，黄院士躺印钞机上了](https://posts.careerengine.us/p/65d6cda9e7a8e27d8b072392)  
 - [2024-02-21-OpenAI员工自曝996作息表，网友：真正的卷不需要强迫](https://posts.careerengine.us/p/65d6cf4cdc8228094962648d)  
 - [2024-02-19-在这里，看见生成式AI的应用未来！中国AIGC产业峰会来啦！](https://posts.careerengine.us/p/65d6cf4cdc82280949626483)  
-- [2024-02-15-UCLA蒋陈凡夫团队新研究：在VR里控制3D物体，高斯泼溅渲染](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4ea)  
-- [2024-02-15-这个AI办公应用火了：简短提示词出PPT，打包GPTs帮你打工干活](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4d2)  
 - [2024-02-15-下一代Windows系统曝光：基于GPT-4V，Agent跨应用调度，代号UFO](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4f2)  
-- [2024-02-13-苹果让ChatGPT成为设计师助手，1分钟搞定动画设计](https://posts.careerengine.us/p/65cb06873042a02133eee8a6)  
-- [2024-02-13-黄院士回应奥特曼7万亿芯片计划：笑了](https://posts.careerengine.us/p/65cb06873042a02133eee89e)  
+- [2024-02-15-这个AI办公应用火了：简短提示词出PPT，打包GPTs帮你打工干活](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4d2)  
+- [2024-02-15-UCLA蒋陈凡夫团队新研究：在VR里控制3D物体，高斯泼溅渲染](https://posts.careerengine.us/p/65cdc8405126a503a0d1c4ea)  
 - [2024-02-13-800块DIY爆火AI硬件，全流程开源，网友：新Linux时代来了](https://posts.careerengine.us/p/65cb06873042a02133eee8ae)  
-- [2024-02-12-大模型开车哪家强？普渡研究给指南：GPT-4真行啊](https://posts.careerengine.us/p/65ca044dc36f76064e9ece43)  
+- [2024-02-13-黄院士回应奥特曼7万亿芯片计划：笑了](https://posts.careerengine.us/p/65cb06873042a02133eee89e)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
