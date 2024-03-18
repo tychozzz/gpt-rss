@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-03-18 15:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-18 18:00:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## GPT
 
@@ -189,6 +189,7 @@
 - [2023-06-28-文末送书-|-系统讲解ChatGPT核心原理，教你构建高质量的提示指令](https://posts.careerengine.us/p/649c0e3e94b82a73c3a5a93d) 
 - [2023-04-11-中科院张家俊：ChatGPT中的提示与指令学习](https://www.52nlp.cn/%e4%b8%ad%e7%a7%91%e9%99%a2%e5%bc%a0%e5%ae%b6%e4%bf%8a%ef%bc%9achatgpt%e4%b8%ad%e7%9a%84%e6%8f%90%e7%a4%ba%e4%b8%8e%e6%8c%87%e4%bb%a4%e5%ad%a6%e4%b9%a0) 
 - [2023-03-27-“国产类-ChatGPT-”所存在的差距与挑战-专家圆桌](https://www.52nlp.cn/%e5%9b%bd%e4%ba%a7%e7%b1%bb-chatgpt-%e6%89%80%e5%ad%98%e5%9c%a8%e7%9a%84%e5%b7%ae%e8%b7%9d%e4%b8%8e%e6%8c%91%e6%88%98-%e4%b8%93%e5%ae%b6%e5%9c%86%e6%a1%8c) 
+- [2024-03-15-搭载-ChatGPT，机器人-Figure-01-炸裂登场！能听会说，还能做家务](https://posts.careerengine.us/p/65f7d31a5c4f3f7da484bd56) 
 - [2024-02-15-我在技​​术面试中用ChatGPT作弊，没人知道](https://posts.careerengine.us/p/65cdc79474cbd77e6e2731fa) 
 - [2024-02-06-10X增强！ChatGPT退位，Bard登基](https://posts.careerengine.us/p/65c744088a36bd066d665404) 
 - [2024-02-01-性能逼近GPT-4，开源Mistral-Medium意外泄露？CEO最新回应来了](https://posts.careerengine.us/p/65bb3e5f4789a26334552982) 
