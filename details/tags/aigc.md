@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-03-22 06:00:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-22 15:00:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-03-22-发完最后一篇论文，Stable-Diffusion核心团队全要离职了](https://posts.careerengine.us/p/65fd0dd9c6c69924ff86098f) 
 - [2024-03-17-拖拽P图技术又升级了：StableDrag更稳、更准，南大、腾讯联合打造](https://posts.careerengine.us/p/65f83fc8acc8de436ecee5b1) 
 - [2024-02-15-生成速度快SDXL一倍，9GB-GPU也能运行，Stable-Cascade来搞性价比了](https://posts.careerengine.us/p/65cdc80086a5f20201f2f7c1) 
 - [2023-12-23-Midjourney-V6迎来大升级：网友惊呼生成效果太逼真](https://posts.careerengine.us/p/658600ad4fd82832c37dcf19) 
