@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-24 15:00:12，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-24 18:00:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,10 +21,10 @@
 </summary>
 
 
-- [2024-03-24-32K上下文，Mistral-7B-v0.2-基模型突然开源了](https://posts.careerengine.us/p/65ffafaa1859f40908c49b30) ![](/assets/new.png)  
-- [2024-03-24-CNN、Transformer、Uniformer之外，我们终于有了更高效的视频理解技术](https://posts.careerengine.us/p/65ffafba6b0bf3094a6da6ad) ![](/assets/new.png)  
-- [2024-03-24-倒计时一周！首届中国具身智能大会（CEAI-2024）日程重磅发布！](https://posts.careerengine.us/p/65ffafbb6b0bf3094a6da6bc) ![](/assets/new.png)  
-- [2024-03-24-CVPR-2024-|-零样本6D物体姿态估计框架SAM-6D，向具身智能更进一步](https://posts.careerengine.us/p/65ffafc90d71b909986425e6) ![](/assets/new.png)  
+- [2024-03-24-32K上下文，Mistral-7B-v0.2-基模型突然开源了](https://posts.careerengine.us/p/65ffafaa1859f40908c49b30)  
+- [2024-03-24-CNN、Transformer、Uniformer之外，我们终于有了更高效的视频理解技术](https://posts.careerengine.us/p/65ffafba6b0bf3094a6da6ad)  
+- [2024-03-24-倒计时一周！首届中国具身智能大会（CEAI-2024）日程重磅发布！](https://posts.careerengine.us/p/65ffafbb6b0bf3094a6da6bc)  
+- [2024-03-24-CVPR-2024-|-零样本6D物体姿态估计框架SAM-6D，向具身智能更进一步](https://posts.careerengine.us/p/65ffafc90d71b909986425e6)  
 - [2024-03-23-Mixtral、Solar及OpenChat三大模型融合，效果能拉多高？](https://posts.careerengine.us/p/65fe7770ef30ee229880a7e6)  
 - [2024-03-23-OpenAI进军好莱坞：电影制作用Sora指日可待](https://posts.careerengine.us/p/65fe775dc098a6224458c380)  
 - [2024-03-23-复刻Sora的通用视频生成能力，开源多智能体框架Mora来了](https://posts.careerengine.us/p/65fe775cc098a6224458c377)  
@@ -52,9 +52,9 @@
 </summary>
 
 
-- [2024-03-24-报名开启｜2024中国AIGC产业峰会定档4月17日，首批嘉宾重磅来袭！](https://posts.careerengine.us/p/65ffa8c8e6bb9862664a29d9) ![](/assets/new.png)  
-- [2024-03-24-Sora三巨头首次解密幕后信息，CTO：最快年内开放](https://posts.careerengine.us/p/65ffa8d827dc2262fa571010) ![](/assets/new.png)  
-- [2024-03-24-一年暴涨900％，这个华人成为黄院士门下最大赢家](https://posts.careerengine.us/p/65ffa8d927dc2262fa571019) ![](/assets/new.png)  
+- [2024-03-24-报名开启｜2024中国AIGC产业峰会定档4月17日，首批嘉宾重磅来袭！](https://posts.careerengine.us/p/65ffa8c8e6bb9862664a29d9)  
+- [2024-03-24-Sora三巨头首次解密幕后信息，CTO：最快年内开放](https://posts.careerengine.us/p/65ffa8d827dc2262fa571010)  
+- [2024-03-24-一年暴涨900％，这个华人成为黄院士门下最大赢家](https://posts.careerengine.us/p/65ffa8d927dc2262fa571019)  
 - [2024-03-23-Kimi连续宕机打醒巨头！阿里百度360连夜出手长文本，大模型商业化厮杀开始了](https://posts.careerengine.us/p/65fe85173003ff6e3571c38c)  
 - [2024-03-23-通用图大模型HiGPT：一己之力建模任何图结构关系！来自港大数据智能实验室&百度](https://posts.careerengine.us/p/65fe85163003ff6e3571c37c)  
 - [2024-03-23-Stable-Diffusion老板也跑了！核心研发已集体辞职，“稳定AI”乱成一锅粥](https://posts.careerengine.us/p/65fe85009da3866d7e59c84d)  
@@ -176,26 +176,26 @@
 </summary>
 
 
+- [2024-03-24-Stability-CEO自己跑路：没董事会控制权；月之暗面Kimi火爆至宕机，已扩容5次；王小川怼李彦宏：活在幻觉中|AI周报](https://posts.careerengine.us/p/65ffbbf03628644b925f86d4) ![](/assets/new.png)  
 - [2024-03-23-算数不行、还不懂中国文化，大模型现在抢不了设计师的饭碗！-|-AI-测评室](https://posts.careerengine.us/p/65fe6ac25fe3765cb684ecb1)  
-- [2024-03-22-核心研发跑路、资金困难，估值-10-亿美元的-Stability-AI-怎么了？](https://posts.careerengine.us/p/65fd1d09024b9b799338eee5)  
-- [2024-03-22-7人创业、1人投敌！Transformer-八子谷歌坐冷板凳5年再成老黄座上宾](https://posts.careerengine.us/p/65fd1cf67d2c03794cb037eb)  
 - [2024-03-22-三行命令，大模型让-Excel-直接回答问题](https://posts.careerengine.us/p/65fd1cf57d2c03794cb037e3)  
-- [2024-03-21-“感觉GPT-Store被放弃了！”-发布才2个月就被OpenAI搞成了烂尾项目？](https://posts.careerengine.us/p/65fc2740ee0fc93e066db1d4)  
+- [2024-03-22-7人创业、1人投敌！Transformer-八子谷歌坐冷板凳5年再成老黄座上宾](https://posts.careerengine.us/p/65fd1cf67d2c03794cb037eb)  
+- [2024-03-22-核心研发跑路、资金困难，估值-10-亿美元的-Stability-AI-怎么了？](https://posts.careerengine.us/p/65fd1d09024b9b799338eee5)  
 - [2024-03-21-从AI和数据要素角度聊聊“新质生产力”对企业数字化转型的影响](https://posts.careerengine.us/p/65fc27522d177e3e345ddfe8)  
-- [2024-03-20-谷歌-DeepMind-联合创始人加入微软，担任新-AI-部门-CEO](https://posts.careerengine.us/p/65fa75b71d2e1d077d6fe3bc)  
-- [2024-03-20-新一代“汽车人”不智能，汽车怎么智能？|-极客时间](https://posts.careerengine.us/p/65fa75af77ad86074a342412)  
+- [2024-03-21-“感觉GPT-Store被放弃了！”-发布才2个月就被OpenAI搞成了烂尾项目？](https://posts.careerengine.us/p/65fc2740ee0fc93e066db1d4)  
 - [2024-03-20-Sam-Altman亲自回应：不知GPT-5何时发布、Q*不是“核武器”](https://posts.careerengine.us/p/65fa75ae77ad86074a342409)  
+- [2024-03-20-新一代“汽车人”不智能，汽车怎么智能？|-极客时间](https://posts.careerengine.us/p/65fa75af77ad86074a342412)  
+- [2024-03-20-谷歌-DeepMind-联合创始人加入微软，担任新-AI-部门-CEO](https://posts.careerengine.us/p/65fa75b71d2e1d077d6fe3bc)  
 - [2024-03-19-哪里要动点哪里！腾讯联合清华、港科大推出全新图生视频大模型](https://posts.careerengine.us/p/65f8cb3ee9af5401d2a865e6)  
-- [2024-03-18-炸裂登场！搭载了-ChatGPT-的机器人到底有多强-|-大模型一周大事](https://posts.careerengine.us/p/65f7cbb2c530954dbd978251)  
-- [2024-03-18-刚刚！马斯克履约开源Grok，超越Llama成全球最大开源模型，却被怀疑是作秀？！](https://posts.careerengine.us/p/65f7cba03106bc4d71e62664)  
 - [2024-03-18-如何用-AI-更“聪明”地进行物流路线规划？](https://posts.careerengine.us/p/65f7cba03106bc4d71e6265c)  
+- [2024-03-18-刚刚！马斯克履约开源Grok，超越Llama成全球最大开源模型，却被怀疑是作秀？！](https://posts.careerengine.us/p/65f7cba03106bc4d71e62664)  
+- [2024-03-18-炸裂登场！搭载了-ChatGPT-的机器人到底有多强-|-大模型一周大事](https://posts.careerengine.us/p/65f7cbb2c530954dbd978251)  
 - [2024-03-17-零一万物刷榜遭怒怼：面向投资人编程；315锤AI诈骗：假老板骗走员工186万；知识星球屏蔽-ChatGPT、Sora|-AI周报](https://posts.careerengine.us/p/65f7cf3115378e641c9f6dcb)  
 - [2024-03-16-身价7亿的周受资也没辙了？TikTok-弹窗1.7-亿用户强势反击，国会一分钟20个电话被打爆](https://posts.careerengine.us/p/65f7cf3115378e641c9f6dab)  
-- [2024-03-15-搭载-ChatGPT，机器人-Figure-01-炸裂登场！能听会说，还能做家务](https://posts.careerengine.us/p/65f7d31a5c4f3f7da484bd56)  
 - [2024-03-15-苹果终于入局大模型了：300亿参数、MoE-架构，手机要迎来全面的大变革了？](https://posts.careerengine.us/p/65f7cf3115378e641c9f6db3)  
+- [2024-03-15-搭载-ChatGPT，机器人-Figure-01-炸裂登场！能听会说，还能做家务](https://posts.careerengine.us/p/65f7d31a5c4f3f7da484bd56)  
 - [2024-03-14-OpenAI-Sora发布时间定档，可能允许“裸体”内容出现](https://posts.careerengine.us/p/65f7cf3115378e641c9f6dbb)  
 - [2024-03-13-微软过度服务-OpenAI-引员工不满、高管离职：内部很多-AI-项目已被取消](https://posts.careerengine.us/p/65f7d31a5c4f3f7da484bd46)  
-- [2024-03-12-Midjourney控诉Stability-AI偷作品还搞崩了服务器！曝光后Stability-AI-CEO-紧急回应](https://posts.careerengine.us/p/65f7cf3115378e641c9f6dc3)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
