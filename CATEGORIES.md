@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-24 18:00:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-25 06:00:10，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -8,9 +8,9 @@
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-03-22-不会吧！还有人不知道小红书25届实习生招聘开始了吗！](https://posts.careerengine.us/p/65fd1841ced7465ee56a4da4)  
-- [2024-03-22-曾经火出圈的提示工程要死了吗？危！大模型能自己优化Prompt了](https://posts.careerengine.us/p/65fd1855c5ea035f44130e33)  
-- [2024-03-22-博后招募-|-香港理工大学姚岱教授课题组招聘人工智能方向博士后](https://posts.careerengine.us/p/65fd1855c5ea035f44130e43)  
+- [2024-03-24-墨大联合新华社等发布基准框架，全面评估大模型的新闻写作能力和安全依从性](https://posts.careerengine.us/p/660026a4540bdd07c2282fbb) ![](/assets/new.png)  
+- [2024-03-24-中科院，CMU，Meta等联合出品：去除LLM先验对多模态大模型的负面影响](https://posts.careerengine.us/p/660026a5540bdd07c2282fc5) ![](/assets/new.png)  
 - [2024-03-22-WWW-2024-|-港理工等联合提出线性时间图神经网络，适用于大规模推荐系统](https://posts.careerengine.us/p/65fd1856c5ea035f44130e4b)  
-- [2024-03-21-杭州/深圳内推-|-VIVO影像算法研究部招聘AIGC+计算摄影方向算法工程师/实习生](https://posts.careerengine.us/p/65fc2e0efec9fa5e0c84927e)  
-- [2024-03-21-港科大（广州）开源智慧交通新成果，用AI大模型控制红绿灯](https://posts.careerengine.us/p/65fc2e0efec9fa5e0c849276)  
-- [2024-03-21-能否在追问中坚持判断？揭秘大语言模型的判断一致性挑战](https://posts.careerengine.us/p/65fc2e008aeb8f5dda71848d)  
+- [2024-03-22-博后招募-|-香港理工大学姚岱教授课题组招聘人工智能方向博士后](https://posts.careerengine.us/p/65fd1855c5ea035f44130e43)  
+- [2024-03-22-曾经火出圈的提示工程要死了吗？危！大模型能自己优化Prompt了](https://posts.careerengine.us/p/65fd1855c5ea035f44130e33)  
+- [2024-03-22-不会吧！还有人不知道小红书25届实习生招聘开始了吗！](https://posts.careerengine.us/p/65fd1841ced7465ee56a4da4)  
 - [2024-03-21-AAAI录用率涨至23.75％！大模型这些方向再次卷疯了](https://posts.careerengine.us/p/65fc2e008aeb8f5dda718495)  
-- [2024-03-20-多领域文献阅读超越GPT-4！深势科技发布科学文献多模态大模型Uni-SMART技术报告](https://posts.careerengine.us/p/65fa739478b9e877b335f360)  
-- [2024-03-20-TPAMI-2024-|-针对节点的融合全局——局部信息的图谱滤波方法](https://posts.careerengine.us/p/65fa739478b9e877b335f357)  
-- [2024-03-20-CVPR-2024-|-通过细粒度人类反馈对齐数据，提高多模态大模型可信度](https://posts.careerengine.us/p/65fa739e7eb69877e0c04329)  
+- [2024-03-21-能否在追问中坚持判断？揭秘大语言模型的判断一致性挑战](https://posts.careerengine.us/p/65fc2e008aeb8f5dda71848d)  
+- [2024-03-21-港科大（广州）开源智慧交通新成果，用AI大模型控制红绿灯](https://posts.careerengine.us/p/65fc2e0efec9fa5e0c849276)  
+- [2024-03-21-杭州/深圳内推-|-VIVO影像算法研究部招聘AIGC+计算摄影方向算法工程师/实习生](https://posts.careerengine.us/p/65fc2e0efec9fa5e0c84927e)  
 - [2024-03-20-博士申请-|-香港大学陈怡老师课题组招收计算机安全方向全奖博士/博后](https://posts.careerengine.us/p/65fa73a884a72778197224f8)  
-- [2024-03-19-北京内推-|-微软亚洲研究院WWE大模型团队招聘大模型研究实习生](https://posts.careerengine.us/p/65f921081c28a7764cbc9c19)  
-- [2024-03-19-CVPR-2024-|-港理工联合OPPO提出统一且通用的视频分割大模型](https://posts.careerengine.us/p/65f921081c28a7764cbc9c09)  
-- [2024-03-19-陶大程团队联合港大等发布最新综述：374篇文献全面解析大模型知识蒸馏](https://posts.careerengine.us/p/65f921071c28a7764cbc9c01)  
+- [2024-03-20-CVPR-2024-|-通过细粒度人类反馈对齐数据，提高多模态大模型可信度](https://posts.careerengine.us/p/65fa739e7eb69877e0c04329)  
+- [2024-03-20-TPAMI-2024-|-针对节点的融合全局——局部信息的图谱滤波方法](https://posts.careerengine.us/p/65fa739478b9e877b335f357)  
+- [2024-03-20-多领域文献阅读超越GPT-4！深势科技发布科学文献多模态大模型Uni-SMART技术报告](https://posts.careerengine.us/p/65fa739478b9e877b335f360)  
 - [2024-03-19-CVPR最佳论文颁给自动驾驶大模型！LLM能突破行业技术“天花板”吗？](https://posts.careerengine.us/p/65f920fa0714237599afb967)  
-- [2024-03-18-总奖金4万美元！亚马逊KDD-Cup-2024大模型在线购物竞赛正式启动](https://posts.careerengine.us/p/65f820d239846b02286685f9)  
-- [2024-03-18-ICLR-2024-|-无需训练，Fast-DetectGPT让文本检测速度提升340倍](https://posts.careerengine.us/p/65f820cbe6399301fbf262c7)  
-- [2024-03-18-哈工大发布最新综述：大语言模型时代的表格推理技术](https://posts.careerengine.us/p/65f820cbe6399301fbf262cf)  
+- [2024-03-19-陶大程团队联合港大等发布最新综述：374篇文献全面解析大模型知识蒸馏](https://posts.careerengine.us/p/65f921071c28a7764cbc9c01)  
+- [2024-03-19-CVPR-2024-|-港理工联合OPPO提出统一且通用的视频分割大模型](https://posts.careerengine.us/p/65f921081c28a7764cbc9c09)  
+- [2024-03-19-北京内推-|-微软亚洲研究院WWE大模型团队招聘大模型研究实习生](https://posts.careerengine.us/p/65f921081c28a7764cbc9c19)  
 - [2024-03-18-北京师范大学人工智能学院诚聘海内外优秀人才](https://posts.careerengine.us/p/65f820ba72ab3101a8346525)  
+- [2024-03-18-哈工大发布最新综述：大语言模型时代的表格推理技术](https://posts.careerengine.us/p/65f820cbe6399301fbf262cf)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2024-03-24-Stability-CEO自己跑路：没董事会控制权；月之暗面Kimi火爆至宕机，已扩容5次；王小川怼李彦宏：活在幻觉中|AI周报](https://posts.careerengine.us/p/65ffbbf03628644b925f86d4) ![](/assets/new.png)  
+- [2024-03-24-Stability-CEO自己跑路：没董事会控制权；月之暗面Kimi火爆至宕机，已扩容5次；王小川怼李彦宏：活在幻觉中|AI周报](https://posts.careerengine.us/p/65ffbbf03628644b925f86d4)  
 - [2024-03-23-算数不行、还不懂中国文化，大模型现在抢不了设计师的饭碗！-|-AI-测评室](https://posts.careerengine.us/p/65fe6ac25fe3765cb684ecb1)  
 - [2024-03-22-三行命令，大模型让-Excel-直接回答问题](https://posts.careerengine.us/p/65fd1cf57d2c03794cb037e3)  
 - [2024-03-22-7人创业、1人投敌！Transformer-八子谷歌坐冷板凳5年再成老黄座上宾](https://posts.careerengine.us/p/65fd1cf67d2c03794cb037eb)  
