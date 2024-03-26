@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-03-26 06:00:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-03-26 15:00:10。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -383,6 +383,7 @@
 - [【机器之心】夸张！EMNLP投稿近5000篇，奖项出炉：北大、腾讯摘最佳长论文](https://posts.careerengine.us/p/6577416566e7d867731ba9dd)
 - [【机器之心】MSU世界视频编码器大赛放榜，腾讯包揽全场冠军](https://posts.careerengine.us/p/64c0a8679bff72303f5d5571)
 - [【机器之心】SIGGRAPH-2023论文奖公布，山大、港大获奖，北大、腾讯光子获提名](https://posts.careerengine.us/p/64abca84b3cf11269246627e)
+- [【量子位】腾讯机器人研究登顶刊！能帮程序员安显示器，像真人一样协同干活](https://posts.careerengine.us/p/6602538300ec5046546fc3b0)
 - [【量子位】腾讯最隐秘人才计划曝光！今年IOI金牌全员现身，数物化竞赛顶流星聚](https://posts.careerengine.us/p/65571500fd58bd15fc93499a)
 - [【量子位】腾讯机器人实验室一号员工创业，人形机器人又添重磅玩家](https://posts.careerengine.us/p/651e37023bdf5d5b8e3ed35d)
 - [【量子位】区块链在西北这么用？腾讯让老外都开了眼](https://posts.careerengine.us/p/65041f0ae25b5c35c5c7843f)
