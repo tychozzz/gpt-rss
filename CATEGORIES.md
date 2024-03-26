@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-03-26 21:00:08，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-26 23:00:08，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-03-25-词曲创作只需几秒，「AI作曲家」Suno引爆音乐圈，第一手体验和攻略来了](https://posts.careerengine.us/p/6600fda0875b607e02150b44)  
-- [2024-03-25-离职谷歌的Transformer作者创业，连发3个模型（附技术报告）](https://posts.careerengine.us/p/6600fdb08176547e3ce2be26)  
-- [2024-03-25-讨论下一个token预测时，我们可能正在走进陷阱](https://posts.careerengine.us/p/6600fdb08176547e3ce2be1e)  
-- [2024-03-25-剑桥团队开源：赋能多模态大模型RAG应用，首个预训练通用多模态后期交互知识检索器](https://posts.careerengine.us/p/6600fdb18176547e3ce2be36)  
+- [2024-03-26-来自科技进步一等奖的肯定：腾讯破解万亿参数大模型训练难题](https://posts.careerengine.us/p/6602a8322e0eaa1c2cac5c2d) ![](/assets/new.png)  
+- [2024-03-26-实名羡慕！这些人已经用上了Sora](https://posts.careerengine.us/p/6602a8322e0eaa1c2cac5c24) ![](/assets/new.png)  
+- [2024-03-26-智能体DS-Agent基于案例推理，让GPT-4数据科学任务接近100％](https://posts.careerengine.us/p/6602a847b9ca2d1c6d9972e3) ![](/assets/new.png)  
+- [2024-03-26-再谈复现-Sora：被仰望与被遗忘的](https://posts.careerengine.us/p/6602a847b9ca2d1c6d9972eb) ![](/assets/new.png)  
+- [2024-03-26-Stability-AI开源3B代码生成模型：可补全，还能Debug](https://posts.careerengine.us/p/6602a859dede501cd56a4c92) ![](/assets/new.png)  
 - [2024-03-25-通用文档理解新SOTA，多模态大模型TextMonkey来了](https://posts.careerengine.us/p/6600fdb18176547e3ce2be2e)  
-- [2024-03-24-CVPR-2024-|-零样本6D物体姿态估计框架SAM-6D，向具身智能更进一步](https://posts.careerengine.us/p/65ffafc90d71b909986425e6)  
-- [2024-03-24-倒计时一周！首届中国具身智能大会（CEAI-2024）日程重磅发布！](https://posts.careerengine.us/p/65ffafbb6b0bf3094a6da6bc)  
-- [2024-03-24-CNN、Transformer、Uniformer之外，我们终于有了更高效的视频理解技术](https://posts.careerengine.us/p/65ffafba6b0bf3094a6da6ad)  
+- [2024-03-25-剑桥团队开源：赋能多模态大模型RAG应用，首个预训练通用多模态后期交互知识检索器](https://posts.careerengine.us/p/6600fdb18176547e3ce2be36)  
+- [2024-03-25-讨论下一个token预测时，我们可能正在走进陷阱](https://posts.careerengine.us/p/6600fdb08176547e3ce2be1e)  
+- [2024-03-25-离职谷歌的Transformer作者创业，连发3个模型（附技术报告）](https://posts.careerengine.us/p/6600fdb08176547e3ce2be26)  
+- [2024-03-25-词曲创作只需几秒，「AI作曲家」Suno引爆音乐圈，第一手体验和攻略来了](https://posts.careerengine.us/p/6600fda0875b607e02150b44)  
 - [2024-03-24-32K上下文，Mistral-7B-v0.2-基模型突然开源了](https://posts.careerengine.us/p/65ffafaa1859f40908c49b30)  
-- [2024-03-23-成为网红，马斯克Neuralink脑机接口植入者上线表演意念发帖](https://posts.careerengine.us/p/65fe774aab6b8d21fd362246)  
-- [2024-03-23-突发！Stability-AI的CEO，跑路了](https://posts.careerengine.us/p/65fe774aab6b8d21fd362250)  
-- [2024-03-23-复刻Sora的通用视频生成能力，开源多智能体框架Mora来了](https://posts.careerengine.us/p/65fe775cc098a6224458c377)  
-- [2024-03-23-OpenAI进军好莱坞：电影制作用Sora指日可待](https://posts.careerengine.us/p/65fe775dc098a6224458c380)  
+- [2024-03-24-CNN、Transformer、Uniformer之外，我们终于有了更高效的视频理解技术](https://posts.careerengine.us/p/65ffafba6b0bf3094a6da6ad)  
+- [2024-03-24-倒计时一周！首届中国具身智能大会（CEAI-2024）日程重磅发布！](https://posts.careerengine.us/p/65ffafbb6b0bf3094a6da6bc)  
+- [2024-03-24-CVPR-2024-|-零样本6D物体姿态估计框架SAM-6D，向具身智能更进一步](https://posts.careerengine.us/p/65ffafc90d71b909986425e6)  
 - [2024-03-23-Mixtral、Solar及OpenChat三大模型融合，效果能拉多高？](https://posts.careerengine.us/p/65fe7770ef30ee229880a7e6)  
-- [2024-03-22-微软NaturalSpeech语音合成推出第三代，网友惊呼：超自然！实至名归](https://posts.careerengine.us/p/65fd0df1165eb62579f9cfa3)  
-- [2024-03-22-发完最后一篇论文，Stable-Diffusion核心团队全要离职了](https://posts.careerengine.us/p/65fd0dd9c6c69924ff86098f)  
-- [2024-03-22-今天起，Windows可以一键召唤GPT-4了](https://posts.careerengine.us/p/65fd0dd9c6c69924ff860987)  
-- [2024-03-22-吴恩达：AI智能体工作流今年将有巨大进展，可能超过下一代基础模型](https://posts.careerengine.us/p/65fd0dd9c6c69924ff860997)  
+- [2024-03-23-OpenAI进军好莱坞：电影制作用Sora指日可待](https://posts.careerengine.us/p/65fe775dc098a6224458c380)  
+- [2024-03-23-复刻Sora的通用视频生成能力，开源多智能体框架Mora来了](https://posts.careerengine.us/p/65fe775cc098a6224458c377)  
+- [2024-03-23-突发！Stability-AI的CEO，跑路了](https://posts.careerengine.us/p/65fe774aab6b8d21fd362250)  
+- [2024-03-23-成为网红，马斯克Neuralink脑机接口植入者上线表演意念发帖](https://posts.careerengine.us/p/65fe774aab6b8d21fd362246)  
 - [2024-03-22-苏妈现身北京，AMD喊出了AI-PC-Yes！](https://posts.careerengine.us/p/65fd0dd9c6c69924ff86099f)  
-- [2024-03-21-薪酬、人数上不封顶，这家互联网大厂正在疯抢超级毕业生](https://posts.careerengine.us/p/65fc347dabe0367b9e698396)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-03-26-人人都能当周杰伦！Suno作曲，ChatGPT写词，网友用Transformer造出神曲！](https://posts.careerengine.us/p/66029054c7514918ea7cd80f) ![](/assets/new.png)  
-- [2024-03-26-ChatGPT王位难守？全球TOP100生成式AI应用重磅刷新：40％首次上榜，AI-陪伴来势凶猛](https://posts.careerengine.us/p/66029054c7514918ea7cd807) ![](/assets/new.png)  
+- [2024-03-26-人人都能当周杰伦！Suno作曲，ChatGPT写词，网友用Transformer造出神曲！](https://posts.careerengine.us/p/66029054c7514918ea7cd80f)  
+- [2024-03-26-ChatGPT王位难守？全球TOP100生成式AI应用重磅刷新：40％首次上榜，AI-陪伴来势凶猛](https://posts.careerengine.us/p/66029054c7514918ea7cd807)  
 - [2024-03-25-像搭积木一样创作游戏场景！腾讯发布游戏-AI-引擎-GiiNEX](https://posts.careerengine.us/p/66019a5b5552133f6cd848a0)  
 - [2024-03-25-鲶鱼效应显著！Sora-发布满月，多模态领域成果丰硕-|-大模型一周大事](https://posts.careerengine.us/p/66019a5b5552133f6cd848a9)  
 - [2024-03-25-月之暗面Kimi正被大厂“围剿”：90后清华学霸带队“卷”长文本，不到一年估值破百亿](https://posts.careerengine.us/p/66019a5b5552133f6cd848b1)  
