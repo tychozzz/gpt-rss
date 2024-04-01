@@ -26,9 +26,9 @@
 
 备用网站：[https://gpt-rss.vercel.app/](https://gpt-rss.vercel.app/)
 
-:alarm_clock: 更新时间: 2024-04-01 15:00:08
+:alarm_clock: 更新时间: 2024-04-02 06:00:07
 
-:rocket: 更新条数: +10 - ![](/assets/dot.png) 表示有更新
+:rocket: 更新条数: +2 - ![](/assets/dot.png) 表示有更新
 
 ## 查看文章
 
