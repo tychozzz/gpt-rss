@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-02 06:00:07，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-02 10:00:09，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-04-01-最神秘国产大模型团队冒泡，一出手就是万亿参数MoE，两款应用敞开玩](https://posts.careerengine.us/p/660a3d3d96df4068467f4a10)  
-- [2024-04-01-机器狗首次阵亡！美国警方披露详情](https://posts.careerengine.us/p/660a3d4cb8e49168c3719894)  
-- [2024-04-01-大模型实时打《街霸》捉对PK，GPT-4居然不敌3.5，新型Benchmark火了](https://posts.careerengine.us/p/660a3d4cb8e49168c371989c)  
-- [2024-04-01-0门槛免费商用！孟子3-13B大模型正式开源，万亿token数据训练](https://posts.careerengine.us/p/660a3d5aa1a49f68f30e822f)  
+- [2024-04-02-今天起，ChatGPT无需注册就能用了！](https://posts.careerengine.us/p/660b55fdbc834718a2bb087b) ![](/assets/new.png)  
+- [2024-04-02-ChatGPT也在评审你的顶会投稿，斯坦福新研究捅了马蜂窝，“这下闭环了”](https://posts.careerengine.us/p/660b560bc976a0192c9470e4) ![](/assets/new.png)  
 - [2024-04-01-“计算机视觉女神”被IEEE期刊封杀](https://posts.careerengine.us/p/660a3d5aa1a49f68f30e8227)  
-- [2024-03-31-上海交大新框架解锁CLIP长文本能力，多模态生成细节拿捏，图像检索能力显著提升](https://posts.careerengine.us/p/66092091d73fb76a9f0353da)  
-- [2024-03-31-百亿tokens免费额度，清华系明星AI公司的羊毛薅起来](https://posts.careerengine.us/p/66092083baba866a3d67039d)  
-- [2024-03-31-智谱再投AI-Infra清华系公司！已在大模型生态投资超13家企业](https://posts.careerengine.us/p/66092083baba866a3d6703a5)  
+- [2024-04-01-0门槛免费商用！孟子3-13B大模型正式开源，万亿token数据训练](https://posts.careerengine.us/p/660a3d5aa1a49f68f30e822f)  
+- [2024-04-01-大模型实时打《街霸》捉对PK，GPT-4居然不敌3.5，新型Benchmark火了](https://posts.careerengine.us/p/660a3d4cb8e49168c371989c)  
+- [2024-04-01-机器狗首次阵亡！美国警方披露详情](https://posts.careerengine.us/p/660a3d4cb8e49168c3719894)  
+- [2024-04-01-最神秘国产大模型团队冒泡，一出手就是万亿参数MoE，两款应用敞开玩](https://posts.careerengine.us/p/660a3d3d96df4068467f4a10)  
 - [2024-03-31-一款手游有400+个AI角色！腾讯游戏新系统炸场GDC：训练成本大减90％](https://posts.careerengine.us/p/66092083baba866a3d6703ad)  
-- [2024-03-30-IEEE：GPU很好，但不是唯一](https://posts.careerengine.us/p/66079ab2d10ef4182a38be92)  
-- [2024-03-30-OpenAI藏了1年多的技术正式公开！15秒素材克隆声音，HeyGen也在用](https://posts.careerengine.us/p/66079ac02010f618a97bbe15)  
-- [2024-03-30-我的领导马斯克：痛恨开会，不要非技术中层，推崇裁员](https://posts.careerengine.us/p/66079ac02010f618a97bbe1d)  
+- [2024-03-31-智谱再投AI-Infra清华系公司！已在大模型生态投资超13家企业](https://posts.careerengine.us/p/66092083baba866a3d6703a5)  
+- [2024-03-31-百亿tokens免费额度，清华系明星AI公司的羊毛薅起来](https://posts.careerengine.us/p/66092083baba866a3d67039d)  
+- [2024-03-31-上海交大新框架解锁CLIP长文本能力，多模态生成细节拿捏，图像检索能力显著提升](https://posts.careerengine.us/p/66092091d73fb76a9f0353da)  
 - [2024-03-30-GPT-4单项仅得7.1分，揭露大模型代码能力三大短板，最新基准测试来了](https://posts.careerengine.us/p/66079ace3ee5c918d73885c2)  
-- [2024-03-29-最后3天！AIGC评选报名即将截止，我们正在寻找值得关注的企业与产品——](https://posts.careerengine.us/p/66068d169f145c0ee9b0d316)  
-- [2024-03-29-吉娃娃or松饼难题被解决！IDEA研究院新模型打通文本视觉Prompt，连黑客帝国的子弹都能数清楚](https://posts.careerengine.us/p/66068d08b014800eb0698ce7)  
-- [2024-03-29-Mamba架构第一次做大！混合Transformer，打败Transformer](https://posts.careerengine.us/p/66068d08b014800eb0698cdf)  
-- [2024-03-29-马斯克突发Grok-1.5！上下文长度至128k、HumanEval得分超GPT-4](https://posts.careerengine.us/p/66068cfa0663840e5aaa23ea)  
-- [2024-03-29-博鳌热议AI大模型，人民网报告梳理产业机遇：端云结合、芯片、开源](https://posts.careerengine.us/p/66068cebd040340df7da2721)  
+- [2024-03-30-我的领导马斯克：痛恨开会，不要非技术中层，推崇裁员](https://posts.careerengine.us/p/66079ac02010f618a97bbe1d)  
+- [2024-03-30-OpenAI藏了1年多的技术正式公开！15秒素材克隆声音，HeyGen也在用](https://posts.careerengine.us/p/66079ac02010f618a97bbe15)  
+- [2024-03-30-IEEE：GPU很好，但不是唯一](https://posts.careerengine.us/p/66079ab2d10ef4182a38be92)  
 - [2024-03-29-大模型预测，下一个token何必是文字？](https://posts.careerengine.us/p/66068cebd040340df7da2729)  
-- [2024-03-28-钉钉AI：好险，差点就被长文本卷到](https://posts.careerengine.us/p/6604f54fbfe35f7cbc9bc39c)  
+- [2024-03-29-博鳌热议AI大模型，人民网报告梳理产业机遇：端云结合、芯片、开源](https://posts.careerengine.us/p/66068cebd040340df7da2721)  
+- [2024-03-29-马斯克突发Grok-1.5！上下文长度至128k、HumanEval得分超GPT-4](https://posts.careerengine.us/p/66068cfa0663840e5aaa23ea)  
+- [2024-03-29-Mamba架构第一次做大！混合Transformer，打败Transformer](https://posts.careerengine.us/p/66068d08b014800eb0698cdf)  
+- [2024-03-29-吉娃娃or松饼难题被解决！IDEA研究院新模型打通文本视觉Prompt，连黑客帝国的子弹都能数清楚](https://posts.careerengine.us/p/66068d08b014800eb0698ce7)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-04-01-Stability、Mistral、Databricks、通义、A21-Labs开源五连招，其中三个是MoE！|大模型一周大事](https://posts.careerengine.us/p/660ad6a90af605072ffbe143) ![](/assets/new.png)  
-- [2024-04-01-大模型创业淘汰潮开始了：这是第一个估值10亿美元的祭品](https://posts.careerengine.us/p/660ad6a90af605072ffbe133) ![](/assets/new.png)  
+- [2024-04-01-Stability、Mistral、Databricks、通义、A21-Labs开源五连招，其中三个是MoE！|大模型一周大事](https://posts.careerengine.us/p/660ad6a90af605072ffbe143)  
+- [2024-04-01-大模型创业淘汰潮开始了：这是第一个估值10亿美元的祭品](https://posts.careerengine.us/p/660ad6a90af605072ffbe133)  
 - [2024-03-31-今年-Q1-“神仙打架”：Sora惊艳、马斯克“找茬”，微软谷歌接连翻车-｜文末好礼](https://posts.careerengine.us/p/6608f5c397bb711dee9fad01)  
 - [2024-03-31-小米汽车乱局：小爱同学“罢工”、F-码炒至-5-万元；罗永浩直播卖阿里云；小扎亲自挖谷歌员工：无需面试-|-AI周报](https://posts.careerengine.us/p/6608f5b57de2e01dc0c15c33)  
 - [2024-03-29-马斯克官宣Grok-1.5！超GPT-4-16倍上下文，推理能力超DBRX，网友：赢在敢说！](https://posts.careerengine.us/p/66065b940ebf8119ed89a642)  
