@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-02 15:00:13，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-04 06:00:10，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -8,9 +8,9 @@
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-04-02-叠衣服、擦案板、冲果汁，能做家务的国产机器人终于要来了](https://posts.careerengine.us/p/660b76aad1092a3b6bf983fc) ![](/assets/new.png)  
-- [2024-04-02-音乐ChatGPT时刻来临！「天工SkyMusic」音乐大模型今日启动邀测](https://posts.careerengine.us/p/660b76b8de22153bab46a879) ![](/assets/new.png)  
-- [2024-04-02-苹果AI放大招？新设备端模型超过GPT-4，有望拯救Siri](https://posts.careerengine.us/p/660b76c64194253bebc30ddc) ![](/assets/new.png)  
-- [2024-04-02-现在，ChatGPT不注册登录也能免费用了](https://posts.careerengine.us/p/660b76c64194253bebc30dd4) ![](/assets/new.png)  
-- [2024-04-02-发展新质生产力，金融行业如何释放AI「模」力？](https://posts.careerengine.us/p/660b76c64194253bebc30de4) ![](/assets/new.png)  
-- [2024-04-01-ICLR-2024-|-鸡生蛋蛋生鸡？再论生成数据能否帮助模型训练](https://posts.careerengine.us/p/660a3f01bb2d25716a3d86dc)  
-- [2024-04-01-可编辑的DALL·E-3要来了？一句话就能PS图片](https://posts.careerengine.us/p/660a3eef67c58e71352753db)  
-- [2024-04-01-比LoRA还快50％的微调方法来了！一张3090性能超越全参调优，UIUC联合LMFlow团队提出LISA](https://posts.careerengine.us/p/660a3eef67c58e71352753d3)  
-- [2024-04-01-AI行业买英伟达GPU，花的钱比赚的多17倍](https://posts.careerengine.us/p/660a3eef67c58e71352753e3)  
+- [2024-04-04-国内首个AI程序员入职阿里云：专属工号AI001，KPI是一人写完公司20％代码](https://posts.careerengine.us/p/660d90f57e3cc36930866053) ![](/assets/new.png)  
+- [2024-04-04-长文本之罪：Claude团队新越狱技术，Llama-2到GPT-4无一幸免](https://posts.careerengine.us/p/660d9104a16723699fae68e9) ![](/assets/new.png)  
+- [2024-04-04-还得是抖音，字节推出竖屏视频理解数据集，入选CVPR2024](https://posts.careerengine.us/p/660d9116a4f73069e2e35f45) ![](/assets/new.png)  
+- [2024-04-04-华为诺亚频域LLM「帝江」：仅需1/50训练成本，7B模型媲美LLaMA，推理加速5倍](https://posts.careerengine.us/p/660d9116a4f73069e2e35f56) ![](/assets/new.png)  
+- [2024-04-04-开源版AI程序员来了：GPT-4加持，能力比肩Devin，一天1.4k-Star](https://posts.careerengine.us/p/660d9116a4f73069e2e35f4d) ![](/assets/new.png)  
+- [2024-04-02-发展新质生产力，金融行业如何释放AI「模」力？](https://posts.careerengine.us/p/660b76c64194253bebc30de4)  
+- [2024-04-02-现在，ChatGPT不注册登录也能免费用了](https://posts.careerengine.us/p/660b76c64194253bebc30dd4)  
+- [2024-04-02-苹果AI放大招？新设备端模型超过GPT-4，有望拯救Siri](https://posts.careerengine.us/p/660b76c64194253bebc30ddc)  
+- [2024-04-02-音乐ChatGPT时刻来临！「天工SkyMusic」音乐大模型今日启动邀测](https://posts.careerengine.us/p/660b76b8de22153bab46a879)  
+- [2024-04-02-叠衣服、擦案板、冲果汁，能做家务的国产机器人终于要来了](https://posts.careerengine.us/p/660b76aad1092a3b6bf983fc)  
 - [2024-04-01-告别微软，姜大昕带领这支精英团队攀登Scaling-Law，万亿参数模型已有预览版](https://posts.careerengine.us/p/660a3eddacc34570c3ccaf6c)  
-- [2024-03-31-统一角色、百变场景，视频生成神器PixVerse被网友玩出了花，超强一致性成「杀招」](https://posts.careerengine.us/p/6608e976b313ba611ca6e0fe)  
-- [2024-03-31-全日程发布｜Sora之后的视频生成技术与应用](https://posts.careerengine.us/p/6608e976b313ba611ca6e0f6)  
-- [2024-03-31-CVPR-2024-|-让视频姿态Transformer变得飞速，北大提出高效三维人体姿态估计框架HoT](https://posts.careerengine.us/p/6608e9847218a46159d730ed)  
+- [2024-04-01-AI行业买英伟达GPU，花的钱比赚的多17倍](https://posts.careerengine.us/p/660a3eef67c58e71352753e3)  
+- [2024-04-01-比LoRA还快50％的微调方法来了！一张3090性能超越全参调优，UIUC联合LMFlow团队提出LISA](https://posts.careerengine.us/p/660a3eef67c58e71352753d3)  
+- [2024-04-01-可编辑的DALL·E-3要来了？一句话就能PS图片](https://posts.careerengine.us/p/660a3eef67c58e71352753db)  
+- [2024-04-01-ICLR-2024-|-鸡生蛋蛋生鸡？再论生成数据能否帮助模型训练](https://posts.careerengine.us/p/660a3f01bb2d25716a3d86dc)  
 - [2024-03-31-此时此刻，两个Claude智能体正在无休止对话，无人干预](https://posts.careerengine.us/p/6608e992cf912d618605e7e4)  
-- [2024-03-30-OpenAI首次官宣语音项目，配音演员警报拉响](https://posts.careerengine.us/p/6607a261db21b13fc36ee05c)  
-- [2024-03-30-CVPR-2024-|-面部+肢体动画，一个框架搞定从音频生成数字人表情与动作](https://posts.careerengine.us/p/6607a25339d1063f7239883a)  
-- [2024-03-30-非侵入设备贴在脖子上，就能代替人类发声，研究登《自然通讯》](https://posts.careerengine.us/p/6607a25339d1063f7239884b)  
-- [2024-03-30-微软、OpenAI又搞大动作：斥资1000亿美元开发AI超算「星际之门」](https://posts.careerengine.us/p/6607a23e7704983efb7b32d7)  
+- [2024-03-31-CVPR-2024-|-让视频姿态Transformer变得飞速，北大提出高效三维人体姿态估计框架HoT](https://posts.careerengine.us/p/6608e9847218a46159d730ed)  
+- [2024-03-31-全日程发布｜Sora之后的视频生成技术与应用](https://posts.careerengine.us/p/6608e976b313ba611ca6e0f6)  
+- [2024-03-31-统一角色、百变场景，视频生成神器PixVerse被网友玩出了花，超强一致性成「杀招」](https://posts.careerengine.us/p/6608e976b313ba611ca6e0fe)  
 - [2024-03-30-吴恩达：别光盯着GPT-5，用GPT-4做个智能体可能提前达到GPT-5的效果](https://posts.careerengine.us/p/6607a23e7704983efb7b32df)  
-- [2024-03-29-AI创业吧！不缺计算资源那种](https://posts.careerengine.us/p/6606579087326c05b1a80360)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,8 +118,8 @@
 </summary>
 
 
-- [2024-04-02-文末送书-|-李沐力荐！GitHub揽获64.9k星的数据结构与算法教程，出版了！](https://posts.careerengine.us/p/660b985fca6d8662f5859a0f) ![](/assets/new.png)  
-- [2024-04-02-Transformer升级之路：多模态编码位置的简单思考](https://posts.careerengine.us/p/660b985fca6d8662f5859a17) ![](/assets/new.png)  
+- [2024-04-02-文末送书-|-李沐力荐！GitHub揽获64.9k星的数据结构与算法教程，出版了！](https://posts.careerengine.us/p/660b985fca6d8662f5859a0f)  
+- [2024-04-02-Transformer升级之路：多模态编码位置的简单思考](https://posts.careerengine.us/p/660b985fca6d8662f5859a17)  
 - [2024-03-29-博士申请-|-澳门大学郑哲东教授课题组招收人工智能方向全奖博士/RA/博后](https://posts.careerengine.us/p/6606c52488cd6c27406bb444)  
 - [2024-03-29-CCL2024-Eval-|-儿童故事常识推理与寓意理解评测正式开启，诚邀您积极参与](https://posts.careerengine.us/p/6606c51611a970270c37e69d)  
 - [2024-03-29-万字长文总结多模态大模型最新进展（Modality-Bridging篇）](https://posts.careerengine.us/p/6606c51611a970270c37e695)  
@@ -176,9 +176,9 @@
 </summary>
 
 
-- [2024-04-02-ChatGPT免注册让官网挂了？沃顿教授：OpenAI-做了错误的决定](https://posts.careerengine.us/p/660b812c48fb766ee766ef97) ![](/assets/new.png)  
-- [2024-04-02-15-秒音频即可“复制”原声！但OpenAI-担心新语音模型被滥用而限制发行](https://posts.careerengine.us/p/660b812c48fb766ee766ef9f) ![](/assets/new.png)  
-- [2024-04-02-全日程发布，Sora-之后的视频生成技术与应用｜-Q推荐](https://posts.careerengine.us/p/660b812c48fb766ee766ef8f) ![](/assets/new.png)  
+- [2024-04-02-ChatGPT免注册让官网挂了？沃顿教授：OpenAI-做了错误的决定](https://posts.careerengine.us/p/660b812c48fb766ee766ef97)  
+- [2024-04-02-15-秒音频即可“复制”原声！但OpenAI-担心新语音模型被滥用而限制发行](https://posts.careerengine.us/p/660b812c48fb766ee766ef9f)  
+- [2024-04-02-全日程发布，Sora-之后的视频生成技术与应用｜-Q推荐](https://posts.careerengine.us/p/660b812c48fb766ee766ef8f)  
 - [2024-04-01-大模型创业淘汰潮开始了：这是第一个估值10亿美元的祭品](https://posts.careerengine.us/p/660ad6a90af605072ffbe133)  
 - [2024-04-01-Stability、Mistral、Databricks、通义、A21-Labs开源五连招，其中三个是MoE！|大模型一周大事](https://posts.careerengine.us/p/660ad6a90af605072ffbe143)  
 - [2024-03-31-小米汽车乱局：小爱同学“罢工”、F-码炒至-5-万元；罗永浩直播卖阿里云；小扎亲自挖谷歌员工：无需面试-|-AI周报](https://posts.careerengine.us/p/6608f5b57de2e01dc0c15c33)  
