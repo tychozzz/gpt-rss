@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-05 15:00:10，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-06 06:00:09，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-04-05-李飞飞主讲，斯坦福2024-CS231n开课，依旧座无虚席](https://posts.careerengine.us/p/660f7cb96d427131edbc5824) ![](/assets/new.png)  
-- [2024-04-05-AI无人商店背后，是上千个印度人通过摄像头看美国人买西蓝花？](https://posts.careerengine.us/p/660f7cb96d427131edbc582c) ![](/assets/new.png)  
-- [2024-04-05-值得你花时间看的扩散模型教程，来自普渡大学](https://posts.careerengine.us/p/660f7cca2a424c323b06669b) ![](/assets/new.png)  
-- [2024-04-05-攻陷短视频后，Sora将需要72万块H100-GPU](https://posts.careerengine.us/p/660f7cca2a424c323b066693) ![](/assets/new.png)  
-- [2024-04-05-让智能体像孩子一样观察别人学习动作，跨视角技能学习数据集EgoExoLearn来了](https://posts.careerengine.us/p/660f7cca2a424c323b06668b) ![](/assets/new.png)  
+- [2024-04-05-李飞飞主讲，斯坦福2024-CS231n开课，依旧座无虚席](https://posts.careerengine.us/p/660f7cb96d427131edbc5824)  
+- [2024-04-05-AI无人商店背后，是上千个印度人通过摄像头看美国人买西蓝花？](https://posts.careerengine.us/p/660f7cb96d427131edbc582c)  
+- [2024-04-05-值得你花时间看的扩散模型教程，来自普渡大学](https://posts.careerengine.us/p/660f7cca2a424c323b06669b)  
+- [2024-04-05-攻陷短视频后，Sora将需要72万块H100-GPU](https://posts.careerengine.us/p/660f7cca2a424c323b066693)  
+- [2024-04-05-让智能体像孩子一样观察别人学习动作，跨视角技能学习数据集EgoExoLearn来了](https://posts.careerengine.us/p/660f7cca2a424c323b06668b)  
 - [2024-04-04-弱智吧：大模型变聪明，有我一份贡献](https://posts.careerengine.us/p/660e25851067e5066c5d148f)  
 - [2024-04-04-CVPR-2024满分论文，英伟达开源BOP排行榜6D物体姿态第一名方法](https://posts.careerengine.us/p/660e25851067e5066c5d1498)  
 - [2024-04-04-让AI进入物理世界，首届中国具身智能大会展望智能新纪元](https://posts.careerengine.us/p/660e25746a7449061d8beeca)  
@@ -52,8 +52,8 @@
 </summary>
 
 
-- [2024-04-05-谷歌更新Transformer架构，更节省计算资源！50％性能提升](https://posts.careerengine.us/p/660f7e99dd70ea3b753049a8) ![](/assets/new.png)  
-- [2024-04-05-10万美元训出Llama-2级大模型！全华人打造新型MoE，贾扬清SD前CEO围观](https://posts.careerengine.us/p/660f7ea8cfeed23ba8392962) ![](/assets/new.png)  
+- [2024-04-05-谷歌更新Transformer架构，更节省计算资源！50％性能提升](https://posts.careerengine.us/p/660f7e99dd70ea3b753049a8)  
+- [2024-04-05-10万美元训出Llama-2级大模型！全华人打造新型MoE，贾扬清SD前CEO围观](https://posts.careerengine.us/p/660f7ea8cfeed23ba8392962)  
 - [2024-04-04-峰会报名中｜第二波嘉宾已就位，距离4月17日仅有两周](https://posts.careerengine.us/p/660e267794ca4d0b13f35abb)  
 - [2024-04-04-AIGC还是二刺猿会玩：捏娃社区爆火，有脑洞就能当同人大佬](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd34)  
 - [2024-04-04-英伟达AI新课爆火！免费学习，干货满满](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd3d)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-04-02-文末送书-|-李沐力荐！GitHub揽获64.9k星的数据结构与算法教程，出版了！](https://posts.careerengine.us/p/660b985fca6d8662f5859a0f)  
+- [2024-04-05-大模型屠龙刀：揭开OpenAI-Scaling-Laws面纱](https://posts.careerengine.us/p/66101b6296025e38bfe6f1ba) ![](/assets/new.png)  
+- [2024-04-05-ICLR-2024-|-阿里、NTU等发布大模型多语言安全挑战及自我防御框架](https://posts.careerengine.us/p/66101b70452df039016d89d5) ![](/assets/new.png)  
+- [2024-04-05-博士申请-|-香港科技大学（广州）丁宁宁老师招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/66101b70452df039016d89dd) ![](/assets/new.png)  
+- [2024-04-05-华为提出频域LLM帝江：仅需1/50训练成本，7B模型媲美LLaMA，推理加速5倍](https://posts.careerengine.us/p/66101b7ec5e64c392800550a) ![](/assets/new.png)  
 - [2024-04-02-Transformer升级之路：多模态编码位置的简单思考](https://posts.careerengine.us/p/660b985fca6d8662f5859a17)  
-- [2024-03-29-博士申请-|-澳门大学郑哲东教授课题组招收人工智能方向全奖博士/RA/博后](https://posts.careerengine.us/p/6606c52488cd6c27406bb444)  
-- [2024-03-29-CCL2024-Eval-|-儿童故事常识推理与寓意理解评测正式开启，诚邀您积极参与](https://posts.careerengine.us/p/6606c51611a970270c37e69d)  
-- [2024-03-29-万字长文总结多模态大模型最新进展（Modality-Bridging篇）](https://posts.careerengine.us/p/6606c51611a970270c37e695)  
+- [2024-04-02-文末送书-|-李沐力荐！GitHub揽获64.9k星的数据结构与算法教程，出版了！](https://posts.careerengine.us/p/660b985fca6d8662f5859a0f)  
 - [2024-03-29-​249篇文献！北邮发布文本到图像Diffusion可控生成最新综述，已开源！](https://posts.careerengine.us/p/6606c51611a970270c37e6a7)  
-- [2024-03-28-WWW-2024-|-通用可识别、可解释认知诊断框架：开创全新学习者能力建模范式](https://posts.careerengine.us/p/6604fcf8be47fb2466fd37b5)  
-- [2024-03-28-深入解析大模型主流微调方法：从LoRA、QLoRA到Flash-Attention、增量学习](https://posts.careerengine.us/p/6604fcf8be47fb2466fd37bd)  
+- [2024-03-29-万字长文总结多模态大模型最新进展（Modality-Bridging篇）](https://posts.careerengine.us/p/6606c51611a970270c37e695)  
+- [2024-03-29-CCL2024-Eval-|-儿童故事常识推理与寓意理解评测正式开启，诚邀您积极参与](https://posts.careerengine.us/p/6606c51611a970270c37e69d)  
+- [2024-03-29-博士申请-|-澳门大学郑哲东教授课题组招收人工智能方向全奖博士/RA/博后](https://posts.careerengine.us/p/6606c52488cd6c27406bb444)  
 - [2024-03-28-北京内推-|-微软亚洲研究院机器学习与工业创新组招聘研究型实习生](https://posts.careerengine.us/p/6604fd1534d5ef24ceac8e39)  
-- [2024-03-27-博士申请-|-香港科技大学（广州）骆昱宇教授招收数据科学方向全奖博士生](https://posts.careerengine.us/p/6603a37728e66b7a2ae7ffaa)  
-- [2024-03-27-简单好用！北大、普林斯顿联合提出即插即用的大语言模型加速方法](https://posts.careerengine.us/p/6603a363c66539799a3abea3)  
-- [2024-03-27-加速十倍，前向传播立大功！基于神经网络的偏微分方程求解器新突破](https://posts.careerengine.us/p/6603a363c66539799a3abe9a)  
+- [2024-03-28-深入解析大模型主流微调方法：从LoRA、QLoRA到Flash-Attention、增量学习](https://posts.careerengine.us/p/6604fcf8be47fb2466fd37bd)  
+- [2024-03-28-WWW-2024-|-通用可识别、可解释认知诊断框架：开创全新学习者能力建模范式](https://posts.careerengine.us/p/6604fcf8be47fb2466fd37b5)  
 - [2024-03-27-视觉特征在语言空间中如何分布？武大、上海交大提出统一多模态自回归建模框架](https://posts.careerengine.us/p/6603a363c66539799a3abeac)  
-- [2024-03-26-WWW-2024-|-阿里等提出GraphTranslator，将图模型对齐大语言模型](https://posts.careerengine.us/p/66025976b1ed0b680804e09d)  
-- [2024-03-26-浙大/华科提出EVE-NeRF，基于“视角——极线”信息纠缠的可泛化隐式神经辐射场](https://posts.careerengine.us/p/66025976b1ed0b680804e095)  
-- [2024-03-26-多模态融合再度领跑ICLR-2024！这56种创新SOTA方案必看](https://posts.careerengine.us/p/66025976b1ed0b680804e08d)  
+- [2024-03-27-加速十倍，前向传播立大功！基于神经网络的偏微分方程求解器新突破](https://posts.careerengine.us/p/6603a363c66539799a3abe9a)  
+- [2024-03-27-简单好用！北大、普林斯顿联合提出即插即用的大语言模型加速方法](https://posts.careerengine.us/p/6603a363c66539799a3abea3)  
+- [2024-03-27-博士申请-|-香港科技大学（广州）骆昱宇教授招收数据科学方向全奖博士生](https://posts.careerengine.us/p/6603a37728e66b7a2ae7ffaa)  
 - [2024-03-26-北京/上海内推-|-小红书智能创作团队招聘多模态大模型算法工程师/实习生](https://posts.careerengine.us/p/66025986b00821686c110a54)  
-- [2024-03-25-CCL2024-Eval-|-第二届汉语框架语义解析评测正式开启，诚邀各界专家学者参与](https://posts.careerengine.us/p/660182c8e8ace9401497698b)  
-- [2024-03-25-时空之章：将Attention视为平方复杂度的RNN](https://posts.careerengine.us/p/660182c8e8ace9401497699b)  
-- [2024-03-25-CVPR-2024-|-闻声识人黑科技！从音频中想象出说话人脸，FaceChain团队出品](https://posts.careerengine.us/p/660182c8e8ace94014976993)  
+- [2024-03-26-多模态融合再度领跑ICLR-2024！这56种创新SOTA方案必看](https://posts.careerengine.us/p/66025976b1ed0b680804e08d)  
+- [2024-03-26-浙大/华科提出EVE-NeRF，基于“视角——极线”信息纠缠的可泛化隐式神经辐射场](https://posts.careerengine.us/p/66025976b1ed0b680804e095)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2024-04-05-创始团队仅3人、估值最高25亿美元，万字长文讲述RISC-V商业帝国崛起背后的故事](https://posts.careerengine.us/p/660f8d8ebf864f0770905d1a) ![](/assets/new.png)  
+- [2024-04-05-创始团队仅3人、估值最高25亿美元，万字长文讲述RISC-V商业帝国崛起背后的故事](https://posts.careerengine.us/p/660f8d8ebf864f0770905d1a)  
 - [2024-04-04-专访华润银行：中小银行如何突围“数据治理”的层层障碍？](https://posts.careerengine.us/p/660e3c7448c8cf7d25928fb1)  
 - [2024-04-04-用-AI-面试员工的企业，知道打工人在想什么吗？！](https://posts.careerengine.us/p/660e3c6547632e7cf1c02018)  
 - [2024-04-03-被性别歧视、陷经济窘境，AI女神李飞飞自述：我要打破算法中的偏见](https://posts.careerengine.us/p/660e3df45433b205f4e18105)  
