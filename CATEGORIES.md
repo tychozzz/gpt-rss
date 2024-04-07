@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-07 15:00:10，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-07 18:00:11，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-04-07-超越GPT-4，斯坦福团队手机可跑的大模型火了，一夜下载量超2k](https://posts.careerengine.us/p/66122a9a810ed135b86776f8) ![](/assets/new.png)  
-- [2024-04-07-谷歌DeepMind发布Gecko：专攻检索，与大7倍模型相抗衡](https://posts.careerengine.us/p/66122a9a810ed135b86776ef) ![](/assets/new.png)  
-- [2024-04-07-Scaling-Law-又一次性感了吗？](https://posts.careerengine.us/p/66122aa93b600935f41e2753) ![](/assets/new.png)  
-- [2024-04-07-揭秘AI幻觉：GPT-4V存在视觉编码漏洞，清华联合NUS提出LLaVA-UHD](https://posts.careerengine.us/p/66122ab877f2fe365e7892fa) ![](/assets/new.png)  
-- [2024-04-07-二次元专用超分AI模型APISR：在线可用，入选CVPR](https://posts.careerengine.us/p/66122ab877f2fe365e7892f1) ![](/assets/new.png)  
+- [2024-04-07-超越GPT-4，斯坦福团队手机可跑的大模型火了，一夜下载量超2k](https://posts.careerengine.us/p/66122a9a810ed135b86776f8)  
+- [2024-04-07-谷歌DeepMind发布Gecko：专攻检索，与大7倍模型相抗衡](https://posts.careerengine.us/p/66122a9a810ed135b86776ef)  
+- [2024-04-07-Scaling-Law-又一次性感了吗？](https://posts.careerengine.us/p/66122aa93b600935f41e2753)  
+- [2024-04-07-揭秘AI幻觉：GPT-4V存在视觉编码漏洞，清华联合NUS提出LLaVA-UHD](https://posts.careerengine.us/p/66122ab877f2fe365e7892fa)  
+- [2024-04-07-二次元专用超分AI模型APISR：在线可用，入选CVPR](https://posts.careerengine.us/p/66122ab877f2fe365e7892f1)  
 - [2024-04-06-ICLR-2024-|-联邦学习后门攻击的模型关键层](https://posts.careerengine.us/p/6610d100b92c8e5a4aad8828)  
 - [2024-04-06-从300亿分子中筛出6款，结构新且易合成，斯坦福抗生素设计AI模型登Nature子刊](https://posts.careerengine.us/p/6610d100b92c8e5a4aad8830)  
 - [2024-04-06-Up主已经开始鬼畜，腾讯开源「AniPortrait」让照片唱歌说话](https://posts.careerengine.us/p/6610d0ef1b705b5a11f3286f)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-04-06-CVPR-2024-|-北航联合港大发布全新文本引导矢量图形合成方法SVGDreamer](https://posts.careerengine.us/p/6611220c255be170af8539ca)  
-- [2024-04-06-GitHub突破1000星！上交、清华开源个性化联邦学习算法库PFLlib](https://posts.careerengine.us/p/6611220c255be170af8539c2)  
+- [2024-04-07-CVPR、AAAI、ICLR-2024优秀论文出炉！](https://posts.careerengine.us/p/66122fab2488b64f71984488) ![](/assets/new.png)  
+- [2024-04-07-迈向公平图学习的新基准：电子科大等发布全新综合数据集和统一评估方法](https://posts.careerengine.us/p/66122fb91b6ea74f9f506826) ![](/assets/new.png)  
+- [2024-04-07-CVPR-2024-|-拖拽P图又双叒升级了！DragNoise实现更快更准的拖拽编辑](https://posts.careerengine.us/p/66122fc73d68454fd757c111) ![](/assets/new.png)  
+- [2024-04-07-探索历史的宝藏！ICDAR-2024-历史地图文字识别比赛邀您参与](https://posts.careerengine.us/p/66122fc73d68454fd757c119) ![](/assets/new.png)  
 - [2024-04-06-北京内推-|-微软亚洲研究院DKI组招聘Copilot与LLM研发实习生](https://posts.careerengine.us/p/6611221b5f40377111cfcabb)  
-- [2024-04-05-华为提出频域LLM帝江：仅需1/50训练成本，7B模型媲美LLaMA，推理加速5倍](https://posts.careerengine.us/p/66101b7ec5e64c392800550a)  
-- [2024-04-05-博士申请-|-香港科技大学（广州）丁宁宁老师招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/66101b70452df039016d89dd)  
-- [2024-04-05-ICLR-2024-|-阿里、NTU等发布大模型多语言安全挑战及自我防御框架](https://posts.careerengine.us/p/66101b70452df039016d89d5)  
+- [2024-04-06-GitHub突破1000星！上交、清华开源个性化联邦学习算法库PFLlib](https://posts.careerengine.us/p/6611220c255be170af8539c2)  
+- [2024-04-06-CVPR-2024-|-北航联合港大发布全新文本引导矢量图形合成方法SVGDreamer](https://posts.careerengine.us/p/6611220c255be170af8539ca)  
 - [2024-04-05-大模型屠龙刀：揭开OpenAI-Scaling-Laws面纱](https://posts.careerengine.us/p/66101b6296025e38bfe6f1ba)  
-- [2024-04-02-文末送书-|-李沐力荐！GitHub揽获64.9k星的数据结构与算法教程，出版了！](https://posts.careerengine.us/p/660b985fca6d8662f5859a0f)  
+- [2024-04-05-ICLR-2024-|-阿里、NTU等发布大模型多语言安全挑战及自我防御框架](https://posts.careerengine.us/p/66101b70452df039016d89d5)  
+- [2024-04-05-博士申请-|-香港科技大学（广州）丁宁宁老师招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/66101b70452df039016d89dd)  
+- [2024-04-05-华为提出频域LLM帝江：仅需1/50训练成本，7B模型媲美LLaMA，推理加速5倍](https://posts.careerengine.us/p/66101b7ec5e64c392800550a)  
 - [2024-04-02-Transformer升级之路：多模态编码位置的简单思考](https://posts.careerengine.us/p/660b985fca6d8662f5859a17)  
-- [2024-03-29-博士申请-|-澳门大学郑哲东教授课题组招收人工智能方向全奖博士/RA/博后](https://posts.careerengine.us/p/6606c52488cd6c27406bb444)  
-- [2024-03-29-CCL2024-Eval-|-儿童故事常识推理与寓意理解评测正式开启，诚邀您积极参与](https://posts.careerengine.us/p/6606c51611a970270c37e69d)  
-- [2024-03-29-万字长文总结多模态大模型最新进展（Modality-Bridging篇）](https://posts.careerengine.us/p/6606c51611a970270c37e695)  
+- [2024-04-02-文末送书-|-李沐力荐！GitHub揽获64.9k星的数据结构与算法教程，出版了！](https://posts.careerengine.us/p/660b985fca6d8662f5859a0f)  
 - [2024-03-29-​249篇文献！北邮发布文本到图像Diffusion可控生成最新综述，已开源！](https://posts.careerengine.us/p/6606c51611a970270c37e6a7)  
-- [2024-03-28-WWW-2024-|-通用可识别、可解释认知诊断框架：开创全新学习者能力建模范式](https://posts.careerengine.us/p/6604fcf8be47fb2466fd37b5)  
-- [2024-03-28-深入解析大模型主流微调方法：从LoRA、QLoRA到Flash-Attention、增量学习](https://posts.careerengine.us/p/6604fcf8be47fb2466fd37bd)  
+- [2024-03-29-万字长文总结多模态大模型最新进展（Modality-Bridging篇）](https://posts.careerengine.us/p/6606c51611a970270c37e695)  
+- [2024-03-29-CCL2024-Eval-|-儿童故事常识推理与寓意理解评测正式开启，诚邀您积极参与](https://posts.careerengine.us/p/6606c51611a970270c37e69d)  
+- [2024-03-29-博士申请-|-澳门大学郑哲东教授课题组招收人工智能方向全奖博士/RA/博后](https://posts.careerengine.us/p/6606c52488cd6c27406bb444)  
 - [2024-03-28-北京内推-|-微软亚洲研究院机器学习与工业创新组招聘研究型实习生](https://posts.careerengine.us/p/6604fd1534d5ef24ceac8e39)  
-- [2024-03-27-博士申请-|-香港科技大学（广州）骆昱宇教授招收数据科学方向全奖博士生](https://posts.careerengine.us/p/6603a37728e66b7a2ae7ffaa)  
-- [2024-03-27-简单好用！北大、普林斯顿联合提出即插即用的大语言模型加速方法](https://posts.careerengine.us/p/6603a363c66539799a3abea3)  
-- [2024-03-27-加速十倍，前向传播立大功！基于神经网络的偏微分方程求解器新突破](https://posts.careerengine.us/p/6603a363c66539799a3abe9a)  
-- [2024-03-27-视觉特征在语言空间中如何分布？武大、上海交大提出统一多模态自回归建模框架](https://posts.careerengine.us/p/6603a363c66539799a3abeac)  
+- [2024-03-28-深入解析大模型主流微调方法：从LoRA、QLoRA到Flash-Attention、增量学习](https://posts.careerengine.us/p/6604fcf8be47fb2466fd37bd)  
+- [2024-03-28-WWW-2024-|-通用可识别、可解释认知诊断框架：开创全新学习者能力建模范式](https://posts.careerengine.us/p/6604fcf8be47fb2466fd37b5)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2024-04-07-Kimi的词+Suno的曲：能带我入选《中国新说唱》，但还是干不过原神！](https://posts.careerengine.us/p/6612303d0d2c5b524c2de700) ![](/assets/new.png)  
+- [2024-04-07-Kimi的词+Suno的曲：能带我入选《中国新说唱》，但还是干不过原神！](https://posts.careerengine.us/p/6612303d0d2c5b524c2de700)  
 - [2024-04-06-任正非禁用“遥遥领先”？余承东回应；出门问问通过上市聆讯，或成港股-AIGC-第一股；大厂不再强制要员工设定OKR｜AI周报](https://posts.careerengine.us/p/6610def4bec79d23272b9816)  
 - [2024-04-05-创始团队仅3人、估值最高25亿美元，万字长文讲述RISC-V商业帝国崛起背后的故事](https://posts.careerengine.us/p/660f8d8ebf864f0770905d1a)  
 - [2024-04-04-专访华润银行：中小银行如何突围“数据治理”的层层障碍？](https://posts.careerengine.us/p/660e3c7448c8cf7d25928fb1)  
