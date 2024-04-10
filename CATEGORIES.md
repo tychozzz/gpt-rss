@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-10 18:00:10，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-11 06:00:17，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-04-10-AI算力提高，高能耗和难散热问题如何突破？](https://posts.careerengine.us/p/6616195200fcaf236a158d87)  
-- [2024-04-10-开源模型首胜GPT-4！竞技场最新战报引热议，Karpathy：这是我唯二信任的榜单](https://posts.careerengine.us/p/6616195300fcaf236a158d8f)  
-- [2024-04-10-离谱！AI超市「无人」收款，1000个印度人藏在背后……](https://posts.careerengine.us/p/6616195300fcaf236a158d98)  
-- [2024-04-10-谷歌最强大模型免费开放了！长音频理解功能独一份，100万上下文敞开用](https://posts.careerengine.us/p/661619637b57a0241035864c)  
+- [2024-04-11-中国最fashion的AIGC应用都在这里了-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6616bbc0efc06668087a06a7) ![](/assets/new.png)  
+- [2024-04-11-刚刚，图灵奖揭晓！史上首位数学和计算机最高奖“双料王”出现了](https://posts.careerengine.us/p/6616bbe89bae9068db4aa251) ![](/assets/new.png)  
+- [2024-04-11-大模型做时序预测也很强！华人团队激活LLM新能力，超越一众传统模型实现SOTA](https://posts.careerengine.us/p/6616bbe89bae9068db4aa259) ![](/assets/new.png)  
+- [2024-04-11-“梗王”大模型，靠讲笑话登上CVPR-|-中山大学](https://posts.careerengine.us/p/6616bbe99bae9068db4aa261) ![](/assets/new.png)  
 - [2024-04-10-英特尔突袭英伟达H100，新AI芯片训练快40％，推理快50％，CEO蹦迪庆祝](https://posts.careerengine.us/p/66161974119b8a24411e8270)  
-- [2024-04-07-阿里刚开源32B大模型，我们立马测试了“弱智吧”](https://posts.careerengine.us/p/66127c90495eff4e0f7f7c4e)  
-- [2024-04-07-斯坦福团队新作：喊话就能指导机器人，任务成功率暴增，网友：特斯拉搞快点](https://posts.careerengine.us/p/66127c90495eff4e0f7f7c57)  
-- [2024-04-07-抱抱脸Open了OpenAI的秘密武器，网易参与复现](https://posts.careerengine.us/p/66127c7f78ef4d4d9e0d9fa1)  
+- [2024-04-10-谷歌最强大模型免费开放了！长音频理解功能独一份，100万上下文敞开用](https://posts.careerengine.us/p/661619637b57a0241035864c)  
+- [2024-04-10-离谱！AI超市「无人」收款，1000个印度人藏在背后……](https://posts.careerengine.us/p/6616195300fcaf236a158d98)  
+- [2024-04-10-开源模型首胜GPT-4！竞技场最新战报引热议，Karpathy：这是我唯二信任的榜单](https://posts.careerengine.us/p/6616195300fcaf236a158d8f)  
+- [2024-04-10-AI算力提高，高能耗和难散热问题如何突破？](https://posts.careerengine.us/p/6616195200fcaf236a158d87)  
 - [2024-04-07-AI有了联想，世界将会怎样？](https://posts.careerengine.us/p/66127c7119d5344d5e1777fd)  
-- [2024-04-06-马斯克感叹硅谷AI春招太疯狂！百万美元年薪随便开，小扎一线当猎头，谷歌创始人返场抢人](https://posts.careerengine.us/p/6610f4de0e41e310c1c0a6f4)  
-- [2024-04-06-死宅更容易变傻？？Science正经研究：大脑缺氧竟是常态，但靠运动可以改善](https://posts.careerengine.us/p/6610f4df0e41e310c1c0a6fc)  
+- [2024-04-07-抱抱脸Open了OpenAI的秘密武器，网易参与复现](https://posts.careerengine.us/p/66127c7f78ef4d4d9e0d9fa1)  
+- [2024-04-07-斯坦福团队新作：喊话就能指导机器人，任务成功率暴增，网友：特斯拉搞快点](https://posts.careerengine.us/p/66127c90495eff4e0f7f7c57)  
+- [2024-04-07-阿里刚开源32B大模型，我们立马测试了“弱智吧”](https://posts.careerengine.us/p/66127c90495eff4e0f7f7c4e)  
 - [2024-04-06-中科大等意外发现：大模型不看图也能正确回答视觉问题！](https://posts.careerengine.us/p/6610f4fbf6fc981185b88bc7)  
-- [2024-04-05-10万美元训出Llama-2级大模型！全华人打造新型MoE，贾扬清SD前CEO围观](https://posts.careerengine.us/p/660f7ea8cfeed23ba8392962)  
+- [2024-04-06-死宅更容易变傻？？Science正经研究：大脑缺氧竟是常态，但靠运动可以改善](https://posts.careerengine.us/p/6610f4df0e41e310c1c0a6fc)  
+- [2024-04-06-马斯克感叹硅谷AI春招太疯狂！百万美元年薪随便开，小扎一线当猎头，谷歌创始人返场抢人](https://posts.careerengine.us/p/6610f4de0e41e310c1c0a6f4)  
 - [2024-04-05-谷歌更新Transformer架构，更节省计算资源！50％性能提升](https://posts.careerengine.us/p/660f7e99dd70ea3b753049a8)  
-- [2024-04-04-弱智吧竟成最佳中文AI训练数据？！中科院等：8项测试第一，远超知乎豆瓣小红书](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd2c)  
-- [2024-04-04-英伟达AI新课爆火！免费学习，干货满满](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd3d)  
-- [2024-04-04-AIGC还是二刺猿会玩：捏娃社区爆火，有脑洞就能当同人大佬](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd34)  
+- [2024-04-05-10万美元训出Llama-2级大模型！全华人打造新型MoE，贾扬清SD前CEO围观](https://posts.careerengine.us/p/660f7ea8cfeed23ba8392962)  
 - [2024-04-04-峰会报名中｜第二波嘉宾已就位，距离4月17日仅有两周](https://posts.careerengine.us/p/660e267794ca4d0b13f35abb)  
-- [2024-04-02-ChatGPT也在评审你的顶会投稿，斯坦福新研究捅了马蜂窝，“这下闭环了”](https://posts.careerengine.us/p/660b560bc976a0192c9470e4)  
-- [2024-04-02-今天起，ChatGPT无需注册就能用了！](https://posts.careerengine.us/p/660b55fdbc834718a2bb087b)  
+- [2024-04-04-AIGC还是二刺猿会玩：捏娃社区爆火，有脑洞就能当同人大佬](https://posts.careerengine.us/p/660e2665e0f6d50abddfcd34)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2024-04-10-奖金丰厚！AI4S-Cup系列比赛—“超声CT成像中的声场预测”报名启动](https://posts.careerengine.us/p/6616232da3b81f56cd350148) ![](/assets/new.png)  
-- [2024-04-10-​一个大模型建模所有图结构关系！港大等发布最新图大语言模型HiGPT](https://posts.careerengine.us/p/6616232da3b81f56cd350140) ![](/assets/new.png)  
-- [2024-04-10-CVPR-2024-|-分割一切模型SAM泛化能力差？域适应策略给解决了](https://posts.careerengine.us/p/6616233c510d7b575f588c63) ![](/assets/new.png)  
-- [2024-04-10-博士申请-|-香港中文大学（深圳）陈锐老师招收2024-Fall优化方向全奖博士生](https://posts.careerengine.us/p/6616233c510d7b575f588c6b) ![](/assets/new.png)  
+- [2024-04-10-奖金丰厚！AI4S-Cup系列比赛—“超声CT成像中的声场预测”报名启动](https://posts.careerengine.us/p/6616232da3b81f56cd350148)  
+- [2024-04-10-​一个大模型建模所有图结构关系！港大等发布最新图大语言模型HiGPT](https://posts.careerengine.us/p/6616232da3b81f56cd350140)  
+- [2024-04-10-CVPR-2024-|-分割一切模型SAM泛化能力差？域适应策略给解决了](https://posts.careerengine.us/p/6616233c510d7b575f588c63)  
+- [2024-04-10-博士申请-|-香港中文大学（深圳）陈锐老师招收2024-Fall优化方向全奖博士生](https://posts.careerengine.us/p/6616233c510d7b575f588c6b)  
 - [2024-04-07-探索历史的宝藏！ICDAR-2024-历史地图文字识别比赛邀您参与](https://posts.careerengine.us/p/66122fc73d68454fd757c119)  
 - [2024-04-07-CVPR-2024-|-拖拽P图又双叒升级了！DragNoise实现更快更准的拖拽编辑](https://posts.careerengine.us/p/66122fc73d68454fd757c111)  
 - [2024-04-07-迈向公平图学习的新基准：电子科大等发布全新综合数据集和统一评估方法](https://posts.careerengine.us/p/66122fb91b6ea74f9f506826)  
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-04-10-钉钉卡位战：SaaS-挣不到的钱，Agent-会挣到](https://posts.careerengine.us/p/66163697830e9d3badc48b6c) ![](/assets/new.png)  
-- [2024-04-10-AI-是把效率拉满，还是带来失业潮？-|-猜想赢好礼](https://posts.careerengine.us/p/661636aa2242dc3be590eea5) ![](/assets/new.png)  
+- [2024-04-10-钉钉卡位战：SaaS-挣不到的钱，Agent-会挣到](https://posts.careerengine.us/p/66163697830e9d3badc48b6c)  
+- [2024-04-10-AI-是把效率拉满，还是带来失业潮？-|-猜想赢好礼](https://posts.careerengine.us/p/661636aa2242dc3be590eea5)  
 - [2024-04-09-没有数据训练大模型？OpenAI-总裁带队转录YouTube视频，谷歌、Meta-也想尽数据收割套路](https://posts.careerengine.us/p/661626a8bff27268d8a886aa)  
 - [2024-04-09-高薪必看：如何编写对大模型友好的代码？-|-极客时间](https://posts.careerengine.us/p/6616269765a49e68a00e327f)  
 - [2024-04-08-OpenAI投资的自动驾驶软件公司倒闭了：烧光15亿元交不出一款产品，CEO：成本太高，活不下去了](https://posts.careerengine.us/p/66162a1ed5f5c37aa9107bcf)  
