@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-14 15:00:16，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-14 18:00:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,10 +21,10 @@
 </summary>
 
 
-- [2024-04-14-除了唱歌，AI还能替你演出？又一AI公司将虚拟人推到新高度](https://posts.careerengine.us/p/661b5c173a5f3c38fb3d0619) ![](/assets/new.png)  
-- [2024-04-14-培育发展金融领域新质生产力，“AI+金融”论坛在浦东新区成功举办](https://posts.careerengine.us/p/661b5c2a4470ba392ffefe84) ![](/assets/new.png)  
-- [2024-04-14-马斯克的首款多模态大模型来了，GPT-4V又被超越了一次](https://posts.careerengine.us/p/661b5c2a4470ba392ffefe7b) ![](/assets/new.png)  
-- [2024-04-14-曾爆火的-InstantID又有了新玩法：风格化图像生成，已开源](https://posts.careerengine.us/p/661b5c3911095d3978aa4571) ![](/assets/new.png)  
+- [2024-04-14-除了唱歌，AI还能替你演出？又一AI公司将虚拟人推到新高度](https://posts.careerengine.us/p/661b5c173a5f3c38fb3d0619)  
+- [2024-04-14-培育发展金融领域新质生产力，“AI+金融”论坛在浦东新区成功举办](https://posts.careerengine.us/p/661b5c2a4470ba392ffefe84)  
+- [2024-04-14-马斯克的首款多模态大模型来了，GPT-4V又被超越了一次](https://posts.careerengine.us/p/661b5c2a4470ba392ffefe7b)  
+- [2024-04-14-曾爆火的-InstantID又有了新玩法：风格化图像生成，已开源](https://posts.careerengine.us/p/661b5c3911095d3978aa4571)  
 - [2024-04-13-谁说大象不能起舞！-重编程大语言模型实现跨模态交互的时序预测-|-ICLR-2024](https://posts.careerengine.us/p/661a0f2920f45a7260cd671d)  
 - [2024-04-13-CVPR-2024-|-仅需文本或图像提示，新框架CustomNeRF精准编辑3D场景](https://posts.careerengine.us/p/661a0f2920f45a7260cd672e)  
 - [2024-04-13-全球AI顶会NeurlPS开始收高中生论文了](https://posts.careerengine.us/p/661a0f15ae0c2f721b432a73)  
@@ -52,9 +52,9 @@
 </summary>
 
 
-- [2024-04-14-首个AI程序员造假被抓，Devin再次“震撼”硅谷！扒皮视频文字详解附上](https://posts.careerengine.us/p/661b613f8f3eba524690828b) ![](/assets/new.png)  
-- [2024-04-14-5分钟开发AI应用不是梦！中小企业都能轻松用上AIGC](https://posts.careerengine.us/p/661b614f499b9452a013fda9) ![](/assets/new.png)  
-- [2024-04-14-液体都“智能”可编程了？哈佛新型超材料登Nature，粘度、透明度、弹性可变](https://posts.careerengine.us/p/661b614f499b9452a013fda1) ![](/assets/new.png)  
+- [2024-04-14-首个AI程序员造假被抓，Devin再次“震撼”硅谷！扒皮视频文字详解附上](https://posts.careerengine.us/p/661b613f8f3eba524690828b)  
+- [2024-04-14-5分钟开发AI应用不是梦！中小企业都能轻松用上AIGC](https://posts.careerengine.us/p/661b614f499b9452a013fda9)  
+- [2024-04-14-液体都“智能”可编程了？哈佛新型超材料登Nature，粘度、透明度、弹性可变](https://posts.careerengine.us/p/661b614f499b9452a013fda1)  
 - [2024-04-13-“音乐版Sora”服务器挤爆！功能比Suno丰富还能生成脱口秀，每人每月1200首免费畅玩](https://posts.careerengine.us/p/661a0bd57ba68c620a2efffd)  
 - [2024-04-13-仅听3秒，AI零样本克隆人声达到人类水平，情绪语调随意改](https://posts.careerengine.us/p/661a0bd47ba68c620a2efff5)  
 - [2024-04-13-NeurIPS开辟高中赛道引爆争议！网友：代理人战争要开始了](https://posts.careerengine.us/p/661a0bc3ac773961cb08c255)  
@@ -176,26 +176,26 @@
 </summary>
 
 
-- [2024-04-13-OpenAI-创始成员用-1000-行-C-代码手搓了一个大模型，Mac-即可运行！网友：真男人就该用C编程](https://posts.careerengine.us/p/661a19d0bb840628082e838c)  
+- [2024-04-14-字节跳动成全球最大独角兽公司？官方回应；智己汽车三次致歉小米：我们被网络霸凌；苹果计划裁员超-600-人｜AI周报](https://posts.careerengine.us/p/661b6b548df84d0364de5603) ![](/assets/new.png)  
 - [2024-04-13-苹果股价罕见飙升，因网传-M4-芯片将于年末发售](https://posts.careerengine.us/p/661a19df14de87289fea7a1e)  
-- [2024-04-12-李彦宏内部讲话曝光：闭源模型才能“遥遥领先”！](https://posts.careerengine.us/p/6618b4af0174852ddd2e5b8f)  
-- [2024-04-12-离开百度7年后，吴恩达终于大厂“再就业”：加入亚马逊董事会，帮其实现AI大志](https://posts.careerengine.us/p/6618b4af0174852ddd2e5b97)  
+- [2024-04-13-OpenAI-创始成员用-1000-行-C-代码手搓了一个大模型，Mac-即可运行！网友：真男人就该用C编程](https://posts.careerengine.us/p/661a19d0bb840628082e838c)  
 - [2024-04-12-谷歌、OpenAI、Mistral-在24小时内打响科技界“三强争霸赛”](https://posts.careerengine.us/p/6618b4af0174852ddd2e5ba6)  
-- [2024-04-11-马上消费：全国首个零售金融大模型应用情况如何了？](https://posts.careerengine.us/p/66178beab8f8fb2b1063adcd)  
+- [2024-04-12-离开百度7年后，吴恩达终于大厂“再就业”：加入亚马逊董事会，帮其实现AI大志](https://posts.careerengine.us/p/6618b4af0174852ddd2e5b97)  
+- [2024-04-12-李彦宏内部讲话曝光：闭源模型才能“遥遥领先”！](https://posts.careerengine.us/p/6618b4af0174852ddd2e5b8f)  
 - [2024-04-11-OpenAI-重磅发布的GPT-4-Turbo-with-Vision，是编码的倒退](https://posts.careerengine.us/p/66178bebb8f8fb2b1063add5)  
-- [2024-04-10-AI-是把效率拉满，还是带来失业潮？-|-猜想赢好礼](https://posts.careerengine.us/p/661636aa2242dc3be590eea5)  
+- [2024-04-11-马上消费：全国首个零售金融大模型应用情况如何了？](https://posts.careerengine.us/p/66178beab8f8fb2b1063adcd)  
 - [2024-04-10-钉钉卡位战：SaaS-挣不到的钱，Agent-会挣到](https://posts.careerengine.us/p/66163697830e9d3badc48b6c)  
-- [2024-04-09-高薪必看：如何编写对大模型友好的代码？-|-极客时间](https://posts.careerengine.us/p/6616269765a49e68a00e327f)  
+- [2024-04-10-AI-是把效率拉满，还是带来失业潮？-|-猜想赢好礼](https://posts.careerengine.us/p/661636aa2242dc3be590eea5)  
 - [2024-04-09-没有数据训练大模型？OpenAI-总裁带队转录YouTube视频，谷歌、Meta-也想尽数据收割套路](https://posts.careerengine.us/p/661626a8bff27268d8a886aa)  
+- [2024-04-09-高薪必看：如何编写对大模型友好的代码？-|-极客时间](https://posts.careerengine.us/p/6616269765a49e68a00e327f)  
 - [2024-04-08-OpenAI投资的自动驾驶软件公司倒闭了：烧光15亿元交不出一款产品，CEO：成本太高，活不下去了](https://posts.careerengine.us/p/66162a1ed5f5c37aa9107bcf)  
 - [2024-04-07-Kimi的词+Suno的曲：能带我入选《中国新说唱》，但还是干不过原神！](https://posts.careerengine.us/p/6612303d0d2c5b524c2de700)  
 - [2024-04-06-任正非禁用“遥遥领先”？余承东回应；出门问问通过上市聆讯，或成港股-AIGC-第一股；大厂不再强制要员工设定OKR｜AI周报](https://posts.careerengine.us/p/6610def4bec79d23272b9816)  
 - [2024-04-05-创始团队仅3人、估值最高25亿美元，万字长文讲述RISC-V商业帝国崛起背后的故事](https://posts.careerengine.us/p/660f8d8ebf864f0770905d1a)  
-- [2024-04-04-用-AI-面试员工的企业，知道打工人在想什么吗？！](https://posts.careerengine.us/p/660e3c6547632e7cf1c02018)  
 - [2024-04-04-专访华润银行：中小银行如何突围“数据治理”的层层障碍？](https://posts.careerengine.us/p/660e3c7448c8cf7d25928fb1)  
+- [2024-04-04-用-AI-面试员工的企业，知道打工人在想什么吗？！](https://posts.careerengine.us/p/660e3c6547632e7cf1c02018)  
 - [2024-04-03-被性别歧视、陷经济窘境，AI女神李飞飞自述：我要打破算法中的偏见](https://posts.careerengine.us/p/660e3df45433b205f4e18105)  
-- [2024-04-02-全日程发布，Sora-之后的视频生成技术与应用｜-Q推荐](https://posts.careerengine.us/p/660b812c48fb766ee766ef8f)  
-- [2024-04-02-15-秒音频即可“复制”原声！但OpenAI-担心新语音模型被滥用而限制发行](https://posts.careerengine.us/p/660b812c48fb766ee766ef9f)  
+- [2024-04-02-ChatGPT免注册让官网挂了？沃顿教授：OpenAI-做了错误的决定](https://posts.careerengine.us/p/660b812c48fb766ee766ef97)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
