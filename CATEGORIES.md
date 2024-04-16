@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-16 15:00:17，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-16 18:00:11，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-04-15-多篇顶会一作却申博失败？斯坦福博士生亲述：AI领域太卷](https://posts.careerengine.us/p/661cab42ff40760e3b21f3ab)  
-- [2024-04-15-刷爆多模态任务榜单！贾佳亚团队Mini-Gemini登热榜，代码、模型、数据全部开源](https://posts.careerengine.us/p/661cab43ff40760e3b21f3b3)  
-- [2024-04-15-一阶优化算法启发，北大林宙辰团队提出具有万有逼近性质的神经网络架构的设计方法](https://posts.careerengine.us/p/661cab56c6967e0e8dd8b3b0)  
-- [2024-04-15-陶哲轩力荐、亲自把关：AI-for-Math照这个清单学就对了](https://posts.careerengine.us/p/661cab56c6967e0e8dd8b3b8)  
+- [2024-04-16-模型被投毒攻击，如今有了新的安全手段，还被AI顶刊接收](https://posts.careerengine.us/p/661dfc4c65199920124f0ace) ![](/assets/new.png)  
+- [2024-04-16-李飞飞团队年度报告揭底大模型训练成本：Gemini-Ultra是GPT-4的2.5倍](https://posts.careerengine.us/p/661dfc4c65199920124f0ac6) ![](/assets/new.png)  
+- [2024-04-16-DeepMind升级Transformer，前向通过FLOPs最多可降一半](https://posts.careerengine.us/p/661dfc60aef40e204e22aa82) ![](/assets/new.png)  
+- [2024-04-16-Sora加入Adobe全家桶，视频改图加戏样样行：PR大更新预告](https://posts.careerengine.us/p/661dfc60aef40e204e22aa8a) ![](/assets/new.png)  
+- [2024-04-16-极长序列、极快速度：面向新一代高效大语言模型的LASP序列并行](https://posts.careerengine.us/p/661dfc60aef40e204e22aa93) ![](/assets/new.png)  
 - [2024-04-15-「音乐界Sora」Udio来了：前DeepMind员工创业，比Suno可定制性更强](https://posts.careerengine.us/p/661cab56c6967e0e8dd8b3a7)  
-- [2024-04-14-曾爆火的-InstantID又有了新玩法：风格化图像生成，已开源](https://posts.careerengine.us/p/661b5c3911095d3978aa4571)  
-- [2024-04-14-马斯克的首款多模态大模型来了，GPT-4V又被超越了一次](https://posts.careerengine.us/p/661b5c2a4470ba392ffefe7b)  
-- [2024-04-14-培育发展金融领域新质生产力，“AI+金融”论坛在浦东新区成功举办](https://posts.careerengine.us/p/661b5c2a4470ba392ffefe84)  
+- [2024-04-15-陶哲轩力荐、亲自把关：AI-for-Math照这个清单学就对了](https://posts.careerengine.us/p/661cab56c6967e0e8dd8b3b8)  
+- [2024-04-15-一阶优化算法启发，北大林宙辰团队提出具有万有逼近性质的神经网络架构的设计方法](https://posts.careerengine.us/p/661cab56c6967e0e8dd8b3b0)  
+- [2024-04-15-刷爆多模态任务榜单！贾佳亚团队Mini-Gemini登热榜，代码、模型、数据全部开源](https://posts.careerengine.us/p/661cab43ff40760e3b21f3b3)  
+- [2024-04-15-多篇顶会一作却申博失败？斯坦福博士生亲述：AI领域太卷](https://posts.careerengine.us/p/661cab42ff40760e3b21f3ab)  
 - [2024-04-14-除了唱歌，AI还能替你演出？又一AI公司将虚拟人推到新高度](https://posts.careerengine.us/p/661b5c173a5f3c38fb3d0619)  
-- [2024-04-13-OpenAI推销ChatGPT-to-B业务，微软客户也是目标](https://posts.careerengine.us/p/661a0f15ae0c2f721b432a7b)  
-- [2024-04-13-GPT超越扩散、视觉生成Scaling-Law时刻！北大&字节提出VAR范式](https://posts.careerengine.us/p/661a0f15ae0c2f721b432a84)  
-- [2024-04-13-全球AI顶会NeurlPS开始收高中生论文了](https://posts.careerengine.us/p/661a0f15ae0c2f721b432a73)  
-- [2024-04-13-CVPR-2024-|-仅需文本或图像提示，新框架CustomNeRF精准编辑3D场景](https://posts.careerengine.us/p/661a0f2920f45a7260cd672e)  
+- [2024-04-14-培育发展金融领域新质生产力，“AI+金融”论坛在浦东新区成功举办](https://posts.careerengine.us/p/661b5c2a4470ba392ffefe84)  
+- [2024-04-14-马斯克的首款多模态大模型来了，GPT-4V又被超越了一次](https://posts.careerengine.us/p/661b5c2a4470ba392ffefe7b)  
+- [2024-04-14-曾爆火的-InstantID又有了新玩法：风格化图像生成，已开源](https://posts.careerengine.us/p/661b5c3911095d3978aa4571)  
 - [2024-04-13-谁说大象不能起舞！-重编程大语言模型实现跨模态交互的时序预测-|-ICLR-2024](https://posts.careerengine.us/p/661a0f2920f45a7260cd671d)  
-- [2024-04-12-改变LoRA的初始化方式，北大新方法PiSSA显著提升微调效果](https://posts.careerengine.us/p/66191a553e05c71bc736f53c)  
-- [2024-04-12-直接扩展到无限长，谷歌Infini-Transformer终结上下文长度之争](https://posts.careerengine.us/p/66191a553e05c71bc736f534)  
-- [2024-04-12-OpenAI解雇两名Ilya团队成员，与「宫斗」泄密有关？](https://posts.careerengine.us/p/66191a4605f8cf1b934a7220)  
-- [2024-04-12-中文OCR超越GPT-4V，参数量仅2B，面壁小钢炮拿出了第二弹](https://posts.careerengine.us/p/66191a37c646051b63df35d9)  
+- [2024-04-13-CVPR-2024-|-仅需文本或图像提示，新框架CustomNeRF精准编辑3D场景](https://posts.careerengine.us/p/661a0f2920f45a7260cd672e)  
+- [2024-04-13-全球AI顶会NeurlPS开始收高中生论文了](https://posts.careerengine.us/p/661a0f15ae0c2f721b432a73)  
+- [2024-04-13-GPT超越扩散、视觉生成Scaling-Law时刻！北大&字节提出VAR范式](https://posts.careerengine.us/p/661a0f15ae0c2f721b432a84)  
+- [2024-04-13-OpenAI推销ChatGPT-to-B业务，微软客户也是目标](https://posts.careerengine.us/p/661a0f15ae0c2f721b432a7b)  
 - [2024-04-12-企业级AI-Agent如何落地汽车行业，这是国内首份系统阐述白皮书](https://posts.careerengine.us/p/66191a37c646051b63df35e2)  
-- [2024-04-11-长文本杀不死RAG：SQL+向量驱动大模型和大数据新范式，MyScale-AI数据库正式开源](https://posts.careerengine.us/p/66176a076f7603769e2607fe)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-04-16-“干掉程序员”，百度是认真的！发布三大开发工具和全新操作系统，李彦宏：只要会说话就会干开发](https://posts.careerengine.us/p/661e043404376146094de167) ![](/assets/new.png)  
-- [2024-04-16-梗图理解“天花板”！港中文终身教授贾佳亚团队推出多模态模型：GPT-4+DALL-E-3，王炸组合刷爆榜单](https://posts.careerengine.us/p/661e0447743c394686e1cc7b) ![](/assets/new.png)  
+- [2024-04-16-“干掉程序员”，百度是认真的！发布三大开发工具和全新操作系统，李彦宏：只要会说话就会干开发](https://posts.careerengine.us/p/661e043404376146094de167)  
+- [2024-04-16-梗图理解“天花板”！港中文终身教授贾佳亚团队推出多模态模型：GPT-4+DALL-E-3，王炸组合刷爆榜单](https://posts.careerengine.us/p/661e0447743c394686e1cc7b)  
 - [2024-04-15-巨头们火力全开：AI应用边界再扩张-|-大模型一周大事](https://posts.careerengine.us/p/661cb814f752b54c7a195609)  
 - [2024-04-15-芯片反击，英特尔和AMD惨了！国内电信运营商逐步淘汰外国芯片，网友：这只是个开始](https://posts.careerengine.us/p/661cb804342e884c3f9730f3)  
 - [2024-04-14-字节跳动成全球最大独角兽公司？官方回应；智己汽车三次致歉小米：我们被网络霸凌；苹果计划裁员超-600-人｜AI周报](https://posts.careerengine.us/p/661b6b548df84d0364de5603)  
