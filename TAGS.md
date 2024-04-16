@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-15 18:00:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-16 15:00:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -185,6 +185,7 @@
 - [【PaperWeekly】百度营销《打通全域营销-破局长效增长》重磅发布，拥抱长效经营新范式](https://posts.careerengine.us/p/6554bbf5726adb387720e7b1)
 - [【PaperWeekly】深圳内推-|-百度文心ERNIE团队招聘NLP数据科学算法实习生](https://posts.careerengine.us/p/64faa0106ebf823fe3343af1)
 - [【PaperWeekly】北京/上海/深圳内推-|-百度视觉技术部招聘内容理解/3D视觉等方向算法实习生](https://posts.careerengine.us/p/64e58af081107341ef9c560a)
+- [【AI前线】“干掉程序员”，百度是认真的！发布三大开发工具和全新操作系统，李彦宏：只要会说话就会干开发](https://posts.careerengine.us/p/661e043404376146094de167)
 - [......【查看更多】......](/details/tags/wenxin.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
