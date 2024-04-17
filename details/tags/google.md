@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-04-17 18:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-17 21:00:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 谷歌
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-04-17-无向图最小割问题取得新突破，谷歌研究获SODA-2024最佳论文奖](https://posts.careerengine.us/p/661f9a1803d5661a98e8fe1a) 
 - [2024-02-24-谷歌Gemini生图功能紧急关闭，口碑一夜塌房，Yann-LeCun：我早就知道](https://posts.careerengine.us/p/65d98e51b998833cd8537bd5) 
 - [2024-02-16-谷歌Gemini1.5火速上线：MoE架构，100万上下文](https://posts.careerengine.us/p/65d98fac3f495845ae15339b) 
 - [2023-12-21-谷歌Gemini技术报告出炉，作者多达900余人](https://posts.careerengine.us/p/6583c9323fdfc274a836c9fc) 
