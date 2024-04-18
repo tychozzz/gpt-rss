@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-04-18 21:00:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-18 23:00:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 谷歌
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-04-18-2024谷歌研究学者计划名单公布：清华、北大、上交ACM班等校友在列](https://posts.careerengine.us/p/662112dd11dd153b4dca76fe) 
 - [2024-04-17-无向图最小割问题取得新突破，谷歌研究获SODA-2024最佳论文奖](https://posts.careerengine.us/p/661f9a1803d5661a98e8fe1a) 
 - [2024-02-24-谷歌Gemini生图功能紧急关闭，口碑一夜塌房，Yann-LeCun：我早就知道](https://posts.careerengine.us/p/65d98e51b998833cd8537bd5) 
 - [2024-02-16-谷歌Gemini1.5火速上线：MoE架构，100万上下文](https://posts.careerengine.us/p/65d98fac3f495845ae15339b) 
