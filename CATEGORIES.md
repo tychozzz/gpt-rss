@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-19 15:00:09，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-19 18:00:09，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-04-18-港股IPO招股异常火爆，唯一盈利的「AIGC第一股」是怎么炼成的？](https://posts.careerengine.us/p/662112dd11dd153b4dca7706)  
-- [2024-04-18-2024谷歌研究学者计划名单公布：清华、北大、上交ACM班等校友在列](https://posts.careerengine.us/p/662112dd11dd153b4dca76fe)  
-- [2024-04-18-谁才是最强的？清华给海内外知名大模型做了场综合能力评测](https://posts.careerengine.us/p/662112dd11dd153b4dca76f5)  
-- [2024-04-18-华为Pura70系列发布：麒麟9010+可伸缩镜头，上线秒抢光](https://posts.careerengine.us/p/662112ef416fbe3b94b1e287)  
-- [2024-04-18-波士顿动力新版人形机器人Atlas问世，纯电驱动](https://posts.careerengine.us/p/662112ef416fbe3b94b1e28f)  
+- [2024-04-19-下接万卡集群、上连AI原生应用，操作系统的进化超出你的想象](https://posts.careerengine.us/p/66220b2eb25e131275d64403) ![](/assets/new.png)  
+- [2024-04-19-CVPR-2024高分论文：全新生成式编辑框架GenN2N，统一NeRF转换任务](https://posts.careerengine.us/p/66220b3c23ac9212c0f8aa81) ![](/assets/new.png)  
+- [2024-04-19-5亿个token之后，我们得出关于GPT的七条宝贵经验](https://posts.careerengine.us/p/66220b4e1f9a1313781bfb7e) ![](/assets/new.png)  
+- [2024-04-19-MLLM真能看懂数学吗？MathVerse来了次摸底测评，放出当天登热榜](https://posts.careerengine.us/p/66220b4e1f9a1313781bfb87) ![](/assets/new.png)  
 - [2024-04-18-生成式AI如何告别色情、版权困扰？基于权重显著性的机器遗忘算法有奇效](https://posts.careerengine.us/p/662113018684d63bbd1b7746)  
-- [2024-04-17-再见！波士顿动力人形机器人Atlas​](https://posts.careerengine.us/p/661f9a1903d5661a98e8fe22)  
-- [2024-04-17-无向图最小割问题取得新突破，谷歌研究获SODA-2024最佳论文奖](https://posts.careerengine.us/p/661f9a1803d5661a98e8fe1a)  
-- [2024-04-17-让玩家全程掌控游戏：自然语言指令驱动的游戏引擎到来了](https://posts.careerengine.us/p/661f9a1803d5661a98e8fe12)  
-- [2024-04-17-Meta无限长文本大模型来了：参数仅7B，已开源](https://posts.careerengine.us/p/661f9a0940cf751a62a539b3)  
+- [2024-04-18-波士顿动力新版人形机器人Atlas问世，纯电驱动](https://posts.careerengine.us/p/662112ef416fbe3b94b1e28f)  
+- [2024-04-18-华为Pura70系列发布：麒麟9010+可伸缩镜头，上线秒抢光](https://posts.careerengine.us/p/662112ef416fbe3b94b1e287)  
+- [2024-04-18-谁才是最强的？清华给海内外知名大模型做了场综合能力评测](https://posts.careerengine.us/p/662112dd11dd153b4dca76f5)  
+- [2024-04-18-2024谷歌研究学者计划名单公布：清华、北大、上交ACM班等校友在列](https://posts.careerengine.us/p/662112dd11dd153b4dca76fe)  
+- [2024-04-18-港股IPO招股异常火爆，唯一盈利的「AIGC第一股」是怎么炼成的？](https://posts.careerengine.us/p/662112dd11dd153b4dca7706)  
 - [2024-04-17-首个国产音乐SOTA模型来了！专为中文优化，免费用，不限曲风](https://posts.careerengine.us/p/661f9a0840cf751a62a539ab)  
-- [2024-04-16-模型被投毒攻击，如今有了新的安全手段，还被AI顶刊接收](https://posts.careerengine.us/p/661dfc4c65199920124f0ace)  
-- [2024-04-16-李飞飞团队年度报告揭底大模型训练成本：Gemini-Ultra是GPT-4的2.5倍](https://posts.careerengine.us/p/661dfc4c65199920124f0ac6)  
-- [2024-04-16-DeepMind升级Transformer，前向通过FLOPs最多可降一半](https://posts.careerengine.us/p/661dfc60aef40e204e22aa82)  
-- [2024-04-16-Sora加入Adobe全家桶，视频改图加戏样样行：PR大更新预告](https://posts.careerengine.us/p/661dfc60aef40e204e22aa8a)  
+- [2024-04-17-Meta无限长文本大模型来了：参数仅7B，已开源](https://posts.careerengine.us/p/661f9a0940cf751a62a539b3)  
+- [2024-04-17-让玩家全程掌控游戏：自然语言指令驱动的游戏引擎到来了](https://posts.careerengine.us/p/661f9a1803d5661a98e8fe12)  
+- [2024-04-17-无向图最小割问题取得新突破，谷歌研究获SODA-2024最佳论文奖](https://posts.careerengine.us/p/661f9a1803d5661a98e8fe1a)  
+- [2024-04-17-再见！波士顿动力人形机器人Atlas​](https://posts.careerengine.us/p/661f9a1903d5661a98e8fe22)  
 - [2024-04-16-极长序列、极快速度：面向新一代高效大语言模型的LASP序列并行](https://posts.careerengine.us/p/661dfc60aef40e204e22aa93)  
-- [2024-04-15-「音乐界Sora」Udio来了：前DeepMind员工创业，比Suno可定制性更强](https://posts.careerengine.us/p/661cab56c6967e0e8dd8b3a7)  
-- [2024-04-15-陶哲轩力荐、亲自把关：AI-for-Math照这个清单学就对了](https://posts.careerengine.us/p/661cab56c6967e0e8dd8b3b8)  
-- [2024-04-15-一阶优化算法启发，北大林宙辰团队提出具有万有逼近性质的神经网络架构的设计方法](https://posts.careerengine.us/p/661cab56c6967e0e8dd8b3b0)  
-- [2024-04-15-刷爆多模态任务榜单！贾佳亚团队Mini-Gemini登热榜，代码、模型、数据全部开源](https://posts.careerengine.us/p/661cab43ff40760e3b21f3b3)  
+- [2024-04-16-Sora加入Adobe全家桶，视频改图加戏样样行：PR大更新预告](https://posts.careerengine.us/p/661dfc60aef40e204e22aa8a)  
+- [2024-04-16-DeepMind升级Transformer，前向通过FLOPs最多可降一半](https://posts.careerengine.us/p/661dfc60aef40e204e22aa82)  
+- [2024-04-16-李飞飞团队年度报告揭底大模型训练成本：Gemini-Ultra是GPT-4的2.5倍](https://posts.careerengine.us/p/661dfc4c65199920124f0ac6)  
+- [2024-04-16-模型被投毒攻击，如今有了新的安全手段，还被AI顶刊接收](https://posts.careerengine.us/p/661dfc4c65199920124f0ace)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2024-04-19-高效涨点！用Transformer模型发Nature子刊（文末送书）](https://posts.careerengine.us/p/6621fe134d673d536dae2b5e) ![](/assets/new.png)  
-- [2024-04-19-​AAAI-2024-|-杭电等提出MINDS，基于序列超图和对抗学习增强多尺度扩散预测](https://posts.careerengine.us/p/6621fe144d673d536dae2b66) ![](/assets/new.png)  
-- [2024-04-19-博士申请-|-美国亚利桑那大学杨幻睿老师招收机器学习方向全奖博士/实习生](https://posts.careerengine.us/p/6621fe23c5ecb453e51935a7) ![](/assets/new.png)  
+- [2024-04-19-高效涨点！用Transformer模型发Nature子刊（文末送书）](https://posts.careerengine.us/p/6621fe134d673d536dae2b5e)  
+- [2024-04-19-​AAAI-2024-|-杭电等提出MINDS，基于序列超图和对抗学习增强多尺度扩散预测](https://posts.careerengine.us/p/6621fe144d673d536dae2b66)  
+- [2024-04-19-博士申请-|-美国亚利桑那大学杨幻睿老师招收机器学习方向全奖博士/实习生](https://posts.careerengine.us/p/6621fe23c5ecb453e51935a7)  
 - [2024-04-18-ICLR-2024-|-阐明扩散模型中的曝光偏差问题，一行代码大幅提升生成质量](https://posts.careerengine.us/p/6620f8883532d03cde9d9d66)  
 - [2024-04-18-开放开源！蚂蚁集团浙江大学联合发布开源大模型知识抽取框架OneKE](https://posts.careerengine.us/p/6620f854246c063ba48d4eec)  
 - [2024-04-16-上海期智研究院诚聘人工智能、信息安全、量子智能及相关方向海内外顶尖人才](https://posts.careerengine.us/p/661e4fa088b9162a4c6ec51a)  
