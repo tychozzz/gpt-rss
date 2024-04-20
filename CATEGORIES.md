@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-20 15:00:14，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-21 06:00:10，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-04-19-直播网友AI写歌征婚，实测最新登榜音乐SOTA模型：免费无限次，一键生成](https://posts.careerengine.us/p/662237639289ff6322ef21b6)  
-- [2024-04-19-GPT-Store都开不下去，这家国产平台怎么敢走这条路的？？](https://posts.careerengine.us/p/662237760cae6f637040eacf)  
-- [2024-04-19-亚马逊云科技王晓野：八成CEO认为生成式AI在18个月内颠覆所有行业丨中国AIGC产业峰会](https://posts.careerengine.us/p/662237760cae6f637040eac6)  
+- [2024-04-20-小冰徐元春：AIGC已经让普通人开始赚钱-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6623bef500374a0b08a8bc50) ![](/assets/new.png)  
+- [2024-04-20-离你最近的空间计算打开方式，X499元？](https://posts.careerengine.us/p/6623bef500374a0b08a8bc58) ![](/assets/new.png)  
+- [2024-04-20-再见，AI意识先驱：Daniel-Dennett](https://posts.careerengine.us/p/6623bf07139b520b40890f7d) ![](/assets/new.png)  
 - [2024-04-19-Llama-3突然来袭！开源社区再次沸腾：GPT-4级别模型可以自由访问的时代到来](https://posts.careerengine.us/p/662237770cae6f637040ead7)  
-- [2024-04-18-波士顿动力断臂转型！弃液压转电驱，新机器人再次惊艳世界](https://posts.careerengine.us/p/662107346d89a00605e97fd8)  
-- [2024-04-18-Sora问世，如何用大模型反诈？](https://posts.careerengine.us/p/662107346d89a00605e97fe0)  
-- [2024-04-18-微软炸裂级单图生数字人，Sora同款思路，“比AI刘强东还真”](https://posts.careerengine.us/p/662107346d89a00605e97fe8)  
+- [2024-04-19-亚马逊云科技王晓野：八成CEO认为生成式AI在18个月内颠覆所有行业丨中国AIGC产业峰会](https://posts.careerengine.us/p/662237760cae6f637040eac6)  
+- [2024-04-19-GPT-Store都开不下去，这家国产平台怎么敢走这条路的？？](https://posts.careerengine.us/p/662237760cae6f637040eacf)  
+- [2024-04-19-直播网友AI写歌征婚，实测最新登榜音乐SOTA模型：免费无限次，一键生成](https://posts.careerengine.us/p/662237639289ff6322ef21b6)  
 - [2024-04-18-万字梳理中国AIGC产业峰会激辩，大模型应用最全行业参考在此](https://posts.careerengine.us/p/66210720a4a92c05a94e44ca)  
-- [2024-04-17-中国AIGC最值得关注企业&产品榜单揭晓！首份应用全景图谱发布](https://posts.careerengine.us/p/661f4a35fbe2b41bd3278579)  
-- [2024-04-17-清华团队推出新平台：用去中心化AI打破算力荒](https://posts.careerengine.us/p/661f4a44c5aea51c3fe85d38)  
-- [2024-04-17-脑电合成自然语音！LeCun转发Nature子刊新成果，代码开源](https://posts.careerengine.us/p/661f4a44c5aea51c3fe85d30)  
+- [2024-04-18-微软炸裂级单图生数字人，Sora同款思路，“比AI刘强东还真”](https://posts.careerengine.us/p/662107346d89a00605e97fe8)  
+- [2024-04-18-Sora问世，如何用大模型反诈？](https://posts.careerengine.us/p/662107346d89a00605e97fe0)  
+- [2024-04-18-波士顿动力断臂转型！弃液压转电驱，新机器人再次惊艳世界](https://posts.careerengine.us/p/662107346d89a00605e97fd8)  
 - [2024-04-17-Pika联创参与新研究：Diffusion能抢GPT的活了！成功挑战自回归文本范式](https://posts.careerengine.us/p/661f4a44c5aea51c3fe85d40)  
-- [2024-04-16-Sora进驻Adobe视频编辑软件！新版Premiere-Pro开启AI剪辑时代](https://posts.careerengine.us/p/661e560c89ccf34a2d2743da)  
-- [2024-04-16-倒计时1天｜在中国AIGC产业峰会，一天看尽AIGC最新趋势](https://posts.careerengine.us/p/661e560c89ccf34a2d2743e2)  
-- [2024-04-16-北大学生优化清华系大模型，拿ASC全球超算大赛冠军](https://posts.careerengine.us/p/661e55fa34de6b49b0d7f94f)  
-- [2024-04-16-AI换脸以假乱真！蚂蚁数科发布反DeepFake产品，还设百万奖金池邀请黑客找bug](https://posts.careerengine.us/p/661e55fa34de6b49b0d7f947)  
+- [2024-04-17-脑电合成自然语音！LeCun转发Nature子刊新成果，代码开源](https://posts.careerengine.us/p/661f4a44c5aea51c3fe85d30)  
+- [2024-04-17-清华团队推出新平台：用去中心化AI打破算力荒](https://posts.careerengine.us/p/661f4a44c5aea51c3fe85d38)  
+- [2024-04-17-中国AIGC最值得关注企业&产品榜单揭晓！首份应用全景图谱发布](https://posts.careerengine.us/p/661f4a35fbe2b41bd3278579)  
 - [2024-04-16-一句话打造Agent！李彦宏：人人都是开发者的时代到来](https://posts.careerengine.us/p/661e55e8e38a8749829edae6)  
-- [2024-04-15-融合ChatGPT+DALL·E-3，贾佳亚团队新作开源畅玩：识图推理生图一站解决](https://posts.careerengine.us/p/661cd7564c05e462b89d9b2d)  
-- [2024-04-15-人在B站，要被AI公司们挤爆了](https://posts.careerengine.us/p/661cd7564c05e462b89d9b25)  
-- [2024-04-15-北大字节开辟图像生成新范式！超越Sora核心组件DiT，不再预测下一个token](https://posts.careerengine.us/p/661cd7654e5d7362f1972a65)  
+- [2024-04-16-AI换脸以假乱真！蚂蚁数科发布反DeepFake产品，还设百万奖金池邀请黑客找bug](https://posts.careerengine.us/p/661e55fa34de6b49b0d7f947)  
+- [2024-04-16-北大学生优化清华系大模型，拿ASC全球超算大赛冠军](https://posts.careerengine.us/p/661e55fa34de6b49b0d7f94f)  
+- [2024-04-16-倒计时1天｜在中国AIGC产业峰会，一天看尽AIGC最新趋势](https://posts.careerengine.us/p/661e560c89ccf34a2d2743e2)  
+- [2024-04-16-Sora进驻Adobe视频编辑软件！新版Premiere-Pro开启AI剪辑时代](https://posts.careerengine.us/p/661e560c89ccf34a2d2743da)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2024-04-20-CVPR-2024-|-中大哈佛等提出全新训练方法CLoT，探究大模型幽默创新力](https://posts.careerengine.us/p/66235065c5e27f12b8268bed) ![](/assets/new.png)  
-- [2024-04-20-60万奖金！2024全球人工智能技术创新大赛——算法挑战赛，等你来战！](https://posts.careerengine.us/p/66235065c5e27f12b8268be5) ![](/assets/new.png)  
-- [2024-04-20-北京内推-|​-京东物流地图数据部门招聘AI算法实习生](https://posts.careerengine.us/p/662350743c739112f4065c4c) ![](/assets/new.png)  
+- [2024-04-20-CVPR-2024-|-中大哈佛等提出全新训练方法CLoT，探究大模型幽默创新力](https://posts.careerengine.us/p/66235065c5e27f12b8268bed)  
+- [2024-04-20-60万奖金！2024全球人工智能技术创新大赛——算法挑战赛，等你来战！](https://posts.careerengine.us/p/66235065c5e27f12b8268be5)  
+- [2024-04-20-北京内推-|​-京东物流地图数据部门招聘AI算法实习生](https://posts.careerengine.us/p/662350743c739112f4065c4c)  
 - [2024-04-19-博士申请-|-美国亚利桑那大学杨幻睿老师招收机器学习方向全奖博士/实习生](https://posts.careerengine.us/p/6621fe23c5ecb453e51935a7)  
 - [2024-04-19-​AAAI-2024-|-杭电等提出MINDS，基于序列超图和对抗学习增强多尺度扩散预测](https://posts.careerengine.us/p/6621fe144d673d536dae2b66)  
 - [2024-04-19-高效涨点！用Transformer模型发Nature子刊（文末送书）](https://posts.careerengine.us/p/6621fe134d673d536dae2b5e)  
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2024-04-20-走近李生教授：培养出周明、王海峰等数位AI科学家，NLP国际最高奖项得主的科研之路](https://posts.careerengine.us/p/662353cada86f222e8765943) ![](/assets/new.png)  
+- [2024-04-20-走近李生教授：培养出周明、王海峰等数位AI科学家，NLP国际最高奖项得主的科研之路](https://posts.careerengine.us/p/662353cada86f222e8765943)  
 - [2024-04-19-卷疯了！最强开源大模型Llama-3发布，最大参数4000亿，小扎内心：大模型比元宇宙香多了](https://posts.careerengine.us/p/6621c85a7ec5044b72d1d888)  
 - [2024-04-18-Atlas人形机器人刷屏！“钮祜禄·波士顿动力”三度易主后终于回归，网友：强到可怕](https://posts.careerengine.us/p/6620a75bc6704b394d5aee07)  
 - [2024-04-18-六大国有银行AI大模型进展如何，又探索了哪些应用？](https://posts.careerengine.us/p/6620a76acf991839866a555c)  
