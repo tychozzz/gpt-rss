@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-23 18:00:12，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-23 21:00:12，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-04-22-Linux之父讽刺AI炒作：很搞笑，大概我也会被大模型取代](https://posts.careerengine.us/p/6625e581d206d326ac9b6cd5)  
-- [2024-04-22-Sora之后，OpenAI-Lilian-Weng亲自撰文教你从头设计视频生成扩散模型](https://posts.careerengine.us/p/6625e581d206d326ac9b6cc4)  
-- [2024-04-22-时代2024最具影响力100人：黄仁勋、Bengio、纳德拉-、王传福等人入选](https://posts.careerengine.us/p/6625e581d206d326ac9b6ccd)  
-- [2024-04-22-AI重建粒子轨迹，发现新物理学](https://posts.careerengine.us/p/6625e592bd01ff2751f560c8)  
+- [2024-04-23-挑战拯救痴心“舔狗”，我和大模型都尽力了](https://posts.careerengine.us/p/66279750e1c4f950d37cc41d) ![](/assets/new.png)  
+- [2024-04-23-这就是OpenAI神秘的Q*？斯坦福：语言模型就是Q函数](https://posts.careerengine.us/p/66279751e1c4f950d37cc425) ![](/assets/new.png)  
+- [2024-04-23-微软发布Phi-3，性能超Llama-3，可手机端运行](https://posts.careerengine.us/p/66279764b03d8851588da4a0) ![](/assets/new.png)  
+- [2024-04-23-CVPR-2024-|-基于MoE的通用图像融合模型，添加2.8％参数完成多项任务](https://posts.careerengine.us/p/66279765b03d8851588da4b2) ![](/assets/new.png)  
+- [2024-04-23-Llama3后，Meta又开放自家头显操作系统，打造元宇宙时代新安卓](https://posts.careerengine.us/p/66279765b03d8851588da4a8) ![](/assets/new.png)  
+- [2024-04-23-24GB单卡全量微调Llama-3-8B，仅需添加一行代码](https://posts.careerengine.us/p/662797780e62ba5199a889db) ![](/assets/new.png)  
 - [2024-04-22-首个基于Mamba的MLLM来了！模型权重、训练代码等已全部开源](https://posts.careerengine.us/p/6625e592bd01ff2751f560d0)  
-- [2024-04-21-4000万蛋白结构训练，西湖大学开发基于结构词表的蛋白质通用大模型，已开源](https://posts.careerengine.us/p/662491f8e01c006917c55ef9)  
-- [2024-04-21-CVPR-2024-|-跳舞时飞扬的裙摆，AI也能高度还原了，南洋理工提出动态人体渲染新范式](https://posts.careerengine.us/p/662491e9995c8068dcd84ec0)  
-- [2024-04-21-AI-Pioneers｜星海图高继扬：人形机器人不是具身智能的唯一答案](https://posts.careerengine.us/p/662491cb21c572682c355ce0)  
+- [2024-04-22-AI重建粒子轨迹，发现新物理学](https://posts.careerengine.us/p/6625e592bd01ff2751f560c8)  
+- [2024-04-22-时代2024最具影响力100人：黄仁勋、Bengio、纳德拉-、王传福等人入选](https://posts.careerengine.us/p/6625e581d206d326ac9b6ccd)  
+- [2024-04-22-Sora之后，OpenAI-Lilian-Weng亲自撰文教你从头设计视频生成扩散模型](https://posts.careerengine.us/p/6625e581d206d326ac9b6cc4)  
+- [2024-04-22-Linux之父讽刺AI炒作：很搞笑，大概我也会被大模型取代](https://posts.careerengine.us/p/6625e581d206d326ac9b6cd5)  
 - [2024-04-21-史上首次！AI驾驶战机成功与人类飞行员空中「狗斗」](https://posts.careerengine.us/p/662491cb21c572682c355cd7)  
-- [2024-04-19-下接万卡集群、上连AI原生应用，操作系统的进化超出你的想象](https://posts.careerengine.us/p/66220b2eb25e131275d64403)  
-- [2024-04-19-CVPR-2024高分论文：全新生成式编辑框架GenN2N，统一NeRF转换任务](https://posts.careerengine.us/p/66220b3c23ac9212c0f8aa81)  
-- [2024-04-19-5亿个token之后，我们得出关于GPT的七条宝贵经验](https://posts.careerengine.us/p/66220b4e1f9a1313781bfb7e)  
+- [2024-04-21-AI-Pioneers｜星海图高继扬：人形机器人不是具身智能的唯一答案](https://posts.careerengine.us/p/662491cb21c572682c355ce0)  
+- [2024-04-21-CVPR-2024-|-跳舞时飞扬的裙摆，AI也能高度还原了，南洋理工提出动态人体渲染新范式](https://posts.careerengine.us/p/662491e9995c8068dcd84ec0)  
+- [2024-04-21-4000万蛋白结构训练，西湖大学开发基于结构词表的蛋白质通用大模型，已开源](https://posts.careerengine.us/p/662491f8e01c006917c55ef9)  
 - [2024-04-19-MLLM真能看懂数学吗？MathVerse来了次摸底测评，放出当天登热榜](https://posts.careerengine.us/p/66220b4e1f9a1313781bfb87)  
-- [2024-04-18-生成式AI如何告别色情、版权困扰？基于权重显著性的机器遗忘算法有奇效](https://posts.careerengine.us/p/662113018684d63bbd1b7746)  
-- [2024-04-18-波士顿动力新版人形机器人Atlas问世，纯电驱动](https://posts.careerengine.us/p/662112ef416fbe3b94b1e28f)  
-- [2024-04-18-华为Pura70系列发布：麒麟9010+可伸缩镜头，上线秒抢光](https://posts.careerengine.us/p/662112ef416fbe3b94b1e287)  
-- [2024-04-18-谁才是最强的？清华给海内外知名大模型做了场综合能力评测](https://posts.careerengine.us/p/662112dd11dd153b4dca76f5)  
-- [2024-04-18-2024谷歌研究学者计划名单公布：清华、北大、上交ACM班等校友在列](https://posts.careerengine.us/p/662112dd11dd153b4dca76fe)  
+- [2024-04-19-5亿个token之后，我们得出关于GPT的七条宝贵经验](https://posts.careerengine.us/p/66220b4e1f9a1313781bfb7e)  
+- [2024-04-19-CVPR-2024高分论文：全新生成式编辑框架GenN2N，统一NeRF转换任务](https://posts.careerengine.us/p/66220b3c23ac9212c0f8aa81)  
+- [2024-04-19-下接万卡集群、上连AI原生应用，操作系统的进化超出你的想象](https://posts.careerengine.us/p/66220b2eb25e131275d64403)  
 - [2024-04-18-港股IPO招股异常火爆，唯一盈利的「AIGC第一股」是怎么炼成的？](https://posts.careerengine.us/p/662112dd11dd153b4dca7706)  
-- [2024-04-17-首个国产音乐SOTA模型来了！专为中文优化，免费用，不限曲风](https://posts.careerengine.us/p/661f9a0840cf751a62a539ab)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2024-04-23-ISSTA-2024-|-北大提出CoderUJB，面向代码大模型的可执行多任务代码评估基准揭示真实能力与局限](https://posts.careerengine.us/p/662743c63baa1540fb97a603) ![](/assets/new.png)  
-- [2024-04-23-免费在线体验Meta-LIama-3大语言模型！GpuMall狂送10万代金券！](https://posts.careerengine.us/p/662743c63baa1540fb97a60b) ![](/assets/new.png)  
-- [2024-04-23-博士申请-|-中山大学网络空间安全学院苗嘉旭教授招收计算机视觉方向博士/实习生](https://posts.careerengine.us/p/662743d6a84c86412ca13b55) ![](/assets/new.png)  
+- [2024-04-23-ISSTA-2024-|-北大提出CoderUJB，面向代码大模型的可执行多任务代码评估基准揭示真实能力与局限](https://posts.careerengine.us/p/662743c63baa1540fb97a603)  
+- [2024-04-23-免费在线体验Meta-LIama-3大语言模型！GpuMall狂送10万代金券！](https://posts.careerengine.us/p/662743c63baa1540fb97a60b)  
+- [2024-04-23-博士申请-|-中山大学网络空间安全学院苗嘉旭教授招收计算机视觉方向博士/实习生](https://posts.careerengine.us/p/662743d6a84c86412ca13b55)  
 - [2024-04-22-奖金丰厚！KDD-Cup-2024-检索增强生成CRAG挑战赛正式启动](https://posts.careerengine.us/p/6625f35a7126eb6a633245d1)  
 - [2024-04-22-总结！大模型微调（Fine-Tuning）的常见方法](https://posts.careerengine.us/p/6625f34bbd3df569e0f6078b)  
 - [2024-04-22-CVPR-2024-|-知识蒸馏中的Logit标准化：辅助logit-based-KD算法稳定涨点](https://posts.careerengine.us/p/6625f34bbd3df569e0f60783)  
