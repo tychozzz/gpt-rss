@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-23 15:00:12，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-23 18:00:12，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,9 +52,9 @@
 </summary>
 
 
-- [2024-04-23-大模型一对一战斗75万轮，GPT-4夺冠，Llama-3位列第五](https://posts.careerengine.us/p/662742e5745f1a3c48c18f8d) ![](/assets/new.png)  
-- [2024-04-23-对话蚂蚁李建国：当前AI写代码相当于L2.5，实现L3后替代50％人类编程](https://posts.careerengine.us/p/662742e5745f1a3c48c18f95) ![](/assets/new.png)  
-- [2024-04-23-微软推出iPhone能跑的ChatGPT级模型，网友：OpenAI得把GPT-3.5淘汰了](https://posts.careerengine.us/p/662742e6745f1a3c48c18fa4) ![](/assets/new.png)  
+- [2024-04-23-大模型一对一战斗75万轮，GPT-4夺冠，Llama-3位列第五](https://posts.careerengine.us/p/662742e5745f1a3c48c18f8d)  
+- [2024-04-23-对话蚂蚁李建国：当前AI写代码相当于L2.5，实现L3后替代50％人类编程](https://posts.careerengine.us/p/662742e5745f1a3c48c18f95)  
+- [2024-04-23-微软推出iPhone能跑的ChatGPT级模型，网友：OpenAI得把GPT-3.5淘汰了](https://posts.careerengine.us/p/662742e6745f1a3c48c18fa4)  
 - [2024-04-22-华为P70闪拍功能意外爆火，CTO亲自下场解读技术原理](https://posts.careerengine.us/p/6626424e52c1a75f6b106b5a)  
 - [2024-04-22-实时可编辑3D重建！鼠标拖拽就能控制，港大VAST浙大联合出品](https://posts.careerengine.us/p/6626424e52c1a75f6b106b51)  
 - [2024-04-22-印象笔记唐毅：AI如何升级你的“第二大脑”｜中国AIGC产业峰会](https://posts.careerengine.us/p/6626423b6984cd5f2aa50dfa)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-04-22-Meta提出全新文档级嵌入框架，利用LLM来增强信息检索能力](https://posts.careerengine.us/p/6625f34abd3df569e0f6077b)  
-- [2024-04-22-CVPR-2024-|-知识蒸馏中的Logit标准化：辅助logit-based-KD算法稳定涨点](https://posts.careerengine.us/p/6625f34bbd3df569e0f60783)  
-- [2024-04-22-总结！大模型微调（Fine-Tuning）的常见方法](https://posts.careerengine.us/p/6625f34bbd3df569e0f6078b)  
+- [2024-04-23-ISSTA-2024-|-北大提出CoderUJB，面向代码大模型的可执行多任务代码评估基准揭示真实能力与局限](https://posts.careerengine.us/p/662743c63baa1540fb97a603) ![](/assets/new.png)  
+- [2024-04-23-免费在线体验Meta-LIama-3大语言模型！GpuMall狂送10万代金券！](https://posts.careerengine.us/p/662743c63baa1540fb97a60b) ![](/assets/new.png)  
+- [2024-04-23-博士申请-|-中山大学网络空间安全学院苗嘉旭教授招收计算机视觉方向博士/实习生](https://posts.careerengine.us/p/662743d6a84c86412ca13b55) ![](/assets/new.png)  
 - [2024-04-22-奖金丰厚！KDD-Cup-2024-检索增强生成CRAG挑战赛正式启动](https://posts.careerengine.us/p/6625f35a7126eb6a633245d1)  
-- [2024-04-21-CVPR-2024-|-通用视觉新突破！UC伯克利提出首个无自然语言的纯视觉大模型](https://posts.careerengine.us/p/66251ad7be0d2170cd85a21a)  
-- [2024-04-21-文末送书-|-大模型开发的及时雨！《LangChain实战》全新教程来袭](https://posts.careerengine.us/p/66251ad6be0d2170cd85a20a)  
+- [2024-04-22-总结！大模型微调（Fine-Tuning）的常见方法](https://posts.careerengine.us/p/6625f34bbd3df569e0f6078b)  
+- [2024-04-22-CVPR-2024-|-知识蒸馏中的Logit标准化：辅助logit-based-KD算法稳定涨点](https://posts.careerengine.us/p/6625f34bbd3df569e0f60783)  
+- [2024-04-22-Meta提出全新文档级嵌入框架，利用LLM来增强信息检索能力](https://posts.careerengine.us/p/6625f34abd3df569e0f6077b)  
 - [2024-04-21-五光十色的多模态大模型：浅探视觉——语言大模型的关键模块设计](https://posts.careerengine.us/p/66251ac50beb597095b5d4fb)  
-- [2024-04-20-CVPR-2024-|-中大哈佛等提出全新训练方法CLoT，探究大模型幽默创新力](https://posts.careerengine.us/p/66235065c5e27f12b8268bed)  
-- [2024-04-20-60万奖金！2024全球人工智能技术创新大赛——算法挑战赛，等你来战！](https://posts.careerengine.us/p/66235065c5e27f12b8268be5)  
+- [2024-04-21-文末送书-|-大模型开发的及时雨！《LangChain实战》全新教程来袭](https://posts.careerengine.us/p/66251ad6be0d2170cd85a20a)  
+- [2024-04-21-CVPR-2024-|-通用视觉新突破！UC伯克利提出首个无自然语言的纯视觉大模型](https://posts.careerengine.us/p/66251ad7be0d2170cd85a21a)  
 - [2024-04-20-北京内推-|​-京东物流地图数据部门招聘AI算法实习生](https://posts.careerengine.us/p/662350743c739112f4065c4c)  
-- [2024-04-19-博士申请-|-美国亚利桑那大学杨幻睿老师招收机器学习方向全奖博士/实习生](https://posts.careerengine.us/p/6621fe23c5ecb453e51935a7)  
-- [2024-04-19-​AAAI-2024-|-杭电等提出MINDS，基于序列超图和对抗学习增强多尺度扩散预测](https://posts.careerengine.us/p/6621fe144d673d536dae2b66)  
+- [2024-04-20-60万奖金！2024全球人工智能技术创新大赛——算法挑战赛，等你来战！](https://posts.careerengine.us/p/66235065c5e27f12b8268be5)  
+- [2024-04-20-CVPR-2024-|-中大哈佛等提出全新训练方法CLoT，探究大模型幽默创新力](https://posts.careerengine.us/p/66235065c5e27f12b8268bed)  
 - [2024-04-19-高效涨点！用Transformer模型发Nature子刊（文末送书）](https://posts.careerengine.us/p/6621fe134d673d536dae2b5e)  
-- [2024-04-18-开放开源！蚂蚁集团浙江大学联合发布开源大模型知识抽取框架OneKE](https://posts.careerengine.us/p/6620f854246c063ba48d4eec)  
+- [2024-04-19-​AAAI-2024-|-杭电等提出MINDS，基于序列超图和对抗学习增强多尺度扩散预测](https://posts.careerengine.us/p/6621fe144d673d536dae2b66)  
+- [2024-04-19-博士申请-|-美国亚利桑那大学杨幻睿老师招收机器学习方向全奖博士/实习生](https://posts.careerengine.us/p/6621fe23c5ecb453e51935a7)  
 - [2024-04-18-ICLR-2024-|-阐明扩散模型中的曝光偏差问题，一行代码大幅提升生成质量](https://posts.careerengine.us/p/6620f8883532d03cde9d9d66)  
-- [2024-04-16-一阶优化算法启发，北大林宙辰团队提出具有万有逼近性质的神经网络架构设计方法](https://posts.careerengine.us/p/661e4faf78a80c2a825af49e)  
-- [2024-04-16-NAACL-2024-|-阿里提出大语言模型对齐框架Reward-Learning-on-Policy-（RLP）](https://posts.careerengine.us/p/661e4fa088b9162a4c6ec512)  
+- [2024-04-18-开放开源！蚂蚁集团浙江大学联合发布开源大模型知识抽取框架OneKE](https://posts.careerengine.us/p/6620f854246c063ba48d4eec)  
 - [2024-04-16-上海期智研究院诚聘人工智能、信息安全、量子智能及相关方向海内外顶尖人才](https://posts.careerengine.us/p/661e4fa088b9162a4c6ec51a)  
-- [2024-04-15-一文全面盘点算法工程师大模型微调技能图谱](https://posts.careerengine.us/p/661cb59601c0af403eb2f3de)  
-- [2024-04-15-​CVPR-2024-|-PromptSG：开启语言引导行人检索新纪元，实现精准语义捕捉](https://posts.careerengine.us/p/661cb5a562bca1407ab2c26e)  
+- [2024-04-16-NAACL-2024-|-阿里提出大语言模型对齐框架Reward-Learning-on-Policy-（RLP）](https://posts.careerengine.us/p/661e4fa088b9162a4c6ec512)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-04-23-三大模型联手爆改《流浪地球》结局！如果你是刘培强，你是认命还是怀抱希望？｜AI-测评室](https://posts.careerengine.us/p/662749c2c5bf095e056db783) ![](/assets/new.png)  
-- [2024-04-23-我处理了-5-亿-GPT-tokens-后：langchain、RAG-等都没什么用](https://posts.careerengine.us/p/662749c2c5bf095e056db77b) ![](/assets/new.png)  
+- [2024-04-23-三大模型联手爆改《流浪地球》结局！如果你是刘培强，你是认命还是怀抱希望？｜AI-测评室](https://posts.careerengine.us/p/662749c2c5bf095e056db783)  
+- [2024-04-23-我处理了-5-亿-GPT-tokens-后：langchain、RAG-等都没什么用](https://posts.careerengine.us/p/662749c2c5bf095e056db77b)  
 - [2024-04-22-Meta、微软、Mistral-AI、Hugging-Face、通义、港中文六路进发开源大模型-|-大模型一周大事](https://posts.careerengine.us/p/6625f6260bc84477d122039e)  
 - [2024-04-22-微软秒删堪比GPT-4的开源大模型！研发总部还被爆在北京？官方：我们只是忘了测试](https://posts.careerengine.us/p/6625f6250bc84477d1220396)  
 - [2024-04-21-刘强东AI数字人首播，30分钟观看破千万；雷军回应爽文人生：不是高考状元、没有40亿；特斯拉大裁员：员工对赔偿满意｜AI周报](https://posts.careerengine.us/p/6624a58678e04b474b389a12)  
