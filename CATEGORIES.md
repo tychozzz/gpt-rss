@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-24 21:00:13，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-25 06:00:10，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,12 +21,12 @@
 </summary>
 
 
-- [2024-04-24-加速扩散模型，最快1步生成SOTA级图片，字节Hyper-SD开源了](https://posts.careerengine.us/p/6628d85dfd3cf75a7fe3be95) ![](/assets/new.png)  
-- [2024-04-24-MiniMax不声不响出了款让人惊喜的生产力产品：「海螺AI」大测评](https://posts.careerengine.us/p/6628d85dfd3cf75a7fe3be9d) ![](/assets/new.png)  
-- [2024-04-24-苹果卷开源大模型，公开代码、权重、数据集、训练全过程，OpenELM亮相](https://posts.careerengine.us/p/6628d86eae9f355aed7eb212) ![](/assets/new.png)  
-- [2024-04-24-首批中文版Llama3模型来了，解释成语、答弱智吧问题](https://posts.careerengine.us/p/6628d87e39bf2c5b20c0685a) ![](/assets/new.png)  
-- [2024-04-24-硬控设计人一分钟，加持大模型的Adobe，PS起来更香了](https://posts.careerengine.us/p/6628d87e39bf2c5b20c06852) ![](/assets/new.png)  
-- [2024-04-24-AI信任危机之后，揭秘预训练如何塑造机器的「可信灵魂」](https://posts.careerengine.us/p/6628d87e39bf2c5b20c0684a) ![](/assets/new.png)  
+- [2024-04-24-加速扩散模型，最快1步生成SOTA级图片，字节Hyper-SD开源了](https://posts.careerengine.us/p/6628d85dfd3cf75a7fe3be95)  
+- [2024-04-24-MiniMax不声不响出了款让人惊喜的生产力产品：「海螺AI」大测评](https://posts.careerengine.us/p/6628d85dfd3cf75a7fe3be9d)  
+- [2024-04-24-苹果卷开源大模型，公开代码、权重、数据集、训练全过程，OpenELM亮相](https://posts.careerengine.us/p/6628d86eae9f355aed7eb212)  
+- [2024-04-24-首批中文版Llama3模型来了，解释成语、答弱智吧问题](https://posts.careerengine.us/p/6628d87e39bf2c5b20c0685a)  
+- [2024-04-24-硬控设计人一分钟，加持大模型的Adobe，PS起来更香了](https://posts.careerengine.us/p/6628d87e39bf2c5b20c06852)  
+- [2024-04-24-AI信任危机之后，揭秘预训练如何塑造机器的「可信灵魂」](https://posts.careerengine.us/p/6628d87e39bf2c5b20c0684a)  
 - [2024-04-23-24GB单卡全量微调Llama-3-8B，仅需添加一行代码](https://posts.careerengine.us/p/662797780e62ba5199a889db)  
 - [2024-04-23-Llama3后，Meta又开放自家头显操作系统，打造元宇宙时代新安卓](https://posts.careerengine.us/p/66279765b03d8851588da4a8)  
 - [2024-04-23-CVPR-2024-|-基于MoE的通用图像融合模型，添加2.8％参数完成多项任务](https://posts.careerengine.us/p/66279765b03d8851588da4b2)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-04-23-大模型一对一战斗75万轮，GPT-4夺冠，Llama-3位列第五](https://posts.careerengine.us/p/662742e5745f1a3c48c18f8d)  
-- [2024-04-23-对话蚂蚁李建国：当前AI写代码相当于L2.5，实现L3后替代50％人类编程](https://posts.careerengine.us/p/662742e5745f1a3c48c18f95)  
+- [2024-04-24-快速低成本构建应用，浪潮信息把企业大模型落地门槛打下来了](https://posts.careerengine.us/p/6629042f34c2052868e150d6) ![](/assets/new.png)  
+- [2024-04-24-AI刘强东007带货，背后大模型也就10亿参数，京东：我家数字人平均水平](https://posts.careerengine.us/p/6629042f34c2052868e150c5) ![](/assets/new.png)  
+- [2024-04-24-全球首个「油电平权」智驾方案：10万级入门标配高速NOA，高通Momenta联合出品](https://posts.careerengine.us/p/6629042f34c2052868e150cd) ![](/assets/new.png)  
+- [2024-04-24-“AIGC第一股”首日市值54亿！出门问问正式登陆港交所，李志飞身家10亿](https://posts.careerengine.us/p/662904481cdf4828c289d3c2) ![](/assets/new.png)  
 - [2024-04-23-微软推出iPhone能跑的ChatGPT级模型，网友：OpenAI得把GPT-3.5淘汰了](https://posts.careerengine.us/p/662742e6745f1a3c48c18fa4)  
-- [2024-04-22-华为P70闪拍功能意外爆火，CTO亲自下场解读技术原理](https://posts.careerengine.us/p/6626424e52c1a75f6b106b5a)  
-- [2024-04-22-实时可编辑3D重建！鼠标拖拽就能控制，港大VAST浙大联合出品](https://posts.careerengine.us/p/6626424e52c1a75f6b106b51)  
-- [2024-04-22-印象笔记唐毅：AI如何升级你的“第二大脑”｜中国AIGC产业峰会](https://posts.careerengine.us/p/6626423b6984cd5f2aa50dfa)  
+- [2024-04-23-对话蚂蚁李建国：当前AI写代码相当于L2.5，实现L3后替代50％人类编程](https://posts.careerengine.us/p/662742e5745f1a3c48c18f95)  
+- [2024-04-23-大模型一对一战斗75万轮，GPT-4夺冠，Llama-3位列第五](https://posts.careerengine.us/p/662742e5745f1a3c48c18f8d)  
 - [2024-04-22-新测试基准发布，最强开源Llama-3尴尬了](https://posts.careerengine.us/p/6626423a6984cd5f2aa50df0)  
-- [2024-04-21-高通万卫星：终端侧生成式AI时代已经来临｜中国AIGC产业峰会](https://posts.careerengine.us/p/66249fdbc5517b2b774655a3)  
-- [2024-04-21-GPT-4化身黑客搞破坏，成功率87％！OpenAI要求保密提示词，网友复现ing](https://posts.careerengine.us/p/66249fdbc5517b2b774655ac)  
+- [2024-04-22-印象笔记唐毅：AI如何升级你的“第二大脑”｜中国AIGC产业峰会](https://posts.careerengine.us/p/6626423b6984cd5f2aa50dfa)  
+- [2024-04-22-实时可编辑3D重建！鼠标拖拽就能控制，港大VAST浙大联合出品](https://posts.careerengine.us/p/6626424e52c1a75f6b106b51)  
+- [2024-04-22-华为P70闪拍功能意外爆火，CTO亲自下场解读技术原理](https://posts.careerengine.us/p/6626424e52c1a75f6b106b5a)  
 - [2024-04-21-轻松拿捏4K高清图像理解！这个多模态大模型自动分析网页海报内容，打工人简直不要太方便](https://posts.careerengine.us/p/66249fea81f7922baf26a0a6)  
-- [2024-04-20-再见，AI意识先驱：Daniel-Dennett](https://posts.careerengine.us/p/6623bf07139b520b40890f7d)  
-- [2024-04-20-离你最近的空间计算打开方式，X499元？](https://posts.careerengine.us/p/6623bef500374a0b08a8bc58)  
+- [2024-04-21-GPT-4化身黑客搞破坏，成功率87％！OpenAI要求保密提示词，网友复现ing](https://posts.careerengine.us/p/66249fdbc5517b2b774655ac)  
+- [2024-04-21-高通万卫星：终端侧生成式AI时代已经来临｜中国AIGC产业峰会](https://posts.careerengine.us/p/66249fdbc5517b2b774655a3)  
 - [2024-04-20-小冰徐元春：AIGC已经让普通人开始赚钱-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6623bef500374a0b08a8bc50)  
-- [2024-04-19-直播网友AI写歌征婚，实测最新登榜音乐SOTA模型：免费无限次，一键生成](https://posts.careerengine.us/p/662237639289ff6322ef21b6)  
-- [2024-04-19-GPT-Store都开不下去，这家国产平台怎么敢走这条路的？？](https://posts.careerengine.us/p/662237760cae6f637040eacf)  
-- [2024-04-19-亚马逊云科技王晓野：八成CEO认为生成式AI在18个月内颠覆所有行业丨中国AIGC产业峰会](https://posts.careerengine.us/p/662237760cae6f637040eac6)  
+- [2024-04-20-离你最近的空间计算打开方式，X499元？](https://posts.careerengine.us/p/6623bef500374a0b08a8bc58)  
+- [2024-04-20-再见，AI意识先驱：Daniel-Dennett](https://posts.careerengine.us/p/6623bf07139b520b40890f7d)  
 - [2024-04-19-Llama-3突然来袭！开源社区再次沸腾：GPT-4级别模型可以自由访问的时代到来](https://posts.careerengine.us/p/662237770cae6f637040ead7)  
-- [2024-04-18-波士顿动力断臂转型！弃液压转电驱，新机器人再次惊艳世界](https://posts.careerengine.us/p/662107346d89a00605e97fd8)  
-- [2024-04-18-Sora问世，如何用大模型反诈？](https://posts.careerengine.us/p/662107346d89a00605e97fe0)  
-- [2024-04-18-微软炸裂级单图生数字人，Sora同款思路，“比AI刘强东还真”](https://posts.careerengine.us/p/662107346d89a00605e97fe8)  
+- [2024-04-19-亚马逊云科技王晓野：八成CEO认为生成式AI在18个月内颠覆所有行业丨中国AIGC产业峰会](https://posts.careerengine.us/p/662237760cae6f637040eac6)  
+- [2024-04-19-GPT-Store都开不下去，这家国产平台怎么敢走这条路的？？](https://posts.careerengine.us/p/662237760cae6f637040eacf)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
