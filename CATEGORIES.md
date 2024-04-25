@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-25 15:00:12，:rocket: 更新条数: +9， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-25 21:00:10，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,12 +21,12 @@
 </summary>
 
 
-- [2024-04-25-国内销量持续领跑，荣耀告诉你切入AI手机的正确姿势](https://posts.careerengine.us/p/6629e42874025b664e43d20e) ![](/assets/new.png)  
-- [2024-04-25-Open-Sora全面开源升级：支持16s视频生成和720p分辨率](https://posts.careerengine.us/p/6629e42974025b664e43d21e) ![](/assets/new.png)  
-- [2024-04-25-黄仁勋亲自给OpenAI送货，全球首台DGX-H200开箱了](https://posts.careerengine.us/p/6629e42974025b664e43d216) ![](/assets/new.png)  
-- [2024-04-25-仅需Llama3-1/17的训练成本，Snowflake开源128x3B-MoE模型](https://posts.careerengine.us/p/6629e43802706c6677b3ce23) ![](/assets/new.png)  
-- [2024-04-25-视频生成技术与应用-AI-技术论坛圆满收官](https://posts.careerengine.us/p/6629e43802706c6677b3ce2b) ![](/assets/new.png)  
-- [2024-04-25-8B文字多模态大模型指标逼近GPT4V，字节、华师、华科联合提出TextSquare](https://posts.careerengine.us/p/6629e4477f3c5366a807ab49) ![](/assets/new.png)  
+- [2024-04-25-国内销量持续领跑，荣耀告诉你切入AI手机的正确姿势](https://posts.careerengine.us/p/6629e42874025b664e43d20e)  
+- [2024-04-25-Open-Sora全面开源升级：支持16s视频生成和720p分辨率](https://posts.careerengine.us/p/6629e42974025b664e43d21e)  
+- [2024-04-25-黄仁勋亲自给OpenAI送货，全球首台DGX-H200开箱了](https://posts.careerengine.us/p/6629e42974025b664e43d216)  
+- [2024-04-25-仅需Llama3-1/17的训练成本，Snowflake开源128x3B-MoE模型](https://posts.careerengine.us/p/6629e43802706c6677b3ce23)  
+- [2024-04-25-视频生成技术与应用-AI-技术论坛圆满收官](https://posts.careerengine.us/p/6629e43802706c6677b3ce2b)  
+- [2024-04-25-8B文字多模态大模型指标逼近GPT4V，字节、华师、华科联合提出TextSquare](https://posts.careerengine.us/p/6629e4477f3c5366a807ab49)  
 - [2024-04-24-AI信任危机之后，揭秘预训练如何塑造机器的「可信灵魂」](https://posts.careerengine.us/p/6628d87e39bf2c5b20c0684a)  
 - [2024-04-24-硬控设计人一分钟，加持大模型的Adobe，PS起来更香了](https://posts.careerengine.us/p/6628d87e39bf2c5b20c06852)  
 - [2024-04-24-首批中文版Llama3模型来了，解释成语、答弱智吧问题](https://posts.careerengine.us/p/6628d87e39bf2c5b20c0685a)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-04-24-快速低成本构建应用，浪潮信息把企业大模型落地门槛打下来了](https://posts.careerengine.us/p/6629042f34c2052868e150d6)  
-- [2024-04-24-AI刘强东007带货，背后大模型也就10亿参数，京东：我家数字人平均水平](https://posts.careerengine.us/p/6629042f34c2052868e150c5)  
-- [2024-04-24-全球首个「油电平权」智驾方案：10万级入门标配高速NOA，高通Momenta联合出品](https://posts.careerengine.us/p/6629042f34c2052868e150cd)  
+- [2024-04-25-GPT-4现场被端侧小模型“暴打”，商汤日日新5.0：全面对标GPT-4-Turbo](https://posts.careerengine.us/p/662a1a011c0db0684ea2df93) ![](/assets/new.png)  
+- [2024-04-25-支付宝悄悄上线智能助理，我们也偷偷测了下](https://posts.careerengine.us/p/662a1a1127ae07689b8d7af3) ![](/assets/new.png)  
+- [2024-04-25-揭秘腾讯混元大模型：400+场景落地，协作SaaS产品全面接入](https://posts.careerengine.us/p/662a1a1127ae07689b8d7afb) ![](/assets/new.png)  
+- [2024-04-25-老黄亲自上门送超算！OpenAI奥特曼签收后到斯坦福演讲GPT-5](https://posts.careerengine.us/p/662a1a2193e56b68d73732e4) ![](/assets/new.png)  
 - [2024-04-24-“AIGC第一股”首日市值54亿！出门问问正式登陆港交所，李志飞身家10亿](https://posts.careerengine.us/p/662904481cdf4828c289d3c2)  
-- [2024-04-23-微软推出iPhone能跑的ChatGPT级模型，网友：OpenAI得把GPT-3.5淘汰了](https://posts.careerengine.us/p/662742e6745f1a3c48c18fa4)  
-- [2024-04-23-对话蚂蚁李建国：当前AI写代码相当于L2.5，实现L3后替代50％人类编程](https://posts.careerengine.us/p/662742e5745f1a3c48c18f95)  
+- [2024-04-24-全球首个「油电平权」智驾方案：10万级入门标配高速NOA，高通Momenta联合出品](https://posts.careerengine.us/p/6629042f34c2052868e150cd)  
+- [2024-04-24-AI刘强东007带货，背后大模型也就10亿参数，京东：我家数字人平均水平](https://posts.careerengine.us/p/6629042f34c2052868e150c5)  
+- [2024-04-24-快速低成本构建应用，浪潮信息把企业大模型落地门槛打下来了](https://posts.careerengine.us/p/6629042f34c2052868e150d6)  
 - [2024-04-23-大模型一对一战斗75万轮，GPT-4夺冠，Llama-3位列第五](https://posts.careerengine.us/p/662742e5745f1a3c48c18f8d)  
-- [2024-04-22-新测试基准发布，最强开源Llama-3尴尬了](https://posts.careerengine.us/p/6626423a6984cd5f2aa50df0)  
-- [2024-04-22-印象笔记唐毅：AI如何升级你的“第二大脑”｜中国AIGC产业峰会](https://posts.careerengine.us/p/6626423b6984cd5f2aa50dfa)  
-- [2024-04-22-实时可编辑3D重建！鼠标拖拽就能控制，港大VAST浙大联合出品](https://posts.careerengine.us/p/6626424e52c1a75f6b106b51)  
+- [2024-04-23-对话蚂蚁李建国：当前AI写代码相当于L2.5，实现L3后替代50％人类编程](https://posts.careerengine.us/p/662742e5745f1a3c48c18f95)  
+- [2024-04-23-微软推出iPhone能跑的ChatGPT级模型，网友：OpenAI得把GPT-3.5淘汰了](https://posts.careerengine.us/p/662742e6745f1a3c48c18fa4)  
 - [2024-04-22-华为P70闪拍功能意外爆火，CTO亲自下场解读技术原理](https://posts.careerengine.us/p/6626424e52c1a75f6b106b5a)  
-- [2024-04-21-轻松拿捏4K高清图像理解！这个多模态大模型自动分析网页海报内容，打工人简直不要太方便](https://posts.careerengine.us/p/66249fea81f7922baf26a0a6)  
-- [2024-04-21-GPT-4化身黑客搞破坏，成功率87％！OpenAI要求保密提示词，网友复现ing](https://posts.careerengine.us/p/66249fdbc5517b2b774655ac)  
+- [2024-04-22-实时可编辑3D重建！鼠标拖拽就能控制，港大VAST浙大联合出品](https://posts.careerengine.us/p/6626424e52c1a75f6b106b51)  
+- [2024-04-22-印象笔记唐毅：AI如何升级你的“第二大脑”｜中国AIGC产业峰会](https://posts.careerengine.us/p/6626423b6984cd5f2aa50dfa)  
+- [2024-04-22-新测试基准发布，最强开源Llama-3尴尬了](https://posts.careerengine.us/p/6626423a6984cd5f2aa50df0)  
 - [2024-04-21-高通万卫星：终端侧生成式AI时代已经来临｜中国AIGC产业峰会](https://posts.careerengine.us/p/66249fdbc5517b2b774655a3)  
-- [2024-04-20-小冰徐元春：AIGC已经让普通人开始赚钱-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6623bef500374a0b08a8bc50)  
-- [2024-04-20-离你最近的空间计算打开方式，X499元？](https://posts.careerengine.us/p/6623bef500374a0b08a8bc58)  
+- [2024-04-21-GPT-4化身黑客搞破坏，成功率87％！OpenAI要求保密提示词，网友复现ing](https://posts.careerengine.us/p/66249fdbc5517b2b774655ac)  
+- [2024-04-21-轻松拿捏4K高清图像理解！这个多模态大模型自动分析网页海报内容，打工人简直不要太方便](https://posts.careerengine.us/p/66249fea81f7922baf26a0a6)  
 - [2024-04-20-再见，AI意识先驱：Daniel-Dennett](https://posts.careerengine.us/p/6623bf07139b520b40890f7d)  
-- [2024-04-19-Llama-3突然来袭！开源社区再次沸腾：GPT-4级别模型可以自由访问的时代到来](https://posts.careerengine.us/p/662237770cae6f637040ead7)  
-- [2024-04-19-亚马逊云科技王晓野：八成CEO认为生成式AI在18个月内颠覆所有行业丨中国AIGC产业峰会](https://posts.careerengine.us/p/662237760cae6f637040eac6)  
-- [2024-04-19-GPT-Store都开不下去，这家国产平台怎么敢走这条路的？？](https://posts.careerengine.us/p/662237760cae6f637040eacf)  
+- [2024-04-20-离你最近的空间计算打开方式，X499元？](https://posts.careerengine.us/p/6623bef500374a0b08a8bc58)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,9 +176,9 @@
 </summary>
 
 
-- [2024-04-25-规模增长超-50％！普通人如何上手-AI-大模型应用开发？-|-极客时间](https://posts.careerengine.us/p/6629ec6a8eac970ea8016740) ![](/assets/new.png)  
-- [2024-04-25-过去一年，中国车企“上车”大模型进展如何？](https://posts.careerengine.us/p/6629ec6b8eac970ea8016748) ![](/assets/new.png)  
-- [2024-04-25-阿里、蚂蚁、昇腾、中科加禾精彩分享-AI-基础设施洞见，现购票可享受-9-折优惠-｜AICon](https://posts.careerengine.us/p/6629ec7a91f94b0ee82ec5be) ![](/assets/new.png)  
+- [2024-04-25-规模增长超-50％！普通人如何上手-AI-大模型应用开发？-|-极客时间](https://posts.careerengine.us/p/6629ec6a8eac970ea8016740)  
+- [2024-04-25-过去一年，中国车企“上车”大模型进展如何？](https://posts.careerengine.us/p/6629ec6b8eac970ea8016748)  
+- [2024-04-25-阿里、蚂蚁、昇腾、中科加禾精彩分享-AI-基础设施洞见，现购票可享受-9-折优惠-｜AICon](https://posts.careerengine.us/p/6629ec7a91f94b0ee82ec5be)  
 - [2024-04-24-小模型时代来了？微软最小参数AI模型发布，性能逼近-GPT-3.5](https://posts.careerengine.us/p/662890411ca28a0749f0a785)  
 - [2024-04-24-InfoQ-中国技术力量之【AIGC-先锋榜单】正式启动征集，洞见-AIGC-产业未来](https://posts.careerengine.us/p/662890411ca28a0749f0a78d)  
 - [2024-04-24-总市值近45亿港币，AIGC第一股出门问问流血上市！首日破发开跌超21％](https://posts.careerengine.us/p/6628903178f42606cff48d52)  
