@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-04-26 23:00:14，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-27 06:00:12，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2024-04-26-你的超级知识助手来了！讯飞星火支持长文本长图文长语音，生产力直线UP](https://posts.careerengine.us/p/662ba246595624771b4059b2) ![](/assets/new.png)  
-- [2024-04-26-字节发布视觉基础模型ViTamin，多项任务实现SOTA，入选CVPR2024](https://posts.careerengine.us/p/662ba246595624771b4059bc) ![](/assets/new.png)  
-- [2024-04-26-AI机器人开始卷家务了，深圳创业果然务实](https://posts.careerengine.us/p/662ba25575e9e7777af106b3) ![](/assets/new.png)  
-- [2024-04-26-一键换装神器爆火，老黄换上抱抱脸T恤，CEO本人：我被替代了，和他争CEO职位争不过](https://posts.careerengine.us/p/662ba267200df4779e6b13a1) ![](/assets/new.png)  
+- [2024-04-26-你的超级知识助手来了！讯飞星火支持长文本长图文长语音，生产力直线UP](https://posts.careerengine.us/p/662ba246595624771b4059b2)  
+- [2024-04-26-字节发布视觉基础模型ViTamin，多项任务实现SOTA，入选CVPR2024](https://posts.careerengine.us/p/662ba246595624771b4059bc)  
+- [2024-04-26-AI机器人开始卷家务了，深圳创业果然务实](https://posts.careerengine.us/p/662ba25575e9e7777af106b3)  
+- [2024-04-26-一键换装神器爆火，老黄换上抱抱脸T恤，CEO本人：我被替代了，和他争CEO职位争不过](https://posts.careerengine.us/p/662ba267200df4779e6b13a1)  
 - [2024-04-25-老黄亲自上门送超算！OpenAI奥特曼签收后到斯坦福演讲GPT-5](https://posts.careerengine.us/p/662a1a2193e56b68d73732e4)  
 - [2024-04-25-揭秘腾讯混元大模型：400+场景落地，协作SaaS产品全面接入](https://posts.careerengine.us/p/662a1a1127ae07689b8d7afb)  
 - [2024-04-25-支付宝悄悄上线智能助理，我们也偷偷测了下](https://posts.careerengine.us/p/662a1a1127ae07689b8d7af3)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-04-24-Zilliz携手智源研究院集成业界大热模型，全面提升RAG质量](https://posts.careerengine.us/p/66289f886f38a44f3c201996)  
-- [2024-04-24-蚂蚁提出自适应训练框架AntDT，有效解决工业级分布式训练快慢机的利器](https://posts.careerengine.us/p/66289f886f38a44f3c20198e)  
-- [2024-04-24-博士申请-|-香港科技大学（广州）谢泽柯老师招收机器学习方向全奖博士/RA/博后](https://posts.careerengine.us/p/66289f984bc67e4f71620805)  
+- [2024-04-26-生成扩散模型漫谈：信噪比与大图生成（下）](https://posts.careerengine.us/p/662bbb9e017c4b6c4ae25452) ![](/assets/new.png)  
+- [2024-04-26-文末送书-|-中山大学HCP实验室专著《多模态大模型》重磅发布](https://posts.careerengine.us/p/662bbb9e017c4b6c4ae2544a) ![](/assets/new.png)  
+- [2024-04-26-深圳/北京内推-|​-腾讯混元AIGC团队招聘文生3D方向算法研究员/实习生](https://posts.careerengine.us/p/662bbbad38489d6cb9dfc156) ![](/assets/new.png)  
+- [2024-04-26-CVPR-2024-|-南洋理工提出动态人体渲染新范式，高度还原跳舞时飞扬的裙摆](https://posts.careerengine.us/p/662bbbac38489d6cb9dfc14e) ![](/assets/new.png)  
 - [2024-04-24-CVPR-2024-|-浙大提出近似平均方向求解器，快速扩散模型数值采样](https://posts.careerengine.us/p/66289f984bc67e4f7162080d)  
-- [2024-04-23-博士申请-|-中山大学网络空间安全学院苗嘉旭教授招收计算机视觉方向博士/实习生](https://posts.careerengine.us/p/662743d6a84c86412ca13b55)  
-- [2024-04-23-免费在线体验Meta-LIama-3大语言模型！GpuMall狂送10万代金券！](https://posts.careerengine.us/p/662743c63baa1540fb97a60b)  
+- [2024-04-24-博士申请-|-香港科技大学（广州）谢泽柯老师招收机器学习方向全奖博士/RA/博后](https://posts.careerengine.us/p/66289f984bc67e4f71620805)  
+- [2024-04-24-蚂蚁提出自适应训练框架AntDT，有效解决工业级分布式训练快慢机的利器](https://posts.careerengine.us/p/66289f886f38a44f3c20198e)  
+- [2024-04-24-Zilliz携手智源研究院集成业界大热模型，全面提升RAG质量](https://posts.careerengine.us/p/66289f886f38a44f3c201996)  
 - [2024-04-23-ISSTA-2024-|-北大提出CoderUJB，面向代码大模型的可执行多任务代码评估基准揭示真实能力与局限](https://posts.careerengine.us/p/662743c63baa1540fb97a603)  
-- [2024-04-22-Meta提出全新文档级嵌入框架，利用LLM来增强信息检索能力](https://posts.careerengine.us/p/6625f34abd3df569e0f6077b)  
-- [2024-04-22-CVPR-2024-|-知识蒸馏中的Logit标准化：辅助logit-based-KD算法稳定涨点](https://posts.careerengine.us/p/6625f34bbd3df569e0f60783)  
-- [2024-04-22-总结！大模型微调（Fine-Tuning）的常见方法](https://posts.careerengine.us/p/6625f34bbd3df569e0f6078b)  
+- [2024-04-23-免费在线体验Meta-LIama-3大语言模型！GpuMall狂送10万代金券！](https://posts.careerengine.us/p/662743c63baa1540fb97a60b)  
+- [2024-04-23-博士申请-|-中山大学网络空间安全学院苗嘉旭教授招收计算机视觉方向博士/实习生](https://posts.careerengine.us/p/662743d6a84c86412ca13b55)  
 - [2024-04-22-奖金丰厚！KDD-Cup-2024-检索增强生成CRAG挑战赛正式启动](https://posts.careerengine.us/p/6625f35a7126eb6a633245d1)  
-- [2024-04-21-CVPR-2024-|-通用视觉新突破！UC伯克利提出首个无自然语言的纯视觉大模型](https://posts.careerengine.us/p/66251ad7be0d2170cd85a21a)  
-- [2024-04-21-文末送书-|-大模型开发的及时雨！《LangChain实战》全新教程来袭](https://posts.careerengine.us/p/66251ad6be0d2170cd85a20a)  
+- [2024-04-22-总结！大模型微调（Fine-Tuning）的常见方法](https://posts.careerengine.us/p/6625f34bbd3df569e0f6078b)  
+- [2024-04-22-CVPR-2024-|-知识蒸馏中的Logit标准化：辅助logit-based-KD算法稳定涨点](https://posts.careerengine.us/p/6625f34bbd3df569e0f60783)  
+- [2024-04-22-Meta提出全新文档级嵌入框架，利用LLM来增强信息检索能力](https://posts.careerengine.us/p/6625f34abd3df569e0f6077b)  
 - [2024-04-21-五光十色的多模态大模型：浅探视觉——语言大模型的关键模块设计](https://posts.careerengine.us/p/66251ac50beb597095b5d4fb)  
-- [2024-04-20-CVPR-2024-|-中大哈佛等提出全新训练方法CLoT，探究大模型幽默创新力](https://posts.careerengine.us/p/66235065c5e27f12b8268bed)  
-- [2024-04-20-60万奖金！2024全球人工智能技术创新大赛——算法挑战赛，等你来战！](https://posts.careerengine.us/p/66235065c5e27f12b8268be5)  
+- [2024-04-21-文末送书-|-大模型开发的及时雨！《LangChain实战》全新教程来袭](https://posts.careerengine.us/p/66251ad6be0d2170cd85a20a)  
+- [2024-04-21-CVPR-2024-|-通用视觉新突破！UC伯克利提出首个无自然语言的纯视觉大模型](https://posts.careerengine.us/p/66251ad7be0d2170cd85a21a)  
 - [2024-04-20-北京内推-|​-京东物流地图数据部门招聘AI算法实习生](https://posts.careerengine.us/p/662350743c739112f4065c4c)  
-- [2024-04-19-博士申请-|-美国亚利桑那大学杨幻睿老师招收机器学习方向全奖博士/实习生](https://posts.careerengine.us/p/6621fe23c5ecb453e51935a7)  
-- [2024-04-19-​AAAI-2024-|-杭电等提出MINDS，基于序列超图和对抗学习增强多尺度扩散预测](https://posts.careerengine.us/p/6621fe144d673d536dae2b66)  
-- [2024-04-19-高效涨点！用Transformer模型发Nature子刊（文末送书）](https://posts.careerengine.us/p/6621fe134d673d536dae2b5e)  
+- [2024-04-20-60万奖金！2024全球人工智能技术创新大赛——算法挑战赛，等你来战！](https://posts.careerengine.us/p/66235065c5e27f12b8268be5)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
