@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-04-27 15:00:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-27 18:00:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 通义千问
 
@@ -12,6 +12,7 @@
 - [2023-12-16-阿里文生视频挑战Gen-2、Pika，1280×720分辨率无压力，3500万文本——视频对显奇效](https://posts.careerengine.us/p/657d2bc8f4d22f36a0b59114) 
 - [2023-12-12-阿里Animate-Anyone跳舞火了，作者带你解读背后技术](https://posts.careerengine.us/p/65774190514b6868b3ca45fb) 
 - [2023-07-08-中科院、阿里出品FF3D，创建自定义风格化3D人像只需三分钟](https://posts.careerengine.us/p/64a8f17356a2e2354e54ec78) 
+- [2024-04-27-阿里智能体“组装工厂”开源！0经验搞定上万Agent并发](https://posts.careerengine.us/p/662c90f9e9d9800822d255d0) 
 - [2023-12-12-阿里又整活儿：一张人脸一句话就能跳《擦玻璃》，服装背景随意换！](https://posts.careerengine.us/p/6577ea8d5f82213aaa507d95) 
 - [2023-11-27-阿里确认放弃量子计算研发！实验室裁撤，设备送浙大](https://posts.careerengine.us/p/6564244b6ace1008276d37f3) 
 - [2023-11-10-4999！这款智能眼镜在进博会上火了，背后团队已获阿里千万元战略投资](https://posts.careerengine.us/p/654dd02e030481116c4535e8) 

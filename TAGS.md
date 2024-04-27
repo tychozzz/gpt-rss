@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-27 15:00:12。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-04-27 18:00:11。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -207,6 +207,7 @@
 - [【机器之心】阿里文生视频挑战Gen-2、Pika，1280×720分辨率无压力，3500万文本——视频对显奇效](https://posts.careerengine.us/p/657d2bc8f4d22f36a0b59114)
 - [【机器之心】阿里Animate-Anyone跳舞火了，作者带你解读背后技术](https://posts.careerengine.us/p/65774190514b6868b3ca45fb)
 - [【机器之心】中科院、阿里出品FF3D，创建自定义风格化3D人像只需三分钟](https://posts.careerengine.us/p/64a8f17356a2e2354e54ec78)
+- [【量子位】阿里智能体“组装工厂”开源！0经验搞定上万Agent并发](https://posts.careerengine.us/p/662c90f9e9d9800822d255d0)
 - [【量子位】阿里又整活儿：一张人脸一句话就能跳《擦玻璃》，服装背景随意换！](https://posts.careerengine.us/p/6577ea8d5f82213aaa507d95)
 - [【量子位】阿里确认放弃量子计算研发！实验室裁撤，设备送浙大](https://posts.careerengine.us/p/6564244b6ace1008276d37f3)
 - [【量子位】4999！这款智能眼镜在进博会上火了，背后团队已获阿里千万元战略投资](https://posts.careerengine.us/p/654dd02e030481116c4535e8)
@@ -221,7 +222,6 @@
 - [【PaperWeekly】直播预告-|-阿里达摩院算法研究员黄斐：又快又好的非自回归文本生成](https://posts.careerengine.us/p/65058c371ce3752a3eb50793)
 - [【PaperWeekly】北京/杭州内推-|-阿里达摩院视觉技术实验室招聘计算机视觉算法工程师/实习生](https://posts.careerengine.us/p/64cb925eaa3c0f3343d208f8)
 - [【PaperWeekly】阿里公开文生图研究新进展，提出组合式的多概念定制生成方法](https://posts.careerengine.us/p/64c9e828f7c8ec7b2110a222)
-- [【AI前线】挑战阿里巴巴和Meta：Arm即将上市，软银力争打造科技史第三大IPO](https://posts.careerengine.us/p/64e4496576ee633534c3024e)
 - [......【查看更多】......](/details/tags/tongyi.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
