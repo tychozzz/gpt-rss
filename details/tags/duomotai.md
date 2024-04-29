@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-04-28 21:00:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-29 15:00:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 多模态
 
@@ -15,13 +15,14 @@
 - [2023-06-27-基于信息论的校准技术，CML让多模态机器学习更可靠](https://posts.careerengine.us/p/649a697cfba2fd44a974741f) 
 - [2024-03-31-上海交大新框架解锁CLIP长文本能力，多模态生成细节拿捏，图像检索能力显著提升](https://posts.careerengine.us/p/66092091d73fb76a9f0353da) 
 - [2023-11-12-北大&腾讯打造多模态15边形战士！语言作“纽带”，拳打脚踢各模态，超越Imagebind](https://posts.careerengine.us/p/65504ca2d8a0792896491abe) 
+- [2024-04-29-全网首发！Llama-3技术剖析、微调、部署以及多模态训练](https://posts.careerengine.us/p/662f37dceb3de94c4176d605) 
 - [2024-03-27-视觉特征在语言空间中如何分布？武大、上海交大提出统一多模态自回归建模框架](https://posts.careerengine.us/p/6603a363c66539799a3abeac) 
 - [2024-03-26-多模态融合再度领跑ICLR-2024！这56种创新SOTA方案必看](https://posts.careerengine.us/p/66025976b1ed0b680804e08d) 
 - [2023-12-11-科研实习-|-中国科学院自动化研究所招聘激光雷达多模态感知算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea8504) 
 - [2023-12-08-上海内推-|-腾讯优图实验室招聘计算机视觉/多模态方向算法实习生](https://posts.careerengine.us/p/6572cd377aabbc207db1546d) 
 - [2023-12-07-北京内推-|-快手Y-tech部门招收多模态方向算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea850c) 
-- [2023-11-27-NeurIPS-2023-|-无需配对数据就能学习！浙大等提出连接多模态对比表征C-MCR](https://posts.careerengine.us/p/6564a410e7203652eb38dd25) 
 - [2023-11-27-博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d) 
+- [2023-11-27-NeurIPS-2023-|-无需配对数据就能学习！浙大等提出连接多模态对比表征C-MCR](https://posts.careerengine.us/p/6564a410e7203652eb38dd25) 
 - [2023-11-06-NeurIPS-2023-|-基于多模态统一表达的跨模态泛化](https://posts.careerengine.us/p/6547c6b2256ac242c107aaa4) 
 - [2023-11-04-ACM-MM-2023-|-清华、华为联合提出MISSRec：兴趣感知的多模态序列推荐预训练](https://posts.careerengine.us/p/654645c378366022ddd3306f) 
 - [2023-10-30-ICCV-2023-|-用“自编码器+多模态学习”更有效地解决3D物体可供性问题](https://posts.careerengine.us/p/653f843a0e930675499fdf05) 
