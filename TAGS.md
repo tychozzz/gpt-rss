@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-04-30 23:00:10。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-05-01 06:00:12。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -252,8 +252,8 @@
 - [【PaperWeekly】科研实习-|-中国科学院自动化研究所招聘激光雷达多模态感知算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea8504)
 - [【PaperWeekly】上海内推-|-腾讯优图实验室招聘计算机视觉/多模态方向算法实习生](https://posts.careerengine.us/p/6572cd377aabbc207db1546d)
 - [【PaperWeekly】北京内推-|-快手Y-tech部门招收多模态方向算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea850c)
-- [【PaperWeekly】博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d)
 - [【PaperWeekly】NeurIPS-2023-|-无需配对数据就能学习！浙大等提出连接多模态对比表征C-MCR](https://posts.careerengine.us/p/6564a410e7203652eb38dd25)
+- [【PaperWeekly】博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d)
 - [【PaperWeekly】NeurIPS-2023-|-基于多模态统一表达的跨模态泛化](https://posts.careerengine.us/p/6547c6b2256ac242c107aaa4)
 - [【PaperWeekly】ACM-MM-2023-|-清华、华为联合提出MISSRec：兴趣感知的多模态序列推荐预训练](https://posts.careerengine.us/p/654645c378366022ddd3306f)
 - [【PaperWeekly】ICCV-2023-|-用“自编码器+多模态学习”更有效地解决3D物体可供性问题](https://posts.careerengine.us/p/653f843a0e930675499fdf05)
@@ -336,6 +336,7 @@
 - [【机器之心】微软亚研提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f184c033169b76fba378eb)
 - [【机器之心】拖拽下图像就能生成视频，中科大、微软等DragNUWA属实惊艳](https://posts.careerengine.us/p/64e2eaab625f4e3d09aa9bcf)
 - [【机器之心】Let’s-Make-It-3D！上交&微软最新开源2D转3D生成研究，Star超过1k星](https://posts.careerengine.us/p/64cc84fc4c861516a2c22cbd)
+- [【量子位】GitHub版Devin上线，会打字就能开发应用，微软CEO：重新定义IDE](https://posts.careerengine.us/p/6630eacbeab1e043a455d24a)
 - [【量子位】单卡跑Llama-70B快过双卡，微软硬生生把FP6搞到了A100里-|-开源](https://posts.careerengine.us/p/662f1e00b04d684bcd96cff3)
 - [【量子位】Sora复刻版来了，微软参与，华人团队打造](https://posts.careerengine.us/p/65fd16d7adffab56b4fba796)
 - [【量子位】奥特曼带队入职微软！Ilya刚刚首次发声：我很后悔](https://posts.careerengine.us/p/655b61af977dda04a35f140e)
@@ -345,7 +346,6 @@
 - [【PaperWeekly】上海内推-|-微软亚洲研究院工业创新中心招聘研究开发型实习生](https://posts.careerengine.us/p/6544f2273d497161ad1e6eaa)
 - [【PaperWeekly】北京内推-|-微软亚洲研究院数据知识智能组招聘强化学习方向研究实习生](https://posts.careerengine.us/p/64f7fc4133fcdc69761cba17)
 - [【PaperWeekly】CVPR-2023-|-​微软亚洲研究院提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f6b8e9f41ef838f7d45d45)
-- [【PaperWeekly】北京内推-|-微软亚洲研究院自然语言计算组招聘NLP方向研究实习生](https://posts.careerengine.us/p/64eb587085dd1d21a2c18785)
 - [......【查看更多】......](/details/tags/microsoft.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
