@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-07 15:00:11，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-07 18:00:17，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-05-07-智能计算加速搜索，中国天眼FAST寻获球状星团中迄今最长周期脉冲星](https://posts.careerengine.us/p/6639b7982054d3750a4c8ab2) ![](/assets/new.png)  
-- [2024-05-07-速读60万字《马斯克传》、手机一键生成PPT，零一万物上线AI生产力工具「万知」](https://posts.careerengine.us/p/6639b7a60a742f753c4beb8d) ![](/assets/new.png)  
-- [2024-05-07-爆火后反转？「一夜干掉MLP」的KAN：其实我也是MLP](https://posts.careerengine.us/p/6639b7b5942299757e2df4a9) ![](/assets/new.png)  
-- [2024-05-07-一块钱100万token，超强MoE模型开源，性能直逼GPT-4-Turbo](https://posts.careerengine.us/p/6639b7b5942299757e2df4b1) ![](/assets/new.png)  
-- [2024-05-07-让机器准确「看懂」手物交互动作，清华大学等提出GeneOH-Diffusion方法](https://posts.careerengine.us/p/6639b7c3390ad775f4fa11a6) ![](/assets/new.png)  
+- [2024-05-07-智能计算加速搜索，中国天眼FAST寻获球状星团中迄今最长周期脉冲星](https://posts.careerengine.us/p/6639b7982054d3750a4c8ab2)  
+- [2024-05-07-速读60万字《马斯克传》、手机一键生成PPT，零一万物上线AI生产力工具「万知」](https://posts.careerengine.us/p/6639b7a60a742f753c4beb8d)  
+- [2024-05-07-爆火后反转？「一夜干掉MLP」的KAN：其实我也是MLP](https://posts.careerengine.us/p/6639b7b5942299757e2df4a9)  
+- [2024-05-07-一块钱100万token，超强MoE模型开源，性能直逼GPT-4-Turbo](https://posts.careerengine.us/p/6639b7b5942299757e2df4b1)  
+- [2024-05-07-让机器准确「看懂」手物交互动作，清华大学等提出GeneOH-Diffusion方法](https://posts.careerengine.us/p/6639b7c3390ad775f4fa11a6)  
 - [2024-05-06-看透物体的3D表示和生成模型：NUS团队提出X-Ray](https://posts.careerengine.us/p/663854d4d3dcf41e27676e67)  
 - [2024-05-06-LeCun上月球？南开、字节开源StoryDiffusion让漫画和长视频更连贯](https://posts.careerengine.us/p/663854d4d3dcf41e27676e5f)  
 - [2024-05-06-仅用250美元，Hugging-Face技术主管手把手教你微调Llama-3](https://posts.careerengine.us/p/663854d4d3dcf41e27676e57)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-05-06-惨！Rabbit-R1被持续扒皮：AI风口一夜转型，NFT充值用户欲哭无泪，动作大模型也是套壳的](https://posts.careerengine.us/p/663863bd9e3659676c9d19e9)  
-- [2024-05-06-《嬛嬛朕emo啦》但马斯克！阿里这项技术开放试玩](https://posts.careerengine.us/p/663863cc4b433067aefb768e)  
-- [2024-05-06-58行代码把Llama-3扩展到100万上下文，任何微调版都适用](https://posts.careerengine.us/p/663863de473e1667ed90c417)  
+- [2024-05-07-国产开源MoE指标炸裂：GPT-4级别能力，API价格仅百分之一](https://posts.careerengine.us/p/6639bc0a26da1c0c2eb79631) ![](/assets/new.png)  
+- [2024-05-07-OpenAI泄密者，投奔马斯克](https://posts.careerengine.us/p/6639bc0a26da1c0c2eb79641) ![](/assets/new.png)  
+- [2024-05-07-数十万字秒读，2分钟出PPT！李开复推荐的「万知」AI助手，小程序免费用](https://posts.careerengine.us/p/6639bc0a26da1c0c2eb79639) ![](/assets/new.png)  
+- [2024-05-07-斯坦福20亿参数端测多模态AI-Agent模型大升级，手机汽车机器人都能用](https://posts.careerengine.us/p/6639bc181f1fc90c64a21a3c) ![](/assets/new.png)  
 - [2024-05-06-特斯拉机器人进厂打工，马斯克：手的自由度今年将达到22个！](https://posts.careerengine.us/p/663863de473e1667ed90c408)  
-- [2024-05-05-AI学会隐藏思维暗中推理！不依赖人类经验解决复杂任务，更黑箱了](https://posts.careerengine.us/p/6637073ad04e984877b028b2)  
-- [2024-05-05-商汤杨帆：尺度定律主导AI迭代，降低门槛才能迎来AIGC应用爆发-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6637072acc7fde48103fe392)  
+- [2024-05-06-58行代码把Llama-3扩展到100万上下文，任何微调版都适用](https://posts.careerengine.us/p/663863de473e1667ed90c417)  
+- [2024-05-06-《嬛嬛朕emo啦》但马斯克！阿里这项技术开放试玩](https://posts.careerengine.us/p/663863cc4b433067aefb768e)  
+- [2024-05-06-惨！Rabbit-R1被持续扒皮：AI风口一夜转型，NFT充值用户欲哭无泪，动作大模型也是套壳的](https://posts.careerengine.us/p/663863bd9e3659676c9d19e9)  
 - [2024-05-05-AI人才争夺战，华尔街入局：豪掷百万美元年薪抢人](https://posts.careerengine.us/p/66370729cc7fde48103fe38a)  
-- [2024-05-04-AI教母李飞飞首次创业！成立“空间智能”公司，已完成种子轮](https://posts.careerengine.us/p/6635a2d8f409657c47ecc3b1)  
-- [2024-05-04-CVPR‘24：与任务无关的多模态数据也能提升Transformer性能｜港中文&腾讯](https://posts.careerengine.us/p/6635a2e6d71afb403454fa15)  
+- [2024-05-05-商汤杨帆：尺度定律主导AI迭代，降低门槛才能迎来AIGC应用爆发-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6637072acc7fde48103fe392)  
+- [2024-05-05-AI学会隐藏思维暗中推理！不依赖人类经验解决复杂任务，更黑箱了](https://posts.careerengine.us/p/6637073ad04e984877b028b2)  
 - [2024-05-04-阿里林俊旸：大模型对很多人来说不够用，打造多模态Agent是关键-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6635a2e6d71afb403454fa0d)  
-- [2024-05-03-美图吴欣鸿：国产Sora竞争关键，在创意、工作流和垂直场景-|-中国AIGC产业峰会](https://posts.careerengine.us/p/66346b40a4b5796c016a2def)  
-- [2024-05-03-一次预测多个token，Meta新模型推理加速3倍，编程任务提高17％](https://posts.careerengine.us/p/66346b3fa4b5796c016a2de0)  
+- [2024-05-04-CVPR‘24：与任务无关的多模态数据也能提升Transformer性能｜港中文&腾讯](https://posts.careerengine.us/p/6635a2e6d71afb403454fa15)  
+- [2024-05-04-AI教母李飞飞首次创业！成立“空间智能”公司，已完成种子轮](https://posts.careerengine.us/p/6635a2d8f409657c47ecc3b1)  
 - [2024-05-03-奥特曼承认了神秘gpt2！哈佛MIT巡演继续，斯坦福演讲完整版公开](https://posts.careerengine.us/p/66346b315fefc86bc3a43923)  
-- [2024-05-02-全新神经网络架构KAN一夜爆火！200参数顶30万，MIT华人一作，轻松复现Nature封面AI数学研究](https://posts.careerengine.us/p/663319a7b6330f550dfe6122)  
-- [2024-05-02-人大卢志武：只要拿到更多算力，超过Sora也不是那么难的事｜中国AIGC产业峰会](https://posts.careerengine.us/p/663319b6e528ff5556d4c7f0)  
+- [2024-05-03-一次预测多个token，Meta新模型推理加速3倍，编程任务提高17％](https://posts.careerengine.us/p/66346b3fa4b5796c016a2de0)  
+- [2024-05-03-美图吴欣鸿：国产Sora竞争关键，在创意、工作流和垂直场景-|-中国AIGC产业峰会](https://posts.careerengine.us/p/66346b40a4b5796c016a2def)  
 - [2024-05-02-Claude-iOS版本突然推出！11MB大小，体验丝滑，网友呼吁语音功能快上线](https://posts.careerengine.us/p/663319b7e528ff5556d4c7f8)  
-- [2024-05-01-消费级显卡轻松跑AI，英伟达RTX领跑AI-PC竞争](https://posts.careerengine.us/p/6631cc7398dbe00ebf17f8a0)  
-- [2024-05-01-解密中国首个“音乐版Sora”-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6631cc65b14c580e5c50e3e7)  
-- [2024-04-30-从今天起，ChatGPT会记住每一位付费用户](https://posts.careerengine.us/p/6630eaad0478f442f63990cd)  
-- [2024-04-30-神秘大模型一夜刷屏，能力太强被疑GPT-4.5，奥特曼避而不答打哑谜](https://posts.careerengine.us/p/6630eaad0478f442f63990e5)  
+- [2024-05-02-人大卢志武：只要拿到更多算力，超过Sora也不是那么难的事｜中国AIGC产业峰会](https://posts.careerengine.us/p/663319b6e528ff5556d4c7f0)  
+- [2024-05-02-全新神经网络架构KAN一夜爆火！200参数顶30万，MIT华人一作，轻松复现Nature封面AI数学研究](https://posts.careerengine.us/p/663319a7b6330f550dfe6122)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,9 +176,9 @@
 </summary>
 
 
-- [2024-05-07-微软秘密开发首个千亿大模型，竟由OpenAI对手操刀！网友：你不要奥特曼了？](https://posts.careerengine.us/p/6639bf6c980b501cd0e4de2c) ![](/assets/new.png)  
-- [2024-05-07-零一万物官宣中国职场“AI特助”万知：手机2分钟生成PPT，还让“100个领域专家”给自己“打工”](https://posts.careerengine.us/p/6639bf6d980b501cd0e4de3c) ![](/assets/new.png)  
-- [2024-05-07-国产版Sora到来！视频大模型更上一层楼-|-大模型一周大事](https://posts.careerengine.us/p/6639bf6d980b501cd0e4de34) ![](/assets/new.png)  
+- [2024-05-07-微软秘密开发首个千亿大模型，竟由OpenAI对手操刀！网友：你不要奥特曼了？](https://posts.careerengine.us/p/6639bf6c980b501cd0e4de2c)  
+- [2024-05-07-零一万物官宣中国职场“AI特助”万知：手机2分钟生成PPT，还让“100个领域专家”给自己“打工”](https://posts.careerengine.us/p/6639bf6d980b501cd0e4de3c)  
+- [2024-05-07-国产版Sora到来！视频大模型更上一层楼-|-大模型一周大事](https://posts.careerengine.us/p/6639bf6d980b501cd0e4de34)  
 - [2024-05-06-前-LangChain-员工爆料更强的-Devin-2.0-要来了？所以，“世界首个AI程序员”到底造假没？](https://posts.careerengine.us/p/663865bbee53e0715bd62232)  
 - [2024-05-05-李飞飞首次创业：瞄准空间智能；巴菲特股东大会谈AI：与核武器相似；69岁比尔·盖茨被曝主导微软OpenAI联姻-|-AI-周报](https://posts.careerengine.us/p/66371a65fa70bd26c36925d3)  
 - [2024-05-04-GPT-3水平的Sora-就强大到不敢给普通人用？可我也不知道把它用在哪儿](https://posts.careerengine.us/p/6635c91031a786771d4ec053)  
