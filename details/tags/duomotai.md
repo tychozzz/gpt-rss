@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-05-07 18:00:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-08 06:00:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 多模态
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-05-08-低质多模态数据融合，多家机构联合出了篇综述论文](https://posts.careerengine.us/p/663a57d25ea6cb64082a8bf6) 
 - [2024-05-05-告别偏科，能玩转多模态、多任务、多领域的强化智能体终于来了](https://posts.careerengine.us/p/66370acd6d833e5a474e67a6) 
 - [2024-02-11-华为查询建议新范式MMQS入选WWW-2024，解锁基于人类反馈的多模态查询建议](https://posts.careerengine.us/p/65c88045e27e2944d282245e) 
 - [2023-12-03-任意文本、视觉、音频混合生成，多模态有了强大的基础引擎CoDi-2](https://posts.careerengine.us/p/656c12ab0543675f3d38f541) 
@@ -22,8 +23,8 @@
 - [2023-12-11-科研实习-|-中国科学院自动化研究所招聘激光雷达多模态感知算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea8504) 
 - [2023-12-08-上海内推-|-腾讯优图实验室招聘计算机视觉/多模态方向算法实习生](https://posts.careerengine.us/p/6572cd377aabbc207db1546d) 
 - [2023-12-07-北京内推-|-快手Y-tech部门招收多模态方向算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea850c) 
-- [2023-11-27-博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d) 
 - [2023-11-27-NeurIPS-2023-|-无需配对数据就能学习！浙大等提出连接多模态对比表征C-MCR](https://posts.careerengine.us/p/6564a410e7203652eb38dd25) 
+- [2023-11-27-博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d) 
 - [2023-11-06-NeurIPS-2023-|-基于多模态统一表达的跨模态泛化](https://posts.careerengine.us/p/6547c6b2256ac242c107aaa4) 
 - [2023-11-04-ACM-MM-2023-|-清华、华为联合提出MISSRec：兴趣感知的多模态序列推荐预训练](https://posts.careerengine.us/p/654645c378366022ddd3306f) 
 - [2023-10-30-ICCV-2023-|-用“自编码器+多模态学习”更有效地解决3D物体可供性问题](https://posts.careerengine.us/p/653f843a0e930675499fdf05) 
