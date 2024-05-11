@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-05-11 21:00:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-11 23:00:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 微软
 
@@ -17,6 +17,7 @@
 - [2023-09-01-微软亚研提出TinyMIM，用知识蒸馏改进小型ViT](https://posts.careerengine.us/p/64f184c033169b76fba378eb) 
 - [2023-08-21-拖拽下图像就能生成视频，中科大、微软等DragNUWA属实惊艳](https://posts.careerengine.us/p/64e2eaab625f4e3d09aa9bcf) 
 - [2023-08-04-Let’s-Make-It-3D！上交&微软最新开源2D转3D生成研究，Star超过1k星](https://posts.careerengine.us/p/64cc84fc4c861516a2c22cbd) 
+- [2024-05-11-微软打破Decoder-Only架构！大幅降低GPU内存需求，网友：把Llama3-70B弄20GB-GPU上运行](https://posts.careerengine.us/p/663f6e78c992c65a248863fb) 
 - [2024-04-30-GitHub版Devin上线，会打字就能开发应用，微软CEO：重新定义IDE](https://posts.careerengine.us/p/6630eacbeab1e043a455d24a) 
 - [2024-04-29-单卡跑Llama-70B快过双卡，微软硬生生把FP6搞到了A100里-|-开源](https://posts.careerengine.us/p/662f1e00b04d684bcd96cff3) 
 - [2024-03-22-Sora复刻版来了，微软参与，华人团队打造](https://posts.careerengine.us/p/65fd16d7adffab56b4fba796) 
