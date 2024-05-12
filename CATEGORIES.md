@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-12 15:00:11，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-12 18:00:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,10 +21,10 @@
 </summary>
 
 
-- [2024-05-12-DiT架构大一统：一个框架集成图像、视频、音频和3D生成，可编辑、能试玩](https://posts.careerengine.us/p/6640444ff6fae16e6f507f1f) ![](/assets/new.png)  
-- [2024-05-12-从零开始手搓GPU，照着英伟达CUDA来，只用两个星期](https://posts.careerengine.us/p/6640445fc8e81e6e99896bd6) ![](/assets/new.png)  
-- [2024-05-12-Flash-Attention稳定吗？Meta、哈佛发现其模型权重偏差呈现数量级波动](https://posts.careerengine.us/p/66404470d688976ece14c279) ![](/assets/new.png)  
-- [2024-05-12-AlphaFold-3轻松应对核酸、脂类分子？科学家迫不及待地更新了评测](https://posts.careerengine.us/p/66404471d688976ece14c282) ![](/assets/new.png)  
+- [2024-05-12-DiT架构大一统：一个框架集成图像、视频、音频和3D生成，可编辑、能试玩](https://posts.careerengine.us/p/6640444ff6fae16e6f507f1f)  
+- [2024-05-12-从零开始手搓GPU，照着英伟达CUDA来，只用两个星期](https://posts.careerengine.us/p/6640445fc8e81e6e99896bd6)  
+- [2024-05-12-Flash-Attention稳定吗？Meta、哈佛发现其模型权重偏差呈现数量级波动](https://posts.careerengine.us/p/66404470d688976ece14c279)  
+- [2024-05-12-AlphaFold-3轻松应对核酸、脂类分子？科学家迫不及待地更新了评测](https://posts.careerengine.us/p/66404471d688976ece14c282)  
 - [2024-05-11-跟着开源的InternVL，学习如何做自己的GPT-4V](https://posts.careerengine.us/p/663f730411b7036d532b2072)  
 - [2024-05-11-人类偏好就是尺！SPPO对齐技术让大语言模型左右互搏、自我博弈](https://posts.careerengine.us/p/663f730411b7036d532b207a)  
 - [2024-05-11-坏了，我的RTX-3090-GPU在对我唱歌！](https://posts.careerengine.us/p/663f72f53262a16d3081e6b4)  
@@ -52,8 +52,8 @@
 </summary>
 
 
-- [2024-05-12-金山办公姚冬：AI让办公不再孤立，LUI是下一代交互-|-中国AIGC产业峰会](https://posts.careerengine.us/p/66404dbc4df9fa1dde82f34c) ![](/assets/new.png)  
-- [2024-05-12-小心！最新AI看一眼照片就定位你在哪里，精确到经纬度](https://posts.careerengine.us/p/66404dbc4df9fa1dde82f344) ![](/assets/new.png)  
+- [2024-05-12-金山办公姚冬：AI让办公不再孤立，LUI是下一代交互-|-中国AIGC产业峰会](https://posts.careerengine.us/p/66404dbc4df9fa1dde82f34c)  
+- [2024-05-12-小心！最新AI看一眼照片就定位你在哪里，精确到经纬度](https://posts.careerengine.us/p/66404dbc4df9fa1dde82f344)  
 - [2024-05-11-量化之王谢幕，“用数学赚钱比印钞机还快”](https://posts.careerengine.us/p/663f6e8716a82f5a5597b0b1)  
 - [2024-05-11-AI生成3D主题乐园，角色建筑批量生成，风格保持一致-|-SIGGRAPH-2024](https://posts.careerengine.us/p/663f6e8716a82f5a5597b0a9)  
 - [2024-05-11-OpenAI抓内鬼出奇招，奥特曼耍了所有人：GPT搜索鸽了！改升级GPT-4](https://posts.careerengine.us/p/663f6e79c992c65a24886403)  
@@ -176,26 +176,26 @@
 </summary>
 
 
+- [2024-05-12-李彦宏内部评璩静风波；美国拟限制“开源-AI-大模型出口”；OpenAI-人工智能搜索产品有望于下周一推出-|-AI-周报](https://posts.careerengine.us/p/6640550ece40d34113ea4472) ![](/assets/new.png)  
 - [2024-05-11-AI投资高昂，中小银行如何策略性“以小搏大”？](https://posts.careerengine.us/p/663f037f4fc4585bf528f562)  
-- [2024-05-10-大厂裁员，别再让-AI-背锅了-|-Q-福利](https://posts.careerengine.us/p/663da6e972495b417f884289)  
 - [2024-05-10-75亿元！今年自动驾驶领域最大融资来了：90后剑桥博士带队，微软、英伟达为其站台，这家英国AI独角兽被首相视为“全村的希望”](https://posts.careerengine.us/p/663da6da22e4e341411176fb)  
-- [2024-05-09-“我们坚持开源！”阿里云发布“地表最强”中文大模型：半年一迭代、性能翻倍？](https://posts.careerengine.us/p/663c6f17b73d0e4f6eb2e23b)  
+- [2024-05-10-大厂裁员，别再让-AI-背锅了-|-Q-福利](https://posts.careerengine.us/p/663da6e972495b417f884289)  
 - [2024-05-09-“驯服”不受控的大模型，要搞定哪些事？|-专访达观数据副总裁王文广](https://posts.careerengine.us/p/663c6f17b73d0e4f6eb2e243)  
+- [2024-05-09-“我们坚持开源！”阿里云发布“地表最强”中文大模型：半年一迭代、性能翻倍？](https://posts.careerengine.us/p/663c6f17b73d0e4f6eb2e23b)  
 - [2024-05-08-东软集团：生成式-AI-时代，如何布局-AI-人力资源战略？|-DTDS-全球数字人才发展大会](https://posts.careerengine.us/p/663b0fa5e86e461a1f88b82d)  
-- [2024-05-07-微软秘密开发首个千亿大模型，竟由OpenAI对手操刀！网友：你不要奥特曼了？](https://posts.careerengine.us/p/6639bf6c980b501cd0e4de2c)  
-- [2024-05-07-零一万物官宣中国职场“AI特助”万知：手机2分钟生成PPT，还让“100个领域专家”给自己“打工”](https://posts.careerengine.us/p/6639bf6d980b501cd0e4de3c)  
 - [2024-05-07-国产版Sora到来！视频大模型更上一层楼-|-大模型一周大事](https://posts.careerengine.us/p/6639bf6d980b501cd0e4de34)  
+- [2024-05-07-零一万物官宣中国职场“AI特助”万知：手机2分钟生成PPT，还让“100个领域专家”给自己“打工”](https://posts.careerengine.us/p/6639bf6d980b501cd0e4de3c)  
+- [2024-05-07-微软秘密开发首个千亿大模型，竟由OpenAI对手操刀！网友：你不要奥特曼了？](https://posts.careerengine.us/p/6639bf6c980b501cd0e4de2c)  
 - [2024-05-06-前-LangChain-员工爆料更强的-Devin-2.0-要来了？所以，“世界首个AI程序员”到底造假没？](https://posts.careerengine.us/p/663865bbee53e0715bd62232)  
 - [2024-05-05-李飞飞首次创业：瞄准空间智能；巴菲特股东大会谈AI：与核武器相似；69岁比尔·盖茨被曝主导微软OpenAI联姻-|-AI-周报](https://posts.careerengine.us/p/66371a65fa70bd26c36925d3)  
 - [2024-05-04-GPT-3水平的Sora-就强大到不敢给普通人用？可我也不知道把它用在哪儿](https://posts.careerengine.us/p/6635c91031a786771d4ec053)  
-- [2024-05-03-谷歌、OpenAI-都搞起了AI-“造人”？创始团队：开源AI基因编辑器只是冰山一角](https://posts.careerengine.us/p/66347802dbe7d22c2c8d9e39)  
 - [2024-05-03-辩证看待“幻觉”问题，蔚来汽车在AI和大模型领域的应用实践](https://posts.careerengine.us/p/663478104ef2eb2c984ab249)  
+- [2024-05-03-谷歌、OpenAI-都搞起了AI-“造人”？创始团队：开源AI基因编辑器只是冰山一角](https://posts.careerengine.us/p/66347802dbe7d22c2c8d9e39)  
 - [2024-05-02-面壁智能低调开源大模型“理科状元”！LeetCode-周赛超越80％人类选手，推理性能超-Llama3-70B](https://posts.careerengine.us/p/663325dc958c3010eef21df8)  
 - [2024-05-01-没有抢到票也想旅游怎么办？这里有个好玩又能拿好礼的方法](https://posts.careerengine.us/p/6631aa2072393b65dd7a8681)  
-- [2024-04-30-AI程序员来了，学会让它给你打工才是正事！|-Q福利](https://posts.careerengine.us/p/6630ea31d181c540e9c13d06)  
 - [2024-04-30-神秘大模型一夜“征服”所有人，超GPT-4却无人认领？网友：OpenAI-要有大麻烦了](https://posts.careerengine.us/p/6630ea22e7be4e409f06a96d)  
-- [2024-04-29-26岁带着百人团队冲刺大模型，面壁智能天才CTO：高效比参数更重要](https://posts.careerengine.us/p/662f3415ed62a139facb30cb)  
-- [2024-04-29-探索-Copilot-创新实践：腾讯、字节跳动、PingCAP-与第四范式共聚-AICon](https://posts.careerengine.us/p/662f3415ed62a139facb30c2)  
+- [2024-04-30-AI程序员来了，学会让它给你打工才是正事！|-Q福利](https://posts.careerengine.us/p/6630ea31d181c540e9c13d06)  
+- [2024-04-29-苹果与-OpenAI-重启谈判，Siri-或引入-ChatGPT，网友：国行用文心一言？](https://posts.careerengine.us/p/662f342431d7a73a4997e884)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
