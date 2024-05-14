@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-05-14 06:00:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-05-14 15:00:11。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -257,7 +257,7 @@
 - [【PaperWeekly】科研实习-|-中国科学院自动化研究所招聘激光雷达多模态感知算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea8504)
 - [【PaperWeekly】上海内推-|-腾讯优图实验室招聘计算机视觉/多模态方向算法实习生](https://posts.careerengine.us/p/6572cd377aabbc207db1546d)
 - [【PaperWeekly】北京内推-|-快手Y-tech部门招收多模态方向算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea850c)
-- [【PaperWeekly】NeurIPS-2023-|-无需配对数据就能学习！浙大等提出连接多模态对比表征C-MCR](https://posts.careerengine.us/p/6564a410e7203652eb38dd25)
+- [【PaperWeekly】博士申请-|-悉尼大学Hesham-El-Gamal教授招收多模态机器学习方向全奖博士生](https://posts.careerengine.us/p/6564a410e7203652eb38dd1d)
 - [......【查看更多】......](/details/tags/duomotai.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
