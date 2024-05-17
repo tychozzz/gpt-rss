@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-17 23:00:11，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-18 06:00:18，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-05-16-18个月，OpenAI这支团队搞出了GPT-4o](https://posts.careerengine.us/p/66459db57fcb8112dfb0e0df)  
-- [2024-05-16-用GAI定义手机，联发科和朋友们在行动](https://posts.careerengine.us/p/66459db57fcb8112dfb0e0d7)  
-- [2024-05-16-专访文青松｜AI时代的教育革新：深度融合，驱动未来](https://posts.careerengine.us/p/66459dc3cdfd5f13100096bf)  
-- [2024-05-16-李飞飞解读创业方向「空间智能」，让AI真正理解世界](https://posts.careerengine.us/p/66459dd27faf581353f0a7bc)  
+- [2024-05-17-手机到汽车，这家老牌手机厂商跨界玩的真溜](https://posts.careerengine.us/p/664774e52968591085abbeb9) ![](/assets/new.png)  
+- [2024-05-17-2024「人工智能-+」标杆示范征集正式开启，7-月巅峰相见！](https://posts.careerengine.us/p/664774fac6fc6c10dac08158) ![](/assets/new.png)  
+- [2024-05-17-全球140+大模型全方位评测结果出炉，智源评测体系发布](https://posts.careerengine.us/p/664774fac6fc6c10dac08150) ![](/assets/new.png)  
+- [2024-05-17-OpenAI又整活：ChatGPT再扛起数据分析大旗，Excel、Word全部拿下](https://posts.careerengine.us/p/664774fac6fc6c10dac08148) ![](/assets/new.png)  
+- [2024-05-17-吴恩达：四个步骤，让大模型变得更好](https://posts.careerengine.us/p/6647750e45d5c2117aa3ac9a) ![](/assets/new.png)  
+- [2024-05-17-仅靠开源数据复刻出LLaMA3指令学习效果，在线迭代RLHF全流程解决方案来了](https://posts.careerengine.us/p/6647750e45d5c2117aa3ac92) ![](/assets/new.png)  
 - [2024-05-16-ICML-2024-|-大语言模型预训练新前沿：「最佳适配打包」重塑文档处理标准](https://posts.careerengine.us/p/66459dd27faf581353f0a7b4)  
-- [2024-05-15-首个中文原生DiT架构！腾讯混元文生图大模型全面开源，免费商用](https://posts.careerengine.us/p/66447f0a32a82043539ab37d)  
-- [2024-05-15-告别3D高斯Splatting算法，带神经补偿的频谱剪枝高斯场SUNDAE开源了](https://posts.careerengine.us/p/66447f0a32a82043539ab385)  
-- [2024-05-15-大模型价格进入“厘”时代，豆包大模型定价每千tokens仅0.8厘](https://posts.careerengine.us/p/66447efb1b9b8f42cbfd3d67)  
+- [2024-05-16-李飞飞解读创业方向「空间智能」，让AI真正理解世界](https://posts.careerengine.us/p/66459dd27faf581353f0a7bc)  
+- [2024-05-16-专访文青松｜AI时代的教育革新：深度融合，驱动未来](https://posts.careerengine.us/p/66459dc3cdfd5f13100096bf)  
+- [2024-05-16-用GAI定义手机，联发科和朋友们在行动](https://posts.careerengine.us/p/66459db57fcb8112dfb0e0d7)  
+- [2024-05-16-18个月，OpenAI这支团队搞出了GPT-4o](https://posts.careerengine.us/p/66459db57fcb8112dfb0e0df)  
 - [2024-05-15-Ilya官宣离职，超级对齐负责人Jan直接辞职，OpenAI还是走散了](https://posts.careerengine.us/p/66447efb1b9b8f42cbfd3d6f)  
-- [2024-05-14-OpenAI颠覆世界：GPT-4o完全免费，实时语音视频交互震撼全场，直接进入科幻时代](https://posts.careerengine.us/p/6642769b43674246400922fc)  
-- [2024-05-14-零一万物Yi-1.5来了，国产开源大模型排行榜再次刷新](https://posts.careerengine.us/p/6642769b43674246400922f4)  
-- [2024-05-14-我是如何赢得GPT-4提示工程大赛冠军的](https://posts.careerengine.us/p/6642769b43674246400922ec)  
-- [2024-05-14-微软让MoE长出多个头，大幅提升专家激活率](https://posts.careerengine.us/p/664276a90bec36466fe1718d)  
+- [2024-05-15-大模型价格进入“厘”时代，豆包大模型定价每千tokens仅0.8厘](https://posts.careerengine.us/p/66447efb1b9b8f42cbfd3d67)  
+- [2024-05-15-告别3D高斯Splatting算法，带神经补偿的频谱剪枝高斯场SUNDAE开源了](https://posts.careerengine.us/p/66447f0a32a82043539ab385)  
+- [2024-05-15-首个中文原生DiT架构！腾讯混元文生图大模型全面开源，免费商用](https://posts.careerengine.us/p/66447f0a32a82043539ab37d)  
 - [2024-05-14-西浦、利物浦大学提出：点云数据增强首个全面综述](https://posts.careerengine.us/p/664276b846024e46ec1e1e7d)  
-- [2024-05-13-字节开源大模型量化新思路，2-bit量化模型精度齐平fp16](https://posts.careerengine.us/p/66419c96970c4112bd3b8bf1)  
-- [2024-05-13-培育发展智能汽车领域新质生产力，「AI+智能车」论坛在浦东新区成功举办](https://posts.careerengine.us/p/66419c96970c4112bd3b8bf9)  
-- [2024-05-13-只需百行代码，让H100提速30％，斯坦福开源全新AI加速框架](https://posts.careerengine.us/p/66419c95970c4112bd3b8be9)  
-- [2024-05-13-Sora是世界模拟器吗？全球首篇综述全面解析通用世界模型](https://posts.careerengine.us/p/66419c87ee7c75127e0abfbc)  
-- [2024-05-13-除了一键启动Copilot，什么是AI-PC本来该有的样子？](https://posts.careerengine.us/p/66419c78c1519011ebdd3129)  
-- [2024-05-12-DiT架构大一统：一个框架集成图像、视频、音频和3D生成，可编辑、能试玩](https://posts.careerengine.us/p/6640444ff6fae16e6f507f1f)  
+- [2024-05-14-微软让MoE长出多个头，大幅提升专家激活率](https://posts.careerengine.us/p/664276a90bec36466fe1718d)  
+- [2024-05-14-我是如何赢得GPT-4提示工程大赛冠军的](https://posts.careerengine.us/p/6642769b43674246400922ec)  
+- [2024-05-14-零一万物Yi-1.5来了，国产开源大模型排行榜再次刷新](https://posts.careerengine.us/p/6642769b43674246400922f4)  
+- [2024-05-14-OpenAI颠覆世界：GPT-4o完全免费，实时语音视频交互震撼全场，直接进入科幻时代](https://posts.careerengine.us/p/6642769b43674246400922fc)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2024-05-17-​Transformer是推断还是记忆？初始化大小很重要](https://posts.careerengine.us/p/664750428990345cd437771c) ![](/assets/new.png)  
-- [2024-05-17-IJCAI-2024-|-多智能体强化学习新范式：个性化训练与蒸馏执行](https://posts.careerengine.us/p/664750428990345cd437770c) ![](/assets/new.png)  
-- [2024-05-17-博士申请-|-上海科技大学屠可伟老师招收NLP方向24级博士/25级硕博](https://posts.careerengine.us/p/664750428990345cd4377714) ![](/assets/new.png)  
+- [2024-05-17-​Transformer是推断还是记忆？初始化大小很重要](https://posts.careerengine.us/p/664750428990345cd437771c)  
+- [2024-05-17-IJCAI-2024-|-多智能体强化学习新范式：个性化训练与蒸馏执行](https://posts.careerengine.us/p/664750428990345cd437770c)  
+- [2024-05-17-博士申请-|-上海科技大学屠可伟老师招收NLP方向24级博士/25级硕博](https://posts.careerengine.us/p/664750428990345cd4377714)  
 - [2024-05-16-ACM-MM-2024深度多模态生成和检索研讨会，诚邀各界专家学者参与](https://posts.careerengine.us/p/664596eba6cb64713a19b0ac)  
 - [2024-05-16-2024年大模型潜力方向：大浪淘沙后的SFT和RLHF](https://posts.careerengine.us/p/664596d8117de1709eb9022e)  
 - [2024-05-16-博士申请-|-香港科技大学（广州）聂强老师招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/664596d8117de1709eb90225)  
