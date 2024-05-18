@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-18 18:00:11，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-18 23:00:18，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-05-18-OpenAI解散Ilya重要团队，前高管怒斥，宫斗第二季](https://posts.careerengine.us/p/664836919fdeb24de63511ae) ![](/assets/new.png)  
-- [2024-05-18-大模型研究获最佳论文，WWW-2024奖项出炉](https://posts.careerengine.us/p/664836a0af84644e761edba1) ![](/assets/new.png)  
-- [2024-05-18-谷歌Gemini-1.5技术报告：轻松证明奥数题，Flash版比GPT-4-Turbo快5倍](https://posts.careerengine.us/p/664836a0af84644e761edb91) ![](/assets/new.png)  
-- [2024-05-18-人物照片+文字-=-定制化视频，腾讯光子开源ID-Animator](https://posts.careerengine.us/p/664836a0af84644e761edb99) ![](/assets/new.png)  
-- [2024-05-18-多模态AI是医学的未来，谷歌推出三个新模型，Med-Gemini迎来大升级](https://posts.careerengine.us/p/664836ae9034f04ea959849a) ![](/assets/new.png)  
+- [2024-05-18-OpenAI解散Ilya重要团队，前高管怒斥，宫斗第二季](https://posts.careerengine.us/p/664836919fdeb24de63511ae)  
+- [2024-05-18-大模型研究获最佳论文，WWW-2024奖项出炉](https://posts.careerengine.us/p/664836a0af84644e761edba1)  
+- [2024-05-18-谷歌Gemini-1.5技术报告：轻松证明奥数题，Flash版比GPT-4-Turbo快5倍](https://posts.careerengine.us/p/664836a0af84644e761edb91)  
+- [2024-05-18-人物照片+文字-=-定制化视频，腾讯光子开源ID-Animator](https://posts.careerengine.us/p/664836a0af84644e761edb99)  
+- [2024-05-18-多模态AI是医学的未来，谷歌推出三个新模型，Med-Gemini迎来大升级](https://posts.careerengine.us/p/664836ae9034f04ea959849a)  
 - [2024-05-17-仅靠开源数据复刻出LLaMA3指令学习效果，在线迭代RLHF全流程解决方案来了](https://posts.careerengine.us/p/6647750e45d5c2117aa3ac92)  
 - [2024-05-17-吴恩达：四个步骤，让大模型变得更好](https://posts.careerengine.us/p/6647750e45d5c2117aa3ac9a)  
 - [2024-05-17-OpenAI又整活：ChatGPT再扛起数据分析大旗，Excel、Word全部拿下](https://posts.careerengine.us/p/664774fac6fc6c10dac08148)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-05-17-​Transformer是推断还是记忆？初始化大小很重要](https://posts.careerengine.us/p/664750428990345cd437771c)  
-- [2024-05-17-IJCAI-2024-|-多智能体强化学习新范式：个性化训练与蒸馏执行](https://posts.careerengine.us/p/664750428990345cd437770c)  
+- [2024-05-18-缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA](https://posts.careerengine.us/p/66489ae736bab82ceeba1217) ![](/assets/new.png)  
+- [2024-05-18-ICML-2024-|-大语言模型预训练新前沿：最佳适配打包重塑文档处理标准](https://posts.careerengine.us/p/66489af8edfe0f2d16d68057) ![](/assets/new.png)  
+- [2024-05-18-​SIGIR-2024-|-显式且细粒度的建模！属性——观点驱动的细粒度序列推荐](https://posts.careerengine.us/p/66489af8edfe0f2d16d68046) ![](/assets/new.png)  
+- [2024-05-18-北京内推-|-阿里通义实验室对话智能团队招聘大语言模型研究型实习生](https://posts.careerengine.us/p/66489af8edfe0f2d16d6804e) ![](/assets/new.png)  
 - [2024-05-17-博士申请-|-上海科技大学屠可伟老师招收NLP方向24级博士/25级硕博](https://posts.careerengine.us/p/664750428990345cd4377714)  
-- [2024-05-16-ACM-MM-2024深度多模态生成和检索研讨会，诚邀各界专家学者参与](https://posts.careerengine.us/p/664596eba6cb64713a19b0ac)  
-- [2024-05-16-2024年大模型潜力方向：大浪淘沙后的SFT和RLHF](https://posts.careerengine.us/p/664596d8117de1709eb9022e)  
-- [2024-05-16-博士申请-|-香港科技大学（广州）聂强老师招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/664596d8117de1709eb90225)  
+- [2024-05-17-IJCAI-2024-|-多智能体强化学习新范式：个性化训练与蒸馏执行](https://posts.careerengine.us/p/664750428990345cd437770c)  
+- [2024-05-17-​Transformer是推断还是记忆？初始化大小很重要](https://posts.careerengine.us/p/664750428990345cd437771c)  
 - [2024-05-16-无位置编码-（NoPE）-也有长度泛化问题？首个针对NoPE的长度外推方法](https://posts.careerengine.us/p/664596d7117de1709eb9021d)  
-- [2024-05-15-大模型微调到底有没有技术含量，或者说技术含量到底有多大？](https://posts.careerengine.us/p/664446aacc1fd834aea35d0e)  
-- [2024-05-15-选择需要的Token参与训练：微软重塑语言模型训练法则，准确率飙升30％](https://posts.careerengine.us/p/664446b94e33e834e10c92cc)  
-- [2024-05-15-CAA模式识别与机器智能专委会：首届深度学习模型压缩与部署技术会议](https://posts.careerengine.us/p/664446ba4e33e834e10c92d5)  
+- [2024-05-16-博士申请-|-香港科技大学（广州）聂强老师招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/664596d8117de1709eb90225)  
+- [2024-05-16-2024年大模型潜力方向：大浪淘沙后的SFT和RLHF](https://posts.careerengine.us/p/664596d8117de1709eb9022e)  
+- [2024-05-16-ACM-MM-2024深度多模态生成和检索研讨会，诚邀各界专家学者参与](https://posts.careerengine.us/p/664596eba6cb64713a19b0ac)  
 - [2024-05-15-深圳/香港/上海内推-|-商汤研究院基础语言模型团队招聘大语言模型算法研究员](https://posts.careerengine.us/p/664446c82ac1813562798062)  
-- [2024-05-14-ICML-2024-|-通过随机微分方程统一贝叶斯流网络和扩散模型](https://posts.careerengine.us/p/6642ec8f9fcd1a1022e2a1fd)  
-- [2024-05-14-博士申请-|-多伦多大学孙强教授招收生成模型/LLM方向全奖博士/博后/实习生](https://posts.careerengine.us/p/6642ec8f9fcd1a1022e2a1f5)  
+- [2024-05-15-CAA模式识别与机器智能专委会：首届深度学习模型压缩与部署技术会议](https://posts.careerengine.us/p/664446ba4e33e834e10c92d5)  
+- [2024-05-15-选择需要的Token参与训练：微软重塑语言模型训练法则，准确率飙升30％](https://posts.careerengine.us/p/664446b94e33e834e10c92cc)  
+- [2024-05-15-大模型微调到底有没有技术含量，或者说技术含量到底有多大？](https://posts.careerengine.us/p/664446aacc1fd834aea35d0e)  
 - [2024-05-14-CVPR、AAAI、ICLR-2024满分论文出炉！](https://posts.careerengine.us/p/6642ec80ce2c420ff19ba963)  
-- [2024-05-13-IJCAI-2024-|-第九届“信也科技杯”全球AI算法大赛正式开赛！聚焦AI尖端赛题，31万奖金池等你挑战！](https://posts.careerengine.us/p/66419b3add57ba0bfe0f808e)  
-- [2024-05-13-博士申请-|-清华大学交叉信息院MARS-Lab招收具身智能/多模态方向博士生](https://posts.careerengine.us/p/66419b49c65e3f0c3a58a2d5)  
+- [2024-05-14-博士申请-|-多伦多大学孙强教授招收生成模型/LLM方向全奖博士/博后/实习生](https://posts.careerengine.us/p/6642ec8f9fcd1a1022e2a1f5)  
+- [2024-05-14-ICML-2024-|-通过随机微分方程统一贝叶斯流网络和扩散模型](https://posts.careerengine.us/p/6642ec8f9fcd1a1022e2a1fd)  
 - [2024-05-13-ICML-2024-|-面向第三代推荐系统：Meta提出首个生成式推荐系统模型](https://posts.careerengine.us/p/66419b49c65e3f0c3a58a2dd)  
-- [2024-05-12-北京内推-|-中国电信人工智能研究院招聘多模态大模型算法研发实习生](https://posts.careerengine.us/p/6640b0e9dae0b7020b0c84ec)  
-- [2024-05-12-文末送书！大语言模型应用指南：以ChatGPT为起点，从入门到精通的实践教程](https://posts.careerengine.us/p/6640b0d8a4503601c8c6e7bc)  
-- [2024-05-12-【毕业论文】求解最优的任意宝可梦颜色交换算法](https://posts.careerengine.us/p/6640b0c787e5d701880ab4e6)  
+- [2024-05-13-博士申请-|-清华大学交叉信息院MARS-Lab招收具身智能/多模态方向博士生](https://posts.careerengine.us/p/66419b49c65e3f0c3a58a2d5)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
