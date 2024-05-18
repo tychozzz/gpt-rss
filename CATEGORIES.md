@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-18 06:00:18，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-18 15:00:11，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,12 +21,12 @@
 </summary>
 
 
-- [2024-05-17-手机到汽车，这家老牌手机厂商跨界玩的真溜](https://posts.careerengine.us/p/664774e52968591085abbeb9) ![](/assets/new.png)  
-- [2024-05-17-2024「人工智能-+」标杆示范征集正式开启，7-月巅峰相见！](https://posts.careerengine.us/p/664774fac6fc6c10dac08158) ![](/assets/new.png)  
-- [2024-05-17-全球140+大模型全方位评测结果出炉，智源评测体系发布](https://posts.careerengine.us/p/664774fac6fc6c10dac08150) ![](/assets/new.png)  
-- [2024-05-17-OpenAI又整活：ChatGPT再扛起数据分析大旗，Excel、Word全部拿下](https://posts.careerengine.us/p/664774fac6fc6c10dac08148) ![](/assets/new.png)  
-- [2024-05-17-吴恩达：四个步骤，让大模型变得更好](https://posts.careerengine.us/p/6647750e45d5c2117aa3ac9a) ![](/assets/new.png)  
-- [2024-05-17-仅靠开源数据复刻出LLaMA3指令学习效果，在线迭代RLHF全流程解决方案来了](https://posts.careerengine.us/p/6647750e45d5c2117aa3ac92) ![](/assets/new.png)  
+- [2024-05-17-手机到汽车，这家老牌手机厂商跨界玩的真溜](https://posts.careerengine.us/p/664774e52968591085abbeb9)  
+- [2024-05-17-2024「人工智能-+」标杆示范征集正式开启，7-月巅峰相见！](https://posts.careerengine.us/p/664774fac6fc6c10dac08158)  
+- [2024-05-17-全球140+大模型全方位评测结果出炉，智源评测体系发布](https://posts.careerengine.us/p/664774fac6fc6c10dac08150)  
+- [2024-05-17-OpenAI又整活：ChatGPT再扛起数据分析大旗，Excel、Word全部拿下](https://posts.careerengine.us/p/664774fac6fc6c10dac08148)  
+- [2024-05-17-吴恩达：四个步骤，让大模型变得更好](https://posts.careerengine.us/p/6647750e45d5c2117aa3ac9a)  
+- [2024-05-17-仅靠开源数据复刻出LLaMA3指令学习效果，在线迭代RLHF全流程解决方案来了](https://posts.careerengine.us/p/6647750e45d5c2117aa3ac92)  
 - [2024-05-16-ICML-2024-|-大语言模型预训练新前沿：「最佳适配打包」重塑文档处理标准](https://posts.careerengine.us/p/66459dd27faf581353f0a7b4)  
 - [2024-05-16-李飞飞解读创业方向「空间智能」，让AI真正理解世界](https://posts.careerengine.us/p/66459dd27faf581353f0a7bc)  
 - [2024-05-16-专访文青松｜AI时代的教育革新：深度融合，驱动未来](https://posts.careerengine.us/p/66459dc3cdfd5f13100096bf)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-05-17-英特尔打破40年“祖制”的CPU，AI-PC们来验收成果了](https://posts.careerengine.us/p/66471a6e044cc05b117530ba)  
-- [2024-05-17-国内外140+大模型、8万+考题测评结果出炉！智源评测体系出品](https://posts.careerengine.us/p/66471a6f044cc05b117530c2)  
-- [2024-05-17-Ilya离职后第一个动作：点赞了这篇论文，网友抢着传看](https://posts.careerengine.us/p/66471a6f044cc05b117530ca)  
-- [2024-05-17-70B模型秒出1000token，代码重写超越GPT-4o，来自OpenAI投资的代码神器Cursor团队](https://posts.careerengine.us/p/66471a7dd92df85b3ba5c3d6)  
+- [2024-05-18-Ilya离开OpenAI内幕曝光：奥特曼砍他团队算力，优先搞产品赚钱，离职吐槽就要失去股权](https://posts.careerengine.us/p/66483545e8004b47c3688e43) ![](/assets/new.png)  
+- [2024-05-18-华为最新研究挑战Scaling-Law](https://posts.careerengine.us/p/66483545e8004b47c3688e4b) ![](/assets/new.png)  
+- [2024-05-18-Kimi挣钱的路子好抽象…](https://posts.careerengine.us/p/66483545e8004b47c3688e53) ![](/assets/new.png)  
 - [2024-05-17-HuggingFace教你怎样做出SOTA视觉模型](https://posts.careerengine.us/p/66471a8cb4da275bb6a2828c)  
-- [2024-05-16-树莓派冲刺IPO，估值35亿但年营收19亿，CEO：做一家有趣又赚钱的公司](https://posts.careerengine.us/p/66458cfe0b5a4a413c0a8e48)  
-- [2024-05-16-识别细胞也能用大模型了！清华系团队出品，已入选ICML-2024-|-开源](https://posts.careerengine.us/p/66458cfe0b5a4a413c0a8e40)  
-- [2024-05-16-GPT-4o再秀神操作，“复现”OpenAI总裁讲课，网友当真了](https://posts.careerengine.us/p/66458cfd0b5a4a413c0a8e38)  
-- [2024-05-16-李飞飞揭秘创业方向“空间智能”：视觉化为洞察，看见成为理解，理解导致行动](https://posts.careerengine.us/p/66458cef8a09dd410499e45a)  
+- [2024-05-17-70B模型秒出1000token，代码重写超越GPT-4o，来自OpenAI投资的代码神器Cursor团队](https://posts.careerengine.us/p/66471a7dd92df85b3ba5c3d6)  
+- [2024-05-17-Ilya离职后第一个动作：点赞了这篇论文，网友抢着传看](https://posts.careerengine.us/p/66471a6f044cc05b117530ca)  
+- [2024-05-17-国内外140+大模型、8万+考题测评结果出炉！智源评测体系出品](https://posts.careerengine.us/p/66471a6f044cc05b117530c2)  
+- [2024-05-17-英特尔打破40年“祖制”的CPU，AI-PC们来验收成果了](https://posts.careerengine.us/p/66471a6e044cc05b117530ba)  
 - [2024-05-16-顶流自动驾驶，正在赢得民心](https://posts.careerengine.us/p/66458cef8a09dd410499e462)  
-- [2024-05-15-字节跳动大模型首次全员亮相：一口气9个，价格低99％，没有参数规模和榜单分数](https://posts.careerengine.us/p/664484633699455c6ea7a1c2)  
-- [2024-05-15-AI拉货挣钱，已经绕地球2500圈了](https://posts.careerengine.us/p/664484715eea6f5cefbbcfcb)  
-- [2024-05-15-Ilya出走加剧OpenAI离职潮！RLHF作者Jan-Leike同日辞职，超级对齐项目分崩离析](https://posts.careerengine.us/p/66448481f7921e5d1f3bce85)  
-- [2024-05-15-蚂蚁百灵大模型一号位：GPT-4o发布不意外，原生多模态方向已明](https://posts.careerengine.us/p/66448481f7921e5d1f3bce7d)  
+- [2024-05-16-李飞飞揭秘创业方向“空间智能”：视觉化为洞察，看见成为理解，理解导致行动](https://posts.careerengine.us/p/66458cef8a09dd410499e45a)  
+- [2024-05-16-GPT-4o再秀神操作，“复现”OpenAI总裁讲课，网友当真了](https://posts.careerengine.us/p/66458cfd0b5a4a413c0a8e38)  
+- [2024-05-16-识别细胞也能用大模型了！清华系团队出品，已入选ICML-2024-|-开源](https://posts.careerengine.us/p/66458cfe0b5a4a413c0a8e40)  
+- [2024-05-16-树莓派冲刺IPO，估值35亿但年营收19亿，CEO：做一家有趣又赚钱的公司](https://posts.careerengine.us/p/66458cfe0b5a4a413c0a8e48)  
 - [2024-05-15-GPT-4o成全球网友新玩具，秒秒钟纸质原型转录初始HTML，网友：谷歌你是一点流量摊不上啊](https://posts.careerengine.us/p/66448481f7921e5d1f3bce8d)  
-- [2024-05-14-沉浸式线性代数教材，不懂哪里点哪里，网友：天花板级别](https://posts.careerengine.us/p/66426cb05ab5c815b762fd4f)  
-- [2024-05-14-鹅厂开招天才学生！专门挑战产业难题，顶尖科学家领衔带队](https://posts.careerengine.us/p/66426ca1c6f2e51557641a37)  
-- [2024-05-14-GPT-4o深夜炸场！AI实时视频通话丝滑如人类，Plus功能免费可用，奥特曼：《她》来了](https://posts.careerengine.us/p/66426ca1c6f2e51557641a47)  
+- [2024-05-15-蚂蚁百灵大模型一号位：GPT-4o发布不意外，原生多模态方向已明](https://posts.careerengine.us/p/66448481f7921e5d1f3bce7d)  
+- [2024-05-15-Ilya出走加剧OpenAI离职潮！RLHF作者Jan-Leike同日辞职，超级对齐项目分崩离析](https://posts.careerengine.us/p/66448481f7921e5d1f3bce85)  
+- [2024-05-15-AI拉货挣钱，已经绕地球2500圈了](https://posts.careerengine.us/p/664484715eea6f5cefbbcfcb)  
+- [2024-05-15-字节跳动大模型首次全员亮相：一口气9个，价格低99％，没有参数规模和榜单分数](https://posts.careerengine.us/p/664484633699455c6ea7a1c2)  
 - [2024-05-14-人类成功实现「蓝牙上天」！接收来自600公里外太空信号](https://posts.careerengine.us/p/66426ca1c6f2e51557641a3f)  
-- [2024-05-13-6.99元租H800，一键部署Llama3，有羊毛速来薅！](https://posts.careerengine.us/p/664198db3b22877f3fc085a3)  
+- [2024-05-14-GPT-4o深夜炸场！AI实时视频通话丝滑如人类，Plus功能免费可用，奥特曼：《她》来了](https://posts.careerengine.us/p/66426ca1c6f2e51557641a47)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
