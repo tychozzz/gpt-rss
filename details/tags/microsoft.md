@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-05-19 18:00:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-19 21:00:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 微软
 
@@ -24,6 +24,7 @@
 - [2024-03-22-Sora复刻版来了，微软参与，华人团队打造](https://posts.careerengine.us/p/65fd16d7adffab56b4fba796) 
 - [2023-11-20-奥特曼带队入职微软！Ilya刚刚首次发声：我很后悔](https://posts.careerengine.us/p/655b61af977dda04a35f140e) 
 - [2023-08-23-Excel变天！微软把Python「塞」进去了，直接可搞机器学习](https://posts.careerengine.us/p/64e5962ab8c5f3756b91e3b9) 
+- [2024-05-19-微软联合清华提出多头混合专家机制，大幅提升专家激活率](https://posts.careerengine.us/p/6649cfe806cea601db3ee82d) 
 - [2024-03-28-北京内推-|-微软亚洲研究院机器学习与工业创新组招聘研究型实习生](https://posts.careerengine.us/p/6604fd1534d5ef24ceac8e39) 
 - [2023-12-30-北京内推-|-微软亚洲研究院自然语言计算组招聘AGI研究实习生](https://posts.careerengine.us/p/658ff11815dcdf74ad293ac5) 
 - [2023-11-03-上海内推-|-微软亚洲研究院工业创新中心招聘研究开发型实习生](https://posts.careerengine.us/p/6544f2273d497161ad1e6eaa) 
