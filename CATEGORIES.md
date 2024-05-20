@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-19 21:00:10，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-20 15:00:11，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-05-19-OpenAI-CEO下场回应「封口协议」，争议还是到了股权利益上，奥特曼：我的锅](https://posts.careerengine.us/p/6649831303c68f0ea4bc5375)  
-- [2024-05-19-在对齐-AI-时，为什么在线方法总是优于离线方法？](https://posts.careerengine.us/p/6649832210a8560ed61f01cf)  
-- [2024-05-19-替代MLP的KAN，被开源项目扩展到卷积了](https://posts.careerengine.us/p/66498330d2d2b90f75693199)  
+- [2024-05-20-大模型进入「实用」时代！腾讯助力「销冠」量产，5-分钟创建智能助手](https://posts.careerengine.us/p/664ad4093a68d17f47bf227b) ![](/assets/new.png)  
+- [2024-05-20-Karpathy称赞，从零实现LLaMa3项目爆火，半天1.5k-star](https://posts.careerengine.us/p/664ad4093a68d17f47bf2272) ![](/assets/new.png)  
+- [2024-05-20-数据更多更好还是质量更高更好？这项研究能帮你做出选择](https://posts.careerengine.us/p/664ad4174312117f74caab80) ![](/assets/new.png)  
+- [2024-05-20-首个GPU高级语言，大规模并行就像写Python，已获8500-Star](https://posts.careerengine.us/p/664ad4174312117f74caab78) ![](/assets/new.png)  
+- [2024-05-20-让大模型理解手机屏幕，苹果多模态Ferret-UI用自然语言操控手机](https://posts.careerengine.us/p/664ad426b47a347fa8e93517) ![](/assets/new.png)  
 - [2024-05-19-多功能RNA分析，百度团队基于Transformer的RNA语言模型登Nature子刊](https://posts.careerengine.us/p/66498330d2d2b90f75693191)  
-- [2024-05-18-多模态AI是医学的未来，谷歌推出三个新模型，Med-Gemini迎来大升级](https://posts.careerengine.us/p/664836ae9034f04ea959849a)  
-- [2024-05-18-人物照片+文字-=-定制化视频，腾讯光子开源ID-Animator](https://posts.careerengine.us/p/664836a0af84644e761edb99)  
-- [2024-05-18-谷歌Gemini-1.5技术报告：轻松证明奥数题，Flash版比GPT-4-Turbo快5倍](https://posts.careerengine.us/p/664836a0af84644e761edb91)  
-- [2024-05-18-大模型研究获最佳论文，WWW-2024奖项出炉](https://posts.careerengine.us/p/664836a0af84644e761edba1)  
+- [2024-05-19-替代MLP的KAN，被开源项目扩展到卷积了](https://posts.careerengine.us/p/66498330d2d2b90f75693199)  
+- [2024-05-19-在对齐-AI-时，为什么在线方法总是优于离线方法？](https://posts.careerengine.us/p/6649832210a8560ed61f01cf)  
+- [2024-05-19-OpenAI-CEO下场回应「封口协议」，争议还是到了股权利益上，奥特曼：我的锅](https://posts.careerengine.us/p/6649831303c68f0ea4bc5375)  
 - [2024-05-18-OpenAI解散Ilya重要团队，前高管怒斥，宫斗第二季](https://posts.careerengine.us/p/664836919fdeb24de63511ae)  
-- [2024-05-17-手机到汽车，这家老牌手机厂商跨界玩的真溜](https://posts.careerengine.us/p/664774e52968591085abbeb9)  
-- [2024-05-17-2024「人工智能-+」标杆示范征集正式开启，7-月巅峰相见！](https://posts.careerengine.us/p/664774fac6fc6c10dac08158)  
-- [2024-05-17-全球140+大模型全方位评测结果出炉，智源评测体系发布](https://posts.careerengine.us/p/664774fac6fc6c10dac08150)  
-- [2024-05-17-OpenAI又整活：ChatGPT再扛起数据分析大旗，Excel、Word全部拿下](https://posts.careerengine.us/p/664774fac6fc6c10dac08148)  
-- [2024-05-17-吴恩达：四个步骤，让大模型变得更好](https://posts.careerengine.us/p/6647750e45d5c2117aa3ac9a)  
+- [2024-05-18-大模型研究获最佳论文，WWW-2024奖项出炉](https://posts.careerengine.us/p/664836a0af84644e761edba1)  
+- [2024-05-18-谷歌Gemini-1.5技术报告：轻松证明奥数题，Flash版比GPT-4-Turbo快5倍](https://posts.careerengine.us/p/664836a0af84644e761edb91)  
+- [2024-05-18-人物照片+文字-=-定制化视频，腾讯光子开源ID-Animator](https://posts.careerengine.us/p/664836a0af84644e761edb99)  
+- [2024-05-18-多模态AI是医学的未来，谷歌推出三个新模型，Med-Gemini迎来大升级](https://posts.careerengine.us/p/664836ae9034f04ea959849a)  
 - [2024-05-17-仅靠开源数据复刻出LLaMA3指令学习效果，在线迭代RLHF全流程解决方案来了](https://posts.careerengine.us/p/6647750e45d5c2117aa3ac92)  
-- [2024-05-16-ICML-2024-|-大语言模型预训练新前沿：「最佳适配打包」重塑文档处理标准](https://posts.careerengine.us/p/66459dd27faf581353f0a7b4)  
-- [2024-05-16-李飞飞解读创业方向「空间智能」，让AI真正理解世界](https://posts.careerengine.us/p/66459dd27faf581353f0a7bc)  
-- [2024-05-16-专访文青松｜AI时代的教育革新：深度融合，驱动未来](https://posts.careerengine.us/p/66459dc3cdfd5f13100096bf)  
-- [2024-05-16-用GAI定义手机，联发科和朋友们在行动](https://posts.careerengine.us/p/66459db57fcb8112dfb0e0d7)  
-- [2024-05-16-18个月，OpenAI这支团队搞出了GPT-4o](https://posts.careerengine.us/p/66459db57fcb8112dfb0e0df)  
+- [2024-05-17-吴恩达：四个步骤，让大模型变得更好](https://posts.careerengine.us/p/6647750e45d5c2117aa3ac9a)  
+- [2024-05-17-OpenAI又整活：ChatGPT再扛起数据分析大旗，Excel、Word全部拿下](https://posts.careerengine.us/p/664774fac6fc6c10dac08148)  
+- [2024-05-17-全球140+大模型全方位评测结果出炉，智源评测体系发布](https://posts.careerengine.us/p/664774fac6fc6c10dac08150)  
+- [2024-05-17-2024「人工智能-+」标杆示范征集正式开启，7-月巅峰相见！](https://posts.careerengine.us/p/664774fac6fc6c10dac08158)  
+- [2024-05-17-手机到汽车，这家老牌手机厂商跨界玩的真溜](https://posts.careerengine.us/p/664774e52968591085abbeb9)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2024-05-19-ACL-2024-|-多目标直接偏好优化MODPO：大语言模型的多目标对齐](https://posts.careerengine.us/p/6649cfd91cb2bf019beb4221) ![](/assets/new.png)  
-- [2024-05-19-北京内推-|-微软亚洲研究院DKI组招聘Excel-AI算法实习生](https://posts.careerengine.us/p/6649cfe806cea601db3ee825) ![](/assets/new.png)  
-- [2024-05-19-微软联合清华提出多头混合专家机制，大幅提升专家激活率](https://posts.careerengine.us/p/6649cfe806cea601db3ee82d) ![](/assets/new.png)  
+- [2024-05-19-ACL-2024-|-多目标直接偏好优化MODPO：大语言模型的多目标对齐](https://posts.careerengine.us/p/6649cfd91cb2bf019beb4221)  
+- [2024-05-19-北京内推-|-微软亚洲研究院DKI组招聘Excel-AI算法实习生](https://posts.careerengine.us/p/6649cfe806cea601db3ee825)  
+- [2024-05-19-微软联合清华提出多头混合专家机制，大幅提升专家激活率](https://posts.careerengine.us/p/6649cfe806cea601db3ee82d)  
 - [2024-05-18-北京内推-|-阿里通义实验室对话智能团队招聘大语言模型研究型实习生](https://posts.careerengine.us/p/66489af8edfe0f2d16d6804e)  
 - [2024-05-18-​SIGIR-2024-|-显式且细粒度的建模！属性——观点驱动的细粒度序列推荐](https://posts.careerengine.us/p/66489af8edfe0f2d16d68046)  
 - [2024-05-18-ICML-2024-|-大语言模型预训练新前沿：最佳适配打包重塑文档处理标准](https://posts.careerengine.us/p/66489af8edfe0f2d16d68057)  
