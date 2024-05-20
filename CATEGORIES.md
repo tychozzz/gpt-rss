@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-20 21:00:13，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-21 06:00:13，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -52,8 +52,8 @@
 </summary>
 
 
-- [2024-05-20-鹅厂革新大模型工具全链条！5分钟开发AI助手，河南学生已经用上了](https://posts.careerengine.us/p/664b1b7ea71e835903c0758c) ![](/assets/new.png)  
-- [2024-05-20-北大袁粒：用户不会为只能“闲聊”的大模型买单-|-中国AIGC产业峰会](https://posts.careerengine.us/p/664b1b7ea71e835903c07584) ![](/assets/new.png)  
+- [2024-05-20-鹅厂革新大模型工具全链条！5分钟开发AI助手，河南学生已经用上了](https://posts.careerengine.us/p/664b1b7ea71e835903c0758c)  
+- [2024-05-20-北大袁粒：用户不会为只能“闲聊”的大模型买单-|-中国AIGC产业峰会](https://posts.careerengine.us/p/664b1b7ea71e835903c07584)  
 - [2024-05-19-奥特曼小作文否认OpenAI离职霸王条款，网友：他有前科](https://posts.careerengine.us/p/66498351d6c3700fdecfd95c)  
 - [2024-05-19-GPT-4o用不上，国产平替海螺AI可以先试试](https://posts.careerengine.us/p/66498351d6c3700fdecfd964)  
 - [2024-05-19-AIGC年度激辩：3轮交互内准确率95％以上才能真正应用|-中国AIGC产业峰会](https://posts.careerengine.us/p/6649833fa614640fa4637088)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-05-19-ACL-2024-|-多目标直接偏好优化MODPO：大语言模型的多目标对齐](https://posts.careerengine.us/p/6649cfd91cb2bf019beb4221)  
-- [2024-05-19-北京内推-|-微软亚洲研究院DKI组招聘Excel-AI算法实习生](https://posts.careerengine.us/p/6649cfe806cea601db3ee825)  
+- [2024-05-20-当推荐系统遇见大语言模型：通往未来的三条路径](https://posts.careerengine.us/p/664b52a46c722667e56e7a7d) ![](/assets/new.png)  
+- [2024-05-20-Meta等发布巨齿鲨Megalodon！无限上下文长度的高效大模型预训练和推理](https://posts.careerengine.us/p/664b52b32e6ceb68172603c6) ![](/assets/new.png)  
+- [2024-05-20-博士申请-|-深圳大学光明实验室媒体智能团队招收2024级大模型方向博士生](https://posts.careerengine.us/p/664b52c1be9c42689b0ca69e) ![](/assets/new.png)  
+- [2024-05-20-杭州内推-|-蚂蚁集团招聘代码大模型方向研究型实习生](https://posts.careerengine.us/p/664b52c2be9c42689b0ca6a6) ![](/assets/new.png)  
 - [2024-05-19-微软联合清华提出多头混合专家机制，大幅提升专家激活率](https://posts.careerengine.us/p/6649cfe806cea601db3ee82d)  
-- [2024-05-18-北京内推-|-阿里通义实验室对话智能团队招聘大语言模型研究型实习生](https://posts.careerengine.us/p/66489af8edfe0f2d16d6804e)  
-- [2024-05-18-​SIGIR-2024-|-显式且细粒度的建模！属性——观点驱动的细粒度序列推荐](https://posts.careerengine.us/p/66489af8edfe0f2d16d68046)  
-- [2024-05-18-ICML-2024-|-大语言模型预训练新前沿：最佳适配打包重塑文档处理标准](https://posts.careerengine.us/p/66489af8edfe0f2d16d68057)  
+- [2024-05-19-北京内推-|-微软亚洲研究院DKI组招聘Excel-AI算法实习生](https://posts.careerengine.us/p/6649cfe806cea601db3ee825)  
+- [2024-05-19-ACL-2024-|-多目标直接偏好优化MODPO：大语言模型的多目标对齐](https://posts.careerengine.us/p/6649cfd91cb2bf019beb4221)  
 - [2024-05-18-缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA](https://posts.careerengine.us/p/66489ae736bab82ceeba1217)  
-- [2024-05-17-​Transformer是推断还是记忆？初始化大小很重要](https://posts.careerengine.us/p/664750428990345cd437771c)  
-- [2024-05-17-IJCAI-2024-|-多智能体强化学习新范式：个性化训练与蒸馏执行](https://posts.careerengine.us/p/664750428990345cd437770c)  
+- [2024-05-18-ICML-2024-|-大语言模型预训练新前沿：最佳适配打包重塑文档处理标准](https://posts.careerengine.us/p/66489af8edfe0f2d16d68057)  
+- [2024-05-18-​SIGIR-2024-|-显式且细粒度的建模！属性——观点驱动的细粒度序列推荐](https://posts.careerengine.us/p/66489af8edfe0f2d16d68046)  
+- [2024-05-18-北京内推-|-阿里通义实验室对话智能团队招聘大语言模型研究型实习生](https://posts.careerengine.us/p/66489af8edfe0f2d16d6804e)  
 - [2024-05-17-博士申请-|-上海科技大学屠可伟老师招收NLP方向24级博士/25级硕博](https://posts.careerengine.us/p/664750428990345cd4377714)  
-- [2024-05-16-ACM-MM-2024深度多模态生成和检索研讨会，诚邀各界专家学者参与](https://posts.careerengine.us/p/664596eba6cb64713a19b0ac)  
-- [2024-05-16-2024年大模型潜力方向：大浪淘沙后的SFT和RLHF](https://posts.careerengine.us/p/664596d8117de1709eb9022e)  
-- [2024-05-16-博士申请-|-香港科技大学（广州）聂强老师招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/664596d8117de1709eb90225)  
+- [2024-05-17-IJCAI-2024-|-多智能体强化学习新范式：个性化训练与蒸馏执行](https://posts.careerengine.us/p/664750428990345cd437770c)  
+- [2024-05-17-​Transformer是推断还是记忆？初始化大小很重要](https://posts.careerengine.us/p/664750428990345cd437771c)  
 - [2024-05-16-无位置编码-（NoPE）-也有长度泛化问题？首个针对NoPE的长度外推方法](https://posts.careerengine.us/p/664596d7117de1709eb9021d)  
-- [2024-05-15-大模型微调到底有没有技术含量，或者说技术含量到底有多大？](https://posts.careerengine.us/p/664446aacc1fd834aea35d0e)  
-- [2024-05-15-选择需要的Token参与训练：微软重塑语言模型训练法则，准确率飙升30％](https://posts.careerengine.us/p/664446b94e33e834e10c92cc)  
-- [2024-05-15-CAA模式识别与机器智能专委会：首届深度学习模型压缩与部署技术会议](https://posts.careerengine.us/p/664446ba4e33e834e10c92d5)  
+- [2024-05-16-博士申请-|-香港科技大学（广州）聂强老师招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/664596d8117de1709eb90225)  
+- [2024-05-16-2024年大模型潜力方向：大浪淘沙后的SFT和RLHF](https://posts.careerengine.us/p/664596d8117de1709eb9022e)  
+- [2024-05-16-ACM-MM-2024深度多模态生成和检索研讨会，诚邀各界专家学者参与](https://posts.careerengine.us/p/664596eba6cb64713a19b0ac)  
 - [2024-05-15-深圳/香港/上海内推-|-商汤研究院基础语言模型团队招聘大语言模型算法研究员](https://posts.careerengine.us/p/664446c82ac1813562798062)  
-- [2024-05-14-ICML-2024-|-通过随机微分方程统一贝叶斯流网络和扩散模型](https://posts.careerengine.us/p/6642ec8f9fcd1a1022e2a1fd)  
-- [2024-05-14-博士申请-|-多伦多大学孙强教授招收生成模型/LLM方向全奖博士/博后/实习生](https://posts.careerengine.us/p/6642ec8f9fcd1a1022e2a1f5)  
+- [2024-05-15-CAA模式识别与机器智能专委会：首届深度学习模型压缩与部署技术会议](https://posts.careerengine.us/p/664446ba4e33e834e10c92d5)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
