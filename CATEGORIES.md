@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-29 21:00:15，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-29 23:00:28，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-05-28-最难方言温州话被攻克！中国电信语音大模型支持30种方言，这题GPT-4o可不会做啊](https://posts.careerengine.us/p/66555e542a409543e0df5716)  
-- [2024-05-28-逐际动力张力：人形机器人应该代替人类，而不是代替工具-|-中国AIGC产业峰会](https://posts.careerengine.us/p/66555e630a22444437f10e25)  
-- [2024-05-28-最猛AI独角兽：一年估值1700亿，再造一个OpenAI！马斯克LeCun却吵起来了](https://posts.careerengine.us/p/66555e630a22444437f10e1d)  
-- [2024-05-28-国产开源Sora上新：全面支持国产AI算力，可用ReVideo视频编辑，北大——兔展团队出品](https://posts.careerengine.us/p/66555e755f0f6a4465891cb5)  
-- [2024-05-28-3D生成竞技场来了！比拼360°环绕视频，最强模型由你pick](https://posts.careerengine.us/p/66555e765f0f6a4465891cbe)  
+- [2024-05-29-Karpathy新教程爆火，网友抢着送他H100：从头复现GPT-2训练](https://posts.careerengine.us/p/6656f7d303282662f7cda263) ![](/assets/new.png)  
+- [2024-05-29-搞医学影像，为什么都青睐于CPU？](https://posts.careerengine.us/p/6656f7d303282662f7cda274) ![](/assets/new.png)  
+- [2024-05-29-AlphaFold-3不开源，统一生物语言大模型阿里云先开了！](https://posts.careerengine.us/p/6656f7d303282662f7cda26c) ![](/assets/new.png)  
+- [2024-05-29-北大北邮的门，机器人开](https://posts.careerengine.us/p/6656f7ea85735963205c3655) ![](/assets/new.png)  
+- [2024-05-29-用GPT-3.5生成数据集！北大天工等团队图像编辑新SOTA，可精准模拟物理世界场景](https://posts.careerengine.us/p/6656f7ea85735963205c3645) ![](/assets/new.png)  
 - [2024-05-28-多模态CoT思维链架构来了，现已开源｜来自厦大&腾讯优图](https://posts.careerengine.us/p/66555e775f0f6a4465891cc6)  
-- [2024-05-27-目标检测新SOTA，端侧实时识别，沈向洋罕见转发点赞](https://posts.careerengine.us/p/66540634771644781607540e)  
-- [2024-05-27-陈丹琦团队新作：微调8B模型超越Claude3-Opus，背后是RLHF新平替](https://posts.careerengine.us/p/665406263f1e2977fa9a8d0a)  
-- [2024-05-27-理想变了！技术研发投入每3天1个亿，领跑造车新势力](https://posts.careerengine.us/p/66540617c75a9577d0fcdb18)  
+- [2024-05-28-3D生成竞技场来了！比拼360°环绕视频，最强模型由你pick](https://posts.careerengine.us/p/66555e765f0f6a4465891cbe)  
+- [2024-05-28-国产开源Sora上新：全面支持国产AI算力，可用ReVideo视频编辑，北大——兔展团队出品](https://posts.careerengine.us/p/66555e755f0f6a4465891cb5)  
+- [2024-05-28-最猛AI独角兽：一年估值1700亿，再造一个OpenAI！马斯克LeCun却吵起来了](https://posts.careerengine.us/p/66555e630a22444437f10e1d)  
+- [2024-05-28-逐际动力张力：人形机器人应该代替人类，而不是代替工具-|-中国AIGC产业峰会](https://posts.careerengine.us/p/66555e630a22444437f10e25)  
+- [2024-05-28-最难方言温州话被攻克！中国电信语音大模型支持30种方言，这题GPT-4o可不会做啊](https://posts.careerengine.us/p/66555e542a409543e0df5716)  
 - [2024-05-27-港大字节提出多模态大模型新范式，模拟人类先感知后认知，精确定位图中物体](https://posts.careerengine.us/p/66540617c75a9577d0fcdb10)  
-- [2024-05-26-Hinton揭秘Ilya成长历程：Scaling-Law是他学生时代就有的直觉](https://posts.careerengine.us/p/6652cd7b6c73f91f3a09569c)  
-- [2024-05-26-硅谷VC张璐：硅谷大模型市场已明确分为三类，三大应用领域迭代速度较快-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6652cd8aca41e71f5a875275)  
-- [2024-05-26-OpenAI又一吹哨人离职！拉响安全警报，风险隐患实在太大](https://posts.careerengine.us/p/6652cd9a26f88e1fbc7f7aea)  
+- [2024-05-27-理想变了！技术研发投入每3天1个亿，领跑造车新势力](https://posts.careerengine.us/p/66540617c75a9577d0fcdb18)  
+- [2024-05-27-陈丹琦团队新作：微调8B模型超越Claude3-Opus，背后是RLHF新平替](https://posts.careerengine.us/p/665406263f1e2977fa9a8d0a)  
+- [2024-05-27-目标检测新SOTA，端侧实时识别，沈向洋罕见转发点赞](https://posts.careerengine.us/p/66540634771644781607540e)  
 - [2024-05-26-喂饭级教程，看我如何用ChatGPT-4o做一款俄罗斯方块游戏！](https://posts.careerengine.us/p/6652cd9a26f88e1fbc7f7ae2)  
-- [2024-05-25-无障碍化身小黑子只需6枚传感器，来自清华轻量化动捕新成果｜SIGGRAPH-2024](https://posts.careerengine.us/p/66518d4938bb8c2132ea6c81)  
-- [2024-05-25-大模型“国家队”发力了-，中国移动发布“万百千”](https://posts.careerengine.us/p/66518d4938bb8c2132ea6c79)  
-- [2024-05-25-鹅厂造了个AI翻译公司：专攻网络小说，自动适配语言风格，真人和GPT-4看了都说好](https://posts.careerengine.us/p/66518d4838bb8c2132ea6c71)  
+- [2024-05-26-OpenAI又一吹哨人离职！拉响安全警报，风险隐患实在太大](https://posts.careerengine.us/p/6652cd9a26f88e1fbc7f7aea)  
+- [2024-05-26-硅谷VC张璐：硅谷大模型市场已明确分为三类，三大应用领域迭代速度较快-|-中国AIGC产业峰会](https://posts.careerengine.us/p/6652cd8aca41e71f5a875275)  
+- [2024-05-26-Hinton揭秘Ilya成长历程：Scaling-Law是他学生时代就有的直觉](https://posts.careerengine.us/p/6652cd7b6c73f91f3a09569c)  
 - [2024-05-25-AI独角兽集体求卖身，新一轮洗牌期开始了](https://posts.careerengine.us/p/66518d39cfb8b02117c37021)  
-- [2024-05-24-谷歌AI搜索闯大祸！建议网友吃石头、毒蘑菇，把胶水加到披萨上，评论区炸了](https://posts.careerengine.us/p/6650431c706ffe03678bb739)  
-- [2024-05-24-桌面版ChatGPT登台演讲，能视频通话还会实时读屏，GPT-4o最新demo再次惊艳：“能力还是被低估了”](https://posts.careerengine.us/p/6650430e45dc20033f01281b)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2024-05-29-免费开放！智谱Batch-API正式上线：GLM-4大模型批量处理、无并发限制](https://posts.careerengine.us/p/665713ddba33265082242c9a) ![](/assets/new.png)  
-- [2024-05-29-ACL-2024-Findings-|-视频大语言模型能理解视频中的时序信息吗？](https://posts.careerengine.us/p/665713deba33265082242ca2) ![](/assets/new.png)  
-- [2024-05-29-将注意力视为RNN！Bengio等人新作媲美Transformer，但超级省内存](https://posts.careerengine.us/p/665713ed0ddb675126f9ca34) ![](/assets/new.png)  
-- [2024-05-29-北京内推-|-​昆仑天工招聘数字人方向AIGC算法研究员/实习生](https://posts.careerengine.us/p/665713ed0ddb675126f9ca3c) ![](/assets/new.png)  
+- [2024-05-29-免费开放！智谱Batch-API正式上线：GLM-4大模型批量处理、无并发限制](https://posts.careerengine.us/p/665713ddba33265082242c9a)  
+- [2024-05-29-ACL-2024-Findings-|-视频大语言模型能理解视频中的时序信息吗？](https://posts.careerengine.us/p/665713deba33265082242ca2)  
+- [2024-05-29-将注意力视为RNN！Bengio等人新作媲美Transformer，但超级省内存](https://posts.careerengine.us/p/665713ed0ddb675126f9ca34)  
+- [2024-05-29-北京内推-|-​昆仑天工招聘数字人方向AIGC算法研究员/实习生](https://posts.careerengine.us/p/665713ed0ddb675126f9ca3c)  
 - [2024-05-28-CVPR-2024-|-双手协作双物体的数据集TACO：引领可泛化手物交互的新方向](https://posts.careerengine.us/p/665561df3d14fe51b11cfbb0)  
 - [2024-05-28-博士申请-|-北京大学计算机学院樊文飞院士团队招收2025级大数据方向直博生](https://posts.careerengine.us/p/665561de3d14fe51b11cfba0)  
 - [2024-05-28-EI会议大盘点！涵盖计算机图像视觉、机器学习等众多方向](https://posts.careerengine.us/p/665561de3d14fe51b11cfba8)  
