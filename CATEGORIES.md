@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-05-29 18:00:11，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-29 21:00:15，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-05-29-和GPT-4这些大模型玩狼人杀，人类因太蠢被票死，真·反向图灵测试](https://posts.careerengine.us/p/6656b68ab01e0f6def88fd73) ![](/assets/new.png)  
-- [2024-05-29-填补AlphaFold3空白，字节跳动提出物理引导的方法让蛋白质动起来](https://posts.careerengine.us/p/6656b69cafe6b16e12de1a6f) ![](/assets/new.png)  
-- [2024-05-29-ACL-2024-|-提升大模型持续学习性能，哈工大、度小满提出共享注意力框架SAPT](https://posts.careerengine.us/p/6656b6ac1cc80a6e7a638141) ![](/assets/new.png)  
-- [2024-05-29-快速入门大模型技术与应用，推荐你从Stable-Diffusion开始学起](https://posts.careerengine.us/p/6656b6ac1cc80a6e7a638139) ![](/assets/new.png)  
-- [2024-05-29-奥特曼挂帅新团队，OpenAI新一代大模型开训，前任高管却「投敌」了](https://posts.careerengine.us/p/6656b6ac1cc80a6e7a638131) ![](/assets/new.png)  
+- [2024-05-29-和GPT-4这些大模型玩狼人杀，人类因太蠢被票死，真·反向图灵测试](https://posts.careerengine.us/p/6656b68ab01e0f6def88fd73)  
+- [2024-05-29-填补AlphaFold3空白，字节跳动提出物理引导的方法让蛋白质动起来](https://posts.careerengine.us/p/6656b69cafe6b16e12de1a6f)  
+- [2024-05-29-ACL-2024-|-提升大模型持续学习性能，哈工大、度小满提出共享注意力框架SAPT](https://posts.careerengine.us/p/6656b6ac1cc80a6e7a638141)  
+- [2024-05-29-快速入门大模型技术与应用，推荐你从Stable-Diffusion开始学起](https://posts.careerengine.us/p/6656b6ac1cc80a6e7a638139)  
+- [2024-05-29-奥特曼挂帅新团队，OpenAI新一代大模型开训，前任高管却「投敌」了](https://posts.careerengine.us/p/6656b6ac1cc80a6e7a638131)  
 - [2024-05-28-适应多形态多任务，最强开源机器人学习系统「八爪鱼」诞生](https://posts.careerengine.us/p/665560507df7af4b714dc620)  
 - [2024-05-28-AI智能体的炒作与现实：GPT-4都撑不起，现实任务成功率不到15％](https://posts.careerengine.us/p/665560507df7af4b714dc610)  
 - [2024-05-28-不影响输出质量还能追踪溯源，「大模型无偏水印」入选ICLR-2024-Spotlight](https://posts.careerengine.us/p/665560507df7af4b714dc618)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-05-28-从啥也不会到DPO：大模型微调（Fine-Tuning）实践经验最全总结](https://posts.careerengine.us/p/665561cca7450651395f73c8)  
-- [2024-05-28-EI会议大盘点！涵盖计算机图像视觉、机器学习等众多方向](https://posts.careerengine.us/p/665561de3d14fe51b11cfba8)  
-- [2024-05-28-博士申请-|-北京大学计算机学院樊文飞院士团队招收2025级大数据方向直博生](https://posts.careerengine.us/p/665561de3d14fe51b11cfba0)  
+- [2024-05-29-免费开放！智谱Batch-API正式上线：GLM-4大模型批量处理、无并发限制](https://posts.careerengine.us/p/665713ddba33265082242c9a) ![](/assets/new.png)  
+- [2024-05-29-ACL-2024-Findings-|-视频大语言模型能理解视频中的时序信息吗？](https://posts.careerengine.us/p/665713deba33265082242ca2) ![](/assets/new.png)  
+- [2024-05-29-将注意力视为RNN！Bengio等人新作媲美Transformer，但超级省内存](https://posts.careerengine.us/p/665713ed0ddb675126f9ca34) ![](/assets/new.png)  
+- [2024-05-29-北京内推-|-​昆仑天工招聘数字人方向AIGC算法研究员/实习生](https://posts.careerengine.us/p/665713ed0ddb675126f9ca3c) ![](/assets/new.png)  
 - [2024-05-28-CVPR-2024-|-双手协作双物体的数据集TACO：引领可泛化手物交互的新方向](https://posts.careerengine.us/p/665561df3d14fe51b11cfbb0)  
-- [2024-05-27-报名开启！北京师范大学人工智能学院2024年优秀大学生夏令营](https://posts.careerengine.us/p/66540f671fd8af1e7b2a8c92)  
-- [2024-05-27-ICML-2024-|-新型傅立叶微调来了！脱离LoRA架构，训练参数大幅减少](https://posts.careerengine.us/p/66540f5971a0171e02b59799)  
-- [2024-05-27-顶刊IJCV-2024-|-EfficientSCI++：高效的视频单曝光压缩成像重建框架](https://posts.careerengine.us/p/66540f4ad15e191de1f3a7c1)  
+- [2024-05-28-博士申请-|-北京大学计算机学院樊文飞院士团队招收2025级大数据方向直博生](https://posts.careerengine.us/p/665561de3d14fe51b11cfba0)  
+- [2024-05-28-EI会议大盘点！涵盖计算机图像视觉、机器学习等众多方向](https://posts.careerengine.us/p/665561de3d14fe51b11cfba8)  
+- [2024-05-28-从啥也不会到DPO：大模型微调（Fine-Tuning）实践经验最全总结](https://posts.careerengine.us/p/665561cca7450651395f73c8)  
 - [2024-05-27-只要敢捞“偏门”，篇篇都是顶刊！](https://posts.careerengine.us/p/66540f4ad15e191de1f3a7c9)  
-- [2024-05-26-ICML-2024-|-即插即用！无需训练！基于球面高斯约束引导的条件扩散模型](https://posts.careerengine.us/p/6653570fd01413402f736b7a)  
-- [2024-05-26-如何花3400配置一台室内无噪音，48GB显存的深度学习服务器？](https://posts.careerengine.us/p/6653571e4f7ea64050df5f8e)  
+- [2024-05-27-顶刊IJCV-2024-|-EfficientSCI++：高效的视频单曝光压缩成像重建框架](https://posts.careerengine.us/p/66540f4ad15e191de1f3a7c1)  
+- [2024-05-27-ICML-2024-|-新型傅立叶微调来了！脱离LoRA架构，训练参数大幅减少](https://posts.careerengine.us/p/66540f5971a0171e02b59799)  
+- [2024-05-27-报名开启！北京师范大学人工智能学院2024年优秀大学生夏令营](https://posts.careerengine.us/p/66540f671fd8af1e7b2a8c92)  
 - [2024-05-26-深圳内推-|-百度⽂⼼（ERNIE）团队招聘⼤模型算法实习⽣](https://posts.careerengine.us/p/6653572d9aca1940cf99f8d7)  
-- [2024-05-25-复旦发布公开匿名评测平台：3D生成模型同台竞技，魁首究竟花落谁家！](https://posts.careerengine.us/p/6651de5e93cc6a66ba8be7f7)  
-- [2024-05-25-博士申请-|-香港科技大学（广州）戴恩炎老师招收可信AI方向全奖博士/RA/实习生](https://posts.careerengine.us/p/6651de5e93cc6a66ba8be7ff)  
-- [2024-05-25-文末送书！解构大语言模型：从线性回归到通用人工智能](https://posts.careerengine.us/p/6651de4fa191586689d16220)  
+- [2024-05-26-如何花3400配置一台室内无噪音，48GB显存的深度学习服务器？](https://posts.careerengine.us/p/6653571e4f7ea64050df5f8e)  
+- [2024-05-26-ICML-2024-|-即插即用！无需训练！基于球面高斯约束引导的条件扩散模型](https://posts.careerengine.us/p/6653570fd01413402f736b7a)  
 - [2024-05-25-ICML-2024-|-北大、字节提出新型双层位置编码方案，有效改善长度外推效果](https://posts.careerengine.us/p/6651de4fa191586689d16228)  
-- [2024-05-24-深入研讨语言模型中知识的生命周期，ACL-2024-Workshop征稿启动](https://posts.careerengine.us/p/66501b9d7eda7163ad3dc2ba)  
-- [2024-05-24-NAACL-2024-|-基于LLM的问答系统：表格转文本方法为什么能成功？](https://posts.careerengine.us/p/66501b8d93f1a06334291a54)  
+- [2024-05-25-文末送书！解构大语言模型：从线性回归到通用人工智能](https://posts.careerengine.us/p/6651de4fa191586689d16220)  
+- [2024-05-25-博士申请-|-香港科技大学（广州）戴恩炎老师招收可信AI方向全奖博士/RA/实习生](https://posts.careerengine.us/p/6651de5e93cc6a66ba8be7ff)  
+- [2024-05-25-复旦发布公开匿名评测平台：3D生成模型同台竞技，魁首究竟花落谁家！](https://posts.careerengine.us/p/6651de5e93cc6a66ba8be7f7)  
 - [2024-05-24-最全！LLaMA-3/2/1模型结构总览-&-亮点分析](https://posts.careerengine.us/p/66501b8d93f1a06334291a4c)  
-- [2024-05-22-李飞飞空间智能系列新进展：吴佳俊团队发布BVS套件全面评估CV模型](https://posts.careerengine.us/p/664e0bec0ef62e2ce154742e)  
-- [2024-05-22-博士申请-|-复旦大学智能人机交互实验室招收2025级硕博生（夏令营/推免）](https://posts.careerengine.us/p/664e0bec0ef62e2ce1547436)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,9 +176,9 @@
 </summary>
 
 
-- [2024-05-29-李飞飞：更大的语言模型也不会带来感知能力](https://posts.careerengine.us/p/6656cf8a838da24efe5bb0c7) ![](/assets/new.png)  
-- [2024-05-29-奥特曼突然变身OpenAI-“安全卫士”！网友：刚被实锤不关心安全还“心理虐待”，谁信啊](https://posts.careerengine.us/p/6656cf8b838da24efe5bb0cf) ![](/assets/new.png)  
-- [2024-05-29-半年涨粉1000万！揭秘快意大模型在短视频互动场景中的大规模应用实践](https://posts.careerengine.us/p/6656cf8b838da24efe5bb0d7) ![](/assets/new.png)  
+- [2024-05-29-李飞飞：更大的语言模型也不会带来感知能力](https://posts.careerengine.us/p/6656cf8a838da24efe5bb0c7)  
+- [2024-05-29-奥特曼突然变身OpenAI-“安全卫士”！网友：刚被实锤不关心安全还“心理虐待”，谁信啊](https://posts.careerengine.us/p/6656cf8b838da24efe5bb0cf)  
+- [2024-05-29-半年涨粉1000万！揭秘快意大模型在短视频互动场景中的大规模应用实践](https://posts.careerengine.us/p/6656cf8b838da24efe5bb0d7)  
 - [2024-05-28-中国信通院“铸基计划”&极客邦科技双数研究院-InfoQ-研究中心即将联合发布《AGI在金融领域的应用实践洞察》](https://posts.careerengine.us/p/6655db12a4efa40c4a5e3c4a)  
 - [2024-05-28-Agent-还没出圈，落地先有了“阻力”：进入平台期，智力能否独立担事？](https://posts.careerengine.us/p/6655db04af590a0c0fd70fd6)  
 - [2024-05-28-禁令再升级！拜登政府已不想让中国人在美从事AI工作了，套壳大模型的公司也危险了](https://posts.careerengine.us/p/6655db03af590a0c0fd70fce)  
