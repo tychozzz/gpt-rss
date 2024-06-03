@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-03 06:00:11，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-03 15:00:10，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -52,25 +52,25 @@
 </summary>
 
 
-- [2024-06-02-意外！老黄剧透下一代GPU芯片，新演讲又把摩尔定律按在地上摩擦](https://posts.careerengine.us/p/665c8c529909a40f8c5c1446) ![](/assets/new.png)  
-- [2024-06-02-多模态大模型+自动驾驶=？ECCV'24这场Workshop开启招募啦](https://posts.careerengine.us/p/665c8c6120c3340faa3a0d9b) ![](/assets/new.png)  
-- [2024-06-02-活体脑细胞做成16核芯片，用Python就能编程，9个机构开展实验36所大学排队](https://posts.careerengine.us/p/665c8c6120c3340faa3a0d93) ![](/assets/new.png)  
-- [2024-06-02-无需2万的Vision-Pro，1299玩转空间视频](https://posts.careerengine.us/p/665c8c6220c3340faa3a0da3) ![](/assets/new.png)  
-- [2024-05-31-无需3D数据也能训练，港科&港中文联手华为推出3D自动驾驶场景生成模型](https://posts.careerengine.us/p/665954382aee9a02a228019e)  
-- [2024-05-31-1/3年轻人愿和AI交朋友，超1成年轻人已经靠AIGC赚过钱了｜Soul-App报告分享](https://posts.careerengine.us/p/665954279b1001027b95bda3)  
-- [2024-05-31-OpenAI被曝帮苹果Siri换脑，微软急了：CEO约谈奥特曼](https://posts.careerengine.us/p/665954279b1001027b95bdac)  
-- [2024-05-31-清华“天眸芯”登Nature封面！全球首款类脑互补视觉芯片，施路平团队最新成果](https://posts.careerengine.us/p/665954279b1001027b95bdb4)  
-- [2024-05-31-AI在咳嗽中检出癌症，不信？世卫组织正全球推广](https://posts.careerengine.us/p/66595416f90a4c0261d02981)  
+- [2024-06-03-ICML2024高分！魔改注意力，让小模型能打两倍大的模型](https://posts.careerengine.us/p/665d4534acdc1727d96a26e4) ![](/assets/new.png)  
+- [2024-06-03-英伟达新研究：上下文长度虚标严重，32K性能合格的都不多](https://posts.careerengine.us/p/665d4534acdc1727d96a26ec) ![](/assets/new.png)  
+- [2024-06-03-超越Devin！姚班带队，他们创大模型编程新世界纪录](https://posts.careerengine.us/p/665d4534acdc1727d96a26db) ![](/assets/new.png)  
+- [2024-06-03-OpenAI把GPT-4原始版给了他们：研究不微调只靠提示词能走多远](https://posts.careerengine.us/p/665d4543b2ce22285aae8b21) ![](/assets/new.png)  
+- [2024-06-02-无需2万的Vision-Pro，1299玩转空间视频](https://posts.careerengine.us/p/665c8c6220c3340faa3a0da3)  
+- [2024-06-02-活体脑细胞做成16核芯片，用Python就能编程，9个机构开展实验36所大学排队](https://posts.careerengine.us/p/665c8c6120c3340faa3a0d93)  
+- [2024-06-02-多模态大模型+自动驾驶=？ECCV'24这场Workshop开启招募啦](https://posts.careerengine.us/p/665c8c6120c3340faa3a0d9b)  
+- [2024-06-02-意外！老黄剧透下一代GPU芯片，新演讲又把摩尔定律按在地上摩擦](https://posts.careerengine.us/p/665c8c529909a40f8c5c1446)  
 - [2024-05-31-这家产品AI用户过亿，月活第一，覆盖学习办公和家庭教育，还有人偷偷用来赚钱](https://posts.careerengine.us/p/66595416f90a4c0261d0298a)  
-- [2024-05-30-16家头部大模型公司上海神秘碰头，现场人挤人人人](https://posts.careerengine.us/p/665806efb4c6527ea00d7460)  
-- [2024-05-30-32专家MoE大模型免费商用！性能全面对标Llama3，单token推理消耗仅5.28％](https://posts.careerengine.us/p/665806fd579f677f1b669b93)  
-- [2024-05-30-腾讯AI助手App元宝来了，公众号作者必备](https://posts.careerengine.us/p/6658070c6e63707f400528af)  
-- [2024-05-30-最强开源编程大模型一夜易主：精通80+语言，仅22B](https://posts.careerengine.us/p/6658070c6e63707f4005289f)  
+- [2024-05-31-AI在咳嗽中检出癌症，不信？世卫组织正全球推广](https://posts.careerengine.us/p/66595416f90a4c0261d02981)  
+- [2024-05-31-清华“天眸芯”登Nature封面！全球首款类脑互补视觉芯片，施路平团队最新成果](https://posts.careerengine.us/p/665954279b1001027b95bdb4)  
+- [2024-05-31-OpenAI被曝帮苹果Siri换脑，微软急了：CEO约谈奥特曼](https://posts.careerengine.us/p/665954279b1001027b95bdac)  
+- [2024-05-31-1/3年轻人愿和AI交朋友，超1成年轻人已经靠AIGC赚过钱了｜Soul-App报告分享](https://posts.careerengine.us/p/665954279b1001027b95bda3)  
+- [2024-05-31-无需3D数据也能训练，港科&港中文联手华为推出3D自动驾驶场景生成模型](https://posts.careerengine.us/p/665954382aee9a02a228019e)  
 - [2024-05-30-用硅模拟人脑，进度条走到了1/80](https://posts.careerengine.us/p/6658070c6e63707f400528a7)  
-- [2024-05-29-用GPT-3.5生成数据集！北大天工等团队图像编辑新SOTA，可精准模拟物理世界场景](https://posts.careerengine.us/p/6656f7ea85735963205c3645)  
-- [2024-05-29-北大北邮的门，机器人开](https://posts.careerengine.us/p/6656f7ea85735963205c3655)  
-- [2024-05-29-AlphaFold-3不开源，统一生物语言大模型阿里云先开了！](https://posts.careerengine.us/p/6656f7d303282662f7cda26c)  
-- [2024-05-29-搞医学影像，为什么都青睐于CPU？](https://posts.careerengine.us/p/6656f7d303282662f7cda274)  
+- [2024-05-30-最强开源编程大模型一夜易主：精通80+语言，仅22B](https://posts.careerengine.us/p/6658070c6e63707f4005289f)  
+- [2024-05-30-腾讯AI助手App元宝来了，公众号作者必备](https://posts.careerengine.us/p/6658070c6e63707f400528af)  
+- [2024-05-30-32专家MoE大模型免费商用！性能全面对标Llama3，单token推理消耗仅5.28％](https://posts.careerengine.us/p/665806fd579f677f1b669b93)  
+- [2024-05-30-16家头部大模型公司上海神秘碰头，现场人挤人人人](https://posts.careerengine.us/p/665806efb4c6527ea00d7460)  
 - [2024-05-29-Karpathy新教程爆火，网友抢着送他H100：从头复现GPT-2训练](https://posts.careerengine.us/p/6656f7d303282662f7cda263)  
 - [......【查看更多】......](/details/量子位.md)
 
