@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-05 18:00:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-05 21:00:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 谷歌
 
@@ -21,6 +21,7 @@
 - [2023-10-05-亚马逊刚投40亿美元，谷歌等又要投20亿，Anthropic-估值狂飙](https://posts.careerengine.us/p/651e399e986ff466e2c67942) 
 - [2023-10-01-真实性惊人，谷歌、康奈尔提出真实的图像补全技术RealFill](https://posts.careerengine.us/p/6518fba578237b2c69902dcb) 
 - [2023-07-09-给机器下「遗忘咒」？谷歌发起首个机器遗忘挑战赛](https://posts.careerengine.us/p/64aa88110dded95d9df53a98) 
+- [2024-06-05-CLIP当RNN用入选CVPR：无需训练即可分割无数概念｜牛津大学&谷歌研究院](https://posts.careerengine.us/p/666042c385a9a956e4d9089f) 
 - [2024-04-28-突发！谷歌Python团队解散，PyTorch之父震惊](https://posts.careerengine.us/p/662e235c4bfc5305c221dd40) 
 - [2024-03-28-反英伟达CUDA联盟集结：谷歌英特尔高通牵头，微软亚马逊跑步加入](https://posts.careerengine.us/p/6604f58102702c7da92e081a) 
 - [2024-02-23-200万上下文窗口创飞Gemini-1.5！微软来砸谷歌场子了（doge）](https://posts.careerengine.us/p/65d8b038589bdc7e8994e831) 

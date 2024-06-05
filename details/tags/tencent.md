@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-05 18:00:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-05 21:00:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 腾讯
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-06-05-腾讯混元、北大发现Scaling-law「浪涌现象」，解决学习率调参难题](https://posts.careerengine.us/p/6660450fdc1b3c605e6a5a9b) 
 - [2024-05-18-人物照片+文字-=-定制化视频，腾讯光子开源ID-Animator](https://posts.careerengine.us/p/664836a0af84644e761edb99) 
 - [2023-12-12-夸张！EMNLP投稿近5000篇，奖项出炉：北大、腾讯摘最佳长论文](https://posts.careerengine.us/p/6577416566e7d867731ba9dd) 
 - [2023-07-26-MSU世界视频编码器大赛放榜，腾讯包揽全场冠军](https://posts.careerengine.us/p/64c0a8679bff72303f5d5571) 
