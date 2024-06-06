@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-06 15:00:11。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-06 18:00:14。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -156,11 +156,11 @@
 - [【机器之心】一张截图生成iPhone应用、还能转成代码、创建网站，升级后谷歌Bard真成了](https://posts.careerengine.us/p/64b37a81149433457e8154f9)
 - [【机器之心】谷歌Bard史上最大升级：中文、识图、存档导出能力都来了](https://posts.careerengine.us/p/64b137613b57e74bae33c801)
 - [【机器之心】DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89)
+- [【量子位】Stable-Diffusion老板跑路开新坑，被抛下的SD3开源成了烂摊子](https://posts.careerengine.us/p/66616798817f28763173843e)
 - [【量子位】突发！Stable-Diffusion核心团队被曝集体离职](https://posts.careerengine.us/p/65fc295ec3a6454813ee522e)
 - [【量子位】Stable-Diffusion-3更多隐藏功能曝光：文字可更改图片细节](https://posts.careerengine.us/p/65d8b039589bdc7e8994e851)
 - [【量子位】百度交了份“大”作业：文心一言用户破1亿，累计37亿字文本创作，能力再升32％！](https://posts.careerengine.us/p/658e567baa671b67240eed7a)
 - [【量子位】Midjourney能生成文字了！V6版5大升级惊艳网友](https://posts.careerengine.us/p/65862938b2c3b7229880ba09)
-- [【量子位】Gemini自曝中文用百度文心一言训练，网友看呆：大公司互薅羊毛？？](https://posts.careerengine.us/p/657fd8a27d48b129d7caddd4)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
