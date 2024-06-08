@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-08 18:00:08，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-08 21:00:12，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-06-07-英特尔放大招：新制程、能效核一起上，144核的至强6，性能成倍提升](https://posts.careerengine.us/p/66628a9e840f370ee1637604)  
-- [2024-06-07-阿里Qwen2正式开源，性能全方位包围Llama-3](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e80)  
-- [2024-06-07-ACL-2024-|-让纯LLM实现类人的符号逻辑推理能力，开源框架SymbCoT来了](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e77)  
-- [2024-06-07-Ilya参与，OpenAI给GPT-4搞可解释，提取了1600万个特征，还能看它怎么想](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e88)  
+- [2024-06-08-支持合成一分钟高清视频，华科等提出人类跳舞视频生成新框架UniAnimate](https://posts.careerengine.us/p/6663e02216762277b2742d56) ![](/assets/new.png)  
+- [2024-06-08-原作者带队，LSTM卷土重来之Vision-LSTM出世](https://posts.careerengine.us/p/6663e02316762277b2742d66) ![](/assets/new.png)  
+- [2024-06-08-329篇图像、视频生成论文，今年CVPR最火的研究主题是这些](https://posts.careerengine.us/p/6663e02316762277b2742d5e) ![](/assets/new.png)  
+- [2024-06-08-轻松构建聊天机器人、准确性新SOTA，RAG有了更强大的AI检索器](https://posts.careerengine.us/p/6663e034e1837c77d8152a35) ![](/assets/new.png)  
+- [2024-06-08-1.8B参数，阿里云首个联合DNA、RNA、蛋白质的生物大模型，涵盖16.9W物种](https://posts.careerengine.us/p/6663e034e1837c77d8152a3d) ![](/assets/new.png)  
 - [2024-06-07-大模型时代，学习动手做AI-Agent](https://posts.careerengine.us/p/66628ac1a4d4ec0fb30c9e0f)  
-- [2024-06-06-Stability-AI开源47秒音频生成模型，虫鸣鸟叫、摇滚、鼓点都能生成](https://posts.careerengine.us/p/6661938a20f6f326f4aa26f6)  
-- [2024-06-06-ICML-2024-Oral｜外部引导的深度聚类新范式](https://posts.careerengine.us/p/6661938a20f6f326f4aa26fe)  
-- [2024-06-06-黎曼猜想突破作者首次公开讲解，陶哲轩送上总结](https://posts.careerengine.us/p/6661937c3eded126c6716677)  
-- [2024-06-06-这个团队做了OpenAI没Open的技术，开源OpenRLHF让对齐大模型超简单](https://posts.careerengine.us/p/6661937b3eded126c6716667)  
+- [2024-06-07-Ilya参与，OpenAI给GPT-4搞可解释，提取了1600万个特征，还能看它怎么想](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e88)  
+- [2024-06-07-ACL-2024-|-让纯LLM实现类人的符号逻辑推理能力，开源框架SymbCoT来了](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e77)  
+- [2024-06-07-阿里Qwen2正式开源，性能全方位包围Llama-3](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e80)  
+- [2024-06-07-英特尔放大招：新制程、能效核一起上，144核的至强6，性能成倍提升](https://posts.careerengine.us/p/66628a9e840f370ee1637604)  
 - [2024-06-06-辅导作业这么费劲的事，还是交给这个大模型吧](https://posts.careerengine.us/p/6661937b3eded126c671666f)  
-- [2024-06-05-GLM-4开源版本终于来了：超越Llama3，多模态比肩GPT4V，MaaS平台也大升级](https://posts.careerengine.us/p/666044f2cb4d665fc26e84bb)  
-- [2024-06-05-央国企需求场景发布，共议-AI-赋能产业融通，尽在WAIC这场论坛](https://posts.careerengine.us/p/6660450016ad135feaf9d413)  
-- [2024-06-05-黎曼猜想显著突破！陶哲轩强推MIT、牛津新论文，37岁菲尔兹奖得主参与](https://posts.careerengine.us/p/6660450016ad135feaf9d41b)  
-- [2024-06-05-腾讯混元、北大发现Scaling-law「浪涌现象」，解决学习率调参难题](https://posts.careerengine.us/p/6660450fdc1b3c605e6a5a9b)  
+- [2024-06-06-这个团队做了OpenAI没Open的技术，开源OpenRLHF让对齐大模型超简单](https://posts.careerengine.us/p/6661937b3eded126c6716667)  
+- [2024-06-06-黎曼猜想突破作者首次公开讲解，陶哲轩送上总结](https://posts.careerengine.us/p/6661937c3eded126c6716677)  
+- [2024-06-06-ICML-2024-Oral｜外部引导的深度聚类新范式](https://posts.careerengine.us/p/6661938a20f6f326f4aa26fe)  
+- [2024-06-06-Stability-AI开源47秒音频生成模型，虫鸣鸟叫、摇滚、鼓点都能生成](https://posts.careerengine.us/p/6661938a20f6f326f4aa26f6)  
 - [2024-06-05-嘴炮王者Tyler1化身免费AI陪玩，帮你在英雄联盟中打爆三路，轻松上分](https://posts.careerengine.us/p/6660450fdc1b3c605e6a5aa3)  
-- [2024-06-04-单个4090可推理，2000亿稀疏大模型「天工MoE」开源](https://posts.careerengine.us/p/665e9e61398b8061a5a39a24)  
-- [2024-06-04-AI训练数据的版权保护：公地的悲剧还是合作的繁荣？](https://posts.careerengine.us/p/665e9e61398b8061a5a39a1c)  
-- [2024-06-04-Karpathy点赞，这份报告教你如何用-LLaMa-3创建高质量网络数据集](https://posts.careerengine.us/p/665e9e52ae3b10617d0b2be4)  
-- [2024-06-04-再战Transformer！原作者带队的Mamba-2来了，新架构训练效率大幅提升](https://posts.careerengine.us/p/665e9e441e10bd61615345d8)  
-- [2024-06-04-苏妈杀疯了：移动端最强NPU算力达50TOPS，最强AI芯片挑战英伟达](https://posts.careerengine.us/p/665e9e441e10bd61615345e0)  
+- [2024-06-05-腾讯混元、北大发现Scaling-law「浪涌现象」，解决学习率调参难题](https://posts.careerengine.us/p/6660450fdc1b3c605e6a5a9b)  
+- [2024-06-05-黎曼猜想显著突破！陶哲轩强推MIT、牛津新论文，37岁菲尔兹奖得主参与](https://posts.careerengine.us/p/6660450016ad135feaf9d41b)  
+- [2024-06-05-央国企需求场景发布，共议-AI-赋能产业融通，尽在WAIC这场论坛](https://posts.careerengine.us/p/6660450016ad135feaf9d413)  
+- [2024-06-05-GLM-4开源版本终于来了：超越Llama3，多模态比肩GPT4V，MaaS平台也大升级](https://posts.careerengine.us/p/666044f2cb4d665fc26e84bb)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2024-06-08-开源超闭源！通义千问Qwen2发布即爆火，网友：GPT-4o危](https://posts.careerengine.us/p/6663eeb8acfecd3348e9a30a) ![](/assets/new.png)  
-- [2024-06-08-张亚勤：Transformer五年内会被逐步重构，15-20年内实现AGI-|-清华AIR无锡创新中心成立](https://posts.careerengine.us/p/6663eec7972a6833cefb1e33) ![](/assets/new.png)  
-- [2024-06-08-清华系细胞大模型登Nature子刊！能对人类2万基因同时建模，代码已开源](https://posts.careerengine.us/p/6663eed95da4a933f9ad8a46) ![](/assets/new.png)  
-- [2024-06-08-量化大模型退化严重？ETH北航字节推出LoRA新范式-|-ICML-2024](https://posts.careerengine.us/p/6663eed95da4a933f9ad8a3d) ![](/assets/new.png)  
+- [2024-06-08-开源超闭源！通义千问Qwen2发布即爆火，网友：GPT-4o危](https://posts.careerengine.us/p/6663eeb8acfecd3348e9a30a)  
+- [2024-06-08-张亚勤：Transformer五年内会被逐步重构，15-20年内实现AGI-|-清华AIR无锡创新中心成立](https://posts.careerengine.us/p/6663eec7972a6833cefb1e33)  
+- [2024-06-08-清华系细胞大模型登Nature子刊！能对人类2万基因同时建模，代码已开源](https://posts.careerengine.us/p/6663eed95da4a933f9ad8a46)  
+- [2024-06-08-量化大模型退化严重？ETH北航字节推出LoRA新范式-|-ICML-2024](https://posts.careerengine.us/p/6663eed95da4a933f9ad8a3d)  
 - [2024-06-07-与AlphaFold3持平！国产抗体设计生成式AI大模型发布，能同时预测抗原抗体复合物结构和抗体从头设计](https://posts.careerengine.us/p/6662c690fcb29003f80efc8d)  
 - [2024-06-07-一说AI会思考，祖师爷图灵就发笑：“这个问题无意义，不值得讨论”](https://posts.careerengine.us/p/6662c690fcb29003f80efc95)  
 - [2024-06-07-产业级AI原生应用的「超级外挂」，应用已在200+行业场景落地](https://posts.careerengine.us/p/6662c680df603e0361bedd85)  
