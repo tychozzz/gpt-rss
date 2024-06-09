@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-09 12:00:11，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-09 15:00:11，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-06-08-支持合成一分钟高清视频，华科等提出人类跳舞视频生成新框架UniAnimate](https://posts.careerengine.us/p/6663e02216762277b2742d56)  
-- [2024-06-08-原作者带队，LSTM卷土重来之Vision-LSTM出世](https://posts.careerengine.us/p/6663e02316762277b2742d66)  
-- [2024-06-08-329篇图像、视频生成论文，今年CVPR最火的研究主题是这些](https://posts.careerengine.us/p/6663e02316762277b2742d5e)  
-- [2024-06-08-轻松构建聊天机器人、准确性新SOTA，RAG有了更强大的AI检索器](https://posts.careerengine.us/p/6663e034e1837c77d8152a35)  
+- [2024-06-09-从LLM中完全消除矩阵乘法，效果出奇得好，10亿参数跑在FPGA上接近大脑功耗](https://posts.careerengine.us/p/666539b686387968c9b7c616) ![](/assets/new.png)  
+- [2024-06-09-大模型的高考数学成绩单：及格已经非常好了](https://posts.careerengine.us/p/666539b686387968c9b7c61e) ![](/assets/new.png)  
+- [2024-06-09-SSM-能取代-Transformer-搞出更「牛」的大模型吗？](https://posts.careerengine.us/p/666539c4ed97766950827fbb) ![](/assets/new.png)  
+- [2024-06-09-AI降噪耳机，可在嘈杂人群中单独通话，看一眼锁定目标](https://posts.careerengine.us/p/666539d38d3d1f697687b815) ![](/assets/new.png)  
+- [2024-06-09-可信度超越GPT-4V，清华&面壁揭秘「小钢炮」模型背后的高效对齐技术](https://posts.careerengine.us/p/666539d38d3d1f697687b80d) ![](/assets/new.png)  
 - [2024-06-08-1.8B参数，阿里云首个联合DNA、RNA、蛋白质的生物大模型，涵盖16.9W物种](https://posts.careerengine.us/p/6663e034e1837c77d8152a3d)  
-- [2024-06-07-大模型时代，学习动手做AI-Agent](https://posts.careerengine.us/p/66628ac1a4d4ec0fb30c9e0f)  
-- [2024-06-07-Ilya参与，OpenAI给GPT-4搞可解释，提取了1600万个特征，还能看它怎么想](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e88)  
-- [2024-06-07-ACL-2024-|-让纯LLM实现类人的符号逻辑推理能力，开源框架SymbCoT来了](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e77)  
-- [2024-06-07-阿里Qwen2正式开源，性能全方位包围Llama-3](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e80)  
+- [2024-06-08-轻松构建聊天机器人、准确性新SOTA，RAG有了更强大的AI检索器](https://posts.careerengine.us/p/6663e034e1837c77d8152a35)  
+- [2024-06-08-329篇图像、视频生成论文，今年CVPR最火的研究主题是这些](https://posts.careerengine.us/p/6663e02316762277b2742d5e)  
+- [2024-06-08-原作者带队，LSTM卷土重来之Vision-LSTM出世](https://posts.careerengine.us/p/6663e02316762277b2742d66)  
+- [2024-06-08-支持合成一分钟高清视频，华科等提出人类跳舞视频生成新框架UniAnimate](https://posts.careerengine.us/p/6663e02216762277b2742d56)  
 - [2024-06-07-英特尔放大招：新制程、能效核一起上，144核的至强6，性能成倍提升](https://posts.careerengine.us/p/66628a9e840f370ee1637604)  
-- [2024-06-06-辅导作业这么费劲的事，还是交给这个大模型吧](https://posts.careerengine.us/p/6661937b3eded126c671666f)  
-- [2024-06-06-这个团队做了OpenAI没Open的技术，开源OpenRLHF让对齐大模型超简单](https://posts.careerengine.us/p/6661937b3eded126c6716667)  
-- [2024-06-06-黎曼猜想突破作者首次公开讲解，陶哲轩送上总结](https://posts.careerengine.us/p/6661937c3eded126c6716677)  
-- [2024-06-06-ICML-2024-Oral｜外部引导的深度聚类新范式](https://posts.careerengine.us/p/6661938a20f6f326f4aa26fe)  
+- [2024-06-07-阿里Qwen2正式开源，性能全方位包围Llama-3](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e80)  
+- [2024-06-07-ACL-2024-|-让纯LLM实现类人的符号逻辑推理能力，开源框架SymbCoT来了](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e77)  
+- [2024-06-07-Ilya参与，OpenAI给GPT-4搞可解释，提取了1600万个特征，还能看它怎么想](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e88)  
+- [2024-06-07-大模型时代，学习动手做AI-Agent](https://posts.careerengine.us/p/66628ac1a4d4ec0fb30c9e0f)  
 - [2024-06-06-Stability-AI开源47秒音频生成模型，虫鸣鸟叫、摇滚、鼓点都能生成](https://posts.careerengine.us/p/6661938a20f6f326f4aa26f6)  
-- [2024-06-05-嘴炮王者Tyler1化身免费AI陪玩，帮你在英雄联盟中打爆三路，轻松上分](https://posts.careerengine.us/p/6660450fdc1b3c605e6a5aa3)  
-- [2024-06-05-腾讯混元、北大发现Scaling-law「浪涌现象」，解决学习率调参难题](https://posts.careerengine.us/p/6660450fdc1b3c605e6a5a9b)  
-- [2024-06-05-黎曼猜想显著突破！陶哲轩强推MIT、牛津新论文，37岁菲尔兹奖得主参与](https://posts.careerengine.us/p/6660450016ad135feaf9d41b)  
-- [2024-06-05-央国企需求场景发布，共议-AI-赋能产业融通，尽在WAIC这场论坛](https://posts.careerengine.us/p/6660450016ad135feaf9d413)  
-- [2024-06-05-GLM-4开源版本终于来了：超越Llama3，多模态比肩GPT4V，MaaS平台也大升级](https://posts.careerengine.us/p/666044f2cb4d665fc26e84bb)  
+- [2024-06-06-ICML-2024-Oral｜外部引导的深度聚类新范式](https://posts.careerengine.us/p/6661938a20f6f326f4aa26fe)  
+- [2024-06-06-黎曼猜想突破作者首次公开讲解，陶哲轩送上总结](https://posts.careerengine.us/p/6661937c3eded126c6716677)  
+- [2024-06-06-这个团队做了OpenAI没Open的技术，开源OpenRLHF让对齐大模型超简单](https://posts.careerengine.us/p/6661937b3eded126c6716667)  
+- [2024-06-06-辅导作业这么费劲的事，还是交给这个大模型吧](https://posts.careerengine.us/p/6661937b3eded126c671666f)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-06-09-腾讯回应可付费实习；支付宝发布AI-工具测脱发，最严重获称“人间蒲公英”；京东员工战618：凌晨3点下班、配行军床-|AI-周报](https://posts.careerengine.us/p/666515460674da534be32da0) ![](/assets/new.png)  
-- [2024-06-09-面对质疑，奥特曼终于公开了OpenAI-前沿大模型安全架构](https://posts.careerengine.us/p/666515583be328536d65fd3e) ![](/assets/new.png)  
+- [2024-06-09-腾讯回应可付费实习；支付宝发布AI-工具测脱发，最严重获称“人间蒲公英”；京东员工战618：凌晨3点下班、配行军床-|AI-周报](https://posts.careerengine.us/p/666515460674da534be32da0)  
+- [2024-06-09-面对质疑，奥特曼终于公开了OpenAI-前沿大模型安全架构](https://posts.careerengine.us/p/666515583be328536d65fd3e)  
 - [2024-06-08-网络架构如何支持超万卡的大规模-AI-训练？](https://posts.careerengine.us/p/666468a0b4f0df0e80de9d9c)  
 - [2024-06-08-大模型已经卷到头了，AI-赛道还有哪些新机会？|-Q福利](https://posts.careerengine.us/p/666468a0b4f0df0e80de9da4)  
 - [2024-06-08-发布即被山寨？字节跳动推出语音生成模型数小时后就被“盗版”，作者直呼离谱！](https://posts.careerengine.us/p/6664688ed9fb380e69e32673)  
