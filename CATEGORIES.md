@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-09 15:00:11，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-09 21:00:17，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-06-09-从LLM中完全消除矩阵乘法，效果出奇得好，10亿参数跑在FPGA上接近大脑功耗](https://posts.careerengine.us/p/666539b686387968c9b7c616) ![](/assets/new.png)  
-- [2024-06-09-大模型的高考数学成绩单：及格已经非常好了](https://posts.careerengine.us/p/666539b686387968c9b7c61e) ![](/assets/new.png)  
-- [2024-06-09-SSM-能取代-Transformer-搞出更「牛」的大模型吗？](https://posts.careerengine.us/p/666539c4ed97766950827fbb) ![](/assets/new.png)  
-- [2024-06-09-AI降噪耳机，可在嘈杂人群中单独通话，看一眼锁定目标](https://posts.careerengine.us/p/666539d38d3d1f697687b815) ![](/assets/new.png)  
-- [2024-06-09-可信度超越GPT-4V，清华&面壁揭秘「小钢炮」模型背后的高效对齐技术](https://posts.careerengine.us/p/666539d38d3d1f697687b80d) ![](/assets/new.png)  
+- [2024-06-09-从LLM中完全消除矩阵乘法，效果出奇得好，10亿参数跑在FPGA上接近大脑功耗](https://posts.careerengine.us/p/666539b686387968c9b7c616)  
+- [2024-06-09-大模型的高考数学成绩单：及格已经非常好了](https://posts.careerengine.us/p/666539b686387968c9b7c61e)  
+- [2024-06-09-SSM-能取代-Transformer-搞出更「牛」的大模型吗？](https://posts.careerengine.us/p/666539c4ed97766950827fbb)  
+- [2024-06-09-AI降噪耳机，可在嘈杂人群中单独通话，看一眼锁定目标](https://posts.careerengine.us/p/666539d38d3d1f697687b815)  
+- [2024-06-09-可信度超越GPT-4V，清华&面壁揭秘「小钢炮」模型背后的高效对齐技术](https://posts.careerengine.us/p/666539d38d3d1f697687b80d)  
 - [2024-06-08-1.8B参数，阿里云首个联合DNA、RNA、蛋白质的生物大模型，涵盖16.9W物种](https://posts.careerengine.us/p/6663e034e1837c77d8152a3d)  
 - [2024-06-08-轻松构建聊天机器人、准确性新SOTA，RAG有了更强大的AI检索器](https://posts.careerengine.us/p/6663e034e1837c77d8152a35)  
 - [2024-06-08-329篇图像、视频生成论文，今年CVPR最火的研究主题是这些](https://posts.careerengine.us/p/6663e02316762277b2742d5e)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-06-08-开源超闭源！通义千问Qwen2发布即爆火，网友：GPT-4o危](https://posts.careerengine.us/p/6663eeb8acfecd3348e9a30a)  
-- [2024-06-08-张亚勤：Transformer五年内会被逐步重构，15-20年内实现AGI-|-清华AIR无锡创新中心成立](https://posts.careerengine.us/p/6663eec7972a6833cefb1e33)  
-- [2024-06-08-清华系细胞大模型登Nature子刊！能对人类2万基因同时建模，代码已开源](https://posts.careerengine.us/p/6663eed95da4a933f9ad8a46)  
+- [2024-06-09-苹果AI升级大泄露，Siri将在iOS18重生！库克重新定义AI为Apple-Intelligence](https://posts.careerengine.us/p/66654a4377708f2d685aa8fb) ![](/assets/new.png)  
+- [2024-06-09-马斯克擎天柱大将跳槽，在抱抱脸开源一套机器人技术：会做家务的大白，复刻低至1800](https://posts.careerengine.us/p/66654a52fb566b2d8280a3c9) ![](/assets/new.png)  
+- [2024-06-09-港大北航等1bit大模型引热议，IEEE刊物评“解决AI能源需求”！作者亲自解读在此](https://posts.careerengine.us/p/66654a6005a0c02e03898b91) ![](/assets/new.png)  
+- [2024-06-09-5秒完成3D生成，真香合成数据集已开源，上交港中文新框架超越Instant3D](https://posts.careerengine.us/p/66654a6005a0c02e03898b99) ![](/assets/new.png)  
 - [2024-06-08-量化大模型退化严重？ETH北航字节推出LoRA新范式-|-ICML-2024](https://posts.careerengine.us/p/6663eed95da4a933f9ad8a3d)  
-- [2024-06-07-与AlphaFold3持平！国产抗体设计生成式AI大模型发布，能同时预测抗原抗体复合物结构和抗体从头设计](https://posts.careerengine.us/p/6662c690fcb29003f80efc8d)  
-- [2024-06-07-一说AI会思考，祖师爷图灵就发笑：“这个问题无意义，不值得讨论”](https://posts.careerengine.us/p/6662c690fcb29003f80efc95)  
-- [2024-06-07-产业级AI原生应用的「超级外挂」，应用已在200+行业场景落地](https://posts.careerengine.us/p/6662c680df603e0361bedd85)  
-- [2024-06-07-OpenAI公开破解GPT-4思维的新方法，Ilya也参与了！](https://posts.careerengine.us/p/6662c680df603e0361bedd8d)  
+- [2024-06-08-清华系细胞大模型登Nature子刊！能对人类2万基因同时建模，代码已开源](https://posts.careerengine.us/p/6663eed95da4a933f9ad8a46)  
+- [2024-06-08-张亚勤：Transformer五年内会被逐步重构，15-20年内实现AGI-|-清华AIR无锡创新中心成立](https://posts.careerengine.us/p/6663eec7972a6833cefb1e33)  
+- [2024-06-08-开源超闭源！通义千问Qwen2发布即爆火，网友：GPT-4o危](https://posts.careerengine.us/p/6663eeb8acfecd3348e9a30a)  
 - [2024-06-07-AI创业酱紫卷？想让陆奇看上眼，挑战个Sora/Transformer再说](https://posts.careerengine.us/p/6662c67fdf603e0361bedd7d)  
-- [2024-06-06-快手版Sora「可灵」开放测试：生成超120s视频，更懂物理，复杂运动也能精准建模](https://posts.careerengine.us/p/66616789a4a8c57618e8b113)  
-- [2024-06-06-李沐老师回归B站！带着大模型创业成果填坑来了](https://posts.careerengine.us/p/66616798817f287631738446)  
-- [2024-06-06-Stable-Diffusion老板跑路开新坑，被抛下的SD3开源成了烂摊子](https://posts.careerengine.us/p/66616798817f28763173843e)  
+- [2024-06-07-OpenAI公开破解GPT-4思维的新方法，Ilya也参与了！](https://posts.careerengine.us/p/6662c680df603e0361bedd8d)  
+- [2024-06-07-产业级AI原生应用的「超级外挂」，应用已在200+行业场景落地](https://posts.careerengine.us/p/6662c680df603e0361bedd85)  
+- [2024-06-07-一说AI会思考，祖师爷图灵就发笑：“这个问题无意义，不值得讨论”](https://posts.careerengine.us/p/6662c690fcb29003f80efc95)  
+- [2024-06-07-与AlphaFold3持平！国产抗体设计生成式AI大模型发布，能同时预测抗原抗体复合物结构和抗体从头设计](https://posts.careerengine.us/p/6662c690fcb29003f80efc8d)  
 - [2024-06-06-斯坦福让“GPU高速运转”的新工具火了，比FlashAttention2更快](https://posts.careerengine.us/p/666167a77fd6b676bd74b519)  
-- [2024-06-05-CLIP当RNN用入选CVPR：无需训练即可分割无数概念｜牛津大学&谷歌研究院](https://posts.careerengine.us/p/666042c385a9a956e4d9089f)  
-- [2024-06-05-英特尔牙膏挤爆：功耗降40％、AI算力120TOPS，你的下一代笔记本没有内存条了](https://posts.careerengine.us/p/666042b4e20e1656c496c530)  
-- [2024-06-05-把整个地球装进神经网络，北航团队推出全球遥感图像生成模型](https://posts.careerengine.us/p/666042b4e20e1656c496c528)  
+- [2024-06-06-Stable-Diffusion老板跑路开新坑，被抛下的SD3开源成了烂摊子](https://posts.careerengine.us/p/66616798817f28763173843e)  
+- [2024-06-06-李沐老师回归B站！带着大模型创业成果填坑来了](https://posts.careerengine.us/p/66616798817f287631738446)  
+- [2024-06-06-快手版Sora「可灵」开放测试：生成超120s视频，更懂物理，复杂运动也能精准建模](https://posts.careerengine.us/p/66616789a4a8c57618e8b113)  
 - [2024-06-05-北京9岁小学生，已经用AI出书了！罗永浩围观：有事找不到我找AI](https://posts.careerengine.us/p/666042a6fd23bf564ee976c5)  
-- [2024-06-04-套壳丑闻让斯坦福AI-Lab主任怒了！抄袭团队2人甩锅1人失踪、前科经历被扒，网友：重新认识中国开源模型](https://posts.careerengine.us/p/665e9d1c19107d5cc4381d64)  
-- [2024-06-04-3B模型新SOTA！开源AI让日常调用不同大模型更简单](https://posts.careerengine.us/p/665e9d30c49adf5cf2bbdaeb)  
-- [2024-06-04-新架构Mamba更新二代！作者：别争了，数学上Transformer和SSM是一回事](https://posts.careerengine.us/p/665e9d30c49adf5cf2bbdada)  
+- [2024-06-05-把整个地球装进神经网络，北航团队推出全球遥感图像生成模型](https://posts.careerengine.us/p/666042b4e20e1656c496c528)  
+- [2024-06-05-英特尔牙膏挤爆：功耗降40％、AI算力120TOPS，你的下一代笔记本没有内存条了](https://posts.careerengine.us/p/666042b4e20e1656c496c530)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
