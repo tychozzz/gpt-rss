@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-10 15:00:10，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-10 18:00:16，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-06-09-从LLM中完全消除矩阵乘法，效果出奇得好，10亿参数跑在FPGA上接近大脑功耗](https://posts.careerengine.us/p/666539b686387968c9b7c616)  
-- [2024-06-09-大模型的高考数学成绩单：及格已经非常好了](https://posts.careerengine.us/p/666539b686387968c9b7c61e)  
-- [2024-06-09-SSM-能取代-Transformer-搞出更「牛」的大模型吗？](https://posts.careerengine.us/p/666539c4ed97766950827fbb)  
-- [2024-06-09-AI降噪耳机，可在嘈杂人群中单独通话，看一眼锁定目标](https://posts.careerengine.us/p/666539d38d3d1f697687b815)  
+- [2024-06-10-Karpathy最新四小时视频教程：从零复现GPT-2，通宵运行即搞定](https://posts.careerengine.us/p/66668571df8b27483fa8c88f) ![](/assets/new.png)  
+- [2024-06-10-独家专访Pika：Sora-is-not-very-hard-to-beat，我们的算法能够以小胜大｜AI-Pioneers](https://posts.careerengine.us/p/66668571df8b27483fa8c898) ![](/assets/new.png)  
+- [2024-06-10-具身智能赋能机器人，「AI+人形机器人」论坛在浦东新区成功举行](https://posts.careerengine.us/p/66668584a4dcd948708594fd) ![](/assets/new.png)  
+- [2024-06-10-偏微分方程有了基础模型：样本需求数量级减少，14项任务表现最佳](https://posts.careerengine.us/p/66668584a4dcd948708594f5) ![](/assets/new.png)  
+- [2024-06-10-i人小助手：Meta推出多模态对话图，帮你轻松识别社交状态](https://posts.careerengine.us/p/66668585a4dcd94870859505) ![](/assets/new.png)  
 - [2024-06-09-可信度超越GPT-4V，清华&面壁揭秘「小钢炮」模型背后的高效对齐技术](https://posts.careerengine.us/p/666539d38d3d1f697687b80d)  
-- [2024-06-08-1.8B参数，阿里云首个联合DNA、RNA、蛋白质的生物大模型，涵盖16.9W物种](https://posts.careerengine.us/p/6663e034e1837c77d8152a3d)  
-- [2024-06-08-轻松构建聊天机器人、准确性新SOTA，RAG有了更强大的AI检索器](https://posts.careerengine.us/p/6663e034e1837c77d8152a35)  
-- [2024-06-08-329篇图像、视频生成论文，今年CVPR最火的研究主题是这些](https://posts.careerengine.us/p/6663e02316762277b2742d5e)  
-- [2024-06-08-原作者带队，LSTM卷土重来之Vision-LSTM出世](https://posts.careerengine.us/p/6663e02316762277b2742d66)  
+- [2024-06-09-AI降噪耳机，可在嘈杂人群中单独通话，看一眼锁定目标](https://posts.careerengine.us/p/666539d38d3d1f697687b815)  
+- [2024-06-09-SSM-能取代-Transformer-搞出更「牛」的大模型吗？](https://posts.careerengine.us/p/666539c4ed97766950827fbb)  
+- [2024-06-09-大模型的高考数学成绩单：及格已经非常好了](https://posts.careerengine.us/p/666539b686387968c9b7c61e)  
+- [2024-06-09-从LLM中完全消除矩阵乘法，效果出奇得好，10亿参数跑在FPGA上接近大脑功耗](https://posts.careerengine.us/p/666539b686387968c9b7c616)  
 - [2024-06-08-支持合成一分钟高清视频，华科等提出人类跳舞视频生成新框架UniAnimate](https://posts.careerengine.us/p/6663e02216762277b2742d56)  
-- [2024-06-07-英特尔放大招：新制程、能效核一起上，144核的至强6，性能成倍提升](https://posts.careerengine.us/p/66628a9e840f370ee1637604)  
-- [2024-06-07-阿里Qwen2正式开源，性能全方位包围Llama-3](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e80)  
-- [2024-06-07-ACL-2024-|-让纯LLM实现类人的符号逻辑推理能力，开源框架SymbCoT来了](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e77)  
-- [2024-06-07-Ilya参与，OpenAI给GPT-4搞可解释，提取了1600万个特征，还能看它怎么想](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e88)  
+- [2024-06-08-原作者带队，LSTM卷土重来之Vision-LSTM出世](https://posts.careerengine.us/p/6663e02316762277b2742d66)  
+- [2024-06-08-329篇图像、视频生成论文，今年CVPR最火的研究主题是这些](https://posts.careerengine.us/p/6663e02316762277b2742d5e)  
+- [2024-06-08-轻松构建聊天机器人、准确性新SOTA，RAG有了更强大的AI检索器](https://posts.careerengine.us/p/6663e034e1837c77d8152a35)  
+- [2024-06-08-1.8B参数，阿里云首个联合DNA、RNA、蛋白质的生物大模型，涵盖16.9W物种](https://posts.careerengine.us/p/6663e034e1837c77d8152a3d)  
 - [2024-06-07-大模型时代，学习动手做AI-Agent](https://posts.careerengine.us/p/66628ac1a4d4ec0fb30c9e0f)  
-- [2024-06-06-Stability-AI开源47秒音频生成模型，虫鸣鸟叫、摇滚、鼓点都能生成](https://posts.careerengine.us/p/6661938a20f6f326f4aa26f6)  
-- [2024-06-06-ICML-2024-Oral｜外部引导的深度聚类新范式](https://posts.careerengine.us/p/6661938a20f6f326f4aa26fe)  
-- [2024-06-06-黎曼猜想突破作者首次公开讲解，陶哲轩送上总结](https://posts.careerengine.us/p/6661937c3eded126c6716677)  
-- [2024-06-06-这个团队做了OpenAI没Open的技术，开源OpenRLHF让对齐大模型超简单](https://posts.careerengine.us/p/6661937b3eded126c6716667)  
-- [2024-06-06-辅导作业这么费劲的事，还是交给这个大模型吧](https://posts.careerengine.us/p/6661937b3eded126c671666f)  
+- [2024-06-07-Ilya参与，OpenAI给GPT-4搞可解释，提取了1600万个特征，还能看它怎么想](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e88)  
+- [2024-06-07-ACL-2024-|-让纯LLM实现类人的符号逻辑推理能力，开源框架SymbCoT来了](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e77)  
+- [2024-06-07-阿里Qwen2正式开源，性能全方位包围Llama-3](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e80)  
+- [2024-06-07-英特尔放大招：新制程、能效核一起上，144核的至强6，性能成倍提升](https://posts.careerengine.us/p/66628a9e840f370ee1637604)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-06-10-复旦邱锡鹏教授讲述MOSS-2-研发进展：如何实现世界模型？](https://posts.careerengine.us/p/66666692bea83b4d66b42bdf) ![](/assets/new.png)  
-- [2024-06-10-上帝视角下的蓝天白云？大模型改变气象预测格局-|-大模型一周大事](https://posts.careerengine.us/p/666666a38c9a224de959c07b) ![](/assets/new.png)  
+- [2024-06-10-复旦邱锡鹏教授讲述MOSS-2-研发进展：如何实现世界模型？](https://posts.careerengine.us/p/66666692bea83b4d66b42bdf)  
+- [2024-06-10-上帝视角下的蓝天白云？大模型改变气象预测格局-|-大模型一周大事](https://posts.careerengine.us/p/666666a38c9a224de959c07b)  
 - [2024-06-09-面对质疑，奥特曼终于公开了OpenAI-前沿大模型安全架构](https://posts.careerengine.us/p/666515583be328536d65fd3e)  
 - [2024-06-09-腾讯回应可付费实习；支付宝发布AI-工具测脱发，最严重获称“人间蒲公英”；京东员工战618：凌晨3点下班、配行军床-|AI-周报](https://posts.careerengine.us/p/666515460674da534be32da0)  
 - [2024-06-08-发布即被山寨？字节跳动推出语音生成模型数小时后就被“盗版”，作者直呼离谱！](https://posts.careerengine.us/p/6664688ed9fb380e69e32673)  

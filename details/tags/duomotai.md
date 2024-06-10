@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-10 15:00:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-10 18:00:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 多模态
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-06-10-i人小助手：Meta推出多模态对话图，帮你轻松识别社交状态](https://posts.careerengine.us/p/66668585a4dcd94870859505) 
 - [2024-05-08-低质多模态数据融合，多家机构联合出了篇综述论文](https://posts.careerengine.us/p/663a57d25ea6cb64082a8bf6) 
 - [2024-05-05-告别偏科，能玩转多模态、多任务、多领域的强化智能体终于来了](https://posts.careerengine.us/p/66370acd6d833e5a474e67a6) 
 - [2024-02-11-华为查询建议新范式MMQS入选WWW-2024，解锁基于人类反馈的多模态查询建议](https://posts.careerengine.us/p/65c88045e27e2944d282245e) 
