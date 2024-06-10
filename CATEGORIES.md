@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-10 18:00:16，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-11 06:00:12，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-06-10-Karpathy最新四小时视频教程：从零复现GPT-2，通宵运行即搞定](https://posts.careerengine.us/p/66668571df8b27483fa8c88f) ![](/assets/new.png)  
-- [2024-06-10-独家专访Pika：Sora-is-not-very-hard-to-beat，我们的算法能够以小胜大｜AI-Pioneers](https://posts.careerengine.us/p/66668571df8b27483fa8c898) ![](/assets/new.png)  
-- [2024-06-10-具身智能赋能机器人，「AI+人形机器人」论坛在浦东新区成功举行](https://posts.careerengine.us/p/66668584a4dcd948708594fd) ![](/assets/new.png)  
-- [2024-06-10-偏微分方程有了基础模型：样本需求数量级减少，14项任务表现最佳](https://posts.careerengine.us/p/66668584a4dcd948708594f5) ![](/assets/new.png)  
-- [2024-06-10-i人小助手：Meta推出多模态对话图，帮你轻松识别社交状态](https://posts.careerengine.us/p/66668585a4dcd94870859505) ![](/assets/new.png)  
+- [2024-06-10-Karpathy最新四小时视频教程：从零复现GPT-2，通宵运行即搞定](https://posts.careerengine.us/p/66668571df8b27483fa8c88f)  
+- [2024-06-10-独家专访Pika：Sora-is-not-very-hard-to-beat，我们的算法能够以小胜大｜AI-Pioneers](https://posts.careerengine.us/p/66668571df8b27483fa8c898)  
+- [2024-06-10-具身智能赋能机器人，「AI+人形机器人」论坛在浦东新区成功举行](https://posts.careerengine.us/p/66668584a4dcd948708594fd)  
+- [2024-06-10-偏微分方程有了基础模型：样本需求数量级减少，14项任务表现最佳](https://posts.careerengine.us/p/66668584a4dcd948708594f5)  
+- [2024-06-10-i人小助手：Meta推出多模态对话图，帮你轻松识别社交状态](https://posts.careerengine.us/p/66668585a4dcd94870859505)  
 - [2024-06-09-可信度超越GPT-4V，清华&面壁揭秘「小钢炮」模型背后的高效对齐技术](https://posts.careerengine.us/p/666539d38d3d1f697687b80d)  
 - [2024-06-09-AI降噪耳机，可在嘈杂人群中单独通话，看一眼锁定目标](https://posts.careerengine.us/p/666539d38d3d1f697687b815)  
 - [2024-06-09-SSM-能取代-Transformer-搞出更「牛」的大模型吗？](https://posts.careerengine.us/p/666539c4ed97766950827fbb)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-06-07-文末送书-|《理解图灵》重磅首发：纪念一个改变世界的大脑](https://posts.careerengine.us/p/6662a679ef2e82028a49d4ce)  
-- [2024-06-07-大语言模型何时需要检索？UCLA提出全新自监督选择性检索策略](https://posts.careerengine.us/p/6662a679ef2e82028a49d4d6)  
-- [2024-06-07-博士申请-|-香港科技大学（广州）陈城老师招收医疗AI方向全奖博士/RA/实习生](https://posts.careerengine.us/p/6662a68804a43c02b7b89fd2)  
+- [2024-06-10-大模型到底哪家强？达摩院推出“全自动竞技场Auto-Arena”评测框架](https://posts.careerengine.us/p/6666ffcd9cab8432e9d94db6) ![](/assets/new.png)  
+- [2024-06-10-赋予机器人思考能力！北大提出自纠正多模态大模型，赋能端到端机器人操作](https://posts.careerengine.us/p/6666ffdc916fbf33156c09f1) ![](/assets/new.png)  
+- [2024-06-10-“所想即所得”变革3D分割！浙大等团队联合推出基于LLM的3D物品分割](https://posts.careerengine.us/p/6666ffdc916fbf33156c09e9) ![](/assets/new.png)  
+- [2024-06-10-博士申请-|-香港中文大学（深圳）刘圳老师招收AIGC方向博士/硕士/RA](https://posts.careerengine.us/p/6666ffeda61cfa3397ed5928) ![](/assets/new.png)  
 - [2024-06-07-ICML-2024-|-川大提出外部引导的深度聚类新范式，大幅提升CLIP图像聚类性能](https://posts.careerengine.us/p/6662a68804a43c02b7b89fca)  
-- [2024-06-06-博后招募-|-清华大学NLP实验室招聘大语言模型方向博士后/研究员](https://posts.careerengine.us/p/66614bdacaeeda07348da957)  
-- [2024-06-06-ICML-2024-|-为什么我们应该做online-RLHF/DPO？](https://posts.careerengine.us/p/66614bbaf9c7b70687bcb9b0)  
+- [2024-06-07-博士申请-|-香港科技大学（广州）陈城老师招收医疗AI方向全奖博士/RA/实习生](https://posts.careerengine.us/p/6662a68804a43c02b7b89fd2)  
+- [2024-06-07-大语言模型何时需要检索？UCLA提出全新自监督选择性检索策略](https://posts.careerengine.us/p/6662a679ef2e82028a49d4d6)  
+- [2024-06-07-文末送书-|《理解图灵》重磅首发：纪念一个改变世界的大脑](https://posts.careerengine.us/p/6662a679ef2e82028a49d4ce)  
 - [2024-06-06-独自一人，怒发顶会！](https://posts.careerengine.us/p/66614bbaf9c7b70687bcb9b8)  
-- [2024-06-05-CVPR-2024满分论文出炉！这些方向杀疯了！](https://posts.careerengine.us/p/665ffa81ac0770349dc1658e)  
-- [2024-06-05-东南大学、蚂蚁提出MATEval：多Agent开放式文本评估框架](https://posts.careerengine.us/p/665ffa94a492a734d9a0009d)  
-- [2024-06-05-剑桥提出RLHF平替方案：在SFT以外，我们还能拿SFT数据做什么？](https://posts.careerengine.us/p/665ffa95a492a734d9a000a6)  
+- [2024-06-06-ICML-2024-|-为什么我们应该做online-RLHF/DPO？](https://posts.careerengine.us/p/66614bbaf9c7b70687bcb9b0)  
+- [2024-06-06-博后招募-|-清华大学NLP实验室招聘大语言模型方向博士后/研究员](https://posts.careerengine.us/p/66614bdacaeeda07348da957)  
 - [2024-06-05-北京内推-|-​AMD北京AI算法团队招聘大语言模型算法实习生](https://posts.careerengine.us/p/665ffa95a492a734d9a000ae)  
-- [2024-06-04-科研实习-|-清华大学计算机系朱军教授团队招聘音视频生成方向研究型实习生](https://posts.careerengine.us/p/665e9b475540d0557a256c23)  
-- [2024-06-04-一口气看8页！旷视打造“点读笔”Fox：图文并茂的文档交互式多模态大模型](https://posts.careerengine.us/p/665e9b475540d0557a256c1b)  
-- [2024-06-04-Nature正刊重磅！微软、华盛顿大学发布首个全切片数字病理学模型GigaPath](https://posts.careerengine.us/p/665e9b37f782c855540eb5e2)  
+- [2024-06-05-剑桥提出RLHF平替方案：在SFT以外，我们还能拿SFT数据做什么？](https://posts.careerengine.us/p/665ffa95a492a734d9a000a6)  
+- [2024-06-05-东南大学、蚂蚁提出MATEval：多Agent开放式文本评估框架](https://posts.careerengine.us/p/665ffa94a492a734d9a0009d)  
+- [2024-06-05-CVPR-2024满分论文出炉！这些方向杀疯了！](https://posts.careerengine.us/p/665ffa81ac0770349dc1658e)  
 - [2024-06-04-重温被Mamba带火的SSM：线性系统和HiPPO矩阵](https://posts.careerengine.us/p/665e9b37f782c855540eb5ea)  
-- [2024-06-03-​ACL-2024-|-新一代艺术媒介：探索基于大语言模型的互动戏剧](https://posts.careerengine.us/p/665d5ce27b3890095e2e916c)  
-- [2024-06-03-8.99元租H800，百万补贴等你来薅！](https://posts.careerengine.us/p/665d5ce37b3890095e2e9175)  
-- [2024-06-03-博士申请-|-上海科技大学YesAI-Lab石野老师招收机器学习方向博士/硕士/RA](https://posts.careerengine.us/p/665d5cf1babfcd098da906d8)  
+- [2024-06-04-Nature正刊重磅！微软、华盛顿大学发布首个全切片数字病理学模型GigaPath](https://posts.careerengine.us/p/665e9b37f782c855540eb5e2)  
+- [2024-06-04-一口气看8页！旷视打造“点读笔”Fox：图文并茂的文档交互式多模态大模型](https://posts.careerengine.us/p/665e9b475540d0557a256c1b)  
+- [2024-06-04-科研实习-|-清华大学计算机系朱军教授团队招聘音视频生成方向研究型实习生](https://posts.careerengine.us/p/665e9b475540d0557a256c23)  
 - [2024-06-03-CoPE论文爆火！解决Transformer根本缺陷，所有大模型都能获得巨大改进](https://posts.careerengine.us/p/665d5cf2babfcd098da906e0)  
-- [2024-05-31-北京内推-|-​微软亚洲研究院DKI组LLM团队招聘LLM方向研究型实习生](https://posts.careerengine.us/p/6659627253a34c3b0a27e0b5)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
