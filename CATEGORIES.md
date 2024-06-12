@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-11 18:00:17，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-12 15:00:08，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,9 +52,9 @@
 </summary>
 
 
-- [2024-06-11-AI重新定义导航，弯道会车无灯路口提前预警，网友：导航成精了！](https://posts.careerengine.us/p/6667ef02334ab6289409863f) ![](/assets/new.png)  
-- [2024-06-11-马斯克怒斥苹果接入ChatGPT：真敢集成就在全公司禁用](https://posts.careerengine.us/p/6667ef10c053f928b66dfb8d) ![](/assets/new.png)  
-- [2024-06-11-全面超越Transformer！清华蚂蚁推出纯MLP架构，长短程时序预测大幅提升](https://posts.careerengine.us/p/6667ef11c053f928b66dfb95) ![](/assets/new.png)  
+- [2024-06-11-AI重新定义导航，弯道会车无灯路口提前预警，网友：导航成精了！](https://posts.careerengine.us/p/6667ef02334ab6289409863f)  
+- [2024-06-11-马斯克怒斥苹果接入ChatGPT：真敢集成就在全公司禁用](https://posts.careerengine.us/p/6667ef10c053f928b66dfb8d)  
+- [2024-06-11-全面超越Transformer！清华蚂蚁推出纯MLP架构，长短程时序预测大幅提升](https://posts.careerengine.us/p/6667ef11c053f928b66dfb95)  
 - [2024-06-09-5秒完成3D生成，真香合成数据集已开源，上交港中文新框架超越Instant3D](https://posts.careerengine.us/p/66654a6005a0c02e03898b99)  
 - [2024-06-09-港大北航等1bit大模型引热议，IEEE刊物评“解决AI能源需求”！作者亲自解读在此](https://posts.careerengine.us/p/66654a6005a0c02e03898b91)  
 - [2024-06-09-马斯克擎天柱大将跳槽，在抱抱脸开源一套机器人技术：会做家务的大白，复刻低至1800](https://posts.careerengine.us/p/66654a52fb566b2d8280a3c9)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-06-11-算法岗位真的需要顶会才能入场吗？](https://posts.careerengine.us/p/6667e4dc316e897db8d0072a) ![](/assets/new.png)  
-- [2024-06-11-ICML-2024-|-提升收敛速度！人大提出基于镜像下降的贝叶斯小样本分类](https://posts.careerengine.us/p/6667e4dc316e897db8d00722) ![](/assets/new.png)  
-- [2024-06-11-博士申请-|-香港理工大学林婉瑜老师实验室招收人工智能方向全奖博士/博后](https://posts.careerengine.us/p/6667e4eb68bb6b7e4ea4d97c) ![](/assets/new.png)  
-- [2024-06-10-博士申请-|-香港中文大学（深圳）刘圳老师招收AIGC方向博士/硕士/RA](https://posts.careerengine.us/p/6666ffeda61cfa3397ed5928)  
-- [2024-06-10-“所想即所得”变革3D分割！浙大等团队联合推出基于LLM的3D物品分割](https://posts.careerengine.us/p/6666ffdc916fbf33156c09e9)  
-- [2024-06-10-赋予机器人思考能力！北大提出自纠正多模态大模型，赋能端到端机器人操作](https://posts.careerengine.us/p/6666ffdc916fbf33156c09f1)  
+- [2024-06-12-用LLM发了两篇水刊，会成为学术污点吗？](https://posts.careerengine.us/p/6669352c07532557b1cfed46) ![](/assets/new.png)  
+- [2024-06-12-KDD-2024-|-GPT-4搞不定的图推理任务，港科大7B模型轻松搞定](https://posts.careerengine.us/p/6669352c07532557b1cfed4e) ![](/assets/new.png)  
+- [2024-06-12-什么年代了还在用Nerf/Gaussian？视频扩散模型通向生成式新视点渲染](https://posts.careerengine.us/p/6669352c07532557b1cfed3e) ![](/assets/new.png)  
+- [2024-06-12-北京内推-|-​北京智源人工智能研究院AI系统组招聘算法实习生](https://posts.careerengine.us/p/6669353bbe478a58409a1f6e) ![](/assets/new.png)  
+- [2024-06-11-博士申请-|-香港理工大学林婉瑜老师实验室招收人工智能方向全奖博士/博后](https://posts.careerengine.us/p/6667e4eb68bb6b7e4ea4d97c)  
+- [2024-06-11-ICML-2024-|-提升收敛速度！人大提出基于镜像下降的贝叶斯小样本分类](https://posts.careerengine.us/p/6667e4dc316e897db8d00722)  
+- [2024-06-11-算法岗位真的需要顶会才能入场吗？](https://posts.careerengine.us/p/6667e4dc316e897db8d0072a)  
 - [2024-06-10-大模型到底哪家强？达摩院推出“全自动竞技场Auto-Arena”评测框架](https://posts.careerengine.us/p/6666ffcd9cab8432e9d94db6)  
-- [2024-06-07-文末送书-|《理解图灵》重磅首发：纪念一个改变世界的大脑](https://posts.careerengine.us/p/6662a679ef2e82028a49d4ce)  
-- [2024-06-07-大语言模型何时需要检索？UCLA提出全新自监督选择性检索策略](https://posts.careerengine.us/p/6662a679ef2e82028a49d4d6)  
-- [2024-06-07-博士申请-|-香港科技大学（广州）陈城老师招收医疗AI方向全奖博士/RA/实习生](https://posts.careerengine.us/p/6662a68804a43c02b7b89fd2)  
+- [2024-06-10-赋予机器人思考能力！北大提出自纠正多模态大模型，赋能端到端机器人操作](https://posts.careerengine.us/p/6666ffdc916fbf33156c09f1)  
+- [2024-06-10-“所想即所得”变革3D分割！浙大等团队联合推出基于LLM的3D物品分割](https://posts.careerengine.us/p/6666ffdc916fbf33156c09e9)  
+- [2024-06-10-博士申请-|-香港中文大学（深圳）刘圳老师招收AIGC方向博士/硕士/RA](https://posts.careerengine.us/p/6666ffeda61cfa3397ed5928)  
 - [2024-06-07-ICML-2024-|-川大提出外部引导的深度聚类新范式，大幅提升CLIP图像聚类性能](https://posts.careerengine.us/p/6662a68804a43c02b7b89fca)  
-- [2024-06-06-博后招募-|-清华大学NLP实验室招聘大语言模型方向博士后/研究员](https://posts.careerengine.us/p/66614bdacaeeda07348da957)  
-- [2024-06-06-ICML-2024-|-为什么我们应该做online-RLHF/DPO？](https://posts.careerengine.us/p/66614bbaf9c7b70687bcb9b0)  
+- [2024-06-07-博士申请-|-香港科技大学（广州）陈城老师招收医疗AI方向全奖博士/RA/实习生](https://posts.careerengine.us/p/6662a68804a43c02b7b89fd2)  
+- [2024-06-07-大语言模型何时需要检索？UCLA提出全新自监督选择性检索策略](https://posts.careerengine.us/p/6662a679ef2e82028a49d4d6)  
+- [2024-06-07-文末送书-|《理解图灵》重磅首发：纪念一个改变世界的大脑](https://posts.careerengine.us/p/6662a679ef2e82028a49d4ce)  
 - [2024-06-06-独自一人，怒发顶会！](https://posts.careerengine.us/p/66614bbaf9c7b70687bcb9b8)  
-- [2024-06-05-CVPR-2024满分论文出炉！这些方向杀疯了！](https://posts.careerengine.us/p/665ffa81ac0770349dc1658e)  
-- [2024-06-05-东南大学、蚂蚁提出MATEval：多Agent开放式文本评估框架](https://posts.careerengine.us/p/665ffa94a492a734d9a0009d)  
-- [2024-06-05-剑桥提出RLHF平替方案：在SFT以外，我们还能拿SFT数据做什么？](https://posts.careerengine.us/p/665ffa95a492a734d9a000a6)  
+- [2024-06-06-ICML-2024-|-为什么我们应该做online-RLHF/DPO？](https://posts.careerengine.us/p/66614bbaf9c7b70687bcb9b0)  
+- [2024-06-06-博后招募-|-清华大学NLP实验室招聘大语言模型方向博士后/研究员](https://posts.careerengine.us/p/66614bdacaeeda07348da957)  
 - [2024-06-05-北京内推-|-​AMD北京AI算法团队招聘大语言模型算法实习生](https://posts.careerengine.us/p/665ffa95a492a734d9a000ae)  
-- [2024-06-04-科研实习-|-清华大学计算机系朱军教授团队招聘音视频生成方向研究型实习生](https://posts.careerengine.us/p/665e9b475540d0557a256c23)  
-- [2024-06-04-一口气看8页！旷视打造“点读笔”Fox：图文并茂的文档交互式多模态大模型](https://posts.careerengine.us/p/665e9b475540d0557a256c1b)  
+- [2024-06-05-剑桥提出RLHF平替方案：在SFT以外，我们还能拿SFT数据做什么？](https://posts.careerengine.us/p/665ffa95a492a734d9a000a6)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-06-11-AI-老师的强大功能-+-真人老师的情感交流-=-未来教育？](https://posts.careerengine.us/p/6667f8daef81124fd490ad08) ![](/assets/new.png)  
-- [2024-06-11-乔布斯看了得哭！与小米、华为的AI-大模型应用打擂台，苹果盖不住的“安卓味儿”都上了热搜](https://posts.careerengine.us/p/6667f8daef81124fd490ad10) ![](/assets/new.png)  
+- [2024-06-11-AI-老师的强大功能-+-真人老师的情感交流-=-未来教育？](https://posts.careerengine.us/p/6667f8daef81124fd490ad08)  
+- [2024-06-11-乔布斯看了得哭！与小米、华为的AI-大模型应用打擂台，苹果盖不住的“安卓味儿”都上了热搜](https://posts.careerengine.us/p/6667f8daef81124fd490ad10)  
 - [2024-06-10-上帝视角下的蓝天白云？大模型改变气象预测格局-|-大模型一周大事](https://posts.careerengine.us/p/666666a38c9a224de959c07b)  
 - [2024-06-10-复旦邱锡鹏教授讲述MOSS-2-研发进展：如何实现世界模型？](https://posts.careerengine.us/p/66666692bea83b4d66b42bdf)  
 - [2024-06-09-腾讯回应可付费实习；支付宝发布AI-工具测脱发，最严重获称“人间蒲公英”；京东员工战618：凌晨3点下班、配行军床-|AI-周报](https://posts.careerengine.us/p/666515460674da534be32da0)  
