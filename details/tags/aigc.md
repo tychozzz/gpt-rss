@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-13 15:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-13 18:00:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -22,6 +22,7 @@
 - [2023-07-16-一张截图生成iPhone应用、还能转成代码、创建网站，升级后谷歌Bard真成了](https://posts.careerengine.us/p/64b37a81149433457e8154f9) 
 - [2023-07-14-谷歌Bard史上最大升级：中文、识图、存档导出能力都来了](https://posts.careerengine.us/p/64b137613b57e74bae33c801) 
 - [2023-06-28-DragGAN开源三天Star量23k，这又来一个DragDiffusion](https://posts.careerengine.us/p/649bc083d5caf15347363a89) 
+- [2024-06-13-Stable-Diffusion-3开源秒翻车，画人好掉san](https://posts.careerengine.us/p/666ab2bc56528d72b24cedb0) 
 - [2024-06-06-Stable-Diffusion老板跑路开新坑，被抛下的SD3开源成了烂摊子](https://posts.careerengine.us/p/66616798817f28763173843e) 
 - [2024-03-21-突发！Stable-Diffusion核心团队被曝集体离职](https://posts.careerengine.us/p/65fc295ec3a6454813ee522e) 
 - [2024-02-23-Stable-Diffusion-3更多隐藏功能曝光：文字可更改图片细节](https://posts.careerengine.us/p/65d8b039589bdc7e8994e851) 
