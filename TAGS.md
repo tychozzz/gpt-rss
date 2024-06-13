@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-13 18:00:49。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-13 21:00:11。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -250,6 +250,7 @@
 - [【量子位】多模态CoT思维链架构来了，现已开源｜来自厦大&腾讯优图](https://posts.careerengine.us/p/66555e775f0f6a4465891cc6)
 - [【量子位】上海交大新框架解锁CLIP长文本能力，多模态生成细节拿捏，图像检索能力显著提升](https://posts.careerengine.us/p/66092091d73fb76a9f0353da)
 - [【量子位】北大&腾讯打造多模态15边形战士！语言作“纽带”，拳打脚踢各模态，超越Imagebind](https://posts.careerengine.us/p/65504ca2d8a0792896491abe)
+- [【PaperWeekly】北大联合字节提出多模态评估流程ConBench：揭示VLM的不一致性](https://posts.careerengine.us/p/666a8110a34edc28a3a24c3c)
 - [【PaperWeekly】ACM-MM-2024深度多模态生成和检索研讨会，诚邀各界专家学者参与](https://posts.careerengine.us/p/664596eba6cb64713a19b0ac)
 - [【PaperWeekly】博士申请-|-清华大学交叉信息院MARS-Lab招收具身智能/多模态方向博士生](https://posts.careerengine.us/p/66419b49c65e3f0c3a58a2d5)
 - [【PaperWeekly】CVPR-2024-|-多模态合作学习的新视角：样本级模态的评估与协同](https://posts.careerengine.us/p/663e1272405fee4b1acfd9f5)
@@ -257,7 +258,6 @@
 - [【PaperWeekly】全网首发！Llama-3技术剖析、微调、部署以及多模态训练](https://posts.careerengine.us/p/662f37dceb3de94c4176d605)
 - [【PaperWeekly】视觉特征在语言空间中如何分布？武大、上海交大提出统一多模态自回归建模框架](https://posts.careerengine.us/p/6603a363c66539799a3abeac)
 - [【PaperWeekly】多模态融合再度领跑ICLR-2024！这56种创新SOTA方案必看](https://posts.careerengine.us/p/66025976b1ed0b680804e08d)
-- [【PaperWeekly】科研实习-|-中国科学院自动化研究所招聘激光雷达多模态感知算法实习生](https://posts.careerengine.us/p/6575e4459f2c6e3a26ea8504)
 - [......【查看更多】......](/details/tags/duomotai.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
