@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-14 21:00:27，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-14 23:00:26，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-06-13-被《AIGC体验派》硬控25分钟，大模型落地还能这么玩？](https://posts.careerengine.us/p/666ad5428049e2030c4f0894)  
-- [2024-06-13-IDC最新报告，7大维度11家大模型厂商比拼，唯一全优是谁？](https://posts.careerengine.us/p/666ad5428049e2030c4f089c)  
-- [2024-06-13-又一Sora级选手来炸街！我们拿它和Sora、可灵PK了下](https://posts.careerengine.us/p/666ad5550ea00b033c2346a2)  
-- [2024-06-13-ACL-2024｜PsySafe：跨学科视角下的Agent系统安全性研究](https://posts.careerengine.us/p/666ad5550ea00b033c2346ab)  
+- [2024-06-14-又一届「AI春晚」拉开序幕！智源大模型集体爆发了](https://posts.careerengine.us/p/666c509d78bd150bd65bbb9a) ![](/assets/new.png)  
+- [2024-06-14-让鲁迅说绕口令、赫本玩嘻哈，又一视频模型火了，斯坦福华人博士创立](https://posts.careerengine.us/p/666c50b3269b4b0c0b074a8e) ![](/assets/new.png)  
+- [2024-06-14-Mobile-Agent-v2问世，自动化手机操作能力再上新台阶](https://posts.careerengine.us/p/666c50b3269b4b0c0b074a96) ![](/assets/new.png)  
+- [2024-06-14-从ALOHA迈向Humanplus，斯坦福开源人形机器人，「高配版人类」上线](https://posts.careerengine.us/p/666c50b3269b4b0c0b074a86) ![](/assets/new.png)  
+- [2024-06-14-只需几个演示就能对齐大模型，杨笛一团队提出的DITTO竟如此高效](https://posts.careerengine.us/p/666c50b3269b4b0c0b074a7e) ![](/assets/new.png)  
 - [2024-06-13-万字综述大模型高效推理：无问芯穹与清华、上交最新联合研究全面解析大模型推理优化](https://posts.careerengine.us/p/666ad5550ea00b033c2346b3)  
-- [2024-06-12-打通智能体「自我进化」全流程！复旦推出通用智能体平台AgentGym](https://posts.careerengine.us/p/666994ed948fc2590e0d1df1)  
-- [2024-06-12-改变传统，吴恩达开源了一个机器翻译智能体项目](https://posts.careerengine.us/p/666994de0deabd58b4f9f758)  
-- [2024-06-12-重磅！2024智源大会完整日程公布——全球大模型先锋集结](https://posts.careerengine.us/p/666994de0deabd58b4f9f750)  
-- [2024-06-12-苹果智能背后模型公布：3B模型优于Gemma-7B，服务器模型媲美GPT-3.5-Turbo](https://posts.careerengine.us/p/666994de0deabd58b4f9f748)  
+- [2024-06-13-ACL-2024｜PsySafe：跨学科视角下的Agent系统安全性研究](https://posts.careerengine.us/p/666ad5550ea00b033c2346ab)  
+- [2024-06-13-又一Sora级选手来炸街！我们拿它和Sora、可灵PK了下](https://posts.careerengine.us/p/666ad5550ea00b033c2346a2)  
+- [2024-06-13-IDC最新报告，7大维度11家大模型厂商比拼，唯一全优是谁？](https://posts.careerengine.us/p/666ad5428049e2030c4f089c)  
+- [2024-06-13-被《AIGC体验派》硬控25分钟，大模型落地还能这么玩？](https://posts.careerengine.us/p/666ad5428049e2030c4f0894)  
 - [2024-06-12-快手「可灵」爆火：海外AI圈巨震，中国版Sora一号难求](https://posts.careerengine.us/p/666994c8a41d16584baf42cf)  
-- [2024-06-11-视觉语言模型导论：这篇论文能成为你进军VLM的第一步](https://posts.careerengine.us/p/66677ca8703e5d4c7f240a0e)  
-- [2024-06-11-这家世界模型公司发布中国版Sora级视频生成大模型，走向世界模型打造新一代数据引擎](https://posts.careerengine.us/p/66677ca8703e5d4c7f2409fe)  
-- [2024-06-11-苹果智能炸裂登场：直接GPT-4o加持，全家桶都上生成式AI，Siri脱胎换骨](https://posts.careerengine.us/p/66677ca8703e5d4c7f240a06)  
-- [2024-06-11-用神经架构搜索给LLM瘦身，模型变小，准确度有时反而更高](https://posts.careerengine.us/p/66677cb7504d1b4caa989b76)  
+- [2024-06-12-苹果智能背后模型公布：3B模型优于Gemma-7B，服务器模型媲美GPT-3.5-Turbo](https://posts.careerengine.us/p/666994de0deabd58b4f9f748)  
+- [2024-06-12-重磅！2024智源大会完整日程公布——全球大模型先锋集结](https://posts.careerengine.us/p/666994de0deabd58b4f9f750)  
+- [2024-06-12-改变传统，吴恩达开源了一个机器翻译智能体项目](https://posts.careerengine.us/p/666994de0deabd58b4f9f758)  
+- [2024-06-12-打通智能体「自我进化」全流程！复旦推出通用智能体平台AgentGym](https://posts.careerengine.us/p/666994ed948fc2590e0d1df1)  
 - [2024-06-11-CVPR-2024｜让图像扩散模型生成高质量360度场景，只需要一个语言模型](https://posts.careerengine.us/p/66677cb8504d1b4caa989b7e)  
-- [2024-06-10-i人小助手：Meta推出多模态对话图，帮你轻松识别社交状态](https://posts.careerengine.us/p/66668585a4dcd94870859505)  
-- [2024-06-10-偏微分方程有了基础模型：样本需求数量级减少，14项任务表现最佳](https://posts.careerengine.us/p/66668584a4dcd948708594f5)  
-- [2024-06-10-具身智能赋能机器人，「AI+人形机器人」论坛在浦东新区成功举行](https://posts.careerengine.us/p/66668584a4dcd948708594fd)  
-- [2024-06-10-独家专访Pika：Sora-is-not-very-hard-to-beat，我们的算法能够以小胜大｜AI-Pioneers](https://posts.careerengine.us/p/66668571df8b27483fa8c898)  
-- [2024-06-10-Karpathy最新四小时视频教程：从零复现GPT-2，通宵运行即搞定](https://posts.careerengine.us/p/66668571df8b27483fa8c88f)  
+- [2024-06-11-用神经架构搜索给LLM瘦身，模型变小，准确度有时反而更高](https://posts.careerengine.us/p/66677cb7504d1b4caa989b76)  
+- [2024-06-11-苹果智能炸裂登场：直接GPT-4o加持，全家桶都上生成式AI，Siri脱胎换骨](https://posts.careerengine.us/p/66677ca8703e5d4c7f240a06)  
+- [2024-06-11-这家世界模型公司发布中国版Sora级视频生成大模型，走向世界模型打造新一代数据引擎](https://posts.careerengine.us/p/66677ca8703e5d4c7f2409fe)  
+- [2024-06-11-视觉语言模型导论：这篇论文能成为你进军VLM的第一步](https://posts.careerengine.us/p/66677ca8703e5d4c7f240a0e)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2024-06-14-规格拉满！Llama和Sora作者都来刷脸的中国AI春晚，还开源了一大堆大模型成果](https://posts.careerengine.us/p/666c0f979bb60c0b040f956b) ![](/assets/new.png)  
-- [2024-06-14-CVPR‘24全程满分+最佳论文候选！上交大港中文等提出神经场网格模型三大定理](https://posts.careerengine.us/p/666c0fa6fdd9850b282da168) ![](/assets/new.png)  
-- [2024-06-14-大模型理解复杂表格，字节&中科大出手了](https://posts.careerengine.us/p/666c0fb547a26d0b559b0b49) ![](/assets/new.png)  
-- [2024-06-14-140元，任何普通眼镜爆改AI助手，网友：《黑镜》成真](https://posts.careerengine.us/p/666c0fb547a26d0b559b0b41) ![](/assets/new.png)  
+- [2024-06-14-规格拉满！Llama和Sora作者都来刷脸的中国AI春晚，还开源了一大堆大模型成果](https://posts.careerengine.us/p/666c0f979bb60c0b040f956b)  
+- [2024-06-14-CVPR‘24全程满分+最佳论文候选！上交大港中文等提出神经场网格模型三大定理](https://posts.careerengine.us/p/666c0fa6fdd9850b282da168)  
+- [2024-06-14-大模型理解复杂表格，字节&中科大出手了](https://posts.careerengine.us/p/666c0fb547a26d0b559b0b49)  
+- [2024-06-14-140元，任何普通眼镜爆改AI助手，网友：《黑镜》成真](https://posts.careerengine.us/p/666c0fb547a26d0b559b0b41)  
 - [2024-06-13-一句话手机自己打车，开源多智能体AI助手，非苹果手机也能玩](https://posts.careerengine.us/p/666ab2ccb4716273209f1d44)  
 - [2024-06-13-Stable-Diffusion-3开源秒翻车，画人好掉san](https://posts.careerengine.us/p/666ab2bc56528d72b24cedb0)  
 - [2024-06-13-2.5％KV缓存保持大模型90％性能，大模型金字塔式信息汇聚模式探秘｜开源](https://posts.careerengine.us/p/666ab2bb56528d72b24ceda8)  
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-06-14-AGI大辩论！杨植麟：无需定义，李大海：零边际成本，王小川：造医生？张鹏：是信念！](https://posts.careerengine.us/p/666c142f3391e41d32b508aa) ![](/assets/new.png)  
-- [2024-06-14-AICon-上海站-2024-启动！10+热点方向诚征演讲议题和嘉宾](https://posts.careerengine.us/p/666c143e5fa2c71da6ebe7ec) ![](/assets/new.png)  
+- [2024-06-14-AGI大辩论！杨植麟：无需定义，李大海：零边际成本，王小川：造医生？张鹏：是信念！](https://posts.careerengine.us/p/666c142f3391e41d32b508aa)  
+- [2024-06-14-AICon-上海站-2024-启动！10+热点方向诚征演讲议题和嘉宾](https://posts.careerengine.us/p/666c143e5fa2c71da6ebe7ec)  
 - [2024-06-13-没有完美架构，AI时代架构师如何找到成本与性能的平衡点？](https://posts.careerengine.us/p/666a8364cfd10d3223ad6b7d)  
 - [2024-06-13-德勤研究总监解析：AIGC-时代下的数字人才发展与企业应对策略](https://posts.careerengine.us/p/666a8364cfd10d3223ad6b75)  
 - [2024-06-13-喜发新模型，却被众嘲是破产“前兆”！Stability-AI-“最强”模型人形绘制太“阴间”，网友：因为研发太讲武德](https://posts.careerengine.us/p/666a83565f89dd31fa7af7b5)  
