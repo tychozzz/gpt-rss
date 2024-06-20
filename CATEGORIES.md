@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-20 18:00:13，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-20 21:00:26，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-06-20-1342万考生填报志愿这件事-，AI搜索可帮了大忙](https://posts.careerengine.us/p/6673bc2f637c5f3eff4af1dd) ![](/assets/new.png)  
-- [2024-06-20-从高考到奥林匹克竞技场：大模型与人类智能的终极较量](https://posts.careerengine.us/p/6673bc3ea566da3f1a7d2b99) ![](/assets/new.png)  
-- [2024-06-20-超越CVPR-2024方法，DynRefer在区域级多模态识别任务上，多项SOTA](https://posts.careerengine.us/p/6673bc3ea566da3f1a7d2b91) ![](/assets/new.png)  
-- [2024-06-20-ShareGPT4V作者团队又一力作！百万高质量视频——字幕数据助力社区提升多模态大模型视频理解及生成能力](https://posts.careerengine.us/p/6673bc5bd59d5d3fc209236c) ![](/assets/new.png)  
-- [2024-06-20-北大推出全新机器人多模态大模型！面向通用和机器人场景的高效推理和操作](https://posts.careerengine.us/p/6673bc5bd59d5d3fc2092364) ![](/assets/new.png)  
+- [2024-06-20-1342万考生填报志愿这件事-，AI搜索可帮了大忙](https://posts.careerengine.us/p/6673bc2f637c5f3eff4af1dd)  
+- [2024-06-20-从高考到奥林匹克竞技场：大模型与人类智能的终极较量](https://posts.careerengine.us/p/6673bc3ea566da3f1a7d2b99)  
+- [2024-06-20-超越CVPR-2024方法，DynRefer在区域级多模态识别任务上，多项SOTA](https://posts.careerengine.us/p/6673bc3ea566da3f1a7d2b91)  
+- [2024-06-20-ShareGPT4V作者团队又一力作！百万高质量视频——字幕数据助力社区提升多模态大模型视频理解及生成能力](https://posts.careerengine.us/p/6673bc5bd59d5d3fc209236c)  
+- [2024-06-20-北大推出全新机器人多模态大模型！面向通用和机器人场景的高效推理和操作](https://posts.careerengine.us/p/6673bc5bd59d5d3fc2092364)  
 - [2024-06-19-ICLR-2024-Oral-|-应对随时间变化的分布偏移，西安大略大学等提出学习时序轨迹方法](https://posts.careerengine.us/p/6672635faaede0405750a641)  
 - [2024-06-19-吴恩达团队新作：多模态多样本上下文学习，无需微调快速适应新任务](https://posts.careerengine.us/p/6672635faaede0405750a649)  
 - [2024-06-19-英伟达摘两篇最佳论文、浙大周昆获时间检验奖，SIGGRAPH-2024奖项出炉](https://posts.careerengine.us/p/6672635faaede0405750a651)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-06-19-Hinton官宣加盟AI初创公司：用AI探索新材料，机器学习大牛担任联创](https://posts.careerengine.us/p/667263d6b78651421cda6533)  
-- [2024-06-19-AI教育“智”变大考，小度率先交卷了](https://posts.careerengine.us/p/667263d6b78651421cda653c)  
-- [2024-06-19-AI生图可“量身定制”了，华为&清华联手打造个性化多模态生成方法PMG](https://posts.careerengine.us/p/667263ea60fc87424a558dd5)  
-- [2024-06-19-商汤披露：50篇论文入选CVPR-2024](https://posts.careerengine.us/p/667263ea60fc87424a558dcd)  
+- [2024-06-20-鹅厂大模型人才扩招50％！面向全球顶尖天才少年：薪资算力数据管够](https://posts.careerengine.us/p/6673fcfd686cca46cd6675f8) ![](/assets/new.png)  
+- [2024-06-20-斯坦福AI视频生成工具免费开放！30秒时长，马斯克看了效果会沉默](https://posts.careerengine.us/p/6673fcfd686cca46cd667600) ![](/assets/new.png)  
+- [2024-06-20-618剁完手后悔，AI能治？](https://posts.careerengine.us/p/6673fcfe686cca46cd667608) ![](/assets/new.png)  
+- [2024-06-20-清华推出首个通用城市时空预测模型UniST，零样本场景开箱即用｜KDD2024](https://posts.careerengine.us/p/6673fd0dfb6dee4746ec8b12) ![](/assets/new.png)  
+- [2024-06-20-考考大模型视频理解能力，中科院人大百川提出新基准合成框架](https://posts.careerengine.us/p/6673fd1c0d26d9476841c70e) ![](/assets/new.png)  
 - [2024-06-19-340B险胜70B，Kimi机器人贴脸“嘲讽”英伟达新开源模型](https://posts.careerengine.us/p/667263ea60fc87424a558de4)  
-- [2024-06-18-悬赏800万的超难测试集，被GPT-4o实现新SOTA，准确率已达50％](https://posts.careerengine.us/p/6671122f8cd75a686191b311)  
-- [2024-06-18-直播预约｜对话VAST宋亚宸：聊聊3D生成「通用大模型」时代](https://posts.careerengine.us/p/6671122f8cd75a686191b319)  
-- [2024-06-18-Runway版Sora发布，Luma就领先了一星期，AI视频生成进入爆发期](https://posts.careerengine.us/p/667112209a21c3682cb47737)  
-- [2024-06-18-黄仁勋提到的机器人世界，还需要AI数据来“调教”-|-CVPR-2024](https://posts.careerengine.us/p/667112209a21c3682cb4773f)  
+- [2024-06-19-商汤披露：50篇论文入选CVPR-2024](https://posts.careerengine.us/p/667263ea60fc87424a558dcd)  
+- [2024-06-19-AI生图可“量身定制”了，华为&清华联手打造个性化多模态生成方法PMG](https://posts.careerengine.us/p/667263ea60fc87424a558dd5)  
+- [2024-06-19-AI教育“智”变大考，小度率先交卷了](https://posts.careerengine.us/p/667263d6b78651421cda653c)  
+- [2024-06-19-Hinton官宣加盟AI初创公司：用AI探索新材料，机器学习大牛担任联创](https://posts.careerengine.us/p/667263d6b78651421cda6533)  
 - [2024-06-18-还得是开源！潞晨Open-Sora技术路线公开，一键生成16秒720p视频，质量更高训练成本更低](https://posts.careerengine.us/p/667112209a21c3682cb47747)  
-- [2024-06-17-霉霉开口唱碧昂丝的歌，又是AI！口型不出戏，五官姿态也自然，复旦百度等出品｜GitHub揽星1k+](https://posts.careerengine.us/p/667048e8bf611a295208ab52)  
-- [2024-06-17-“技术故障”背刺巴菲特，金融大模型到底靠不靠谱？](https://posts.careerengine.us/p/667048e9bf611a295208ab5a)  
-- [2024-06-17-8B模型奥数成绩比肩GPT-4！上海AI-Lab出品](https://posts.careerengine.us/p/667048f788f0632a0848d271)  
+- [2024-06-18-黄仁勋提到的机器人世界，还需要AI数据来“调教”-|-CVPR-2024](https://posts.careerengine.us/p/667112209a21c3682cb4773f)  
+- [2024-06-18-Runway版Sora发布，Luma就领先了一星期，AI视频生成进入爆发期](https://posts.careerengine.us/p/667112209a21c3682cb47737)  
+- [2024-06-18-直播预约｜对话VAST宋亚宸：聊聊3D生成「通用大模型」时代](https://posts.careerengine.us/p/6671122f8cd75a686191b319)  
+- [2024-06-18-悬赏800万的超难测试集，被GPT-4o实现新SOTA，准确率已达50％](https://posts.careerengine.us/p/6671122f8cd75a686191b311)  
 - [2024-06-17-Gemini视频推理遥遥领先GPT-4o，Jeff-Dean连续转发三次，首个视频多模态基准Video-MME来了](https://posts.careerengine.us/p/667048f888f0632a0848d279)  
-- [2024-06-16-1分钟内完成报销核对，微软AI-Day现场展示Copilot生产力革命](https://posts.careerengine.us/p/666e768dca5b4f50a1072c1e)  
-- [2024-06-16-37项SOTA！全模态预训练范式MiCo：理解任何模态并学习通用表示｜港中文&中科院](https://posts.careerengine.us/p/666e768cca5b4f50a1072c0e)  
-- [2024-06-16-北大快手攻克复杂视频生成难题！新框架轻松组合各种细节，代码将开源](https://posts.careerengine.us/p/666e768cca5b4f50a1072c16)  
+- [2024-06-17-8B模型奥数成绩比肩GPT-4！上海AI-Lab出品](https://posts.careerengine.us/p/667048f788f0632a0848d271)  
+- [2024-06-17-“技术故障”背刺巴菲特，金融大模型到底靠不靠谱？](https://posts.careerengine.us/p/667048e9bf611a295208ab5a)  
+- [2024-06-17-霉霉开口唱碧昂丝的歌，又是AI！口型不出戏，五官姿态也自然，复旦百度等出品｜GitHub揽星1k+](https://posts.careerengine.us/p/667048e8bf611a295208ab52)  
 - [2024-06-16-Hinton为拒马斯克offer扯谎挂电话，警告AI取代人类比想象中快30年](https://posts.careerengine.us/p/666e7679025e07503f14ab1e)  
-- [2024-06-15-奥特曼和老黄动手了……Luma干的](https://posts.careerengine.us/p/666d13fd1659793e5f6aee6b)  
-- [2024-06-15-AI画连环画角色更一致了！人物之间的复杂互动也能处理｜中山大学&联想团队出品](https://posts.careerengine.us/p/666d13fe1659793e5f6aee74)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
