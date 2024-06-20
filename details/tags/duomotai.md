@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-20 15:00:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-20 18:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 多模态
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-06-20-超越CVPR-2024方法，DynRefer在区域级多模态识别任务上，多项SOTA](https://posts.careerengine.us/p/6673bc3ea566da3f1a7d2b91) 
 - [2024-06-19-吴恩达团队新作：多模态多样本上下文学习，无需微调快速适应新任务](https://posts.careerengine.us/p/6672635faaede0405750a649) 
 - [2024-06-17-字节豆包、武大提出-CAL：通过视觉相关的-token-增强多模态对齐效果](https://posts.careerengine.us/p/66705cc11fb863031580645a) 
 - [2024-06-10-i人小助手：Meta推出多模态对话图，帮你轻松识别社交状态](https://posts.careerengine.us/p/66668585a4dcd94870859505) 
