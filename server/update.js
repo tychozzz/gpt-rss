@@ -78,10 +78,10 @@ const handleFeed = () => {
 
   Async.series(tasks, async() => {
     console.log("async")
-    await createFeed(linksJson)
     if(newData.length) {
       fs.outputJsonSync(LINKS_PATH, linksJson)
       await writemd(newData, linksJson)
+      await createFeed(linksJson)
       handleCommit()
       utils.logSuccess(`更新成功，更新内容 ${newData.length} 条`)
     } else {
