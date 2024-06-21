@@ -11,7 +11,7 @@ async function createFeed(linksJson){
 
   const feed = new Feed({
     title: 'AIGC 相关文章 | gpt-rss | by 周三不Coding',
-    description: '订阅最新热门前端技术文章',
+    description: '订阅 AIGC 相关文章',
     id: feedUrl,
     link: feedUrl,
     image: '',
