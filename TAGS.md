@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-21 15:00:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-21 18:00:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -208,6 +208,7 @@
 - [【机器之心】阿里文生视频挑战Gen-2、Pika，1280×720分辨率无压力，3500万文本——视频对显奇效](https://posts.careerengine.us/p/657d2bc8f4d22f36a0b59114)
 - [【机器之心】阿里Animate-Anyone跳舞火了，作者带你解读背后技术](https://posts.careerengine.us/p/65774190514b6868b3ca45fb)
 - [【机器之心】中科院、阿里出品FF3D，创建自定义风格化3D人像只需三分钟](https://posts.careerengine.us/p/64a8f17356a2e2354e54ec78)
+- [【量子位】新王Claude-3.5实测：阿里数学竞赛题不给选项直接做对](https://posts.careerengine.us/p/66750a293c58286bca96ecfa)
 - [【量子位】《嬛嬛朕emo啦》但马斯克！阿里这项技术开放试玩](https://posts.careerengine.us/p/663863cc4b433067aefb768e)
 - [【量子位】阿里智能体“组装工厂”开源！0经验搞定上万Agent并发](https://posts.careerengine.us/p/662c90f9e9d9800822d255d0)
 - [【量子位】阿里又整活儿：一张人脸一句话就能跳《擦玻璃》，服装背景随意换！](https://posts.careerengine.us/p/6577ea8d5f82213aaa507d95)
@@ -221,7 +222,6 @@
 - [【PaperWeekly】2024算法寒假实习来啦！微软/腾讯/阿里/小红书等急招，可远程、可转正！](https://posts.careerengine.us/p/6566d480becb3c056ff8ad28)
 - [【PaperWeekly】杭州/北京内推-|-阿里云人工智能平台深度学习团队招聘算法研究实习生](https://posts.careerengine.us/p/653f844911a61c758d1cf53b)
 - [【PaperWeekly】杭州内推-|-​阿里巴巴淘天集团客户满意中心招聘自然语言处理算法工程师](https://posts.careerengine.us/p/652be6d9d900a769ab6eeada)
-- [【PaperWeekly】今晚直播-|-阿里达摩院算法研究员黄斐：又快又好的非自回归文本生成](https://posts.careerengine.us/p/65099484f0de614b0d9f413a)
 - [......【查看更多】......](/details/tags/tongyi.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
