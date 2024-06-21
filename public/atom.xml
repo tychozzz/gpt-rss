@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gpt-rss.com//atom.xml</id>
     <title>AIGC 相关文章 | gpt-rss | by 周三不Coding</title>
-    <updated>2024-06-21T11:26:48.230Z</updated>
+    <updated>2024-06-21T22:00:13.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tycho</name>
@@ -11,9 +11,30 @@
     </author>
     <link rel="alternate" href="https://www.gpt-rss.com//atom.xml"/>
     <link rel="self" href="https://www.gpt-rss.com//atom.xml"/>
-    <subtitle>订阅最新热门前端技术文章</subtitle>
+    <subtitle>订阅 AIGC 相关文章</subtitle>
     <icon>https://www.gpt-rss.com//static/favicon.ico</icon>
     <rights>All rights reserved 2024 by Tycho</rights>
+    <entry>
+        <title type="html"><![CDATA[月之暗面被曝进军美国，产品、人才筹备中！阿里腾讯捧出的30亿美元独角兽终于要出海了]]></title>
+        <id>https://posts.careerengine.us/p/6675837855603e3c1339cd7d</id>
+        <link href="https://posts.careerengine.us/p/6675837855603e3c1339cd7d"/>
+        <updated>2024-06-20T16:00:00.000Z</updated>
+        <published>2024-06-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[已卷疯！距上次更新仅隔三月，Anthropic 又发布 Claude 3.5 Sonnet]]></title>
+        <id>https://posts.careerengine.us/p/6675837855603e3c1339cd8e</id>
+        <link href="https://posts.careerengine.us/p/6675837855603e3c1339cd8e"/>
+        <updated>2024-06-20T16:00:00.000Z</updated>
+        <published>2024-06-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解码RAG：智谱 RAG 技术的探索与实践]]></title>
+        <id>https://posts.careerengine.us/p/6675837855603e3c1339cd86</id>
+        <link href="https://posts.careerengine.us/p/6675837855603e3c1339cd86"/>
+        <updated>2024-06-20T16:00:00.000Z</updated>
+        <published>2024-06-20T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杭州/北京内推 | ​阿里达摩院视觉技术实验室招聘视觉生成算法实习生]]></title>
         <id>https://posts.careerengine.us/p/66750b55b2eeff707d552c72</id>
@@ -99,16 +120,16 @@
         <published>2024-06-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ilya 官宣新公司，主打“恶意”竞争！先拉不缺钱的技术大佬入伙，不盈利也要赢过 OpenAI ！]]></title>
-        <id>https://posts.careerengine.us/p/6673c01aa6d4ec4f5b7b0129</id>
-        <link href="https://posts.careerengine.us/p/6673c01aa6d4ec4f5b7b0129"/>
+        <title type="html"><![CDATA[越来越多企业采用 AI，工业、药物研发、零售等行业加速转型]]></title>
+        <id>https://posts.careerengine.us/p/6673c01aa6d4ec4f5b7b0131</id>
+        <link href="https://posts.careerengine.us/p/6673c01aa6d4ec4f5b7b0131"/>
         <updated>2024-06-19T16:00:00.000Z</updated>
         <published>2024-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[越来越多企业采用 AI，工业、药物研发、零售等行业加速转型]]></title>
-        <id>https://posts.careerengine.us/p/6673c01aa6d4ec4f5b7b0131</id>
-        <link href="https://posts.careerengine.us/p/6673c01aa6d4ec4f5b7b0131"/>
+        <title type="html"><![CDATA[Ilya 官宣新公司，主打“恶意”竞争！先拉不缺钱的技术大佬入伙，不盈利也要赢过 OpenAI ！]]></title>
+        <id>https://posts.careerengine.us/p/6673c01aa6d4ec4f5b7b0129</id>
+        <link href="https://posts.careerengine.us/p/6673c01aa6d4ec4f5b7b0129"/>
         <updated>2024-06-19T16:00:00.000Z</updated>
         <published>2024-06-19T16:00:00.000Z</published>
     </entry>
@@ -211,16 +232,16 @@
         <published>2024-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何快速掌握 Prompt 核心技巧与 GPT 技术理论？ | 极客时间]]></title>
-        <id>https://posts.careerengine.us/p/66726db235d7fe69806d9a36</id>
-        <link href="https://posts.careerengine.us/p/66726db235d7fe69806d9a36"/>
+        <title type="html"><![CDATA[Runway 全新 Gen-3 视频生成模型获网友盛赞：比 Sora 更好]]></title>
+        <id>https://posts.careerengine.us/p/66726db235d7fe69806d9a2d</id>
+        <link href="https://posts.careerengine.us/p/66726db235d7fe69806d9a2d"/>
         <updated>2024-06-18T16:00:00.000Z</updated>
         <published>2024-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Runway 全新 Gen-3 视频生成模型获网友盛赞：比 Sora 更好]]></title>
-        <id>https://posts.careerengine.us/p/66726db235d7fe69806d9a2d</id>
-        <link href="https://posts.careerengine.us/p/66726db235d7fe69806d9a2d"/>
+        <title type="html"><![CDATA[如何快速掌握 Prompt 核心技巧与 GPT 技术理论？ | 极客时间]]></title>
+        <id>https://posts.careerengine.us/p/66726db235d7fe69806d9a36</id>
+        <link href="https://posts.careerengine.us/p/66726db235d7fe69806d9a36"/>
         <updated>2024-06-18T16:00:00.000Z</updated>
         <published>2024-06-18T16:00:00.000Z</published>
     </entry>
@@ -323,13 +344,6 @@
         <published>2024-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小红书、携程统统靠边站，Google Gemini 打造个性化旅游新体验]]></title>
-        <id>https://posts.careerengine.us/p/6671096f55e9034546ce3730</id>
-        <link href="https://posts.careerengine.us/p/6671096f55e9034546ce3730"/>
-        <updated>2024-06-17T16:00:00.000Z</updated>
-        <published>2024-06-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[联创用ChatGPT写的一行代码让公司损失上万美元！网友：老板自己写的，找不到人背锅了]]></title>
         <id>https://posts.careerengine.us/p/667109604ee613452296d079</id>
         <link href="https://posts.careerengine.us/p/667109604ee613452296d079"/>
@@ -337,30 +351,16 @@
         <published>2024-06-17T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[小红书、携程统统靠边站，Google Gemini 打造个性化旅游新体验]]></title>
+        <id>https://posts.careerengine.us/p/6671096f55e9034546ce3730</id>
+        <link href="https://posts.careerengine.us/p/6671096f55e9034546ce3730"/>
+        <updated>2024-06-17T16:00:00.000Z</updated>
+        <published>2024-06-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Gemini终于赢了GPT-4o！Jeff Dean连转三次：首个视频多模态基准来了]]></title>
         <id>https://posts.careerengine.us/p/6671179cc105b87dcddfe491</id>
         <link href="https://posts.careerengine.us/p/6671179cc105b87dcddfe491"/>
-        <updated>2024-06-17T16:00:00.000Z</updated>
-        <published>2024-06-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博士申请 | 中科院计算所毕可平老师招收大模型方向博士/硕士/科研实习生]]></title>
-        <id>https://posts.careerengine.us/p/6671179dc105b87dcddfe499</id>
-        <link href="https://posts.careerengine.us/p/6671179dc105b87dcddfe499"/>
-        <updated>2024-06-17T16:00:00.000Z</updated>
-        <published>2024-06-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超越Devin！解决接近30％的GitHub issues！最强CodeR来啦！]]></title>
-        <id>https://posts.careerengine.us/p/6671179dc105b87dcddfe4a1</id>
-        <link href="https://posts.careerengine.us/p/6671179dc105b87dcddfe4a1"/>
-        <updated>2024-06-17T16:00:00.000Z</updated>
-        <published>2024-06-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还得是开源！潞晨Open-Sora技术路线公开，一键生成16秒720p视频，质量更高训练成本更低]]></title>
-        <id>https://posts.careerengine.us/p/667112209a21c3682cb47747</id>
-        <link href="https://posts.careerengine.us/p/667112209a21c3682cb47747"/>
         <updated>2024-06-17T16:00:00.000Z</updated>
         <published>2024-06-17T16:00:00.000Z</published>
     </entry>

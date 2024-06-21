@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-21 18:00:13，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-22 06:00:13，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2024-06-21-新王Claude-3.5实测：阿里数学竞赛题不给选项直接做对](https://posts.careerengine.us/p/66750a293c58286bca96ecfa) ![](/assets/new.png)  
-- [2024-06-21-最火AI角色扮演流量已达谷歌搜索20％！每秒处理2万推理请求，Transformer作者公开优化秘诀](https://posts.careerengine.us/p/66750a37fc592d6bf1cbb3c9) ![](/assets/new.png)  
-- [2024-06-21-GPT-4o差点没及格！首个多任务长视频评测基准，它有亿点难](https://posts.careerengine.us/p/66750a4ab77c5c6c1ae7c070) ![](/assets/new.png)  
-- [2024-06-21-武大等开源大幅面高清卫星影像数据集：涵盖21万+地理目标，复杂地理空间场景知识精准生成](https://posts.careerengine.us/p/66750a4ab77c5c6c1ae7c07f) ![](/assets/new.png)  
+- [2024-06-21-新王Claude-3.5实测：阿里数学竞赛题不给选项直接做对](https://posts.careerengine.us/p/66750a293c58286bca96ecfa)  
+- [2024-06-21-最火AI角色扮演流量已达谷歌搜索20％！每秒处理2万推理请求，Transformer作者公开优化秘诀](https://posts.careerengine.us/p/66750a37fc592d6bf1cbb3c9)  
+- [2024-06-21-GPT-4o差点没及格！首个多任务长视频评测基准，它有亿点难](https://posts.careerengine.us/p/66750a4ab77c5c6c1ae7c070)  
+- [2024-06-21-武大等开源大幅面高清卫星影像数据集：涵盖21万+地理目标，复杂地理空间场景知识精准生成](https://posts.careerengine.us/p/66750a4ab77c5c6c1ae7c07f)  
 - [2024-06-20-考考大模型视频理解能力，中科院人大百川提出新基准合成框架](https://posts.careerengine.us/p/6673fd1c0d26d9476841c70e)  
 - [2024-06-20-清华推出首个通用城市时空预测模型UniST，零样本场景开箱即用｜KDD2024](https://posts.careerengine.us/p/6673fd0dfb6dee4746ec8b12)  
 - [2024-06-20-618剁完手后悔，AI能治？](https://posts.careerengine.us/p/6673fcfe686cca46cd667608)  
@@ -176,26 +176,26 @@
 </summary>
 
 
-- [2024-06-20-越来越多企业采用-AI，工业、药物研发、零售等行业加速转型](https://posts.careerengine.us/p/6673c01aa6d4ec4f5b7b0131)  
+- [2024-06-21-解码RAG：智谱-RAG-技术的探索与实践](https://posts.careerengine.us/p/6675837855603e3c1339cd86) ![](/assets/new.png)  
+- [2024-06-21-已卷疯！距上次更新仅隔三月，Anthropic-又发布-Claude-3.5-Sonnet](https://posts.careerengine.us/p/6675837855603e3c1339cd8e) ![](/assets/new.png)  
+- [2024-06-21-月之暗面被曝进军美国，产品、人才筹备中！阿里腾讯捧出的30亿美元独角兽终于要出海了](https://posts.careerengine.us/p/6675837855603e3c1339cd7d) ![](/assets/new.png)  
 - [2024-06-20-Ilya-官宣新公司，主打“恶意”竞争！先拉不缺钱的技术大佬入伙，不盈利也要赢过-OpenAI-！](https://posts.careerengine.us/p/6673c01aa6d4ec4f5b7b0129)  
-- [2024-06-19-Runway-全新-Gen-3-视频生成模型获网友盛赞：比-Sora-更好](https://posts.careerengine.us/p/66726db235d7fe69806d9a2d)  
+- [2024-06-20-越来越多企业采用-AI，工业、药物研发、零售等行业加速转型](https://posts.careerengine.us/p/6673c01aa6d4ec4f5b7b0131)  
 - [2024-06-19-如何快速掌握-Prompt-核心技巧与-GPT-技术理论？-|-极客时间](https://posts.careerengine.us/p/66726db235d7fe69806d9a36)  
-- [2024-06-18-联创用ChatGPT写的一行代码让公司损失上万美元！网友：老板自己写的，找不到人背锅了](https://posts.careerengine.us/p/667109604ee613452296d079)  
+- [2024-06-19-Runway-全新-Gen-3-视频生成模型获网友盛赞：比-Sora-更好](https://posts.careerengine.us/p/66726db235d7fe69806d9a2d)  
 - [2024-06-18-小红书、携程统统靠边站，Google-Gemini-打造个性化旅游新体验](https://posts.careerengine.us/p/6671096f55e9034546ce3730)  
-- [2024-06-17-苹果进军AI手机，国内终端大模型联盟迅速应战-|-大模型一周大事](https://posts.careerengine.us/p/66705747a5c8a76aa014178a)  
+- [2024-06-18-联创用ChatGPT写的一行代码让公司损失上万美元！网友：老板自己写的，找不到人背锅了](https://posts.careerengine.us/p/667109604ee613452296d079)  
 - [2024-06-17-多智能体、知识助手…聊聊金融大模型现阶段应用实践和效益闭环｜FCon](https://posts.careerengine.us/p/66705747a5c8a76aa0141792)  
-- [2024-06-16-小红书招聘年龄底线35岁，猎头：超32岁基本没戏；小米汽车员工实发工资曝光，年入百万不是梦；极目银河老板欠62亿跑路-|AI周报](https://posts.careerengine.us/p/666e796914b2a45c7477a77f)  
+- [2024-06-17-苹果进军AI手机，国内终端大模型联盟迅速应战-|-大模型一周大事](https://posts.careerengine.us/p/66705747a5c8a76aa014178a)  
 - [2024-06-16-Yandex-开源-LLM-训练工具，可节省高达-20％-的-GPU-资源](https://posts.careerengine.us/p/666e79782bb46b5c97db1029)  
-- [2024-06-15-大模型时代，图灵的影响力依旧-|-Q福利](https://posts.careerengine.us/p/666d05a19de81203031e30c9)  
+- [2024-06-16-小红书招聘年龄底线35岁，猎头：超32岁基本没戏；小米汽车员工实发工资曝光，年入百万不是梦；极目银河老板欠62亿跑路-|AI周报](https://posts.careerengine.us/p/666e796914b2a45c7477a77f)  
 - [2024-06-15-清华大学教授黄民烈：如何把大模型“调教”成我们放心的样子](https://posts.careerengine.us/p/666d0592cd637f0287f94ac4)  
-- [2024-06-14-AGI大辩论！杨植麟：无需定义，李大海：零边际成本，王小川：造医生？张鹏：是信念！](https://posts.careerengine.us/p/666c142f3391e41d32b508aa)  
+- [2024-06-15-大模型时代，图灵的影响力依旧-|-Q福利](https://posts.careerengine.us/p/666d05a19de81203031e30c9)  
 - [2024-06-14-AICon-上海站-2024-启动！10+热点方向诚征演讲议题和嘉宾](https://posts.careerengine.us/p/666c143e5fa2c71da6ebe7ec)  
-- [2024-06-13-没有完美架构，AI时代架构师如何找到成本与性能的平衡点？](https://posts.careerengine.us/p/666a8364cfd10d3223ad6b7d)  
-- [2024-06-13-德勤研究总监解析：AIGC-时代下的数字人才发展与企业应对策略](https://posts.careerengine.us/p/666a8364cfd10d3223ad6b75)  
+- [2024-06-14-AGI大辩论！杨植麟：无需定义，李大海：零边际成本，王小川：造医生？张鹏：是信念！](https://posts.careerengine.us/p/666c142f3391e41d32b508aa)  
 - [2024-06-13-喜发新模型，却被众嘲是破产“前兆”！Stability-AI-“最强”模型人形绘制太“阴间”，网友：因为研发太讲武德](https://posts.careerengine.us/p/666a83565f89dd31fa7af7b5)  
-- [2024-06-12-远离硅谷、不靠风投！18人团队逆势搞出超人气数据库，CTO-一人5年多写了15万行代码](https://posts.careerengine.us/p/66693d41d05dba78aa19af97)  
-- [2024-06-11-乔布斯看了得哭！与小米、华为的AI-大模型应用打擂台，苹果盖不住的“安卓味儿”都上了热搜](https://posts.careerengine.us/p/6667f8daef81124fd490ad10)  
-- [2024-06-11-AI-老师的强大功能-+-真人老师的情感交流-=-未来教育？](https://posts.careerengine.us/p/6667f8daef81124fd490ad08)  
+- [2024-06-13-德勤研究总监解析：AIGC-时代下的数字人才发展与企业应对策略](https://posts.careerengine.us/p/666a8364cfd10d3223ad6b75)  
+- [2024-06-13-没有完美架构，AI时代架构师如何找到成本与性能的平衡点？](https://posts.careerengine.us/p/666a8364cfd10d3223ad6b7d)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

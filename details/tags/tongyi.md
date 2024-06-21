@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-21 18:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-22 06:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 通义千问
 
@@ -31,4 +31,5 @@
 - [2023-09-16-直播预告-|-阿里达摩院算法研究员黄斐：又快又好的非自回归文本生成](https://posts.careerengine.us/p/65058c371ce3752a3eb50793) 
 - [2023-08-03-北京/杭州内推-|-阿里达摩院视觉技术实验室招聘计算机视觉算法工程师/实习生](https://posts.careerengine.us/p/64cb925eaa3c0f3343d208f8) 
 - [2023-08-02-阿里公开文生图研究新进展，提出组合式的多概念定制生成方法](https://posts.careerengine.us/p/64c9e828f7c8ec7b2110a222) 
+- [2024-06-21-月之暗面被曝进军美国，产品、人才筹备中！阿里腾讯捧出的30亿美元独角兽终于要出海了](https://posts.careerengine.us/p/6675837855603e3c1339cd7d) 
 - [2023-08-22-挑战阿里巴巴和Meta：Arm即将上市，软银力争打造科技史第三大IPO](https://posts.careerengine.us/p/64e4496576ee633534c3024e) 
