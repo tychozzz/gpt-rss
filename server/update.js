@@ -5,6 +5,7 @@ const simpleGit = require('simple-git')
 
 const utils = require('./utils')
 const writemd = require('./writemd')
+const createFeed = require('./feed')
 const fetch = require('./fetch')
 
 const {
@@ -77,6 +78,7 @@ const handleFeed = () => {
 
   Async.series(tasks, async() => {
     console.log("async")
+    await createFeed(linksJson)
     if(newData.length) {
       fs.outputJsonSync(LINKS_PATH, linksJson)
       await writemd(newData, linksJson)

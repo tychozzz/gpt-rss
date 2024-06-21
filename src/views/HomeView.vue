@@ -32,6 +32,7 @@
     <div class="tip-box">
       <van-icon class="tip-icon" name="bars" @click="doShowPopup" />
       <van-icon class="tip-icon" name="https://lty-image-bed.oss-cn-shenzhen.aliyuncs.com/blog/Github.svg" @click="gotoGithub"/>
+      <van-icon class="tip-icon" name="/rss.png" @click="gotoAtomPage"/>
       <van-icon class="tip-icon" name="arrow-up" @click="toTop" />
     </div>
 
@@ -191,6 +192,10 @@ const toTop = () => {
 
 const gotoGithub = () => {
   window.location.href = "https://github.com/ltyzzzxxx/gpt-rss"
+}
+
+const gotoAtomPage = () => {
+  window.location.href = '/atom.xml';
 }
 
 const doShowPopup = () => {

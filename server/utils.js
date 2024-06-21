@@ -1,3 +1,4 @@
+const fs = require('fs-extra')
 const path = require('path')
 const moment = require('moment')
 const chalk = require('chalk')
@@ -7,7 +8,7 @@ const RESP_PATH              = path.join(__dirname, '../')
 const RSS_PATH               = path.join(RESP_PATH + '/data/rss.json')
 const LINKS_PATH             = path.join(RESP_PATH + '/data/links.json')
 const TAGS_PATH              = path.join(RESP_PATH + '/data/tags.json')
-const FEED_PATH              = path.join(RESP_PATH + '/data/atom.xml')
+const FEED_PATH              = path.join(RESP_PATH + '/public/atom.xml')
 const README_PATH            = path.join(RESP_PATH + '/README.md')
 const README_TEMPLATE_PATH   = path.join(RESP_PATH + '/templates/README.md')
 const TAGS_MD_PATH           = path.join(RESP_PATH + '/TAGS.md')
@@ -15,6 +16,8 @@ const TAGS_TEMPLATE_PATH     = path.join(RESP_PATH + '/templates/TAGS.md')
 const DETAILS_TEMPLATE_PATH  = path.join(RESP_PATH + '/templates/DETAILS.md')
 const CATEGORIES_TEMPLATE_PATH = path.join(RESP_PATH + '/templates/CATEGORIES.md')
 const CATEGORIES_PATH = path.join(RESP_PATH + '/CATEGORIES.md')
+
+const tags = fs.readJsonSync(TAGS_PATH)
 
 module.exports = {
   /**
@@ -90,5 +93,12 @@ module.exports = {
   },
   async getHomePage() {
     return 'https://www.gpt-rss.com/'
+  },
+  filterBySkill(items) {
+    return items.filter((item) => {
+      return !!tags.find((tag) => {
+        return tag.skill && tag.keywords && (new RegExp(tag.keywords, 'gi')).test(item.title)
+      })
+    })
   }
 }

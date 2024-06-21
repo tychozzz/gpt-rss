@@ -1,6 +1,6 @@
 {
   "name": "gpt-rss",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "GPT RSS, 定时抓取前沿 AIGC/GPT/LLM 文章",
   "author": "ltyzzz | 周三不Coding",
   "scripts": {
