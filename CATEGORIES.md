@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-24 18:01:06，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-24 21:00:34，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-06-23-何恺明新作再战AI生成：入职MIT后首次带队，奥赛双料金牌得主邓明扬参与](https://posts.careerengine.us/p/6677995c2798542a34beb734)  
-- [2024-06-23-AI学会篡改奖励函数、欺骗研究者！Claude团队：无法根除的行为，令人不安](https://posts.careerengine.us/p/6677995d2798542a34beb73c)  
-- [2024-06-23-提速199倍！清华&哈佛发布三维语义高斯泼溅LangSplat｜CVPR‘24-Highlight](https://posts.careerengine.us/p/6677996c9fbc172a622c6c79)  
+- [2024-06-24-姚班天才组队开发《完蛋！我被大模型包围了》续作！专为工作日摸鱼爱好者打造](https://posts.careerengine.us/p/66792b56a996d114af74faa9) ![](/assets/new.png)  
+- [2024-06-24-大模型测试题爆火，GPT-4和Claude3都跪了，LeCun转发：新Benchmark](https://posts.careerengine.us/p/66792b56a996d114af74fa99) ![](/assets/new.png)  
+- [2024-06-24-小红书怎么用大模型？顶会作者在线等你来聊](https://posts.careerengine.us/p/66792b56a996d114af74faa1) ![](/assets/new.png)  
+- [2024-06-24-编码数学击败GPT4-Turbo！DeepSeek-Coder-v2登顶竞技场最强开源编码模型](https://posts.careerengine.us/p/66792b66e799bf14e51d7d98) ![](/assets/new.png)  
+- [2024-06-24-小米大模型提效新框架：训练最高提速34％，推理最高提速52％！Kaldi之父合作出品](https://posts.careerengine.us/p/66792b7542f48f150d8161b8) ![](/assets/new.png)  
 - [2024-06-23-无需人类或GPT-4打标签！南大&旷视研究院无监督范式大幅降低视觉大模型对齐成本](https://posts.careerengine.us/p/6677997a4c61422a8945b011)  
-- [2024-06-22-百万级高质量视频数据集发布，登顶抱抱脸数据集排行榜，中科大&上海AI-Lab等出品](https://posts.careerengine.us/p/66769a6d09540032efd050bd)  
-- [2024-06-22-AI照妖镜一眼判真假：网页图像视频都能鉴，边播边识别，清华独角兽成果](https://posts.careerengine.us/p/66769a5e08786e32bc9f0f11)  
-- [2024-06-22-OpenAI-36亿收购数据库初创公司，CTO剧透GPT-5](https://posts.careerengine.us/p/66769a4f6a11773246a8bdc2)  
+- [2024-06-23-提速199倍！清华&哈佛发布三维语义高斯泼溅LangSplat｜CVPR‘24-Highlight](https://posts.careerengine.us/p/6677996c9fbc172a622c6c79)  
+- [2024-06-23-AI学会篡改奖励函数、欺骗研究者！Claude团队：无法根除的行为，令人不安](https://posts.careerengine.us/p/6677995d2798542a34beb73c)  
+- [2024-06-23-何恺明新作再战AI生成：入职MIT后首次带队，奥赛双料金牌得主邓明扬参与](https://posts.careerengine.us/p/6677995c2798542a34beb734)  
 - [2024-06-22-原生鸿蒙AI浓度要爆表了：鸿蒙原生智能加持，华为小艺进化成系统级智能体](https://posts.careerengine.us/p/66769a4e6a11773246a8bdba)  
-- [2024-06-21-新王Claude-3.5实测：阿里数学竞赛题不给选项直接做对](https://posts.careerengine.us/p/66750a293c58286bca96ecfa)  
-- [2024-06-21-最火AI角色扮演流量已达谷歌搜索20％！每秒处理2万推理请求，Transformer作者公开优化秘诀](https://posts.careerengine.us/p/66750a37fc592d6bf1cbb3c9)  
-- [2024-06-21-GPT-4o差点没及格！首个多任务长视频评测基准，它有亿点难](https://posts.careerengine.us/p/66750a4ab77c5c6c1ae7c070)  
+- [2024-06-22-OpenAI-36亿收购数据库初创公司，CTO剧透GPT-5](https://posts.careerengine.us/p/66769a4f6a11773246a8bdc2)  
+- [2024-06-22-AI照妖镜一眼判真假：网页图像视频都能鉴，边播边识别，清华独角兽成果](https://posts.careerengine.us/p/66769a5e08786e32bc9f0f11)  
+- [2024-06-22-百万级高质量视频数据集发布，登顶抱抱脸数据集排行榜，中科大&上海AI-Lab等出品](https://posts.careerengine.us/p/66769a6d09540032efd050bd)  
 - [2024-06-21-武大等开源大幅面高清卫星影像数据集：涵盖21万+地理目标，复杂地理空间场景知识精准生成](https://posts.careerengine.us/p/66750a4ab77c5c6c1ae7c07f)  
-- [2024-06-20-考考大模型视频理解能力，中科院人大百川提出新基准合成框架](https://posts.careerengine.us/p/6673fd1c0d26d9476841c70e)  
-- [2024-06-20-清华推出首个通用城市时空预测模型UniST，零样本场景开箱即用｜KDD2024](https://posts.careerengine.us/p/6673fd0dfb6dee4746ec8b12)  
-- [2024-06-20-618剁完手后悔，AI能治？](https://posts.careerengine.us/p/6673fcfe686cca46cd667608)  
-- [2024-06-20-斯坦福AI视频生成工具免费开放！30秒时长，马斯克看了效果会沉默](https://posts.careerengine.us/p/6673fcfd686cca46cd667600)  
+- [2024-06-21-GPT-4o差点没及格！首个多任务长视频评测基准，它有亿点难](https://posts.careerengine.us/p/66750a4ab77c5c6c1ae7c070)  
+- [2024-06-21-最火AI角色扮演流量已达谷歌搜索20％！每秒处理2万推理请求，Transformer作者公开优化秘诀](https://posts.careerengine.us/p/66750a37fc592d6bf1cbb3c9)  
+- [2024-06-21-新王Claude-3.5实测：阿里数学竞赛题不给选项直接做对](https://posts.careerengine.us/p/66750a293c58286bca96ecfa)  
 - [2024-06-20-鹅厂大模型人才扩招50％！面向全球顶尖天才少年：薪资算力数据管够](https://posts.careerengine.us/p/6673fcfd686cca46cd6675f8)  
-- [2024-06-19-Hinton官宣加盟AI初创公司：用AI探索新材料，机器学习大牛担任联创](https://posts.careerengine.us/p/667263d6b78651421cda6533)  
-- [2024-06-19-AI教育“智”变大考，小度率先交卷了](https://posts.careerengine.us/p/667263d6b78651421cda653c)  
-- [2024-06-19-AI生图可“量身定制”了，华为&清华联手打造个性化多模态生成方法PMG](https://posts.careerengine.us/p/667263ea60fc87424a558dd5)  
+- [2024-06-20-斯坦福AI视频生成工具免费开放！30秒时长，马斯克看了效果会沉默](https://posts.careerengine.us/p/6673fcfd686cca46cd667600)  
+- [2024-06-20-618剁完手后悔，AI能治？](https://posts.careerengine.us/p/6673fcfe686cca46cd667608)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2024-06-24-中科院、人大、百川提出视频理解基准合成框架VideoNIAH](https://posts.careerengine.us/p/667903b7a7f7407280371a37) ![](/assets/new.png)  
-- [2024-06-24-ICML-2024-|-探究知识编辑对大语言模型的近邻扰动](https://posts.careerengine.us/p/667903b7a7f7407280371a2f) ![](/assets/new.png)  
-- [2024-06-24-博士申请-|-香港科技大学（广州）钟秉灼老师招收安全可信AI方向全奖博士/博后/RA](https://posts.careerengine.us/p/667903c6da8c3a72ce922abe) ![](/assets/new.png)  
+- [2024-06-24-中科院、人大、百川提出视频理解基准合成框架VideoNIAH](https://posts.careerengine.us/p/667903b7a7f7407280371a37)  
+- [2024-06-24-ICML-2024-|-探究知识编辑对大语言模型的近邻扰动](https://posts.careerengine.us/p/667903b7a7f7407280371a2f)  
+- [2024-06-24-博士申请-|-香港科技大学（广州）钟秉灼老师招收安全可信AI方向全奖博士/博后/RA](https://posts.careerengine.us/p/667903c6da8c3a72ce922abe)  
 - [2024-06-23-科研实习-|-西湖大学人工智能实验室AI4Science小组招收科研实习生](https://posts.careerengine.us/p/6677b8403868182755409c8f)  
 - [2024-06-23-新趋势！AI大模型走下神坛！](https://posts.careerengine.us/p/6677b831bac73f272d6ba70f)  
 - [2024-06-23-NUS、清华提出STAR：一句话生成高质量4D-Avatar，代码已开源](https://posts.careerengine.us/p/6677b831bac73f272d6ba717)  
@@ -176,8 +176,8 @@
 </summary>
 
 
-- [2024-06-24-1个芯片顶英伟达3个？这个偏爱印度的创始人爆肝8年，终于等来抢英伟达泼天富贵的一天！](https://posts.careerengine.us/p/667915b3b4cccc3c308376e5) ![](/assets/new.png)  
-- [2024-06-24-AI视频技术突破静默，让每一帧画面实现声色同步-|-大模型一周大事](https://posts.careerengine.us/p/667915c2e6938f3c9e4cee83) ![](/assets/new.png)  
+- [2024-06-24-1个芯片顶英伟达3个？这个偏爱印度的创始人爆肝8年，终于等来抢英伟达泼天富贵的一天！](https://posts.careerengine.us/p/667915b3b4cccc3c308376e5)  
+- [2024-06-24-AI视频技术突破静默，让每一帧画面实现声色同步-|-大模型一周大事](https://posts.careerengine.us/p/667915c2e6938f3c9e4cee83)  
 - [2024-06-23-揭秘大模型技术在快手搜索的应用](https://posts.careerengine.us/p/6677b4228ffaa716efff93df)  
 - [2024-06-23-TikTok-首度曝光多年来与美秘密谈判细节；美国新规拟禁止在中国投资-AI-；00-后女孩离职删软件被公司威胁起诉|-AI周报](https://posts.careerengine.us/p/6677b4228ffaa716efff93d7)  
 - [2024-06-22-20年内实现AGI！李开复与张亚勤共同预测：无人驾驶领头，大模型六波应用潮流随后](https://posts.careerengine.us/p/6676327ad0a7de0ed356581e)  
