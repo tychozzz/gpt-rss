@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gpt-rss.com//atom.xml</id>
     <title>AIGC 相关文章 | gpt-rss | by 周三不Coding</title>
-    <updated>2024-06-26T10:00:10.318Z</updated>
+    <updated>2024-06-27T07:00:32.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tycho</name>
@@ -15,9 +15,30 @@
     <icon>https://www.gpt-rss.com//static/favicon.ico</icon>
     <rights>All rights reserved 2024 by Tycho</rights>
     <entry>
-        <title type="html"><![CDATA[大模型训练检查点写入速度相比 PyTorch 加快 116 倍！微软提出 FastPersist 新方法]]></title>
-        <id>https://posts.careerengine.us/p/667ba20c8c63ec114d7c29be</id>
-        <link href="https://posts.careerengine.us/p/667ba20c8c63ec114d7c29be"/>
+        <title type="html"><![CDATA[字节跳动发布“豆包 MarsCode”智能开发工具，面向国内开发者免费]]></title>
+        <id>https://posts.careerengine.us/p/667ced325698a938d21fedc9</id>
+        <link href="https://posts.careerengine.us/p/667ced325698a938d21fedc9"/>
+        <updated>2024-06-26T16:00:00.000Z</updated>
+        <published>2024-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天弘基金：AI Agent在金融场景下的创新与应用实践]]></title>
+        <id>https://posts.careerengine.us/p/667ced325698a938d21fedb9</id>
+        <link href="https://posts.careerengine.us/p/667ced325698a938d21fedb9"/>
+        <updated>2024-06-26T16:00:00.000Z</updated>
+        <published>2024-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从AI高管到犀利CEO，贾扬清创业这一年：我们的目标是做AI时代的“第一朵云”]]></title>
+        <id>https://posts.careerengine.us/p/667ced21fc1a6b385b645707</id>
+        <link href="https://posts.careerengine.us/p/667ced21fc1a6b385b645707"/>
+        <updated>2024-06-26T16:00:00.000Z</updated>
+        <published>2024-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没想到国内大模型厂商又一次high起来，是因为OpenAI 断供！]]></title>
+        <id>https://posts.careerengine.us/p/667ba1fef20d2b10cbbb927a</id>
+        <link href="https://posts.careerengine.us/p/667ba1fef20d2b10cbbb927a"/>
         <updated>2024-06-25T16:00:00.000Z</updated>
         <published>2024-06-25T16:00:00.000Z</published>
     </entry>
@@ -29,9 +50,9 @@
         <published>2024-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[没想到国内大模型厂商又一次high起来，是因为OpenAI 断供！]]></title>
-        <id>https://posts.careerengine.us/p/667ba1fef20d2b10cbbb927a</id>
-        <link href="https://posts.careerengine.us/p/667ba1fef20d2b10cbbb927a"/>
+        <title type="html"><![CDATA[大模型训练检查点写入速度相比 PyTorch 加快 116 倍！微软提出 FastPersist 新方法]]></title>
+        <id>https://posts.careerengine.us/p/667ba20c8c63ec114d7c29be</id>
+        <link href="https://posts.careerengine.us/p/667ba20c8c63ec114d7c29be"/>
         <updated>2024-06-25T16:00:00.000Z</updated>
         <published>2024-06-25T16:00:00.000Z</published>
     </entry>
@@ -134,16 +155,16 @@
         <published>2024-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一群顶尖搜索人才如何2个月出货，还把GPU利用率干到60％！揭秘百川智能研发大模型这一年]]></title>
-        <id>https://posts.careerengine.us/p/667a56aff7d77b5703b8d10d</id>
-        <link href="https://posts.careerengine.us/p/667a56aff7d77b5703b8d10d"/>
+        <title type="html"><![CDATA[快手开源 I2V-Adapter，即插即用、轻量级模块让静态图像秒变动态视频]]></title>
+        <id>https://posts.careerengine.us/p/667a56bd3e561657207c25ac</id>
+        <link href="https://posts.careerengine.us/p/667a56bd3e561657207c25ac"/>
         <updated>2024-06-24T16:00:00.000Z</updated>
         <published>2024-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[快手开源 I2V-Adapter，即插即用、轻量级模块让静态图像秒变动态视频]]></title>
-        <id>https://posts.careerengine.us/p/667a56bd3e561657207c25ac</id>
-        <link href="https://posts.careerengine.us/p/667a56bd3e561657207c25ac"/>
+        <title type="html"><![CDATA[一群顶尖搜索人才如何2个月出货，还把GPU利用率干到60％！揭秘百川智能研发大模型这一年]]></title>
+        <id>https://posts.careerengine.us/p/667a56aff7d77b5703b8d10d</id>
+        <link href="https://posts.careerengine.us/p/667a56aff7d77b5703b8d10d"/>
         <updated>2024-06-24T16:00:00.000Z</updated>
         <published>2024-06-24T16:00:00.000Z</published>
     </entry>
@@ -246,16 +267,16 @@
         <published>2024-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI视频技术突破静默，让每一帧画面实现声色同步 | 大模型一周大事]]></title>
-        <id>https://posts.careerengine.us/p/667915c2e6938f3c9e4cee83</id>
-        <link href="https://posts.careerengine.us/p/667915c2e6938f3c9e4cee83"/>
+        <title type="html"><![CDATA[1个芯片顶英伟达3个？这个偏爱印度的创始人爆肝8年，终于等来抢英伟达泼天富贵的一天！]]></title>
+        <id>https://posts.careerengine.us/p/667915b3b4cccc3c308376e5</id>
+        <link href="https://posts.careerengine.us/p/667915b3b4cccc3c308376e5"/>
         <updated>2024-06-23T16:00:00.000Z</updated>
         <published>2024-06-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1个芯片顶英伟达3个？这个偏爱印度的创始人爆肝8年，终于等来抢英伟达泼天富贵的一天！]]></title>
-        <id>https://posts.careerengine.us/p/667915b3b4cccc3c308376e5</id>
-        <link href="https://posts.careerengine.us/p/667915b3b4cccc3c308376e5"/>
+        <title type="html"><![CDATA[AI视频技术突破静默，让每一帧画面实现声色同步 | 大模型一周大事]]></title>
+        <id>https://posts.careerengine.us/p/667915c2e6938f3c9e4cee83</id>
+        <link href="https://posts.careerengine.us/p/667915c2e6938f3c9e4cee83"/>
         <updated>2024-06-23T16:00:00.000Z</updated>
         <published>2024-06-23T16:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="https://posts.careerengine.us/p/6678f1be3b692228b5c104fb"/>
         <updated>2024-06-23T16:00:00.000Z</updated>
         <published>2024-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跟骑手学习送外卖，这家具身智能公司的机器人已经上岗挣钱了]]></title>
-        <id>https://posts.careerengine.us/p/6678f1abcd26c52894e03499</id>
-        <link href="https://posts.careerengine.us/p/6678f1abcd26c52894e03499"/>
-        <updated>2024-06-23T16:00:00.000Z</updated>
-        <published>2024-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok 首度曝光多年来与美秘密谈判细节；美国新规拟禁止在中国投资 AI ；00 后女孩离职删软件被公司威胁起诉| AI周报]]></title>
-        <id>https://posts.careerengine.us/p/6677b4228ffaa716efff93d7</id>
-        <link href="https://posts.careerengine.us/p/6677b4228ffaa716efff93d7"/>
-        <updated>2024-06-22T16:00:00.000Z</updated>
-        <published>2024-06-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭秘大模型技术在快手搜索的应用]]></title>
-        <id>https://posts.careerengine.us/p/6677b4228ffaa716efff93df</id>
-        <link href="https://posts.careerengine.us/p/6677b4228ffaa716efff93df"/>
-        <updated>2024-06-22T16:00:00.000Z</updated>
-        <published>2024-06-22T16:00:00.000Z</published>
     </entry>
 </feed>

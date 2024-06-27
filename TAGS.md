@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-26 18:00:10。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-27 15:00:32。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -413,6 +413,7 @@
 
 
 - [【机器之心】填补AlphaFold3空白，字节跳动提出物理引导的方法让蛋白质动起来](https://posts.careerengine.us/p/6656b69cafe6b16e12de1a6f)
+- [【AI前线】字节跳动发布“豆包-MarsCode”智能开发工具，面向国内开发者免费](https://posts.careerengine.us/p/667ced325698a938d21fedc9)
 - [......【查看更多】......](/details/tags/bytedance.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
