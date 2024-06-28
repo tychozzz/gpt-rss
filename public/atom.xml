@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gpt-rss.com//atom.xml</id>
     <title>AIGC 相关文章 | gpt-rss | by 周三不Coding</title>
-    <updated>2024-06-27T22:00:39.623Z</updated>
+    <updated>2024-06-28T07:00:20.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tycho</name>
@@ -14,6 +14,34 @@
     <subtitle>订阅 AIGC 相关文章</subtitle>
     <icon>https://www.gpt-rss.com//static/favicon.ico</icon>
     <rights>All rights reserved 2024 by Tycho</rights>
+    <entry>
+        <title type="html"><![CDATA[一骗就中招！多模态大模型面对误导性问题，看懂图片也会答错]]></title>
+        <id>https://posts.careerengine.us/p/667e4773549d4f1240c8937b</id>
+        <link href="https://posts.careerengine.us/p/667e4773549d4f1240c8937b"/>
+        <updated>2024-06-27T16:00:00.000Z</updated>
+        <published>2024-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华中科技大学霍普克罗夫特计算科学研究中心公开招聘教师，诚邀海内外优秀学者加盟]]></title>
+        <id>https://posts.careerengine.us/p/667e4773549d4f1240c89383</id>
+        <link href="https://posts.careerengine.us/p/667e4773549d4f1240c89383"/>
+        <updated>2024-06-27T16:00:00.000Z</updated>
+        <published>2024-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这篇CVPR最佳论文只用一个月，灵感源自于….]]></title>
+        <id>https://posts.careerengine.us/p/667e476443373812099425a5</id>
+        <link href="https://posts.careerengine.us/p/667e476443373812099425a5"/>
+        <updated>2024-06-27T16:00:00.000Z</updated>
+        <published>2024-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在环境交互中持续进化！神经符号视角下的LLM自训练框架]]></title>
+        <id>https://posts.careerengine.us/p/667e476443373812099425ad</id>
+        <link href="https://posts.careerengine.us/p/667e476443373812099425ad"/>
+        <updated>2024-06-27T16:00:00.000Z</updated>
+        <published>2024-06-27T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[字节跳动发布“豆包 MarsCode”智能开发工具，面向国内开发者免费]]></title>
         <id>https://posts.careerengine.us/p/667ced325698a938d21fedc9</id>
@@ -36,16 +64,9 @@
         <published>2024-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[博士申请 | 西湖大学观复3D实验室陈安沛老师招收CV方向博士/RA/访问学生]]></title>
-        <id>https://posts.careerengine.us/p/667cfdf215a3787b1e66005e</id>
-        <link href="https://posts.careerengine.us/p/667cfdf215a3787b1e66005e"/>
-        <updated>2024-06-26T16:00:00.000Z</updated>
-        <published>2024-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大模型学不了推理？语言≠思维，一篇Nature让AI社区炸锅了]]></title>
-        <id>https://posts.careerengine.us/p/667cfde360968f7affdce95e</id>
-        <link href="https://posts.careerengine.us/p/667cfde360968f7affdce95e"/>
+        <title type="html"><![CDATA[通向概率分布之路：盘点Softmax及其替代品]]></title>
+        <id>https://posts.careerengine.us/p/667cfdd59856a77abc51599e</id>
+        <link href="https://posts.careerengine.us/p/667cfdd59856a77abc51599e"/>
         <updated>2024-06-26T16:00:00.000Z</updated>
         <published>2024-06-26T16:00:00.000Z</published>
     </entry>
@@ -57,9 +78,16 @@
         <published>2024-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[通向概率分布之路：盘点Softmax及其替代品]]></title>
-        <id>https://posts.careerengine.us/p/667cfdd59856a77abc51599e</id>
-        <link href="https://posts.careerengine.us/p/667cfdd59856a77abc51599e"/>
+        <title type="html"><![CDATA[大模型学不了推理？语言≠思维，一篇Nature让AI社区炸锅了]]></title>
+        <id>https://posts.careerengine.us/p/667cfde360968f7affdce95e</id>
+        <link href="https://posts.careerengine.us/p/667cfde360968f7affdce95e"/>
+        <updated>2024-06-26T16:00:00.000Z</updated>
+        <published>2024-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博士申请 | 西湖大学观复3D实验室陈安沛老师招收CV方向博士/RA/访问学生]]></title>
+        <id>https://posts.careerengine.us/p/667cfdf215a3787b1e66005e</id>
+        <link href="https://posts.careerengine.us/p/667cfdf215a3787b1e66005e"/>
         <updated>2024-06-26T16:00:00.000Z</updated>
         <published>2024-06-26T16:00:00.000Z</published>
     </entry>
@@ -141,9 +169,9 @@
         <published>2024-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[超越扩散模型！度小满、中科大等联合提出全新自回归通用文生图模型]]></title>
-        <id>https://posts.careerengine.us/p/667ba4ab8a2d251bdcdf3d00</id>
-        <link href="https://posts.careerengine.us/p/667ba4ab8a2d251bdcdf3d00"/>
+        <title type="html"><![CDATA[博士申请 | 拉彭兰塔理工大学刘志松老师招收AI4Science方向全奖博士生]]></title>
+        <id>https://posts.careerengine.us/p/667ba4ac8a2d251bdcdf3d08</id>
+        <link href="https://posts.careerengine.us/p/667ba4ac8a2d251bdcdf3d08"/>
         <updated>2024-06-25T16:00:00.000Z</updated>
         <published>2024-06-25T16:00:00.000Z</published>
     </entry>
@@ -155,9 +183,9 @@
         <published>2024-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[博士申请 | 拉彭兰塔理工大学刘志松老师招收AI4Science方向全奖博士生]]></title>
-        <id>https://posts.careerengine.us/p/667ba4ac8a2d251bdcdf3d08</id>
-        <link href="https://posts.careerengine.us/p/667ba4ac8a2d251bdcdf3d08"/>
+        <title type="html"><![CDATA[超越扩散模型！度小满、中科大等联合提出全新自回归通用文生图模型]]></title>
+        <id>https://posts.careerengine.us/p/667ba4ab8a2d251bdcdf3d00</id>
+        <link href="https://posts.careerengine.us/p/667ba4ab8a2d251bdcdf3d00"/>
         <updated>2024-06-25T16:00:00.000Z</updated>
         <published>2024-06-25T16:00:00.000Z</published>
     </entry>
@@ -253,9 +281,9 @@
         <published>2024-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北京内推 | ​搜狐畅游AI中心招聘游戏AI多模态算法工程师/实习生]]></title>
-        <id>https://posts.careerengine.us/p/667a596ee6a57562094fc48c</id>
-        <link href="https://posts.careerengine.us/p/667a596ee6a57562094fc48c"/>
+        <title type="html"><![CDATA[ACL 2024 | SMU、NUS提出参数高效微调增强剂，显著提升大语言模型性能]]></title>
+        <id>https://posts.careerengine.us/p/667a595ed6cac7618211f819</id>
+        <link href="https://posts.careerengine.us/p/667a595ed6cac7618211f819"/>
         <updated>2024-06-24T16:00:00.000Z</updated>
         <published>2024-06-24T16:00:00.000Z</published>
     </entry>
@@ -267,9 +295,9 @@
         <published>2024-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ACL 2024 | SMU、NUS提出参数高效微调增强剂，显著提升大语言模型性能]]></title>
-        <id>https://posts.careerengine.us/p/667a595ed6cac7618211f819</id>
-        <link href="https://posts.careerengine.us/p/667a595ed6cac7618211f819"/>
+        <title type="html"><![CDATA[北京内推 | ​搜狐畅游AI中心招聘游戏AI多模态算法工程师/实习生]]></title>
+        <id>https://posts.careerengine.us/p/667a596ee6a57562094fc48c</id>
+        <link href="https://posts.careerengine.us/p/667a596ee6a57562094fc48c"/>
         <updated>2024-06-24T16:00:00.000Z</updated>
         <published>2024-06-24T16:00:00.000Z</published>
     </entry>
@@ -335,33 +363,5 @@
         <link href="https://posts.careerengine.us/p/667a48e643d1e61dbc16d997"/>
         <updated>2024-06-24T16:00:00.000Z</updated>
         <published>2024-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飞书，为何成为国内大模型独角兽们的共同选择？]]></title>
-        <id>https://posts.careerengine.us/p/667a48d4db53a01d9020b911</id>
-        <link href="https://posts.careerengine.us/p/667a48d4db53a01d9020b911"/>
-        <updated>2024-06-24T16:00:00.000Z</updated>
-        <published>2024-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI停服，国产大模型免费用！开发者Token自由实现了]]></title>
-        <id>https://posts.careerengine.us/p/667a48d4db53a01d9020b909</id>
-        <link href="https://posts.careerengine.us/p/667a48d4db53a01d9020b909"/>
-        <updated>2024-06-24T16:00:00.000Z</updated>
-        <published>2024-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1个芯片顶英伟达3个？这个偏爱印度的创始人爆肝8年，终于等来抢英伟达泼天富贵的一天！]]></title>
-        <id>https://posts.careerengine.us/p/667915b3b4cccc3c308376e5</id>
-        <link href="https://posts.careerengine.us/p/667915b3b4cccc3c308376e5"/>
-        <updated>2024-06-23T16:00:00.000Z</updated>
-        <published>2024-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI视频技术突破静默，让每一帧画面实现声色同步 | 大模型一周大事]]></title>
-        <id>https://posts.careerengine.us/p/667915c2e6938f3c9e4cee83</id>
-        <link href="https://posts.careerengine.us/p/667915c2e6938f3c9e4cee83"/>
-        <updated>2024-06-23T16:00:00.000Z</updated>
-        <published>2024-06-23T16:00:00.000Z</published>
     </entry>
 </feed>
