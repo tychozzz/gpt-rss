@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gpt-rss.com//atom.xml</id>
     <title>AIGC 相关文章 | gpt-rss | by 周三不Coding</title>
-    <updated>2024-06-28T07:00:20.892Z</updated>
+    <updated>2024-06-28T10:00:31.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tycho</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅 AIGC 相关文章</subtitle>
     <icon>https://www.gpt-rss.com//static/favicon.ico</icon>
     <rights>All rights reserved 2024 by Tycho</rights>
+    <entry>
+        <title type="html"><![CDATA[钉钉集齐七大模型厂商：我们不是卖资源，而是要一起创新商业模式]]></title>
+        <id>https://posts.careerengine.us/p/667e4c3fb134162519f83082</id>
+        <link href="https://posts.careerengine.us/p/667e4c3fb134162519f83082"/>
+        <updated>2024-06-27T16:00:00.000Z</updated>
+        <published>2024-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​端侧模型打响突围战！VC 疯抢，又一创企“杀”出]]></title>
+        <id>https://posts.careerengine.us/p/667e4c3fb134162519f8307a</id>
+        <link href="https://posts.careerengine.us/p/667e4c3fb134162519f8307a"/>
+        <updated>2024-06-27T16:00:00.000Z</updated>
+        <published>2024-06-27T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一骗就中招！多模态大模型面对误导性问题，看懂图片也会答错]]></title>
         <id>https://posts.careerengine.us/p/667e4773549d4f1240c8937b</id>
@@ -43,9 +57,9 @@
         <published>2024-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[字节跳动发布“豆包 MarsCode”智能开发工具，面向国内开发者免费]]></title>
-        <id>https://posts.careerengine.us/p/667ced325698a938d21fedc9</id>
-        <link href="https://posts.careerengine.us/p/667ced325698a938d21fedc9"/>
+        <title type="html"><![CDATA[从AI高管到犀利CEO，贾扬清创业这一年：我们的目标是做AI时代的“第一朵云”]]></title>
+        <id>https://posts.careerengine.us/p/667ced21fc1a6b385b645707</id>
+        <link href="https://posts.careerengine.us/p/667ced21fc1a6b385b645707"/>
         <updated>2024-06-26T16:00:00.000Z</updated>
         <published>2024-06-26T16:00:00.000Z</published>
     </entry>
@@ -57,9 +71,9 @@
         <published>2024-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[从AI高管到犀利CEO，贾扬清创业这一年：我们的目标是做AI时代的“第一朵云”]]></title>
-        <id>https://posts.careerengine.us/p/667ced21fc1a6b385b645707</id>
-        <link href="https://posts.careerengine.us/p/667ced21fc1a6b385b645707"/>
+        <title type="html"><![CDATA[字节跳动发布“豆包 MarsCode”智能开发工具，面向国内开发者免费]]></title>
+        <id>https://posts.careerengine.us/p/667ced325698a938d21fedc9</id>
+        <link href="https://posts.careerengine.us/p/667ced325698a938d21fedc9"/>
         <updated>2024-06-26T16:00:00.000Z</updated>
         <published>2024-06-26T16:00:00.000Z</published>
     </entry>
@@ -148,9 +162,9 @@
         <published>2024-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[没想到国内大模型厂商又一次high起来，是因为OpenAI 断供！]]></title>
-        <id>https://posts.careerengine.us/p/667ba1fef20d2b10cbbb927a</id>
-        <link href="https://posts.careerengine.us/p/667ba1fef20d2b10cbbb927a"/>
+        <title type="html"><![CDATA[大模型训练检查点写入速度相比 PyTorch 加快 116 倍！微软提出 FastPersist 新方法]]></title>
+        <id>https://posts.careerengine.us/p/667ba20c8c63ec114d7c29be</id>
+        <link href="https://posts.careerengine.us/p/667ba20c8c63ec114d7c29be"/>
         <updated>2024-06-25T16:00:00.000Z</updated>
         <published>2024-06-25T16:00:00.000Z</published>
     </entry>
@@ -162,9 +176,9 @@
         <published>2024-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大模型训练检查点写入速度相比 PyTorch 加快 116 倍！微软提出 FastPersist 新方法]]></title>
-        <id>https://posts.careerengine.us/p/667ba20c8c63ec114d7c29be</id>
-        <link href="https://posts.careerengine.us/p/667ba20c8c63ec114d7c29be"/>
+        <title type="html"><![CDATA[没想到国内大模型厂商又一次high起来，是因为OpenAI 断供！]]></title>
+        <id>https://posts.careerengine.us/p/667ba1fef20d2b10cbbb927a</id>
+        <link href="https://posts.careerengine.us/p/667ba1fef20d2b10cbbb927a"/>
         <updated>2024-06-25T16:00:00.000Z</updated>
         <published>2024-06-25T16:00:00.000Z</published>
     </entry>
@@ -267,16 +281,16 @@
         <published>2024-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[快手开源 I2V-Adapter，即插即用、轻量级模块让静态图像秒变动态视频]]></title>
-        <id>https://posts.careerengine.us/p/667a56bd3e561657207c25ac</id>
-        <link href="https://posts.careerengine.us/p/667a56bd3e561657207c25ac"/>
+        <title type="html"><![CDATA[一群顶尖搜索人才如何2个月出货，还把GPU利用率干到60％！揭秘百川智能研发大模型这一年]]></title>
+        <id>https://posts.careerengine.us/p/667a56aff7d77b5703b8d10d</id>
+        <link href="https://posts.careerengine.us/p/667a56aff7d77b5703b8d10d"/>
         <updated>2024-06-24T16:00:00.000Z</updated>
         <published>2024-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一群顶尖搜索人才如何2个月出货，还把GPU利用率干到60％！揭秘百川智能研发大模型这一年]]></title>
-        <id>https://posts.careerengine.us/p/667a56aff7d77b5703b8d10d</id>
-        <link href="https://posts.careerengine.us/p/667a56aff7d77b5703b8d10d"/>
+        <title type="html"><![CDATA[快手开源 I2V-Adapter，即插即用、轻量级模块让静态图像秒变动态视频]]></title>
+        <id>https://posts.careerengine.us/p/667a56bd3e561657207c25ac</id>
+        <link href="https://posts.careerengine.us/p/667a56bd3e561657207c25ac"/>
         <updated>2024-06-24T16:00:00.000Z</updated>
         <published>2024-06-24T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[OpenAI封杀不支持地区API：违规封号，7月9日生效]]></title>
         <id>https://posts.careerengine.us/p/667a48e743d1e61dbc16d99f</id>
         <link href="https://posts.careerengine.us/p/667a48e743d1e61dbc16d99f"/>
-        <updated>2024-06-24T16:00:00.000Z</updated>
-        <published>2024-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邀请函｜洞观世界，聚引长三角——AI新质生产力发展论坛盛大开启，欢迎参会！]]></title>
-        <id>https://posts.careerengine.us/p/667a48e643d1e61dbc16d98e</id>
-        <link href="https://posts.careerengine.us/p/667a48e643d1e61dbc16d98e"/>
-        <updated>2024-06-24T16:00:00.000Z</updated>
-        <published>2024-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昆仑万维携手南洋理工大学抢发Q*算法：百倍提升7B模型推理能力]]></title>
-        <id>https://posts.careerengine.us/p/667a48e643d1e61dbc16d997</id>
-        <link href="https://posts.careerengine.us/p/667a48e643d1e61dbc16d997"/>
         <updated>2024-06-24T16:00:00.000Z</updated>
         <published>2024-06-24T16:00:00.000Z</published>
     </entry>
