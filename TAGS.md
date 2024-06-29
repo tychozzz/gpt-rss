@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-29 18:01:11。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-30 06:00:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -255,10 +255,10 @@
 - [【量子位】多模态CoT思维链架构来了，现已开源｜来自厦大&腾讯优图](https://posts.careerengine.us/p/66555e775f0f6a4465891cc6)
 - [【量子位】上海交大新框架解锁CLIP长文本能力，多模态生成细节拿捏，图像检索能力显著提升](https://posts.careerengine.us/p/66092091d73fb76a9f0353da)
 - [【量子位】北大&腾讯打造多模态15边形战士！语言作“纽带”，拳打脚踢各模态，超越Imagebind](https://posts.careerengine.us/p/65504ca2d8a0792896491abe)
+- [【PaperWeekly】上海/杭州内推-|-​蚂蚁智能引擎事业部招聘多模态认知算法研究员/实习生](https://posts.careerengine.us/p/66802b559ffc046fbfd4f168)
 - [【PaperWeekly】ICML-2024-|-清华提出DecisionNCE，用多模态表征预训练加速具身智能](https://posts.careerengine.us/p/66766990a9e01f6f33093f57)
 - [【PaperWeekly】北京/上海内推-|-​地平线招聘多模态感知算法工程师/实习生](https://posts.careerengine.us/p/666bd49ffa611219a1a225f5)
 - [【PaperWeekly】北大联合字节提出多模态评估流程ConBench：揭示VLM的不一致性](https://posts.careerengine.us/p/666a8110a34edc28a3a24c3c)
-- [【PaperWeekly】ACM-MM-2024深度多模态生成和检索研讨会，诚邀各界专家学者参与](https://posts.careerengine.us/p/664596eba6cb64713a19b0ac)
 - [......【查看更多】......](/details/tags/duomotai.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

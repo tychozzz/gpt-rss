@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-29 18:01:11，:rocket: 更新条数: +9， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-30 06:00:23，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-06-29-打开文心大模型，一看全是生产力](https://posts.careerengine.us/p/667f9c8a2e70536186c4bdcf) ![](/assets/new.png)  
-- [2024-06-29-开发者狂喜！Meta最新发布的LLM-Compiler，实现77％自动调优效率](https://posts.careerengine.us/p/667f9c99ae44dd61a2ff8db0) ![](/assets/new.png)  
-- [2024-06-29-看张手绘草图就能合成图形程序，加州伯克利让扩散模型掌握新技能](https://posts.careerengine.us/p/667f9c99ae44dd61a2ff8db8) ![](/assets/new.png)  
-- [2024-06-29-AI小分子药物发现的「百科全书」，康奈尔、剑桥、EPFL等研究者综述登Nature子刊](https://posts.careerengine.us/p/667f9ca88b0d896239307578) ![](/assets/new.png)  
-- [2024-06-29-ICML-2024｜Transformer究竟如何推理？基于样例还是基于规则](https://posts.careerengine.us/p/667f9ca88b0d896239307570) ![](/assets/new.png)  
+- [2024-06-29-打开文心大模型，一看全是生产力](https://posts.careerengine.us/p/667f9c8a2e70536186c4bdcf)  
+- [2024-06-29-开发者狂喜！Meta最新发布的LLM-Compiler，实现77％自动调优效率](https://posts.careerengine.us/p/667f9c99ae44dd61a2ff8db0)  
+- [2024-06-29-看张手绘草图就能合成图形程序，加州伯克利让扩散模型掌握新技能](https://posts.careerengine.us/p/667f9c99ae44dd61a2ff8db8)  
+- [2024-06-29-AI小分子药物发现的「百科全书」，康奈尔、剑桥、EPFL等研究者综述登Nature子刊](https://posts.careerengine.us/p/667f9ca88b0d896239307578)  
+- [2024-06-29-ICML-2024｜Transformer究竟如何推理？基于样例还是基于规则](https://posts.careerengine.us/p/667f9ca88b0d896239307570)  
 - [2024-06-28-谷歌「诚意之作」，开源9B、27B版Gemma2，主打高效、经济！](https://posts.careerengine.us/p/667e8ade1a1e691d64f2ca05)  
 - [2024-06-28-击败Gemini-1.5-Pro、GPT-4V，从容大模型多模态能力跻身全球前三](https://posts.careerengine.us/p/667e8ade1a1e691d64f2ca0d)  
 - [2024-06-28-300多篇相关研究，复旦、南洋理工最新多模态图像编辑综述论文](https://posts.careerengine.us/p/667e8ade1a1e691d64f2c9fd)  
@@ -52,10 +52,10 @@
 </summary>
 
 
-- [2024-06-29-英伟达布局AI视频，Sora风头快被抢完了](https://posts.careerengine.us/p/667fab87d18d161da104075d) ![](/assets/new.png)  
-- [2024-06-29-AI如何改变通信？对话联想懂的通信](https://posts.careerengine.us/p/667fab87d18d161da1040755) ![](/assets/new.png)  
-- [2024-06-29-一次可输入多张图像，还能多轮对话！最新开源数据集，让AI聊天更接近现实](https://posts.careerengine.us/p/667fab96487f321dc0951c25) ![](/assets/new.png)  
-- [2024-06-29-靠Scaling-Laws炼出4D版视频生成模型，多伦多大学北交大等携手开源81K高质量数据集](https://posts.careerengine.us/p/667faba63018801e4a6acc9e) ![](/assets/new.png)  
+- [2024-06-29-英伟达布局AI视频，Sora风头快被抢完了](https://posts.careerengine.us/p/667fab87d18d161da104075d)  
+- [2024-06-29-AI如何改变通信？对话联想懂的通信](https://posts.careerengine.us/p/667fab87d18d161da1040755)  
+- [2024-06-29-一次可输入多张图像，还能多轮对话！最新开源数据集，让AI聊天更接近现实](https://posts.careerengine.us/p/667fab96487f321dc0951c25)  
+- [2024-06-29-靠Scaling-Laws炼出4D版视频生成模型，多伦多大学北交大等携手开源81K高质量数据集](https://posts.careerengine.us/p/667faba63018801e4a6acc9e)  
 - [2024-06-28-陈丹琦团队图表解读新基准：新王Claude3.5刚及格，但已是模型最强推理表现](https://posts.careerengine.us/p/667e9b86f36d3362b3df9b37)  
 - [2024-06-28-谷歌开源系模型第二代免费开放！27B媲美LLaMA3-70B，单H100或TPU主机可跑](https://posts.careerengine.us/p/667e9b775a6c7c6236bf5ffd)  
 - [2024-06-28-炸裂！讯飞现场大秀强干扰语音识别，星火4.0霸榜八个榜单，74种语言自由交流](https://posts.careerengine.us/p/667e9b775a6c7c6236bf6005)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-06-28-在环境交互中持续进化！神经符号视角下的LLM自训练框架](https://posts.careerengine.us/p/667e476443373812099425ad)  
-- [2024-06-28-这篇CVPR最佳论文只用一个月，灵感源自于….](https://posts.careerengine.us/p/667e476443373812099425a5)  
-- [2024-06-28-华中科技大学霍普克罗夫特计算科学研究中心公开招聘教师，诚邀海内外优秀学者加盟](https://posts.careerengine.us/p/667e4773549d4f1240c89383)  
+- [2024-06-29-LLaVA-HD全新升级，更快更强！已开源](https://posts.careerengine.us/p/66802b24a725006f4ca7f8a5) ![](/assets/new.png)  
+- [2024-06-29-字节、华科发布多语种视觉文本理解新基准，多模态大模型还有很长的路要走](https://posts.careerengine.us/p/66802b35c04d2b6f6d3968bf) ![](/assets/new.png)  
+- [2024-06-29-ICML-2024-|-Transformer究竟如何推理？基于样例还是基于规则](https://posts.careerengine.us/p/66802b35c04d2b6f6d3968c7) ![](/assets/new.png)  
+- [2024-06-29-上海/杭州内推-|-​蚂蚁智能引擎事业部招聘多模态认知算法研究员/实习生](https://posts.careerengine.us/p/66802b559ffc046fbfd4f168) ![](/assets/new.png)  
 - [2024-06-28-一骗就中招！多模态大模型面对误导性问题，看懂图片也会答错](https://posts.careerengine.us/p/667e4773549d4f1240c8937b)  
-- [2024-06-27-博士申请-|-西湖大学观复3D实验室陈安沛老师招收CV方向博士/RA/访问学生](https://posts.careerengine.us/p/667cfdf215a3787b1e66005e)  
-- [2024-06-27-大模型学不了推理？语言≠思维，一篇Nature让AI社区炸锅了](https://posts.careerengine.us/p/667cfde360968f7affdce95e)  
-- [2024-06-27-​ACL-2024-|-28倍离线解码加速！用非自回归架构实现高质量同声传译](https://posts.careerengine.us/p/667cfdd59856a77abc5159a6)  
+- [2024-06-28-华中科技大学霍普克罗夫特计算科学研究中心公开招聘教师，诚邀海内外优秀学者加盟](https://posts.careerengine.us/p/667e4773549d4f1240c89383)  
+- [2024-06-28-这篇CVPR最佳论文只用一个月，灵感源自于….](https://posts.careerengine.us/p/667e476443373812099425a5)  
+- [2024-06-28-在环境交互中持续进化！神经符号视角下的LLM自训练框架](https://posts.careerengine.us/p/667e476443373812099425ad)  
 - [2024-06-27-通向概率分布之路：盘点Softmax及其替代品](https://posts.careerengine.us/p/667cfdd59856a77abc51599e)  
-- [2024-06-26-超越扩散模型！度小满、中科大等联合提出全新自回归通用文生图模型](https://posts.careerengine.us/p/667ba4ab8a2d251bdcdf3d00)  
-- [2024-06-26-2024年，迁移学习彻底凉了？](https://posts.careerengine.us/p/667ba4ab8a2d251bdcdf3cf0)  
+- [2024-06-27-​ACL-2024-|-28倍离线解码加速！用非自回归架构实现高质量同声传译](https://posts.careerengine.us/p/667cfdd59856a77abc5159a6)  
+- [2024-06-27-大模型学不了推理？语言≠思维，一篇Nature让AI社区炸锅了](https://posts.careerengine.us/p/667cfde360968f7affdce95e)  
+- [2024-06-27-博士申请-|-西湖大学观复3D实验室陈安沛老师招收CV方向博士/RA/访问学生](https://posts.careerengine.us/p/667cfdf215a3787b1e66005e)  
 - [2024-06-26-博士申请-|-拉彭兰塔理工大学刘志松老师招收AI4Science方向全奖博士生](https://posts.careerengine.us/p/667ba4ac8a2d251bdcdf3d08)  
-- [2024-06-25-北京内推-|-​搜狐畅游AI中心招聘游戏AI多模态算法工程师/实习生](https://posts.careerengine.us/p/667a596ee6a57562094fc48c)  
-- [2024-06-25-超强阵容集结！小红书大模型论文分享会来了，四大国际顶会作者强势来袭](https://posts.careerengine.us/p/667a595fd6cac7618211f821)  
+- [2024-06-26-2024年，迁移学习彻底凉了？](https://posts.careerengine.us/p/667ba4ab8a2d251bdcdf3cf0)  
+- [2024-06-26-超越扩散模型！度小满、中科大等联合提出全新自回归通用文生图模型](https://posts.careerengine.us/p/667ba4ab8a2d251bdcdf3d00)  
 - [2024-06-25-ACL-2024-|-SMU、NUS提出参数高效微调增强剂，显著提升大语言模型性能](https://posts.careerengine.us/p/667a595ed6cac7618211f819)  
-- [2024-06-24-中科院、人大、百川提出视频理解基准合成框架VideoNIAH](https://posts.careerengine.us/p/667903b7a7f7407280371a37)  
-- [2024-06-24-ICML-2024-|-探究知识编辑对大语言模型的近邻扰动](https://posts.careerengine.us/p/667903b7a7f7407280371a2f)  
+- [2024-06-25-超强阵容集结！小红书大模型论文分享会来了，四大国际顶会作者强势来袭](https://posts.careerengine.us/p/667a595fd6cac7618211f821)  
+- [2024-06-25-北京内推-|-​搜狐畅游AI中心招聘游戏AI多模态算法工程师/实习生](https://posts.careerengine.us/p/667a596ee6a57562094fc48c)  
 - [2024-06-24-博士申请-|-香港科技大学（广州）钟秉灼老师招收安全可信AI方向全奖博士/博后/RA](https://posts.careerengine.us/p/667903c6da8c3a72ce922abe)  
-- [2024-06-23-科研实习-|-西湖大学人工智能实验室AI4Science小组招收科研实习生](https://posts.careerengine.us/p/6677b8403868182755409c8f)  
-- [2024-06-23-新趋势！AI大模型走下神坛！](https://posts.careerengine.us/p/6677b831bac73f272d6ba70f)  
-- [2024-06-23-NUS、清华提出STAR：一句话生成高质量4D-Avatar，代码已开源](https://posts.careerengine.us/p/6677b831bac73f272d6ba717)  
+- [2024-06-24-ICML-2024-|-探究知识编辑对大语言模型的近邻扰动](https://posts.careerengine.us/p/667903b7a7f7407280371a2f)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
