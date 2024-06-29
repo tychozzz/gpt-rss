@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-28 23:00:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-29 15:00:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 文心一言
 
@@ -15,4 +15,5 @@
 - [2023-11-15-百度营销《打通全域营销-破局长效增长》重磅发布，拥抱长效经营新范式](https://posts.careerengine.us/p/6554bbf5726adb387720e7b1) 
 - [2023-09-08-深圳内推-|-百度文心ERNIE团队招聘NLP数据科学算法实习生](https://posts.careerengine.us/p/64faa0106ebf823fe3343af1) 
 - [2023-08-23-北京/上海/深圳内推-|-百度视觉技术部招聘内容理解/3D视觉等方向算法实习生](https://posts.careerengine.us/p/64e58af081107341ef9c560a) 
+- [2024-06-29-百度文心-4.0-Turbo-来了！联合飞桨框架-3.0-推理性能跃升-30％，文心快码升级至-2.5-版](https://posts.careerengine.us/p/667f8fab90fc272edf6349a3) 
 - [2024-04-16-“干掉程序员”，百度是认真的！发布三大开发工具和全新操作系统，李彦宏：只要会说话就会干开发](https://posts.careerengine.us/p/661e043404376146094de167) 
