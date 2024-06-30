@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-30 06:00:23，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-30 18:00:21，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-06-29-英伟达布局AI视频，Sora风头快被抢完了](https://posts.careerengine.us/p/667fab87d18d161da104075d)  
-- [2024-06-29-AI如何改变通信？对话联想懂的通信](https://posts.careerengine.us/p/667fab87d18d161da1040755)  
-- [2024-06-29-一次可输入多张图像，还能多轮对话！最新开源数据集，让AI聊天更接近现实](https://posts.careerengine.us/p/667fab96487f321dc0951c25)  
+- [2024-06-30-AI真·炼丹：整整14天，无需人类参与](https://posts.careerengine.us/p/6680f4bed0194015678d58ce) ![](/assets/new.png)  
+- [2024-06-30-联想：6大AI看点，让硅基觉醒](https://posts.careerengine.us/p/6680f4cf9036ca15802c40ab) ![](/assets/new.png)  
+- [2024-06-30-迄今最快的网络流算法，网友：几乎与数学理论一样快](https://posts.careerengine.us/p/6680f4d09036ca15802c40bb) ![](/assets/new.png)  
 - [2024-06-29-靠Scaling-Laws炼出4D版视频生成模型，多伦多大学北交大等携手开源81K高质量数据集](https://posts.careerengine.us/p/667faba63018801e4a6acc9e)  
-- [2024-06-28-陈丹琦团队图表解读新基准：新王Claude3.5刚及格，但已是模型最强推理表现](https://posts.careerengine.us/p/667e9b86f36d3362b3df9b37)  
-- [2024-06-28-谷歌开源系模型第二代免费开放！27B媲美LLaMA3-70B，单H100或TPU主机可跑](https://posts.careerengine.us/p/667e9b775a6c7c6236bf5ffd)  
-- [2024-06-28-炸裂！讯飞现场大秀强干扰语音识别，星火4.0霸榜八个榜单，74种语言自由交流](https://posts.careerengine.us/p/667e9b775a6c7c6236bf6005)  
-- [2024-06-28-AI首次实时生成视频！尤洋团队新作，网友：这是新纪元](https://posts.careerengine.us/p/667e9b775a6c7c6236bf5ff5)  
+- [2024-06-29-一次可输入多张图像，还能多轮对话！最新开源数据集，让AI聊天更接近现实](https://posts.careerengine.us/p/667fab96487f321dc0951c25)  
+- [2024-06-29-AI如何改变通信？对话联想懂的通信](https://posts.careerengine.us/p/667fab87d18d161da1040755)  
+- [2024-06-29-英伟达布局AI视频，Sora风头快被抢完了](https://posts.careerengine.us/p/667fab87d18d161da104075d)  
 - [2024-06-28-华东师范大学的老师，上课已经用上了大模型](https://posts.careerengine.us/p/667e9b6645d36d621db136cf)  
-- [2024-06-27-又双叒导了？中科院等发布「近室温常压」超导新论文，相关话题一度知乎热榜第一](https://posts.careerengine.us/p/667cec0ee85dc3343c70767f)  
-- [2024-06-27-首次引入GPT-4o！图像自动评估新基准来啦](https://posts.careerengine.us/p/667cec0ee85dc3343c707687)  
+- [2024-06-28-AI首次实时生成视频！尤洋团队新作，网友：这是新纪元](https://posts.careerengine.us/p/667e9b775a6c7c6236bf5ff5)  
+- [2024-06-28-炸裂！讯飞现场大秀强干扰语音识别，星火4.0霸榜八个榜单，74种语言自由交流](https://posts.careerengine.us/p/667e9b775a6c7c6236bf6005)  
+- [2024-06-28-谷歌开源系模型第二代免费开放！27B媲美LLaMA3-70B，单H100或TPU主机可跑](https://posts.careerengine.us/p/667e9b775a6c7c6236bf5ffd)  
+- [2024-06-28-陈丹琦团队图表解读新基准：新王Claude3.5刚及格，但已是模型最强推理表现](https://posts.careerengine.us/p/667e9b86f36d3362b3df9b37)  
 - [2024-06-27-杨植麟闫俊杰都来站台！钉钉要建中国最开放AI生态](https://posts.careerengine.us/p/667cec1dd47fa6346074af0d)  
-- [2024-06-26-陈丹琦团队新作：教你避免成为任天堂的被告](https://posts.careerengine.us/p/667bb9917cadc96eaa615110)  
-- [2024-06-26-超越扩散模型！自回归新范式仅需2.9秒就生成高质量图像，中科大哈工大度小满出品](https://posts.careerengine.us/p/667bb9917cadc96eaa6150ff)  
-- [2024-06-26-Sora首部商业片亮相戛纳！300万网友围观](https://posts.careerengine.us/p/667bb9917cadc96eaa615107)  
-- [2024-06-26-大模型上岗三甲医院，给每个医生都配个“病历质控助手”](https://posts.careerengine.us/p/667bb97fb1624a6e6e41a9fe)  
-- [2024-06-26-不怕OpenAI断供！零一万物“二折平替GPT计划”上线](https://posts.careerengine.us/p/667bb97eb1624a6e6e41a9ee)  
+- [2024-06-27-首次引入GPT-4o！图像自动评估新基准来啦](https://posts.careerengine.us/p/667cec0ee85dc3343c707687)  
+- [2024-06-27-又双叒导了？中科院等发布「近室温常压」超导新论文，相关话题一度知乎热榜第一](https://posts.careerengine.us/p/667cec0ee85dc3343c70767f)  
 - [2024-06-26-大模型“五小虎”齐齐pick，飞书凭什么？](https://posts.careerengine.us/p/667bb97eb1624a6e6e41a9f6)  
-- [2024-06-25-中国杀出全球首个烹饪大模型](https://posts.careerengine.us/p/667a897398258424133a8982)  
-- [2024-06-25-CVPR自动驾驶最in挑战赛赛道，全球冠军被算力选手夺走了](https://posts.careerengine.us/p/667a8982fce1cf24853123d0)  
+- [2024-06-26-不怕OpenAI断供！零一万物“二折平替GPT计划”上线](https://posts.careerengine.us/p/667bb97eb1624a6e6e41a9ee)  
+- [2024-06-26-大模型上岗三甲医院，给每个医生都配个“病历质控助手”](https://posts.careerengine.us/p/667bb97fb1624a6e6e41a9fe)  
+- [2024-06-26-Sora首部商业片亮相戛纳！300万网友围观](https://posts.careerengine.us/p/667bb9917cadc96eaa615107)  
+- [2024-06-26-超越扩散模型！自回归新范式仅需2.9秒就生成高质量图像，中科大哈工大度小满出品](https://posts.careerengine.us/p/667bb9917cadc96eaa6150ff)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2024-06-29-LLaVA-HD全新升级，更快更强！已开源](https://posts.careerengine.us/p/66802b24a725006f4ca7f8a5) ![](/assets/new.png)  
-- [2024-06-29-字节、华科发布多语种视觉文本理解新基准，多模态大模型还有很长的路要走](https://posts.careerengine.us/p/66802b35c04d2b6f6d3968bf) ![](/assets/new.png)  
-- [2024-06-29-ICML-2024-|-Transformer究竟如何推理？基于样例还是基于规则](https://posts.careerengine.us/p/66802b35c04d2b6f6d3968c7) ![](/assets/new.png)  
-- [2024-06-29-上海/杭州内推-|-​蚂蚁智能引擎事业部招聘多模态认知算法研究员/实习生](https://posts.careerengine.us/p/66802b559ffc046fbfd4f168) ![](/assets/new.png)  
+- [2024-06-29-LLaVA-HD全新升级，更快更强！已开源](https://posts.careerengine.us/p/66802b24a725006f4ca7f8a5)  
+- [2024-06-29-字节、华科发布多语种视觉文本理解新基准，多模态大模型还有很长的路要走](https://posts.careerengine.us/p/66802b35c04d2b6f6d3968bf)  
+- [2024-06-29-ICML-2024-|-Transformer究竟如何推理？基于样例还是基于规则](https://posts.careerengine.us/p/66802b35c04d2b6f6d3968c7)  
+- [2024-06-29-上海/杭州内推-|-​蚂蚁智能引擎事业部招聘多模态认知算法研究员/实习生](https://posts.careerengine.us/p/66802b559ffc046fbfd4f168)  
 - [2024-06-28-一骗就中招！多模态大模型面对误导性问题，看懂图片也会答错](https://posts.careerengine.us/p/667e4773549d4f1240c8937b)  
 - [2024-06-28-华中科技大学霍普克罗夫特计算科学研究中心公开招聘教师，诚邀海内外优秀学者加盟](https://posts.careerengine.us/p/667e4773549d4f1240c89383)  
 - [2024-06-28-这篇CVPR最佳论文只用一个月，灵感源自于….](https://posts.careerengine.us/p/667e476443373812099425a5)  
