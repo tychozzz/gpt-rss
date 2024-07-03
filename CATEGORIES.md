@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-07-03 18:00:30，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-03 21:00:29，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-07-02-免费！国产大模型编程助手豆包MarsCode重磅上线，还有登录即用的云端IDE](https://posts.careerengine.us/p/66837d848c11440a4ffc4613)  
-- [2024-07-02-73年前，香农已经给大模型发展埋下一颗种子](https://posts.careerengine.us/p/66837d93b2a48d0a796156e9)  
-- [2024-07-02-全球首个神经连接机械腿，截肢者恢复自然行走，还带空间感](https://posts.careerengine.us/p/66837d93b2a48d0a796156e0)  
-- [2024-07-02-神经网络可能不再需要激活函数？Layer-Normalization也具有非线性表达！](https://posts.careerengine.us/p/66837da257dde50aa234affe)  
+- [2024-07-03-AI助攻「菜鸟数学家」解决忙碌海狸问题，陶哲轩转发分享](https://posts.careerengine.us/p/66853213fb5c544db4ff9399) ![](/assets/new.png)  
+- [2024-07-03-不到60秒就能生成3D「手办」，Meta发力3D生成，ChatGPT时刻要来了吗？](https://posts.careerengine.us/p/66853213fb5c544db4ff9389) ![](/assets/new.png)  
+- [2024-07-03-央视点赞国产AI复活召唤术，兵马俑竟与宝石老舅对唱Rap？](https://posts.careerengine.us/p/66853213fb5c544db4ff9391) ![](/assets/new.png)  
+- [2024-07-03-细数RAG的12个痛点，英伟达高级架构师亲授解决方案](https://posts.careerengine.us/p/66853214fb5c544db4ff93a1) ![](/assets/new.png)  
+- [2024-07-03-ICML-2024高分论文-|-零阶优化器微调大模型，大幅降低内存](https://posts.careerengine.us/p/6685322291e3a84e55743295) ![](/assets/new.png)  
 - [2024-07-02-哈工大提出创新迭代推理框架-DPE-MNER-：充分发挥多模态表示潜力](https://posts.careerengine.us/p/66837db46f521f0b163d167a)  
-- [2024-07-01-等不来OpenAI的Q*，华为诺亚探索LLM推理的秘密武器MindStar先来了](https://posts.careerengine.us/p/668234a21f66337c35736985)  
-- [2024-07-01-ICML-2024-Spotlight-|-在解码中重新对齐，让语言模型更少幻觉、更符合人类偏好](https://posts.careerengine.us/p/668234a21f66337c3573697d)  
-- [2024-07-01-人刚毕业，颠覆整个AI界：扒一扒Sora两带头人博士论文](https://posts.careerengine.us/p/668234938cee1a7bbe509f7d)  
-- [2024-07-01-最难「讨好」的消费者，竟然都被AIGC征服了？](https://posts.careerengine.us/p/668234938cee1a7bbe509f74)  
+- [2024-07-02-神经网络可能不再需要激活函数？Layer-Normalization也具有非线性表达！](https://posts.careerengine.us/p/66837da257dde50aa234affe)  
+- [2024-07-02-全球首个神经连接机械腿，截肢者恢复自然行走，还带空间感](https://posts.careerengine.us/p/66837d93b2a48d0a796156e0)  
+- [2024-07-02-73年前，香农已经给大模型发展埋下一颗种子](https://posts.careerengine.us/p/66837d93b2a48d0a796156e9)  
+- [2024-07-02-免费！国产大模型编程助手豆包MarsCode重磅上线，还有登录即用的云端IDE](https://posts.careerengine.us/p/66837d848c11440a4ffc4613)  
 - [2024-07-01-速来！潞晨Open-Sora羊毛可薅，10元轻松上手视频生成](https://posts.careerengine.us/p/668234845e532c7b93904510)  
-- [2024-06-30-全网围观魏建军直播：长城端到端智驾大模型挑战重庆「魔幻路况」](https://posts.careerengine.us/p/6681336a2590290822e372ed)  
-- [2024-06-30-亚马逊云创新「神经稀疏检索」：仅需要文本匹配就能实现语义搜索](https://posts.careerengine.us/p/6681337d4082a9084409007b)  
-- [2024-06-30-从零开始，用英伟达T4、A10训练小型文生视频模型，几小时搞定](https://posts.careerengine.us/p/6681337d4082a9084409006b)  
-- [2024-06-30-Nature-热议论文证明「语言不是思考工具」，LLM-可能要学不会推理了？](https://posts.careerengine.us/p/6681337d4082a90844090073)  
+- [2024-07-01-最难「讨好」的消费者，竟然都被AIGC征服了？](https://posts.careerengine.us/p/668234938cee1a7bbe509f74)  
+- [2024-07-01-人刚毕业，颠覆整个AI界：扒一扒Sora两带头人博士论文](https://posts.careerengine.us/p/668234938cee1a7bbe509f7d)  
+- [2024-07-01-ICML-2024-Spotlight-|-在解码中重新对齐，让语言模型更少幻觉、更符合人类偏好](https://posts.careerengine.us/p/668234a21f66337c3573697d)  
+- [2024-07-01-等不来OpenAI的Q*，华为诺亚探索LLM推理的秘密武器MindStar先来了](https://posts.careerengine.us/p/668234a21f66337c35736985)  
 - [2024-06-30-30倍于传统方法，中国科学院团队Transformer深度学习模型预测糖——蛋白质作用位点](https://posts.careerengine.us/p/6681338bcb248908c0ced912)  
-- [2024-06-29-ICML-2024｜Transformer究竟如何推理？基于样例还是基于规则](https://posts.careerengine.us/p/667f9ca88b0d896239307570)  
-- [2024-06-29-AI小分子药物发现的「百科全书」，康奈尔、剑桥、EPFL等研究者综述登Nature子刊](https://posts.careerengine.us/p/667f9ca88b0d896239307578)  
-- [2024-06-29-看张手绘草图就能合成图形程序，加州伯克利让扩散模型掌握新技能](https://posts.careerengine.us/p/667f9c99ae44dd61a2ff8db8)  
-- [2024-06-29-开发者狂喜！Meta最新发布的LLM-Compiler，实现77％自动调优效率](https://posts.careerengine.us/p/667f9c99ae44dd61a2ff8db0)  
-- [2024-06-29-打开文心大模型，一看全是生产力](https://posts.careerengine.us/p/667f9c8a2e70536186c4bdcf)  
+- [2024-06-30-Nature-热议论文证明「语言不是思考工具」，LLM-可能要学不会推理了？](https://posts.careerengine.us/p/6681337d4082a90844090073)  
+- [2024-06-30-从零开始，用英伟达T4、A10训练小型文生视频模型，几小时搞定](https://posts.careerengine.us/p/6681337d4082a9084409006b)  
+- [2024-06-30-亚马逊云创新「神经稀疏检索」：仅需要文本匹配就能实现语义搜索](https://posts.careerengine.us/p/6681337d4082a9084409007b)  
+- [2024-06-30-全网围观魏建军直播：长城端到端智驾大模型挑战重庆「魔幻路况」](https://posts.careerengine.us/p/6681336a2590290822e372ed)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,9 +118,9 @@
 </summary>
 
 
-- [2024-07-03-博士第五年，还没有找到论文创新点？](https://posts.careerengine.us/p/6684e3d857b96c158b4e4025) ![](/assets/new.png)  
-- [2024-07-03-KDD-2024-|-已开源！可解释性点过程对社交网络交互的挖掘](https://posts.careerengine.us/p/6684e3e8a8bf1e15b20b00a8) ![](/assets/new.png)  
-- [2024-07-03-如何加速大模型推理？万字综述全面解析大语言模型高效推理技术](https://posts.careerengine.us/p/6684e3fb176edb15cfa33abc) ![](/assets/new.png)  
+- [2024-07-03-博士第五年，还没有找到论文创新点？](https://posts.careerengine.us/p/6684e3d857b96c158b4e4025)  
+- [2024-07-03-KDD-2024-|-已开源！可解释性点过程对社交网络交互的挖掘](https://posts.careerengine.us/p/6684e3e8a8bf1e15b20b00a8)  
+- [2024-07-03-如何加速大模型推理？万字综述全面解析大语言模型高效推理技术](https://posts.careerengine.us/p/6684e3fb176edb15cfa33abc)  
 - [2024-07-02-博士申请-|-香港科技大学（广州）陈煌栒老师招收人工智能全奖博士/RA/实习生](https://posts.careerengine.us/p/66838bc895402f44986653e3)  
 - [2024-07-02-文末送书！清华汪玉教授团队：首部高效模型压缩与设计专著重磅上市](https://posts.careerengine.us/p/66838bb70a2593441cc9b69a)  
 - [2024-07-02-重温被Mamba带火的SSM：HiPPO的一些遗留问题](https://posts.careerengine.us/p/66838bb70a2593441cc9b6a4)  
@@ -176,9 +176,9 @@
 </summary>
 
 
-- [2024-07-03-微软130亿美元换的OpenAI-董事席，苹果仅靠“刷脸”就拿下了！硅谷明星创企积极投靠大厂](https://posts.careerengine.us/p/6684f48fab9bb857d381ee82) ![](/assets/new.png)  
-- [2024-07-03-Runway-的-Gen-3-向所有用户开放付费使用，网友：免费的可灵更香](https://posts.careerengine.us/p/6684f490ab9bb857d381ee94) ![](/assets/new.png)  
-- [2024-07-03-国内最重视生成式AI的企业和最卷的同事们都在哪？｜InfoQ技术大会年中盘点](https://posts.careerengine.us/p/6684f490ab9bb857d381ee8b) ![](/assets/new.png)  
+- [2024-07-03-微软130亿美元换的OpenAI-董事席，苹果仅靠“刷脸”就拿下了！硅谷明星创企积极投靠大厂](https://posts.careerengine.us/p/6684f48fab9bb857d381ee82)  
+- [2024-07-03-Runway-的-Gen-3-向所有用户开放付费使用，网友：免费的可灵更香](https://posts.careerengine.us/p/6684f490ab9bb857d381ee94)  
+- [2024-07-03-国内最重视生成式AI的企业和最卷的同事们都在哪？｜InfoQ技术大会年中盘点](https://posts.careerengine.us/p/6684f490ab9bb857d381ee8b)  
 - [2024-07-02-全员降薪60％、300亿市值几乎跌成零！这个曾剑指英伟达的国产芯片公司被曝造假，业内评其“老鼠屎”](https://posts.careerengine.us/p/6683a4ac595d6a2974ac7fd6)  
 - [2024-07-02-理想中的开放域智能体系统应该如何落地？](https://posts.careerengine.us/p/6683a4ab595d6a2974ac7fce)  
 - [2024-07-01-办公、代码赛道应用竞争白热化，音乐生成新贵-Suno-和-Udio-深陷侵权诉讼-|-大模型一周大事](https://posts.careerengine.us/p/66824a9a48a4e1538c92d293)  
