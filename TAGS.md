@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-04 18:00:19。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-04 21:00:16。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -178,6 +178,7 @@
 
 
 - [【机器之心】上万张照片怎么找？百度网盘：你只管说，我们帮你找](https://posts.careerengine.us/p/64b4d23d444d8c144cfe2963)
+- [【量子位】突破不可解释性！视频异常新检测框架精度90.67％拿下SOTA｜华科&百度&密歇根大学](https://posts.careerengine.us/p/66867102e669e8399681010d)
 - [【量子位】百度量子计算有变化，官方证实：实验室及设备将赠予北京量子院](https://posts.careerengine.us/p/65952a501d2cfb42ab2a5b49)
 - [【量子位】百度网盘变了！进化成学习神器：音视频转文稿、加字幕，还能一键生成PPT！](https://posts.careerengine.us/p/654dd01fd529c81123add4cb)
 - [【量子位】百度开大会，王小川伺机宣布新融资](https://posts.careerengine.us/p/652e6697c102505aa26cc485)
