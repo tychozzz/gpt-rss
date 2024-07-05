@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gpt-rss.com//atom.xml</id>
     <title>AIGC 相关文章 | gpt-rss | by 周三不Coding</title>
-    <updated>2024-07-05T13:00:17.734Z</updated>
+    <updated>2024-07-05T22:00:34.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tycho</name>
@@ -14,6 +14,34 @@
     <subtitle>订阅 AIGC 相关文章</subtitle>
     <icon>https://www.gpt-rss.com//static/favicon.ico</icon>
     <rights>All rights reserved 2024 by Tycho</rights>
+    <entry>
+        <title type="html"><![CDATA[ICML 2024高分论文 | 大幅降低内存！用零阶优化器微调大模型]]></title>
+        <id>https://posts.careerengine.us/p/66884d9fe40d667052e8a6e3</id>
+        <link href="https://posts.careerengine.us/p/66884d9fe40d667052e8a6e3"/>
+        <updated>2024-07-05T16:00:00.000Z</updated>
+        <published>2024-07-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AAAI 2024 | 上交等提出自适应间距强化对比学习，增强多个模型的分类能力]]></title>
+        <id>https://posts.careerengine.us/p/66884d8be5529c6fcfa753e3</id>
+        <link href="https://posts.careerengine.us/p/66884d8be5529c6fcfa753e3"/>
+        <updated>2024-07-05T16:00:00.000Z</updated>
+        <published>2024-07-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[总奖金130万！AFAC2024金融智能创新大赛，持续火热招募中！]]></title>
+        <id>https://posts.careerengine.us/p/66884d8be5529c6fcfa753d3</id>
+        <link href="https://posts.careerengine.us/p/66884d8be5529c6fcfa753d3"/>
+        <updated>2024-07-05T16:00:00.000Z</updated>
+        <published>2024-07-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博士申请 | 美国孟菲斯大学Haomiao Ni老师招收计算机视觉全奖博士生]]></title>
+        <id>https://posts.careerengine.us/p/66884d8ae5529c6fcfa753cb</id>
+        <link href="https://posts.careerengine.us/p/66884d8ae5529c6fcfa753cb"/>
+        <updated>2024-07-05T16:00:00.000Z</updated>
+        <published>2024-07-05T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成立半年就敢踢馆 OpenAI ，首个开源模型不输 GPT-4o，LeCun 、PyTorch 之父齐声叫好！]]></title>
         <id>https://posts.careerengine.us/p/668792e90f1ebd2391b5433b</id>
@@ -113,16 +141,9 @@
         <published>2024-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北京内推 | ​微软AI DKI团队招聘大语言模型开发实习生]]></title>
-        <id>https://posts.careerengine.us/p/668630f8b760133b0147c8ce</id>
-        <link href="https://posts.careerengine.us/p/668630f8b760133b0147c8ce"/>
-        <updated>2024-07-03T16:00:00.000Z</updated>
-        <published>2024-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WWW 2024 | 华为、清华提出个性化多模态生成新方法，让AIGC更懂你]]></title>
-        <id>https://posts.careerengine.us/p/668630e63bb2523ada02cf88</id>
-        <link href="https://posts.careerengine.us/p/668630e63bb2523ada02cf88"/>
+        <title type="html"><![CDATA[CVPR热点汇总！掌握这几个热门方向，篇篇都是顶会顶刊]]></title>
+        <id>https://posts.careerengine.us/p/668630d4744ae33a8514ed56</id>
+        <link href="https://posts.careerengine.us/p/668630d4744ae33a8514ed56"/>
         <updated>2024-07-03T16:00:00.000Z</updated>
         <published>2024-07-03T16:00:00.000Z</published>
     </entry>
@@ -134,9 +155,16 @@
         <published>2024-07-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CVPR热点汇总！掌握这几个热门方向，篇篇都是顶会顶刊]]></title>
-        <id>https://posts.careerengine.us/p/668630d4744ae33a8514ed56</id>
-        <link href="https://posts.careerengine.us/p/668630d4744ae33a8514ed56"/>
+        <title type="html"><![CDATA[WWW 2024 | 华为、清华提出个性化多模态生成新方法，让AIGC更懂你]]></title>
+        <id>https://posts.careerengine.us/p/668630e63bb2523ada02cf88</id>
+        <link href="https://posts.careerengine.us/p/668630e63bb2523ada02cf88"/>
+        <updated>2024-07-03T16:00:00.000Z</updated>
+        <published>2024-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京内推 | ​微软AI DKI团队招聘大语言模型开发实习生]]></title>
+        <id>https://posts.careerengine.us/p/668630f8b760133b0147c8ce</id>
+        <link href="https://posts.careerengine.us/p/668630f8b760133b0147c8ce"/>
         <updated>2024-07-03T16:00:00.000Z</updated>
         <published>2024-07-03T16:00:00.000Z</published>
     </entry>
@@ -211,9 +239,9 @@
         <published>2024-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[博士第五年，还没有找到论文创新点？]]></title>
-        <id>https://posts.careerengine.us/p/6684e3d857b96c158b4e4025</id>
-        <link href="https://posts.careerengine.us/p/6684e3d857b96c158b4e4025"/>
+        <title type="html"><![CDATA[如何加速大模型推理？万字综述全面解析大语言模型高效推理技术]]></title>
+        <id>https://posts.careerengine.us/p/6684e3fb176edb15cfa33abc</id>
+        <link href="https://posts.careerengine.us/p/6684e3fb176edb15cfa33abc"/>
         <updated>2024-07-02T16:00:00.000Z</updated>
         <published>2024-07-02T16:00:00.000Z</published>
     </entry>
@@ -225,9 +253,9 @@
         <published>2024-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何加速大模型推理？万字综述全面解析大语言模型高效推理技术]]></title>
-        <id>https://posts.careerengine.us/p/6684e3fb176edb15cfa33abc</id>
-        <link href="https://posts.careerengine.us/p/6684e3fb176edb15cfa33abc"/>
+        <title type="html"><![CDATA[博士第五年，还没有找到论文创新点？]]></title>
+        <id>https://posts.careerengine.us/p/6684e3d857b96c158b4e4025</id>
+        <link href="https://posts.careerengine.us/p/6684e3d857b96c158b4e4025"/>
         <updated>2024-07-02T16:00:00.000Z</updated>
         <published>2024-07-02T16:00:00.000Z</published>
     </entry>
@@ -316,9 +344,9 @@
         <published>2024-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[博士申请 | 香港科技大学（广州）陈煌栒老师招收人工智能全奖博士/RA/实习生]]></title>
-        <id>https://posts.careerengine.us/p/66838bc895402f44986653e3</id>
-        <link href="https://posts.careerengine.us/p/66838bc895402f44986653e3"/>
+        <title type="html"><![CDATA[重温被Mamba带火的SSM：HiPPO的一些遗留问题]]></title>
+        <id>https://posts.careerengine.us/p/66838bb70a2593441cc9b6a4</id>
+        <link href="https://posts.careerengine.us/p/66838bb70a2593441cc9b6a4"/>
         <updated>2024-07-01T16:00:00.000Z</updated>
         <published>2024-07-01T16:00:00.000Z</published>
     </entry>
@@ -330,37 +358,9 @@
         <published>2024-07-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[重温被Mamba带火的SSM：HiPPO的一些遗留问题]]></title>
-        <id>https://posts.careerengine.us/p/66838bb70a2593441cc9b6a4</id>
-        <link href="https://posts.careerengine.us/p/66838bb70a2593441cc9b6a4"/>
-        <updated>2024-07-01T16:00:00.000Z</updated>
-        <published>2024-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多模态能力全球TOP3，来自中国从容大模型]]></title>
-        <id>https://posts.careerengine.us/p/6683808067d2ce1745ce9c79</id>
-        <link href="https://posts.careerengine.us/p/6683808067d2ce1745ce9c79"/>
-        <updated>2024-07-01T16:00:00.000Z</updated>
-        <published>2024-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鹅厂造10亿虚拟人格专搞数据合成：让7B模型数学成绩打平GPT4，还能给弱智吧出题]]></title>
-        <id>https://posts.careerengine.us/p/668380907955e7177c0a0073</id>
-        <link href="https://posts.careerengine.us/p/668380907955e7177c0a0073"/>
-        <updated>2024-07-01T16:00:00.000Z</updated>
-        <published>2024-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[姚班大神陈立杰获UC伯克利教职，2025年秋季入职]]></title>
-        <id>https://posts.careerengine.us/p/668380907955e7177c0a006a</id>
-        <link href="https://posts.careerengine.us/p/668380907955e7177c0a006a"/>
-        <updated>2024-07-01T16:00:00.000Z</updated>
-        <published>2024-07-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVPR'24：文生图提示词自动优化，还发现三个小窍门，人大度小满等机构出品]]></title>
-        <id>https://posts.careerengine.us/p/668380a3ed12fa17b84a5bd0</id>
-        <link href="https://posts.careerengine.us/p/668380a3ed12fa17b84a5bd0"/>
+        <title type="html"><![CDATA[博士申请 | 香港科技大学（广州）陈煌栒老师招收人工智能全奖博士/RA/实习生]]></title>
+        <id>https://posts.careerengine.us/p/66838bc895402f44986653e3</id>
+        <link href="https://posts.careerengine.us/p/66838bc895402f44986653e3"/>
         <updated>2024-07-01T16:00:00.000Z</updated>
         <published>2024-07-01T16:00:00.000Z</published>
     </entry>
