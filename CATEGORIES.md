@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-07-06 15:00:16，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-06 18:01:08，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-07-06-WAIC上，高通这一波生成式AI创新，让我们看到了未来](https://posts.careerengine.us/p/6688cf3a18d8e6089106ef51) ![](/assets/new.png)  
-- [2024-07-06-更美图像生成、直出分钟级视频，国产自研DiT架构的越级之旅](https://posts.careerengine.us/p/6688cf49b597d908ba32df39) ![](/assets/new.png)  
-- [2024-07-06-红杉：重金购入GPU后，AI行业收入缺口达到5000亿美元](https://posts.careerengine.us/p/6688cf49b597d908ba32df31) ![](/assets/new.png)  
-- [2024-07-06-Adam有了mini版：内存占用少一半，吞吐量提升50％](https://posts.careerengine.us/p/6688cf49b597d908ba32df41) ![](/assets/new.png)  
-- [2024-07-06-RAGFlow开源Star量破万，是时候思考下RAG的未来是什么了](https://posts.careerengine.us/p/6688cf5845349c08e1a16c4f) ![](/assets/new.png)  
+- [2024-07-06-WAIC上，高通这一波生成式AI创新，让我们看到了未来](https://posts.careerengine.us/p/6688cf3a18d8e6089106ef51)  
+- [2024-07-06-更美图像生成、直出分钟级视频，国产自研DiT架构的越级之旅](https://posts.careerengine.us/p/6688cf49b597d908ba32df39)  
+- [2024-07-06-红杉：重金购入GPU后，AI行业收入缺口达到5000亿美元](https://posts.careerengine.us/p/6688cf49b597d908ba32df31)  
+- [2024-07-06-Adam有了mini版：内存占用少一半，吞吐量提升50％](https://posts.careerengine.us/p/6688cf49b597d908ba32df41)  
+- [2024-07-06-RAGFlow开源Star量破万，是时候思考下RAG的未来是什么了](https://posts.careerengine.us/p/6688cf5845349c08e1a16c4f)  
 - [2024-07-05-ACL-2024-|-引领学术视听研究，上海交大、清华大学、剑桥大学、上海AILAB联合发布学术视听数据集M3AV](https://posts.careerengine.us/p/6687c5508aca636d4d8ffa80)  
 - [2024-07-05-LLM用于时序预测真的不行，连推理能力都没用到](https://posts.careerengine.us/p/6687c54f8aca636d4d8ffa78)  
 - [2024-07-05-全球首个支持单任务千卡规模异构芯片混合训练平台，来自无问芯穹](https://posts.careerengine.us/p/6687c541fe12a36d2884e14e)  
@@ -176,26 +176,26 @@
 </summary>
 
 
-- [2024-07-05-大模型时代数据库技术创新](https://posts.careerengine.us/p/668792e80f1ebd2391b54333)  
+- [2024-07-06-北航、滴滴联合提出一种新的增量度量框架，实现动态图结构熵的高效增量计算](https://posts.careerengine.us/p/6688d783f860d72a4a9bac92) ![](/assets/new.png)  
+- [2024-07-06-清华大学汪玉：大模型能效提升，有几条必经之路？](https://posts.careerengine.us/p/6688d784f860d72a4a9bac9a) ![](/assets/new.png)  
+- [2024-07-06-Meta-3D-Gen-震撼发布：1-分钟打造顶级-3D-模型](https://posts.careerengine.us/p/6688d797ae35062a713834b8) ![](/assets/new.png)  
 - [2024-07-05-成立半年就敢踢馆-OpenAI-，首个开源模型不输-GPT-4o，LeCun-、PyTorch-之父齐声叫好！](https://posts.careerengine.us/p/668792e90f1ebd2391b5433b)  
-- [2024-07-04-Andrej-Karpathy-提出新构想：未来-2.0-计算机将完全由神经网络驱动](https://posts.careerengine.us/p/66863a10c3d1d55f80e32f05)  
-- [2024-07-04-下一代-RAG-技术来了！微软正式开源-GraphRAG：大模型行业将迎来新的升级？](https://posts.careerengine.us/p/66863a10c3d1d55f80e32efd)  
+- [2024-07-05-大模型时代数据库技术创新](https://posts.careerengine.us/p/668792e80f1ebd2391b54333)  
 - [2024-07-04-面向千行百业，全球工业软件巨头的AI应用策略如何演变？](https://posts.careerengine.us/p/66863a10c3d1d55f80e32f0e)  
-- [2024-07-03-微软130亿美元换的OpenAI-董事席，苹果仅靠“刷脸”就拿下了！硅谷明星创企积极投靠大厂](https://posts.careerengine.us/p/6684f48fab9bb857d381ee82)  
-- [2024-07-03-Runway-的-Gen-3-向所有用户开放付费使用，网友：免费的可灵更香](https://posts.careerengine.us/p/6684f490ab9bb857d381ee94)  
+- [2024-07-04-下一代-RAG-技术来了！微软正式开源-GraphRAG：大模型行业将迎来新的升级？](https://posts.careerengine.us/p/66863a10c3d1d55f80e32efd)  
+- [2024-07-04-Andrej-Karpathy-提出新构想：未来-2.0-计算机将完全由神经网络驱动](https://posts.careerengine.us/p/66863a10c3d1d55f80e32f05)  
 - [2024-07-03-国内最重视生成式AI的企业和最卷的同事们都在哪？｜InfoQ技术大会年中盘点](https://posts.careerengine.us/p/6684f490ab9bb857d381ee8b)  
-- [2024-07-02-全员降薪60％、300亿市值几乎跌成零！这个曾剑指英伟达的国产芯片公司被曝造假，业内评其“老鼠屎”](https://posts.careerengine.us/p/6683a4ac595d6a2974ac7fd6)  
+- [2024-07-03-Runway-的-Gen-3-向所有用户开放付费使用，网友：免费的可灵更香](https://posts.careerengine.us/p/6684f490ab9bb857d381ee94)  
+- [2024-07-03-微软130亿美元换的OpenAI-董事席，苹果仅靠“刷脸”就拿下了！硅谷明星创企积极投靠大厂](https://posts.careerengine.us/p/6684f48fab9bb857d381ee82)  
 - [2024-07-02-理想中的开放域智能体系统应该如何落地？](https://posts.careerengine.us/p/6683a4ab595d6a2974ac7fce)  
-- [2024-07-01-办公、代码赛道应用竞争白热化，音乐生成新贵-Suno-和-Udio-深陷侵权诉讼-|-大模型一周大事](https://posts.careerengine.us/p/66824a9a48a4e1538c92d293)  
-- [2024-07-01-挖矿不行了找AI接盘！挖矿公司们来抢云厂商生意：收入涨10倍，今年的算力早就卖完了！](https://posts.careerengine.us/p/66824a9b48a4e1538c92d2a3)  
+- [2024-07-02-全员降薪60％、300亿市值几乎跌成零！这个曾剑指英伟达的国产芯片公司被曝造假，业内评其“老鼠屎”](https://posts.careerengine.us/p/6683a4ac595d6a2974ac7fd6)  
 - [2024-07-01-周三晚8点揭秘：真假Agent大对决-|-AICon直播不容错过](https://posts.careerengine.us/p/66824aaf7ca0d7541f79eea3)  
-- [2024-06-29-百度文心-4.0-Turbo-来了！联合飞桨框架-3.0-推理性能跃升-30％，文心快码升级至-2.5-版](https://posts.careerengine.us/p/667f8fab90fc272edf6349a3)  
-- [2024-06-29-金融场景中的多智能体应用探索](https://posts.careerengine.us/p/667f8fab90fc272edf63499b)  
+- [2024-07-01-挖矿不行了找AI接盘！挖矿公司们来抢云厂商生意：收入涨10倍，今年的算力早就卖完了！](https://posts.careerengine.us/p/66824a9b48a4e1538c92d2a3)  
+- [2024-07-01-办公、代码赛道应用竞争白热化，音乐生成新贵-Suno-和-Udio-深陷侵权诉讼-|-大模型一周大事](https://posts.careerengine.us/p/66824a9a48a4e1538c92d293)  
 - [2024-06-29-Python-社区被苹果坑！只因一个字符串审核被拒，核心开发者们想了-8-天办法](https://posts.careerengine.us/p/667f8f9b1bf3952ebb6ea939)  
-- [2024-06-28-​端侧模型打响突围战！VC-疯抢，又一创企“杀”出](https://posts.careerengine.us/p/667e4c3fb134162519f8307a)  
+- [2024-06-29-金融场景中的多智能体应用探索](https://posts.careerengine.us/p/667f8fab90fc272edf63499b)  
+- [2024-06-29-百度文心-4.0-Turbo-来了！联合飞桨框架-3.0-推理性能跃升-30％，文心快码升级至-2.5-版](https://posts.careerengine.us/p/667f8fab90fc272edf6349a3)  
 - [2024-06-28-钉钉集齐七大模型厂商：我们不是卖资源，而是要一起创新商业模式](https://posts.careerengine.us/p/667e4c3fb134162519f83082)  
-- [2024-06-27-字节跳动发布“豆包-MarsCode”智能开发工具，面向国内开发者免费](https://posts.careerengine.us/p/667ced325698a938d21fedc9)  
-- [2024-06-27-天弘基金：AI-Agent在金融场景下的创新与应用实践](https://posts.careerengine.us/p/667ced325698a938d21fedb9)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
