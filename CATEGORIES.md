@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-07-06 06:00:34，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-06 15:00:16，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
+- [机器之心](#机器之心)![](/assets/dot.png)   
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-07-05-现场削黄瓜、叠衣服，曾爆火的刮胡子机器人再进化，穹彻的具身智能大脑来了！](https://posts.careerengine.us/p/6687c531e91e8b6d09b53a53)  
-- [2024-07-05-现场Live震撼！OmAgent框架强势开源！行业应用已全面开花](https://posts.careerengine.us/p/6687c532e91e8b6d09b53a5b)  
-- [2024-07-05-全球首个支持单任务千卡规模异构芯片混合训练平台，来自无问芯穹](https://posts.careerengine.us/p/6687c541fe12a36d2884e14e)  
-- [2024-07-05-LLM用于时序预测真的不行，连推理能力都没用到](https://posts.careerengine.us/p/6687c54f8aca636d4d8ffa78)  
+- [2024-07-06-WAIC上，高通这一波生成式AI创新，让我们看到了未来](https://posts.careerengine.us/p/6688cf3a18d8e6089106ef51) ![](/assets/new.png)  
+- [2024-07-06-更美图像生成、直出分钟级视频，国产自研DiT架构的越级之旅](https://posts.careerengine.us/p/6688cf49b597d908ba32df39) ![](/assets/new.png)  
+- [2024-07-06-红杉：重金购入GPU后，AI行业收入缺口达到5000亿美元](https://posts.careerengine.us/p/6688cf49b597d908ba32df31) ![](/assets/new.png)  
+- [2024-07-06-Adam有了mini版：内存占用少一半，吞吐量提升50％](https://posts.careerengine.us/p/6688cf49b597d908ba32df41) ![](/assets/new.png)  
+- [2024-07-06-RAGFlow开源Star量破万，是时候思考下RAG的未来是什么了](https://posts.careerengine.us/p/6688cf5845349c08e1a16c4f) ![](/assets/new.png)  
 - [2024-07-05-ACL-2024-|-引领学术视听研究，上海交大、清华大学、剑桥大学、上海AILAB联合发布学术视听数据集M3AV](https://posts.careerengine.us/p/6687c5508aca636d4d8ffa80)  
-- [2024-07-04-AI主战场，万卡是标配：国产GPU万卡万P集群来了！](https://posts.careerengine.us/p/66864e9c242a2e32d35697e6)  
+- [2024-07-05-LLM用于时序预测真的不行，连推理能力都没用到](https://posts.careerengine.us/p/6687c54f8aca636d4d8ffa78)  
+- [2024-07-05-全球首个支持单任务千卡规模异构芯片混合训练平台，来自无问芯穹](https://posts.careerengine.us/p/6687c541fe12a36d2884e14e)  
+- [2024-07-05-现场Live震撼！OmAgent框架强势开源！行业应用已全面开花](https://posts.careerengine.us/p/6687c532e91e8b6d09b53a5b)  
+- [2024-07-05-现场削黄瓜、叠衣服，曾爆火的刮胡子机器人再进化，穹彻的具身智能大脑来了！](https://posts.careerengine.us/p/6687c531e91e8b6d09b53a53)  
 - [2024-07-04-揭秘：阶跃星辰万亿MoE+多模态大模型矩阵亮相](https://posts.careerengine.us/p/66864e8da49283326d0584d6)  
-- [2024-07-03-AI助攻「菜鸟数学家」解决忙碌海狸问题，陶哲轩转发分享](https://posts.careerengine.us/p/66853213fb5c544db4ff9399)  
-- [2024-07-03-不到60秒就能生成3D「手办」，Meta发力3D生成，ChatGPT时刻要来了吗？](https://posts.careerengine.us/p/66853213fb5c544db4ff9389)  
-- [2024-07-03-央视点赞国产AI复活召唤术，兵马俑竟与宝石老舅对唱Rap？](https://posts.careerengine.us/p/66853213fb5c544db4ff9391)  
-- [2024-07-03-细数RAG的12个痛点，英伟达高级架构师亲授解决方案](https://posts.careerengine.us/p/66853214fb5c544db4ff93a1)  
+- [2024-07-04-AI主战场，万卡是标配：国产GPU万卡万P集群来了！](https://posts.careerengine.us/p/66864e9c242a2e32d35697e6)  
 - [2024-07-03-ICML-2024高分论文-|-零阶优化器微调大模型，大幅降低内存](https://posts.careerengine.us/p/6685322291e3a84e55743295)  
-- [2024-07-02-哈工大提出创新迭代推理框架-DPE-MNER-：充分发挥多模态表示潜力](https://posts.careerengine.us/p/66837db46f521f0b163d167a)  
-- [2024-07-02-神经网络可能不再需要激活函数？Layer-Normalization也具有非线性表达！](https://posts.careerengine.us/p/66837da257dde50aa234affe)  
-- [2024-07-02-全球首个神经连接机械腿，截肢者恢复自然行走，还带空间感](https://posts.careerengine.us/p/66837d93b2a48d0a796156e0)  
-- [2024-07-02-73年前，香农已经给大模型发展埋下一颗种子](https://posts.careerengine.us/p/66837d93b2a48d0a796156e9)  
+- [2024-07-03-细数RAG的12个痛点，英伟达高级架构师亲授解决方案](https://posts.careerengine.us/p/66853214fb5c544db4ff93a1)  
+- [2024-07-03-央视点赞国产AI复活召唤术，兵马俑竟与宝石老舅对唱Rap？](https://posts.careerengine.us/p/66853213fb5c544db4ff9391)  
+- [2024-07-03-不到60秒就能生成3D「手办」，Meta发力3D生成，ChatGPT时刻要来了吗？](https://posts.careerengine.us/p/66853213fb5c544db4ff9389)  
+- [2024-07-03-AI助攻「菜鸟数学家」解决忙碌海狸问题，陶哲轩转发分享](https://posts.careerengine.us/p/66853213fb5c544db4ff9399)  
 - [2024-07-02-免费！国产大模型编程助手豆包MarsCode重磅上线，还有登录即用的云端IDE](https://posts.careerengine.us/p/66837d848c11440a4ffc4613)  
-- [2024-07-01-速来！潞晨Open-Sora羊毛可薅，10元轻松上手视频生成](https://posts.careerengine.us/p/668234845e532c7b93904510)  
-- [2024-07-01-最难「讨好」的消费者，竟然都被AIGC征服了？](https://posts.careerengine.us/p/668234938cee1a7bbe509f74)  
-- [2024-07-01-人刚毕业，颠覆整个AI界：扒一扒Sora两带头人博士论文](https://posts.careerengine.us/p/668234938cee1a7bbe509f7d)  
+- [2024-07-02-73年前，香农已经给大模型发展埋下一颗种子](https://posts.careerengine.us/p/66837d93b2a48d0a796156e9)  
+- [2024-07-02-全球首个神经连接机械腿，截肢者恢复自然行走，还带空间感](https://posts.careerengine.us/p/66837d93b2a48d0a796156e0)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2024-07-06-博士申请-|-美国孟菲斯大学Haomiao-Ni老师招收计算机视觉全奖博士生](https://posts.careerengine.us/p/66884d8ae5529c6fcfa753cb) ![](/assets/new.png)  
-- [2024-07-06-总奖金130万！AFAC2024金融智能创新大赛，持续火热招募中！](https://posts.careerengine.us/p/66884d8be5529c6fcfa753d3) ![](/assets/new.png)  
-- [2024-07-06-AAAI-2024-|-上交等提出自适应间距强化对比学习，增强多个模型的分类能力](https://posts.careerengine.us/p/66884d8be5529c6fcfa753e3) ![](/assets/new.png)  
-- [2024-07-06-ICML-2024高分论文-|-大幅降低内存！用零阶优化器微调大模型](https://posts.careerengine.us/p/66884d9fe40d667052e8a6e3) ![](/assets/new.png)  
+- [2024-07-06-博士申请-|-美国孟菲斯大学Haomiao-Ni老师招收计算机视觉全奖博士生](https://posts.careerengine.us/p/66884d8ae5529c6fcfa753cb)  
+- [2024-07-06-总奖金130万！AFAC2024金融智能创新大赛，持续火热招募中！](https://posts.careerengine.us/p/66884d8be5529c6fcfa753d3)  
+- [2024-07-06-AAAI-2024-|-上交等提出自适应间距强化对比学习，增强多个模型的分类能力](https://posts.careerengine.us/p/66884d8be5529c6fcfa753e3)  
+- [2024-07-06-ICML-2024高分论文-|-大幅降低内存！用零阶优化器微调大模型](https://posts.careerengine.us/p/66884d9fe40d667052e8a6e3)  
 - [2024-07-04-北京内推-|-​微软AI-DKI团队招聘大语言模型开发实习生](https://posts.careerengine.us/p/668630f8b760133b0147c8ce)  
 - [2024-07-04-WWW-2024-|-华为、清华提出个性化多模态生成新方法，让AIGC更懂你](https://posts.careerengine.us/p/668630e63bb2523ada02cf88)  
 - [2024-07-04-神经网络可能不再需要激活函数？Layer-Normalization也具有非线性表达](https://posts.careerengine.us/p/668630e63bb2523ada02cf7f)  
