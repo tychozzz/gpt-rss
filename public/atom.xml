@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gpt-rss.com//atom.xml</id>
     <title>AIGC 相关文章 | gpt-rss | by 周三不Coding</title>
-    <updated>2024-07-10T07:00:22.061Z</updated>
+    <updated>2024-07-10T10:01:07.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tycho</name>
@@ -25,6 +25,34 @@
         <title type="html"><![CDATA[阿里开源语音处理模型 FunAudioLLM ：50 种语言无缝翻译，还能识别语音情绪]]></title>
         <id>https://posts.careerengine.us/p/668e1de1a3626e12f8bf24f3</id>
         <link href="https://posts.careerengine.us/p/668e1de1a3626e12f8bf24f3"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深圳内推 | ​腾讯AI Lab招聘自然语言处理方向算法实习生]]></title>
+        <id>https://posts.careerengine.us/p/668e184bf3d4967b1b49f014</id>
+        <link href="https://posts.careerengine.us/p/668e184bf3d4967b1b49f014"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACL 2024 | OceanGPT（沧渊）：面向海洋科学任务的大型语言模型初探]]></title>
+        <id>https://posts.careerengine.us/p/668e183943b3d07a69262ef9</id>
+        <link href="https://posts.careerengine.us/p/668e183943b3d07a69262ef9"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是大模型所需要的知识？人大提出DPA-RAG高效对齐检索器与大模型偏好]]></title>
+        <id>https://posts.careerengine.us/p/668e183943b3d07a69262f01</id>
+        <link href="https://posts.careerengine.us/p/668e183943b3d07a69262f01"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快速“水”论文必备：82个即插即用涨点模块！]]></title>
+        <id>https://posts.careerengine.us/p/668e183943b3d07a69262ef1</id>
+        <link href="https://posts.careerengine.us/p/668e183943b3d07a69262ef1"/>
         <updated>2024-07-09T16:00:00.000Z</updated>
         <published>2024-07-09T16:00:00.000Z</published>
     </entry>
@@ -113,16 +141,9 @@
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HANDS@ECCV24 手部研讨会和挑战赛，诚邀投稿和参与竞赛]]></title>
-        <id>https://posts.careerengine.us/p/668ccc516e28557364a828a0</id>
-        <link href="https://posts.careerengine.us/p/668ccc516e28557364a828a0"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECCV 2024 | 利用更易广泛获取的人体掩膜，实现SOTA无监督3D姿态估计]]></title>
-        <id>https://posts.careerengine.us/p/668ccc4228ab7072e2401005</id>
-        <link href="https://posts.careerengine.us/p/668ccc4228ab7072e2401005"/>
+        <title type="html"><![CDATA[字节跳动筋斗云人才计划正式启动！]]></title>
+        <id>https://posts.careerengine.us/p/668ccc4228ab7072e2400ffd</id>
+        <link href="https://posts.careerengine.us/p/668ccc4228ab7072e2400ffd"/>
         <updated>2024-07-08T16:00:00.000Z</updated>
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
@@ -134,9 +155,16 @@
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[字节跳动筋斗云人才计划正式启动！]]></title>
-        <id>https://posts.careerengine.us/p/668ccc4228ab7072e2400ffd</id>
-        <link href="https://posts.careerengine.us/p/668ccc4228ab7072e2400ffd"/>
+        <title type="html"><![CDATA[ECCV 2024 | 利用更易广泛获取的人体掩膜，实现SOTA无监督3D姿态估计]]></title>
+        <id>https://posts.careerengine.us/p/668ccc4228ab7072e2401005</id>
+        <link href="https://posts.careerengine.us/p/668ccc4228ab7072e2401005"/>
+        <updated>2024-07-08T16:00:00.000Z</updated>
+        <published>2024-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HANDS@ECCV24 手部研讨会和挑战赛，诚邀投稿和参与竞赛]]></title>
+        <id>https://posts.careerengine.us/p/668ccc516e28557364a828a0</id>
+        <link href="https://posts.careerengine.us/p/668ccc516e28557364a828a0"/>
         <updated>2024-07-08T16:00:00.000Z</updated>
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
@@ -225,16 +253,9 @@
         <published>2024-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[生成式AI的发展方向，应当是Chat还是Agent？]]></title>
-        <id>https://posts.careerengine.us/p/668bbda2a189d8080e94c93f</id>
-        <link href="https://posts.careerengine.us/p/668bbda2a189d8080e94c93f"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科研实习 | 香港浸会大学TMLR课题组招收可信基础模型推理方向科研实习生]]></title>
-        <id>https://posts.careerengine.us/p/668bbda2a189d8080e94c937</id>
-        <link href="https://posts.careerengine.us/p/668bbda2a189d8080e94c937"/>
+        <title type="html"><![CDATA[ECCV 2024 | VideoMamba：用于高效视频理解的状态空间模型]]></title>
+        <id>https://posts.careerengine.us/p/668bbda3a189d8080e94c948</id>
+        <link href="https://posts.careerengine.us/p/668bbda3a189d8080e94c948"/>
         <updated>2024-07-07T16:00:00.000Z</updated>
         <published>2024-07-07T16:00:00.000Z</published>
     </entry>
@@ -246,9 +267,16 @@
         <published>2024-07-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECCV 2024 | VideoMamba：用于高效视频理解的状态空间模型]]></title>
-        <id>https://posts.careerengine.us/p/668bbda3a189d8080e94c948</id>
-        <link href="https://posts.careerengine.us/p/668bbda3a189d8080e94c948"/>
+        <title type="html"><![CDATA[科研实习 | 香港浸会大学TMLR课题组招收可信基础模型推理方向科研实习生]]></title>
+        <id>https://posts.careerengine.us/p/668bbda2a189d8080e94c937</id>
+        <link href="https://posts.careerengine.us/p/668bbda2a189d8080e94c937"/>
+        <updated>2024-07-07T16:00:00.000Z</updated>
+        <published>2024-07-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成式AI的发展方向，应当是Chat还是Agent？]]></title>
+        <id>https://posts.careerengine.us/p/668bbda2a189d8080e94c93f</id>
+        <link href="https://posts.careerengine.us/p/668bbda2a189d8080e94c93f"/>
         <updated>2024-07-07T16:00:00.000Z</updated>
         <published>2024-07-07T16:00:00.000Z</published>
     </entry>
@@ -330,37 +358,9 @@
         <published>2024-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[博士申请 | 大湾区大学孙庆强老师招收人工智能方向硕士/博士/RA/博后等]]></title>
-        <id>https://posts.careerengine.us/p/668aaf864922a626407ccab8</id>
-        <link href="https://posts.careerengine.us/p/668aaf864922a626407ccab8"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​即插即用！美团提出整数量化系数方案：大模型细粒度量化的免费午餐]]></title>
-        <id>https://posts.careerengine.us/p/668aaf77dc8fae261590c4ac</id>
-        <link href="https://posts.careerengine.us/p/668aaf77dc8fae261590c4ac"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[核心代码仅三行！即插即用的视觉语言连接器，一键提升多模态大模型]]></title>
         <id>https://posts.careerengine.us/p/668aaf77dc8fae261590c4b6</id>
         <link href="https://posts.careerengine.us/p/668aaf77dc8fae261590c4b6"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[千呼万唤的可灵网页版来了！基础模型重磅升级，新功能“炸场”WAIC]]></title>
-        <id>https://posts.careerengine.us/p/668a93d03375cc30b570b428</id>
-        <link href="https://posts.careerengine.us/p/668a93d03375cc30b570b428"/>
-        <updated>2024-07-06T16:00:00.000Z</updated>
-        <published>2024-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北大千问团队推出数学专用版CriticGPT，“找茬”让大模型进步更快]]></title>
-        <id>https://posts.careerengine.us/p/668a93e1889ffc30e084b0fa</id>
-        <link href="https://posts.careerengine.us/p/668a93e1889ffc30e084b0fa"/>
         <updated>2024-07-06T16:00:00.000Z</updated>
         <published>2024-07-06T16:00:00.000Z</published>
     </entry>
