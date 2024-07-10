@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-09 21:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-10 15:00:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 谷歌
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-07-10-单一作者论文，谷歌提出百万专家Mixture，超越密集前馈、稀疏MoE](https://posts.careerengine.us/p/668e0dd2d0884d4ff90fd500) 
 - [2024-06-28-谷歌「诚意之作」，开源9B、27B版Gemma2，主打高效、经济！](https://posts.careerengine.us/p/667e8ade1a1e691d64f2ca05) 
 - [2024-05-31-2D头像生成3D虚拟人开视频会，谷歌新作让人难绷](https://posts.careerengine.us/p/66595240738815798041fe04) 
 - [2024-04-28-谷歌员工爆料Python基础团队原地解散](https://posts.careerengine.us/p/662dd9075f3030223d9f5b33) 
