@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gpt-rss.com//atom.xml</id>
     <title>AIGC 相关文章 | gpt-rss | by 周三不Coding</title>
-    <updated>2024-07-11T13:00:26.440Z</updated>
+    <updated>2024-07-11T22:00:11.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tycho</name>
@@ -32,6 +32,34 @@
         <title type="html"><![CDATA[超越 Transformer 与 Mamba，Meta 联合斯坦福等高校推出最强架构 TTT]]></title>
         <id>https://posts.careerengine.us/p/668f6ed096553d7b418292b8</id>
         <link href="https://posts.careerengine.us/p/668f6ed096553d7b418292b8"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACM MM 2024 以人为中心多媒体分析研讨会，诚邀各界专家学者参与]]></title>
+        <id>https://posts.careerengine.us/p/668fe86b3f7c4573e73a000c</id>
+        <link href="https://posts.careerengine.us/p/668fe86b3f7c4573e73a000c"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博士申请 | 香港理工大学李青教授课题组招收人工智能全奖博士/博后/RA]]></title>
+        <id>https://posts.careerengine.us/p/668fe86b3f7c4573e739fffc</id>
+        <link href="https://posts.careerengine.us/p/668fe86b3f7c4573e739fffc"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“闭门造车”之多模态思路浅谈：自回归学习与生成]]></title>
+        <id>https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004</id>
+        <link href="https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厦门大学首发多模态阅读理解新任务： 图文深度融合数据集VEGA]]></title>
+        <id>https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4</id>
+        <link href="https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4"/>
         <updated>2024-07-10T16:00:00.000Z</updated>
         <published>2024-07-10T16:00:00.000Z</published>
     </entry>
@@ -113,16 +141,9 @@
         <published>2024-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[深圳内推 | ​腾讯AI Lab招聘自然语言处理方向算法实习生]]></title>
-        <id>https://posts.careerengine.us/p/668e184bf3d4967b1b49f014</id>
-        <link href="https://posts.careerengine.us/p/668e184bf3d4967b1b49f014"/>
-        <updated>2024-07-09T16:00:00.000Z</updated>
-        <published>2024-07-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACL 2024 | OceanGPT（沧渊）：面向海洋科学任务的大型语言模型初探]]></title>
-        <id>https://posts.careerengine.us/p/668e183943b3d07a69262ef9</id>
-        <link href="https://posts.careerengine.us/p/668e183943b3d07a69262ef9"/>
+        <title type="html"><![CDATA[快速“水”论文必备：82个即插即用涨点模块！]]></title>
+        <id>https://posts.careerengine.us/p/668e183943b3d07a69262ef1</id>
+        <link href="https://posts.careerengine.us/p/668e183943b3d07a69262ef1"/>
         <updated>2024-07-09T16:00:00.000Z</updated>
         <published>2024-07-09T16:00:00.000Z</published>
     </entry>
@@ -134,9 +155,16 @@
         <published>2024-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[快速“水”论文必备：82个即插即用涨点模块！]]></title>
-        <id>https://posts.careerengine.us/p/668e183943b3d07a69262ef1</id>
-        <link href="https://posts.careerengine.us/p/668e183943b3d07a69262ef1"/>
+        <title type="html"><![CDATA[ACL 2024 | OceanGPT（沧渊）：面向海洋科学任务的大型语言模型初探]]></title>
+        <id>https://posts.careerengine.us/p/668e183943b3d07a69262ef9</id>
+        <link href="https://posts.careerengine.us/p/668e183943b3d07a69262ef9"/>
+        <updated>2024-07-09T16:00:00.000Z</updated>
+        <published>2024-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深圳内推 | ​腾讯AI Lab招聘自然语言处理方向算法实习生]]></title>
+        <id>https://posts.careerengine.us/p/668e184bf3d4967b1b49f014</id>
+        <link href="https://posts.careerengine.us/p/668e184bf3d4967b1b49f014"/>
         <updated>2024-07-09T16:00:00.000Z</updated>
         <published>2024-07-09T16:00:00.000Z</published>
     </entry>
@@ -225,16 +253,9 @@
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[字节跳动筋斗云人才计划正式启动！]]></title>
-        <id>https://posts.careerengine.us/p/668ccc4228ab7072e2400ffd</id>
-        <link href="https://posts.careerengine.us/p/668ccc4228ab7072e2400ffd"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xLSTM崛起！魔芯科技、中科大等新研究揭示其在医学图像分割中超越Mamba]]></title>
-        <id>https://posts.careerengine.us/p/668ccc4228ab7072e2400ff5</id>
-        <link href="https://posts.careerengine.us/p/668ccc4228ab7072e2400ff5"/>
+        <title type="html"><![CDATA[HANDS@ECCV24 手部研讨会和挑战赛，诚邀投稿和参与竞赛]]></title>
+        <id>https://posts.careerengine.us/p/668ccc516e28557364a828a0</id>
+        <link href="https://posts.careerengine.us/p/668ccc516e28557364a828a0"/>
         <updated>2024-07-08T16:00:00.000Z</updated>
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
@@ -246,9 +267,16 @@
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HANDS@ECCV24 手部研讨会和挑战赛，诚邀投稿和参与竞赛]]></title>
-        <id>https://posts.careerengine.us/p/668ccc516e28557364a828a0</id>
-        <link href="https://posts.careerengine.us/p/668ccc516e28557364a828a0"/>
+        <title type="html"><![CDATA[xLSTM崛起！魔芯科技、中科大等新研究揭示其在医学图像分割中超越Mamba]]></title>
+        <id>https://posts.careerengine.us/p/668ccc4228ab7072e2400ff5</id>
+        <link href="https://posts.careerengine.us/p/668ccc4228ab7072e2400ff5"/>
+        <updated>2024-07-08T16:00:00.000Z</updated>
+        <published>2024-07-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字节跳动筋斗云人才计划正式启动！]]></title>
+        <id>https://posts.careerengine.us/p/668ccc4228ab7072e2400ffd</id>
+        <link href="https://posts.careerengine.us/p/668ccc4228ab7072e2400ffd"/>
         <updated>2024-07-08T16:00:00.000Z</updated>
         <published>2024-07-08T16:00:00.000Z</published>
     </entry>
@@ -333,34 +361,6 @@
         <title type="html"><![CDATA[面壁 WAIC 新发布：新一代高效低能耗架构面壁小钢炮、一键开发大模型 APP 的全栈工具集]]></title>
         <id>https://posts.careerengine.us/p/668b81ff596c9814ddfa4466</id>
         <link href="https://posts.careerengine.us/p/668b81ff596c9814ddfa4466"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECCV 2024 | VideoMamba：用于高效视频理解的状态空间模型]]></title>
-        <id>https://posts.careerengine.us/p/668bbda3a189d8080e94c948</id>
-        <link href="https://posts.careerengine.us/p/668bbda3a189d8080e94c948"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[充分利用视觉信息多问多答合成数据，提升多模态大模型数学推理能力]]></title>
-        <id>https://posts.careerengine.us/p/668bbda2a189d8080e94c92f</id>
-        <link href="https://posts.careerengine.us/p/668bbda2a189d8080e94c92f"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科研实习 | 香港浸会大学TMLR课题组招收可信基础模型推理方向科研实习生]]></title>
-        <id>https://posts.careerengine.us/p/668bbda2a189d8080e94c937</id>
-        <link href="https://posts.careerengine.us/p/668bbda2a189d8080e94c937"/>
-        <updated>2024-07-07T16:00:00.000Z</updated>
-        <published>2024-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成式AI的发展方向，应当是Chat还是Agent？]]></title>
-        <id>https://posts.careerengine.us/p/668bbda2a189d8080e94c93f</id>
-        <link href="https://posts.careerengine.us/p/668bbda2a189d8080e94c93f"/>
         <updated>2024-07-07T16:00:00.000Z</updated>
         <published>2024-07-07T16:00:00.000Z</published>
     </entry>

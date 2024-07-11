@@ -1,14 +1,14 @@
 ##
 
-:alarm_clock: 更新时间: 2024-07-11 21:00:26，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-12 06:00:11，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
+- [机器之心](#机器之心)  
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-07-11-GitHub-8k-Star，一作实习生，字节这个大模型成果被苹果选中了](https://posts.careerengine.us/p/668f8f140fed1a018978c8cb) ![](/assets/new.png)  
-- [2024-07-11-18个月326项能力，这家大厂猛猛上新生成式AI，如今纯靠Prompt就搞定企业级应用了](https://posts.careerengine.us/p/668f8f140fed1a018978c8c3) ![](/assets/new.png)  
-- [2024-07-11-这些VLM竟都是盲人？GPT-4o、Sonnet-3.5相继败于「视力」测试](https://posts.careerengine.us/p/668f8f22e602e401ae32c33c) ![](/assets/new.png)  
-- [2024-07-11-ControlNet作者又出爆款！一张图生成绘画全过程，两天狂揽1.4k-Star](https://posts.careerengine.us/p/668f8f23e602e401ae32c344) ![](/assets/new.png)  
-- [2024-07-11-CVPR'24-Highlight｜一个框架搞定人物动作生成，精细到手部运动](https://posts.careerengine.us/p/668f8f31ea90c4023ece69cc) ![](/assets/new.png)  
+- [2024-07-11-GitHub-8k-Star，一作实习生，字节这个大模型成果被苹果选中了](https://posts.careerengine.us/p/668f8f140fed1a018978c8cb)  
+- [2024-07-11-18个月326项能力，这家大厂猛猛上新生成式AI，如今纯靠Prompt就搞定企业级应用了](https://posts.careerengine.us/p/668f8f140fed1a018978c8c3)  
+- [2024-07-11-这些VLM竟都是盲人？GPT-4o、Sonnet-3.5相继败于「视力」测试](https://posts.careerengine.us/p/668f8f22e602e401ae32c33c)  
+- [2024-07-11-ControlNet作者又出爆款！一张图生成绘画全过程，两天狂揽1.4k-Star](https://posts.careerengine.us/p/668f8f23e602e401ae32c344)  
+- [2024-07-11-CVPR'24-Highlight｜一个框架搞定人物动作生成，精细到手部运动](https://posts.careerengine.us/p/668f8f31ea90c4023ece69cc)  
 - [2024-07-10-人人可做提示工程师！Claude上新：一键生成、测试和评估prompt](https://posts.careerengine.us/p/668e0de27c55c7506aaa8d37)  
 - [2024-07-10-深度解析RAG大模型知识冲突，清华西湖大学港中文联合发布](https://posts.careerengine.us/p/668e0de27c55c7506aaa8d2f)  
 - [2024-07-10-藏身幕后的巨人，正将工业AI带入下一阶段](https://posts.careerengine.us/p/668e0dd3d0884d4ff90fd508)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-07-10-快速“水”论文必备：82个即插即用涨点模块！](https://posts.careerengine.us/p/668e183943b3d07a69262ef1)  
-- [2024-07-10-什么是大模型所需要的知识？人大提出DPA-RAG高效对齐检索器与大模型偏好](https://posts.careerengine.us/p/668e183943b3d07a69262f01)  
-- [2024-07-10-ACL-2024-|-OceanGPT（沧渊）：面向海洋科学任务的大型语言模型初探](https://posts.careerengine.us/p/668e183943b3d07a69262ef9)  
+- [2024-07-11-厦门大学首发多模态阅读理解新任务：-图文深度融合数据集VEGA](https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4) ![](/assets/new.png)  
+- [2024-07-11-“闭门造车”之多模态思路浅谈：自回归学习与生成](https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004) ![](/assets/new.png)  
+- [2024-07-11-博士申请-|-香港理工大学李青教授课题组招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/668fe86b3f7c4573e739fffc) ![](/assets/new.png)  
+- [2024-07-11-ACM-MM-2024-以人为中心多媒体分析研讨会，诚邀各界专家学者参与](https://posts.careerengine.us/p/668fe86b3f7c4573e73a000c) ![](/assets/new.png)  
 - [2024-07-10-深圳内推-|-​腾讯AI-Lab招聘自然语言处理方向算法实习生](https://posts.careerengine.us/p/668e184bf3d4967b1b49f014)  
-- [2024-07-09-HANDS@ECCV24-手部研讨会和挑战赛，诚邀投稿和参与竞赛](https://posts.careerengine.us/p/668ccc516e28557364a828a0)  
-- [2024-07-09-ECCV-2024-|-利用更易广泛获取的人体掩膜，实现SOTA无监督3D姿态估计](https://posts.careerengine.us/p/668ccc4228ab7072e2401005)  
-- [2024-07-09-xLSTM崛起！魔芯科技、中科大等新研究揭示其在医学图像分割中超越Mamba](https://posts.careerengine.us/p/668ccc4228ab7072e2400ff5)  
+- [2024-07-10-ACL-2024-|-OceanGPT（沧渊）：面向海洋科学任务的大型语言模型初探](https://posts.careerengine.us/p/668e183943b3d07a69262ef9)  
+- [2024-07-10-什么是大模型所需要的知识？人大提出DPA-RAG高效对齐检索器与大模型偏好](https://posts.careerengine.us/p/668e183943b3d07a69262f01)  
+- [2024-07-10-快速“水”论文必备：82个即插即用涨点模块！](https://posts.careerengine.us/p/668e183943b3d07a69262ef1)  
 - [2024-07-09-字节跳动筋斗云人才计划正式启动！](https://posts.careerengine.us/p/668ccc4228ab7072e2400ffd)  
-- [2024-07-08-生成式AI的发展方向，应当是Chat还是Agent？](https://posts.careerengine.us/p/668bbda2a189d8080e94c93f)  
-- [2024-07-08-科研实习-|-香港浸会大学TMLR课题组招收可信基础模型推理方向科研实习生](https://posts.careerengine.us/p/668bbda2a189d8080e94c937)  
-- [2024-07-08-充分利用视觉信息多问多答合成数据，提升多模态大模型数学推理能力](https://posts.careerengine.us/p/668bbda2a189d8080e94c92f)  
+- [2024-07-09-xLSTM崛起！魔芯科技、中科大等新研究揭示其在医学图像分割中超越Mamba](https://posts.careerengine.us/p/668ccc4228ab7072e2400ff5)  
+- [2024-07-09-ECCV-2024-|-利用更易广泛获取的人体掩膜，实现SOTA无监督3D姿态估计](https://posts.careerengine.us/p/668ccc4228ab7072e2401005)  
+- [2024-07-09-HANDS@ECCV24-手部研讨会和挑战赛，诚邀投稿和参与竞赛](https://posts.careerengine.us/p/668ccc516e28557364a828a0)  
 - [2024-07-08-ECCV-2024-|-VideoMamba：用于高效视频理解的状态空间模型](https://posts.careerengine.us/p/668bbda3a189d8080e94c948)  
-- [2024-07-07-博士申请-|-大湾区大学孙庆强老师招收人工智能方向硕士/博士/RA/博后等](https://posts.careerengine.us/p/668aaf864922a626407ccab8)  
-- [2024-07-07-​即插即用！美团提出整数量化系数方案：大模型细粒度量化的免费午餐](https://posts.careerengine.us/p/668aaf77dc8fae261590c4ac)  
+- [2024-07-08-充分利用视觉信息多问多答合成数据，提升多模态大模型数学推理能力](https://posts.careerengine.us/p/668bbda2a189d8080e94c92f)  
+- [2024-07-08-科研实习-|-香港浸会大学TMLR课题组招收可信基础模型推理方向科研实习生](https://posts.careerengine.us/p/668bbda2a189d8080e94c937)  
+- [2024-07-08-生成式AI的发展方向，应当是Chat还是Agent？](https://posts.careerengine.us/p/668bbda2a189d8080e94c93f)  
 - [2024-07-07-核心代码仅三行！即插即用的视觉语言连接器，一键提升多模态大模型](https://posts.careerengine.us/p/668aaf77dc8fae261590c4b6)  
-- [2024-07-06-博士申请-|-美国孟菲斯大学Haomiao-Ni老师招收计算机视觉全奖博士生](https://posts.careerengine.us/p/66884d8ae5529c6fcfa753cb)  
-- [2024-07-06-总奖金130万！AFAC2024金融智能创新大赛，持续火热招募中！](https://posts.careerengine.us/p/66884d8be5529c6fcfa753d3)  
-- [2024-07-06-AAAI-2024-|-上交等提出自适应间距强化对比学习，增强多个模型的分类能力](https://posts.careerengine.us/p/66884d8be5529c6fcfa753e3)  
+- [2024-07-07-​即插即用！美团提出整数量化系数方案：大模型细粒度量化的免费午餐](https://posts.careerengine.us/p/668aaf77dc8fae261590c4ac)  
+- [2024-07-07-博士申请-|-大湾区大学孙庆强老师招收人工智能方向硕士/博士/RA/博后等](https://posts.careerengine.us/p/668aaf864922a626407ccab8)  
 - [2024-07-06-ICML-2024高分论文-|-大幅降低内存！用零阶优化器微调大模型](https://posts.careerengine.us/p/66884d9fe40d667052e8a6e3)  
-- [2024-07-04-北京内推-|-​微软AI-DKI团队招聘大语言模型开发实习生](https://posts.careerengine.us/p/668630f8b760133b0147c8ce)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
