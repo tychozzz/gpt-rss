@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-07-12 15:01:09，:rocket: 更新条数: +9， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-12 18:01:14，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [机器之心](#机器之心)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
+- [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)  
+- [AI前线](#ai前线)![](/assets/dot.png)   
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-07-11-GitHub-8k-Star，一作实习生，字节这个大模型成果被苹果选中了](https://posts.careerengine.us/p/668f8f140fed1a018978c8cb)  
-- [2024-07-11-18个月326项能力，这家大厂猛猛上新生成式AI，如今纯靠Prompt就搞定企业级应用了](https://posts.careerengine.us/p/668f8f140fed1a018978c8c3)  
-- [2024-07-11-这些VLM竟都是盲人？GPT-4o、Sonnet-3.5相继败于「视力」测试](https://posts.careerengine.us/p/668f8f22e602e401ae32c33c)  
-- [2024-07-11-ControlNet作者又出爆款！一张图生成绘画全过程，两天狂揽1.4k-Star](https://posts.careerengine.us/p/668f8f23e602e401ae32c344)  
+- [2024-07-12-五年后的今天，训练GPT-2只需不到700刀、24小时，Karpathy又整新活](https://posts.careerengine.us/p/6690af04321a1f37ad58d5e4) ![](/assets/new.png)  
+- [2024-07-12-字节跳动筋斗云人才计划开启](https://posts.careerengine.us/p/6690af04321a1f37ad58d5dc) ![](/assets/new.png)  
+- [2024-07-12-首个视频思维链推理框架Video-of-Thought来了：像人一样从感知到认知全面推理视频](https://posts.careerengine.us/p/6690af177031373810f6954e) ![](/assets/new.png)  
+- [2024-07-12-英伟达又赚到了！FlashAttention3来了：H100利用率飙升至75％](https://posts.careerengine.us/p/6690af177031373810f69546) ![](/assets/new.png)  
+- [2024-07-12-ICML-2024-|-梯度检查点太慢？不降速、省显存，LowMemoryBP大幅提升反向传播显存效率](https://posts.careerengine.us/p/6690af177031373810f6953d) ![](/assets/new.png)  
 - [2024-07-11-CVPR'24-Highlight｜一个框架搞定人物动作生成，精细到手部运动](https://posts.careerengine.us/p/668f8f31ea90c4023ece69cc)  
-- [2024-07-10-人人可做提示工程师！Claude上新：一键生成、测试和评估prompt](https://posts.careerengine.us/p/668e0de27c55c7506aaa8d37)  
-- [2024-07-10-深度解析RAG大模型知识冲突，清华西湖大学港中文联合发布](https://posts.careerengine.us/p/668e0de27c55c7506aaa8d2f)  
-- [2024-07-10-藏身幕后的巨人，正将工业AI带入下一阶段](https://posts.careerengine.us/p/668e0dd3d0884d4ff90fd508)  
-- [2024-07-10-WAIC观察：隐私计算加速落地产业，全新的技术标准体系呼之欲出](https://posts.careerengine.us/p/668e0dd2d0884d4ff90fd4f8)  
+- [2024-07-11-ControlNet作者又出爆款！一张图生成绘画全过程，两天狂揽1.4k-Star](https://posts.careerengine.us/p/668f8f23e602e401ae32c344)  
+- [2024-07-11-这些VLM竟都是盲人？GPT-4o、Sonnet-3.5相继败于「视力」测试](https://posts.careerengine.us/p/668f8f22e602e401ae32c33c)  
+- [2024-07-11-18个月326项能力，这家大厂猛猛上新生成式AI，如今纯靠Prompt就搞定企业级应用了](https://posts.careerengine.us/p/668f8f140fed1a018978c8c3)  
+- [2024-07-11-GitHub-8k-Star，一作实习生，字节这个大模型成果被苹果选中了](https://posts.careerengine.us/p/668f8f140fed1a018978c8cb)  
 - [2024-07-10-单一作者论文，谷歌提出百万专家Mixture，超越密集前馈、稀疏MoE](https://posts.careerengine.us/p/668e0dd2d0884d4ff90fd500)  
-- [2024-07-09-第一次，语言的神经激活被定位到细胞级](https://posts.careerengine.us/p/668d0eaca8c645071f5d8a58)  
-- [2024-07-09-70万人争先体验！视频生成新王者「可灵AI」又双叒升级了](https://posts.careerengine.us/p/668d0eaca8c645071f5d8a60)  
-- [2024-07-09-鄂维南院士领衔新作：大模型不止有RAG、参数存储，还有第3种记忆](https://posts.careerengine.us/p/668d0ebcf3468d07415c752c)  
-- [2024-07-09-没想到！AlphaZero式树搜索也能用来增强大语言模型推理与训练](https://posts.careerengine.us/p/668d0ebcf3468d07415c7524)  
+- [2024-07-10-WAIC观察：隐私计算加速落地产业，全新的技术标准体系呼之欲出](https://posts.careerengine.us/p/668e0dd2d0884d4ff90fd4f8)  
+- [2024-07-10-藏身幕后的巨人，正将工业AI带入下一阶段](https://posts.careerengine.us/p/668e0dd3d0884d4ff90fd508)  
+- [2024-07-10-深度解析RAG大模型知识冲突，清华西湖大学港中文联合发布](https://posts.careerengine.us/p/668e0de27c55c7506aaa8d2f)  
+- [2024-07-10-人人可做提示工程师！Claude上新：一键生成、测试和评估prompt](https://posts.careerengine.us/p/668e0de27c55c7506aaa8d37)  
 - [2024-07-09-又遇到「GPT写的review」了？看看北大&密歇根的这个研究工作](https://posts.careerengine.us/p/668d0ecbd55871076534c857)  
-- [2024-07-08-几分钟生成四维内容，还能控制运动效果：北大、密歇根提出DG4D](https://posts.careerengine.us/p/668b723ab1c849529293000c)  
-- [2024-07-08-主打个性化体验，留住用户全靠AIGC？](https://posts.careerengine.us/p/668b722be7bf4f526782a909)  
-- [2024-07-08-像生物网络一样「生长」，具备「结构可塑性」的自组织神经网络来了](https://posts.careerengine.us/p/668b722be7bf4f526782a8f8)  
-- [2024-07-08-单卡A100实现百万token推理，速度快10倍，这是微软官方的大模型推理加速](https://posts.careerengine.us/p/668b722be7bf4f526782a900)  
-- [2024-07-08-理财AI勇闯「无人区」：理解专家、成为专家](https://posts.careerengine.us/p/668b72195f3d1351f1fd386d)  
+- [2024-07-09-没想到！AlphaZero式树搜索也能用来增强大语言模型推理与训练](https://posts.careerengine.us/p/668d0ebcf3468d07415c7524)  
+- [2024-07-09-鄂维南院士领衔新作：大模型不止有RAG、参数存储，还有第3种记忆](https://posts.careerengine.us/p/668d0ebcf3468d07415c752c)  
+- [2024-07-09-70万人争先体验！视频生成新王者「可灵AI」又双叒升级了](https://posts.careerengine.us/p/668d0eaca8c645071f5d8a60)  
+- [2024-07-09-第一次，语言的神经激活被定位到细胞级](https://posts.careerengine.us/p/668d0eaca8c645071f5d8a58)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -52,11 +52,11 @@
 </summary>
 
 
-- [2024-07-12-H100利用率飙升至75％！英伟达亲自下场FlashAttention三代升级，比标准注意力快16倍](https://posts.careerengine.us/p/6690a373918e31365f321277) ![](/assets/new.png)  
-- [2024-07-12-苏妈掷48亿现金吞下AI模型公司，英伟达有的AMD也要有](https://posts.careerengine.us/p/6690a384671097071ef6ec67) ![](/assets/new.png)  
-- [2024-07-12-程序员如何用好“AI搭子”？实操演示来了，揭秘多元业务场景如何用AI工具提效降本](https://posts.careerengine.us/p/6690a384671097071ef6ec6f) ![](/assets/new.png)  
-- [2024-07-12-一分钟原画变3D角色，清华VAST成果入选图形学顶会SIGGRAPH](https://posts.careerengine.us/p/6690a39314002a07999d05d7) ![](/assets/new.png)  
-- [2024-07-12-AI慢思考蒸馏进快思考，Llama2跃升至GPT-4水平，不写过程也能做对题](https://posts.careerengine.us/p/6690a39314002a07999d05df) ![](/assets/new.png)  
+- [2024-07-12-H100利用率飙升至75％！英伟达亲自下场FlashAttention三代升级，比标准注意力快16倍](https://posts.careerengine.us/p/6690a373918e31365f321277)  
+- [2024-07-12-苏妈掷48亿现金吞下AI模型公司，英伟达有的AMD也要有](https://posts.careerengine.us/p/6690a384671097071ef6ec67)  
+- [2024-07-12-程序员如何用好“AI搭子”？实操演示来了，揭秘多元业务场景如何用AI工具提效降本](https://posts.careerengine.us/p/6690a384671097071ef6ec6f)  
+- [2024-07-12-一分钟原画变3D角色，清华VAST成果入选图形学顶会SIGGRAPH](https://posts.careerengine.us/p/6690a39314002a07999d05d7)  
+- [2024-07-12-AI慢思考蒸馏进快思考，Llama2跃升至GPT-4水平，不写过程也能做对题](https://posts.careerengine.us/p/6690a39314002a07999d05df)  
 - [2024-07-11-CVPR成全球第二大学术出版物，超越Science！AI顶会占领前20｜谷歌学术指标2024](https://posts.careerengine.us/p/668f5701ed0b8119c513978a)  
 - [2024-07-11-Llama3比GPT-4o更爱说谎，首个大模型“诚实性”评估基准来了-|-上海交大](https://posts.careerengine.us/p/668f5701ed0b8119c5139792)  
 - [2024-07-11-“云计算一哥”深夜放大招：几分钟，纯靠Prompt打造一个App！](https://posts.careerengine.us/p/668f56f2b2d5011966bddefc)  
@@ -118,10 +118,10 @@
 </summary>
 
 
-- [2024-07-12-与全参数微调相比，LoRA微调的性能到底如何？](https://posts.careerengine.us/p/6690b6e0509f4258bd57f853) ![](/assets/new.png)  
-- [2024-07-12-当Mamba遇上视觉压缩：首个具有选择性状态空间的视觉压缩网络](https://posts.careerengine.us/p/6690b6e0509f4258bd57f85b) ![](/assets/new.png)  
-- [2024-07-12-ICML-2024-|-南开大学提出反向传播全新改进策略，不降速、大幅提升显存效率](https://posts.careerengine.us/p/6690b6eea835fa58e6419795) ![](/assets/new.png)  
-- [2024-07-12-北京内推-|-​度小满金融AI-LAB招聘数字人/文生视频方向研究型实习生](https://posts.careerengine.us/p/6690b6efa835fa58e641979d) ![](/assets/new.png)  
+- [2024-07-12-与全参数微调相比，LoRA微调的性能到底如何？](https://posts.careerengine.us/p/6690b6e0509f4258bd57f853)  
+- [2024-07-12-当Mamba遇上视觉压缩：首个具有选择性状态空间的视觉压缩网络](https://posts.careerengine.us/p/6690b6e0509f4258bd57f85b)  
+- [2024-07-12-ICML-2024-|-南开大学提出反向传播全新改进策略，不降速、大幅提升显存效率](https://posts.careerengine.us/p/6690b6eea835fa58e6419795)  
+- [2024-07-12-北京内推-|-​度小满金融AI-LAB招聘数字人/文生视频方向研究型实习生](https://posts.careerengine.us/p/6690b6efa835fa58e641979d)  
 - [2024-07-11-ACM-MM-2024-以人为中心多媒体分析研讨会，诚邀各界专家学者参与](https://posts.careerengine.us/p/668fe86b3f7c4573e73a000c)  
 - [2024-07-11-博士申请-|-香港理工大学李青教授课题组招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/668fe86b3f7c4573e739fffc)  
 - [2024-07-11-“闭门造车”之多模态思路浅谈：自回归学习与生成](https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004)  
@@ -176,26 +176,26 @@
 </summary>
 
 
-- [2024-07-11-超越-Transformer-与-Mamba，Meta-联合斯坦福等高校推出最强架构-TTT](https://posts.careerengine.us/p/668f6ed096553d7b418292b8)  
-- [2024-07-11-RAG-技术在金融支付类-ToC-应用场景中的探索与实践](https://posts.careerengine.us/p/668f6ed196553d7b418292c8)  
+- [2024-07-12-Karpathy又整活儿了！一天训练出GPT-2、成本还骤降100倍，网友：dream老黄把价格再打下来](https://posts.careerengine.us/p/6690d289315ca8471248c605) ![](/assets/new.png)  
+- [2024-07-12-OpenAI提出AGI五级标准，高管：我们仍处第一级](https://posts.careerengine.us/p/6690d2976bad67474698d63d) ![](/assets/new.png)  
+- [2024-07-12-大模型产品琳琅满目，企业应该如何选择？](https://posts.careerengine.us/p/6690d2976bad67474698d635) ![](/assets/new.png)  
 - [2024-07-11-xAI-和-Oracle-间-100-亿美元的生意谈崩了！有钱也租不到芯片的马斯克要自建超级计算中心，就不信“钞”能力还会失效？](https://posts.careerengine.us/p/668f6ed196553d7b418292c0)  
-- [2024-07-10-大模型增强下的图智能在金融场景的应用与实践](https://posts.careerengine.us/p/668e1de1a3626e12f8bf24eb)  
+- [2024-07-11-RAG-技术在金融支付类-ToC-应用场景中的探索与实践](https://posts.careerengine.us/p/668f6ed196553d7b418292c8)  
+- [2024-07-11-超越-Transformer-与-Mamba，Meta-联合斯坦福等高校推出最强架构-TTT](https://posts.careerengine.us/p/668f6ed096553d7b418292b8)  
 - [2024-07-10-阿里开源语音处理模型-FunAudioLLM-：50-种语言无缝翻译，还能识别语音情绪](https://posts.careerengine.us/p/668e1de1a3626e12f8bf24f3)  
-- [2024-07-09-大模型风口下，卷应用才有价值！首期-AIGC-实践案例集锦上线啦（免费下载）](https://posts.careerengine.us/p/668ccc6022367d739ac7eb38)  
-- [2024-07-09-微软中国CTO韦青：亲身经历大模型落地的体会与思考](https://posts.careerengine.us/p/668ccc6022367d739ac7eb30)  
+- [2024-07-10-大模型增强下的图智能在金融场景的应用与实践](https://posts.careerengine.us/p/668e1de1a3626e12f8bf24eb)  
 - [2024-07-09-都说-RAG-“烂大街”了，但为何深度应用寥寥无几？|-直播预告](https://posts.careerengine.us/p/668ccc6022367d739ac7eb28)  
-- [2024-07-08-面壁-WAIC-新发布：新一代高效低能耗架构面壁小钢炮、一键开发大模型-APP-的全栈工具集](https://posts.careerengine.us/p/668b81ff596c9814ddfa4466)  
-- [2024-07-08-AI-卷生卷死的-Q2-终于结束了，InfoQ研究中心内容洞察集锦助你-Q3-先人一步](https://posts.careerengine.us/p/668b81f03206c014b95ff4eb)  
+- [2024-07-09-微软中国CTO韦青：亲身经历大模型落地的体会与思考](https://posts.careerengine.us/p/668ccc6022367d739ac7eb30)  
+- [2024-07-09-大模型风口下，卷应用才有价值！首期-AIGC-实践案例集锦上线啦（免费下载）](https://posts.careerengine.us/p/668ccc6022367d739ac7eb38)  
 - [2024-07-08-零就业保障、全天精神“酷刑”！ChatGPT类产品背后80％贡献者，时薪1.16美元，但也没得选](https://posts.careerengine.us/p/668b81f03206c014b95ff4e3)  
-- [2024-07-07-网易员工内部群怼丁磊：人人陪你演戏点赞；李彦宏：开源模型是智商税；小红书再裁员：人效比只能达到拼多多的一半-|-AI周报](https://posts.careerengine.us/p/668a28ff7afaec7a72a22615)  
-- [2024-07-07-一项人工智能法案，为何让硅谷陷入恐慌？|-Q福利](https://posts.careerengine.us/p/668a290d6cd7b87a93cb130f)  
+- [2024-07-08-AI-卷生卷死的-Q2-终于结束了，InfoQ研究中心内容洞察集锦助你-Q3-先人一步](https://posts.careerengine.us/p/668b81f03206c014b95ff4eb)  
+- [2024-07-08-面壁-WAIC-新发布：新一代高效低能耗架构面壁小钢炮、一键开发大模型-APP-的全栈工具集](https://posts.careerengine.us/p/668b81ff596c9814ddfa4466)  
 - [2024-07-07-聊聊金融业如何用好大模型这把“利刃”-|-直播预告](https://posts.careerengine.us/p/668a290d6cd7b87a93cb1306)  
-- [2024-07-06-Meta-3D-Gen-震撼发布：1-分钟打造顶级-3D-模型](https://posts.careerengine.us/p/6688d797ae35062a713834b8)  
-- [2024-07-06-清华大学汪玉：大模型能效提升，有几条必经之路？](https://posts.careerengine.us/p/6688d784f860d72a4a9bac9a)  
+- [2024-07-07-一项人工智能法案，为何让硅谷陷入恐慌？|-Q福利](https://posts.careerengine.us/p/668a290d6cd7b87a93cb130f)  
+- [2024-07-07-网易员工内部群怼丁磊：人人陪你演戏点赞；李彦宏：开源模型是智商税；小红书再裁员：人效比只能达到拼多多的一半-|-AI周报](https://posts.careerengine.us/p/668a28ff7afaec7a72a22615)  
 - [2024-07-06-北航、滴滴联合提出一种新的增量度量框架，实现动态图结构熵的高效增量计算](https://posts.careerengine.us/p/6688d783f860d72a4a9bac92)  
-- [2024-07-05-大模型时代数据库技术创新](https://posts.careerengine.us/p/668792e80f1ebd2391b54333)  
-- [2024-07-05-成立半年就敢踢馆-OpenAI-，首个开源模型不输-GPT-4o，LeCun-、PyTorch-之父齐声叫好！](https://posts.careerengine.us/p/668792e90f1ebd2391b5433b)  
-- [2024-07-04-Andrej-Karpathy-提出新构想：未来-2.0-计算机将完全由神经网络驱动](https://posts.careerengine.us/p/66863a10c3d1d55f80e32f05)  
+- [2024-07-06-清华大学汪玉：大模型能效提升，有几条必经之路？](https://posts.careerengine.us/p/6688d784f860d72a4a9bac9a)  
+- [2024-07-06-Meta-3D-Gen-震撼发布：1-分钟打造顶级-3D-模型](https://posts.careerengine.us/p/6688d797ae35062a713834b8)  
 - [......【查看更多】......](/details/AI前线.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
