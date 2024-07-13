@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-07-12 18:01:14，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-13 15:00:09，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -10,7 +10,7 @@
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -21,26 +21,26 @@
 </summary>
 
 
-- [2024-07-12-五年后的今天，训练GPT-2只需不到700刀、24小时，Karpathy又整新活](https://posts.careerengine.us/p/6690af04321a1f37ad58d5e4) ![](/assets/new.png)  
-- [2024-07-12-字节跳动筋斗云人才计划开启](https://posts.careerengine.us/p/6690af04321a1f37ad58d5dc) ![](/assets/new.png)  
-- [2024-07-12-首个视频思维链推理框架Video-of-Thought来了：像人一样从感知到认知全面推理视频](https://posts.careerengine.us/p/6690af177031373810f6954e) ![](/assets/new.png)  
-- [2024-07-12-英伟达又赚到了！FlashAttention3来了：H100利用率飙升至75％](https://posts.careerengine.us/p/6690af177031373810f69546) ![](/assets/new.png)  
-- [2024-07-12-ICML-2024-|-梯度检查点太慢？不降速、省显存，LowMemoryBP大幅提升反向传播显存效率](https://posts.careerengine.us/p/6690af177031373810f6953d) ![](/assets/new.png)  
-- [2024-07-11-CVPR'24-Highlight｜一个框架搞定人物动作生成，精细到手部运动](https://posts.careerengine.us/p/668f8f31ea90c4023ece69cc)  
-- [2024-07-11-ControlNet作者又出爆款！一张图生成绘画全过程，两天狂揽1.4k-Star](https://posts.careerengine.us/p/668f8f23e602e401ae32c344)  
-- [2024-07-11-这些VLM竟都是盲人？GPT-4o、Sonnet-3.5相继败于「视力」测试](https://posts.careerengine.us/p/668f8f22e602e401ae32c33c)  
-- [2024-07-11-18个月326项能力，这家大厂猛猛上新生成式AI，如今纯靠Prompt就搞定企业级应用了](https://posts.careerengine.us/p/668f8f140fed1a018978c8c3)  
+- [2024-07-13-大厂掀起视频生成「军备竞赛」，AI-真能干掉好莱坞？](https://posts.careerengine.us/p/6691f68accf5cf52b8791e9f) ![](/assets/new.png)  
+- [2024-07-13-OpenAI-Lilian-Weng万字长文解读LLM幻觉：从理解到克服](https://posts.careerengine.us/p/6691f68bccf5cf52b8791ea8) ![](/assets/new.png)  
+- [2024-07-13-豆包大模型团队发布全新Detail-Image-Caption评估基准，提升VLM-Caption评测可靠性](https://posts.careerengine.us/p/6691f69c1cca2b52db4bb4ba) ![](/assets/new.png)  
+- [2024-07-13-Gemini-1.5-Pro装进机器人，参观一遍公司就能礼宾、带路](https://posts.careerengine.us/p/6691f69c1cca2b52db4bb4ca) ![](/assets/new.png)  
+- [2024-07-13-端侧设备AI代理优化框架问世，领域内准确率可达97％](https://posts.careerengine.us/p/6691f69c1cca2b52db4bb4c2) ![](/assets/new.png)  
+- [2024-07-12-ICML-2024-|-梯度检查点太慢？不降速、省显存，LowMemoryBP大幅提升反向传播显存效率](https://posts.careerengine.us/p/6690af177031373810f6953d)  
+- [2024-07-12-英伟达又赚到了！FlashAttention3来了：H100利用率飙升至75％](https://posts.careerengine.us/p/6690af177031373810f69546)  
+- [2024-07-12-首个视频思维链推理框架Video-of-Thought来了：像人一样从感知到认知全面推理视频](https://posts.careerengine.us/p/6690af177031373810f6954e)  
+- [2024-07-12-字节跳动筋斗云人才计划开启](https://posts.careerengine.us/p/6690af04321a1f37ad58d5dc)  
+- [2024-07-12-五年后的今天，训练GPT-2只需不到700刀、24小时，Karpathy又整新活](https://posts.careerengine.us/p/6690af04321a1f37ad58d5e4)  
 - [2024-07-11-GitHub-8k-Star，一作实习生，字节这个大模型成果被苹果选中了](https://posts.careerengine.us/p/668f8f140fed1a018978c8cb)  
-- [2024-07-10-单一作者论文，谷歌提出百万专家Mixture，超越密集前馈、稀疏MoE](https://posts.careerengine.us/p/668e0dd2d0884d4ff90fd500)  
-- [2024-07-10-WAIC观察：隐私计算加速落地产业，全新的技术标准体系呼之欲出](https://posts.careerengine.us/p/668e0dd2d0884d4ff90fd4f8)  
-- [2024-07-10-藏身幕后的巨人，正将工业AI带入下一阶段](https://posts.careerengine.us/p/668e0dd3d0884d4ff90fd508)  
-- [2024-07-10-深度解析RAG大模型知识冲突，清华西湖大学港中文联合发布](https://posts.careerengine.us/p/668e0de27c55c7506aaa8d2f)  
+- [2024-07-11-18个月326项能力，这家大厂猛猛上新生成式AI，如今纯靠Prompt就搞定企业级应用了](https://posts.careerengine.us/p/668f8f140fed1a018978c8c3)  
+- [2024-07-11-这些VLM竟都是盲人？GPT-4o、Sonnet-3.5相继败于「视力」测试](https://posts.careerengine.us/p/668f8f22e602e401ae32c33c)  
+- [2024-07-11-ControlNet作者又出爆款！一张图生成绘画全过程，两天狂揽1.4k-Star](https://posts.careerengine.us/p/668f8f23e602e401ae32c344)  
+- [2024-07-11-CVPR'24-Highlight｜一个框架搞定人物动作生成，精细到手部运动](https://posts.careerengine.us/p/668f8f31ea90c4023ece69cc)  
 - [2024-07-10-人人可做提示工程师！Claude上新：一键生成、测试和评估prompt](https://posts.careerengine.us/p/668e0de27c55c7506aaa8d37)  
-- [2024-07-09-又遇到「GPT写的review」了？看看北大&密歇根的这个研究工作](https://posts.careerengine.us/p/668d0ecbd55871076534c857)  
-- [2024-07-09-没想到！AlphaZero式树搜索也能用来增强大语言模型推理与训练](https://posts.careerengine.us/p/668d0ebcf3468d07415c7524)  
-- [2024-07-09-鄂维南院士领衔新作：大模型不止有RAG、参数存储，还有第3种记忆](https://posts.careerengine.us/p/668d0ebcf3468d07415c752c)  
-- [2024-07-09-70万人争先体验！视频生成新王者「可灵AI」又双叒升级了](https://posts.careerengine.us/p/668d0eaca8c645071f5d8a60)  
-- [2024-07-09-第一次，语言的神经激活被定位到细胞级](https://posts.careerengine.us/p/668d0eaca8c645071f5d8a58)  
+- [2024-07-10-深度解析RAG大模型知识冲突，清华西湖大学港中文联合发布](https://posts.careerengine.us/p/668e0de27c55c7506aaa8d2f)  
+- [2024-07-10-藏身幕后的巨人，正将工业AI带入下一阶段](https://posts.careerengine.us/p/668e0dd3d0884d4ff90fd508)  
+- [2024-07-10-WAIC观察：隐私计算加速落地产业，全新的技术标准体系呼之欲出](https://posts.careerengine.us/p/668e0dd2d0884d4ff90fd4f8)  
+- [2024-07-10-单一作者论文，谷歌提出百万专家Mixture，超越密集前馈、稀疏MoE](https://posts.careerengine.us/p/668e0dd2d0884d4ff90fd500)  
 - [......【查看更多】......](/details/机器之心.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,9 +176,9 @@
 </summary>
 
 
-- [2024-07-12-Karpathy又整活儿了！一天训练出GPT-2、成本还骤降100倍，网友：dream老黄把价格再打下来](https://posts.careerengine.us/p/6690d289315ca8471248c605) ![](/assets/new.png)  
-- [2024-07-12-OpenAI提出AGI五级标准，高管：我们仍处第一级](https://posts.careerengine.us/p/6690d2976bad67474698d63d) ![](/assets/new.png)  
-- [2024-07-12-大模型产品琳琅满目，企业应该如何选择？](https://posts.careerengine.us/p/6690d2976bad67474698d635) ![](/assets/new.png)  
+- [2024-07-12-Karpathy又整活儿了！一天训练出GPT-2、成本还骤降100倍，网友：dream老黄把价格再打下来](https://posts.careerengine.us/p/6690d289315ca8471248c605)  
+- [2024-07-12-OpenAI提出AGI五级标准，高管：我们仍处第一级](https://posts.careerengine.us/p/6690d2976bad67474698d63d)  
+- [2024-07-12-大模型产品琳琅满目，企业应该如何选择？](https://posts.careerengine.us/p/6690d2976bad67474698d635)  
 - [2024-07-11-xAI-和-Oracle-间-100-亿美元的生意谈崩了！有钱也租不到芯片的马斯克要自建超级计算中心，就不信“钞”能力还会失效？](https://posts.careerengine.us/p/668f6ed196553d7b418292c0)  
 - [2024-07-11-RAG-技术在金融支付类-ToC-应用场景中的探索与实践](https://posts.careerengine.us/p/668f6ed196553d7b418292c8)  
 - [2024-07-11-超越-Transformer-与-Mamba，Meta-联合斯坦福等高校推出最强架构-TTT](https://posts.careerengine.us/p/668f6ed096553d7b418292b8)  
