@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-13 18:00:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-14 15:00:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 腾讯
 
@@ -12,6 +12,7 @@
 - [2023-12-12-夸张！EMNLP投稿近5000篇，奖项出炉：北大、腾讯摘最佳长论文](https://posts.careerengine.us/p/6577416566e7d867731ba9dd) 
 - [2023-07-26-MSU世界视频编码器大赛放榜，腾讯包揽全场冠军](https://posts.careerengine.us/p/64c0a8679bff72303f5d5571) 
 - [2023-07-10-SIGGRAPH-2023论文奖公布，山大、港大获奖，北大、腾讯光子获提名](https://posts.careerengine.us/p/64abca84b3cf11269246627e) 
+- [2024-07-14-自动驾驶雨天也能平稳规划，北理港中文腾讯提出端到端学习道路几何图形](https://posts.careerengine.us/p/66934f5f3ce5884096a57a42) 
 - [2024-03-26-腾讯机器人研究登顶刊！能帮程序员安显示器，像真人一样协同干活](https://posts.careerengine.us/p/6602538300ec5046546fc3b0) 
 - [2023-11-17-腾讯最隐秘人才计划曝光！今年IOI金牌全员现身，数物化竞赛顶流星聚](https://posts.careerengine.us/p/65571500fd58bd15fc93499a) 
 - [2023-10-05-腾讯机器人实验室一号员工创业，人形机器人又添重磅玩家](https://posts.careerengine.us/p/651e37023bdf5d5b8e3ed35d) 
