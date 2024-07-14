@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gpt-rss.com//atom.xml</id>
     <title>AIGC 相关文章 | gpt-rss | by 周三不Coding</title>
-    <updated>2024-07-14T07:00:14.222Z</updated>
+    <updated>2024-07-14T15:00:25.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tycho</name>
@@ -25,6 +25,34 @@
         <title type="html"><![CDATA[AI 时代，网关更能打了？]]></title>
         <id>https://posts.careerengine.us/p/669363b09985f1120b56319b</id>
         <link href="https://posts.careerengine.us/p/669363b09985f1120b56319b"/>
+        <updated>2024-07-13T16:00:00.000Z</updated>
+        <published>2024-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京内推 | ​百度搜索策略部视频搜索团队招聘多模态方向算法实习生]]></title>
+        <id>https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e</id>
+        <link href="https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e"/>
+        <updated>2024-07-13T16:00:00.000Z</updated>
+        <published>2024-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVPR最佳论文候选：NeRF新突破！用启发式引导分割去除瞬态干扰物]]></title>
+        <id>https://posts.careerengine.us/p/6693d721e247ce4ad4318d5c</id>
+        <link href="https://posts.careerengine.us/p/6693d721e247ce4ad4318d5c"/>
+        <updated>2024-07-13T16:00:00.000Z</updated>
+        <published>2024-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索LLM安全漏洞新视角：植入后门的RAG会对大模型推理带来哪些风险？]]></title>
+        <id>https://posts.careerengine.us/p/6693d712e7f7a74a42320e40</id>
+        <link href="https://posts.careerengine.us/p/6693d712e7f7a74a42320e40"/>
+        <updated>2024-07-13T16:00:00.000Z</updated>
+        <published>2024-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WizardLM新作！ArenaLearning：通过模拟LLM竞技场来构建大规模数据飞轮]]></title>
+        <id>https://posts.careerengine.us/p/6693d712e7f7a74a42320e38</id>
+        <link href="https://posts.careerengine.us/p/6693d712e7f7a74a42320e38"/>
         <updated>2024-07-13T16:00:00.000Z</updated>
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
@@ -190,16 +218,9 @@
         <published>2024-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北京内推 | ​度小满金融AI LAB招聘数字人/文生视频方向研究型实习生]]></title>
-        <id>https://posts.careerengine.us/p/6690b6efa835fa58e641979d</id>
-        <link href="https://posts.careerengine.us/p/6690b6efa835fa58e641979d"/>
-        <updated>2024-07-11T16:00:00.000Z</updated>
-        <published>2024-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICML 2024 | 南开大学提出反向传播全新改进策略，不降速、大幅提升显存效率]]></title>
-        <id>https://posts.careerengine.us/p/6690b6eea835fa58e6419795</id>
-        <link href="https://posts.careerengine.us/p/6690b6eea835fa58e6419795"/>
+        <title type="html"><![CDATA[与全参数微调相比，LoRA微调的性能到底如何？]]></title>
+        <id>https://posts.careerengine.us/p/6690b6e0509f4258bd57f853</id>
+        <link href="https://posts.careerengine.us/p/6690b6e0509f4258bd57f853"/>
         <updated>2024-07-11T16:00:00.000Z</updated>
         <published>2024-07-11T16:00:00.000Z</published>
     </entry>
@@ -211,9 +232,16 @@
         <published>2024-07-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[与全参数微调相比，LoRA微调的性能到底如何？]]></title>
-        <id>https://posts.careerengine.us/p/6690b6e0509f4258bd57f853</id>
-        <link href="https://posts.careerengine.us/p/6690b6e0509f4258bd57f853"/>
+        <title type="html"><![CDATA[ICML 2024 | 南开大学提出反向传播全新改进策略，不降速、大幅提升显存效率]]></title>
+        <id>https://posts.careerengine.us/p/6690b6eea835fa58e6419795</id>
+        <link href="https://posts.careerengine.us/p/6690b6eea835fa58e6419795"/>
+        <updated>2024-07-11T16:00:00.000Z</updated>
+        <published>2024-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京内推 | ​度小满金融AI LAB招聘数字人/文生视频方向研究型实习生]]></title>
+        <id>https://posts.careerengine.us/p/6690b6efa835fa58e641979d</id>
+        <link href="https://posts.careerengine.us/p/6690b6efa835fa58e641979d"/>
         <updated>2024-07-11T16:00:00.000Z</updated>
         <published>2024-07-11T16:00:00.000Z</published>
     </entry>
@@ -309,16 +337,9 @@
         <published>2024-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[厦门大学首发多模态阅读理解新任务： 图文深度融合数据集VEGA]]></title>
-        <id>https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4</id>
-        <link href="https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4"/>
-        <updated>2024-07-10T16:00:00.000Z</updated>
-        <published>2024-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“闭门造车”之多模态思路浅谈：自回归学习与生成]]></title>
-        <id>https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004</id>
-        <link href="https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004"/>
+        <title type="html"><![CDATA[ACM MM 2024 以人为中心多媒体分析研讨会，诚邀各界专家学者参与]]></title>
+        <id>https://posts.careerengine.us/p/668fe86b3f7c4573e73a000c</id>
+        <link href="https://posts.careerengine.us/p/668fe86b3f7c4573e73a000c"/>
         <updated>2024-07-10T16:00:00.000Z</updated>
         <published>2024-07-10T16:00:00.000Z</published>
     </entry>
@@ -330,37 +351,16 @@
         <published>2024-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ACM MM 2024 以人为中心多媒体分析研讨会，诚邀各界专家学者参与]]></title>
-        <id>https://posts.careerengine.us/p/668fe86b3f7c4573e73a000c</id>
-        <link href="https://posts.careerengine.us/p/668fe86b3f7c4573e73a000c"/>
+        <title type="html"><![CDATA[“闭门造车”之多模态思路浅谈：自回归学习与生成]]></title>
+        <id>https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004</id>
+        <link href="https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004"/>
         <updated>2024-07-10T16:00:00.000Z</updated>
         <published>2024-07-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大模型权威测试被曝翻车！更偏袒GPT-4等闭源模型，连提示词都区别对待]]></title>
-        <id>https://posts.careerengine.us/p/668f56f2b2d5011966bddf04</id>
-        <link href="https://posts.careerengine.us/p/668f56f2b2d5011966bddf04"/>
-        <updated>2024-07-10T16:00:00.000Z</updated>
-        <published>2024-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“云计算一哥”深夜放大招：几分钟，纯靠Prompt打造一个App！]]></title>
-        <id>https://posts.careerengine.us/p/668f56f2b2d5011966bddefc</id>
-        <link href="https://posts.careerengine.us/p/668f56f2b2d5011966bddefc"/>
-        <updated>2024-07-10T16:00:00.000Z</updated>
-        <published>2024-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Llama3比GPT-4o更爱说谎，首个大模型“诚实性”评估基准来了 | 上海交大]]></title>
-        <id>https://posts.careerengine.us/p/668f5701ed0b8119c5139792</id>
-        <link href="https://posts.careerengine.us/p/668f5701ed0b8119c5139792"/>
-        <updated>2024-07-10T16:00:00.000Z</updated>
-        <published>2024-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVPR成全球第二大学术出版物，超越Science！AI顶会占领前20｜谷歌学术指标2024]]></title>
-        <id>https://posts.careerengine.us/p/668f5701ed0b8119c513978a</id>
-        <link href="https://posts.careerengine.us/p/668f5701ed0b8119c513978a"/>
+        <title type="html"><![CDATA[厦门大学首发多模态阅读理解新任务： 图文深度融合数据集VEGA]]></title>
+        <id>https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4</id>
+        <link href="https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4"/>
         <updated>2024-07-10T16:00:00.000Z</updated>
         <published>2024-07-10T16:00:00.000Z</published>
     </entry>

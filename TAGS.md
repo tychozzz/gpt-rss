@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-14 15:00:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-14 23:00:25。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,7 @@
 - [【量子位】百度量子计算有变化，官方证实：实验室及设备将赠予北京量子院](https://posts.careerengine.us/p/65952a501d2cfb42ab2a5b49)
 - [【量子位】百度网盘变了！进化成学习神器：音视频转文稿、加字幕，还能一键生成PPT！](https://posts.careerengine.us/p/654dd01fd529c81123add4cb)
 - [【量子位】百度开大会，王小川伺机宣布新融资](https://posts.careerengine.us/p/652e6697c102505aa26cc485)
+- [【PaperWeekly】北京内推-|-​百度搜索策略部视频搜索团队招聘多模态方向算法实习生](https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e)
 - [【PaperWeekly】「线索经营」PK「科学经营」，百度智能体商业时代，押注谁赢？](https://posts.careerengine.us/p/6596320408a3c6138d641c9e)
 - [【PaperWeekly】百度营销《打通全域营销-破局长效增长》重磅发布，拥抱长效经营新范式](https://posts.careerengine.us/p/6554bbf5726adb387720e7b1)
 - [【PaperWeekly】深圳内推-|-百度文心ERNIE团队招聘NLP数据科学算法实习生](https://posts.careerengine.us/p/64faa0106ebf823fe3343af1)
@@ -257,8 +258,8 @@
 - [【量子位】多模态CoT思维链架构来了，现已开源｜来自厦大&腾讯优图](https://posts.careerengine.us/p/66555e775f0f6a4465891cc6)
 - [【量子位】上海交大新框架解锁CLIP长文本能力，多模态生成细节拿捏，图像检索能力显著提升](https://posts.careerengine.us/p/66092091d73fb76a9f0353da)
 - [【量子位】北大&腾讯打造多模态15边形战士！语言作“纽带”，拳打脚踢各模态，超越Imagebind](https://posts.careerengine.us/p/65504ca2d8a0792896491abe)
-- [【PaperWeekly】“闭门造车”之多模态思路浅谈：自回归学习与生成](https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004)
 - [【PaperWeekly】厦门大学首发多模态阅读理解新任务：-图文深度融合数据集VEGA](https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4)
+- [【PaperWeekly】“闭门造车”之多模态思路浅谈：自回归学习与生成](https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004)
 - [【PaperWeekly】上海内推-|-​上海人工智能实验室招聘多模态与具身智能方向算法实习生](https://posts.careerengine.us/p/66823de810f198218a3b578c)
 - [......【查看更多】......](/details/tags/duomotai.md)
 
