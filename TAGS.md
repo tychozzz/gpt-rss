@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-15 15:01:27。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-15 18:01:10。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -258,8 +258,8 @@
 - [【量子位】多模态CoT思维链架构来了，现已开源｜来自厦大&腾讯优图](https://posts.careerengine.us/p/66555e775f0f6a4465891cc6)
 - [【量子位】上海交大新框架解锁CLIP长文本能力，多模态生成细节拿捏，图像检索能力显著提升](https://posts.careerengine.us/p/66092091d73fb76a9f0353da)
 - [【量子位】北大&腾讯打造多模态15边形战士！语言作“纽带”，拳打脚踢各模态，超越Imagebind](https://posts.careerengine.us/p/65504ca2d8a0792896491abe)
-- [【PaperWeekly】厦门大学首发多模态阅读理解新任务：-图文深度融合数据集VEGA](https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4)
 - [【PaperWeekly】“闭门造车”之多模态思路浅谈：自回归学习与生成](https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004)
+- [【PaperWeekly】厦门大学首发多模态阅读理解新任务：-图文深度融合数据集VEGA](https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4)
 - [【PaperWeekly】上海内推-|-​上海人工智能实验室招聘多模态与具身智能方向算法实习生](https://posts.careerengine.us/p/66823de810f198218a3b578c)
 - [......【查看更多】......](/details/tags/duomotai.md)
 
@@ -346,9 +346,9 @@
 - [【量子位】Sora复刻版来了，微软参与，华人团队打造](https://posts.careerengine.us/p/65fd16d7adffab56b4fba796)
 - [【量子位】奥特曼带队入职微软！Ilya刚刚首次发声：我很后悔](https://posts.careerengine.us/p/655b61af977dda04a35f140e)
 - [【量子位】Excel变天！微软把Python「塞」进去了，直接可搞机器学习](https://posts.careerengine.us/p/64e5962ab8c5f3756b91e3b9)
+- [【PaperWeekly】单卡A100实现百万token推理！微软提出全新加速预填充稀疏计算方法](https://posts.careerengine.us/p/6694bae01b8bf8626f4aac78)
 - [【PaperWeekly】微软联合清华提出多头混合专家机制，大幅提升专家激活率](https://posts.careerengine.us/p/6649cfe806cea601db3ee82d)
 - [【PaperWeekly】北京内推-|-微软亚洲研究院机器学习与工业创新组招聘研究型实习生](https://posts.careerengine.us/p/6604fd1534d5ef24ceac8e39)
-- [【PaperWeekly】北京内推-|-微软亚洲研究院自然语言计算组招聘AGI研究实习生](https://posts.careerengine.us/p/658ff11815dcdf74ad293ac5)
 - [......【查看更多】......](/details/tags/microsoft.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
