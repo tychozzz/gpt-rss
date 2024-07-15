@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-14 23:00:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-15 15:01:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 通义千问
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-07-15-阿里妈妈给出了什么样的赛题，被顶会NeurIPS-2024-pick了？](https://posts.careerengine.us/p/6694a13d37c1e777ae4e7181) 
 - [2024-06-07-阿里Qwen2正式开源，性能全方位包围Llama-3](https://posts.careerengine.us/p/66628ab0cc4f390f0ae89e80) 
 - [2024-01-04-马斯克也逃不过「科目三」，阿里这个应用都要把外国人馋哭了](https://posts.careerengine.us/p/6596334c64fc38186a5e42bd) 
 - [2023-12-24-无限新衣服零元购，阿里Outfit-Anyone实现真人百变换装](https://posts.careerengine.us/p/6587bb19a04fe96e21a701ce) 
