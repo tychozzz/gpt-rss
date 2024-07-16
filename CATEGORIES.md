@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2024-07-16 21:00:25，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-17 06:00:16，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -8,9 +8,9 @@
 - [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -118,25 +118,25 @@
 </summary>
 
 
-- [2024-07-15-ECCV-2024-|-数字人也懂惯性定律！上海AI-Lab团队提出3D人体姿态序列建模](https://posts.careerengine.us/p/6694bad1ad2023623cfbac69)  
-- [2024-07-15-原来文章的idea都是这么找的？这方法简直“-杀疯了-”！](https://posts.careerengine.us/p/6694bad1ad2023623cfbac61)  
-- [2024-07-15-单卡A100实现百万token推理！微软提出全新加速预填充稀疏计算方法](https://posts.careerengine.us/p/6694bae01b8bf8626f4aac78)  
+- [2024-07-16-ECCV-2024-|-模型逆向攻击高性能新范式，人脸隐私安全问题新思考](https://posts.careerengine.us/p/66968ce61b8eaa0be119c310) ![](/assets/new.png)  
+- [2024-07-16-博士申请-|-密歇根州立大学崔梓筠老师招收2025级深度学习方向全奖博士生](https://posts.careerengine.us/p/66968ce61b8eaa0be119c318) ![](/assets/new.png)  
+- [2024-07-16-对齐全量微调！这是我看过最精彩的LoRA改进](https://posts.careerengine.us/p/66968ce61b8eaa0be119c320) ![](/assets/new.png)  
 - [2024-07-15-上海内推-|-​​上海人工智能实验室招聘群体智能方向研究型实习生](https://posts.careerengine.us/p/6694baf11ad7a5629439563c)  
-- [2024-07-14-北京内推-|-​百度搜索策略部视频搜索团队招聘多模态方向算法实习生](https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e)  
-- [2024-07-14-CVPR最佳论文候选：NeRF新突破！用启发式引导分割去除瞬态干扰物](https://posts.careerengine.us/p/6693d721e247ce4ad4318d5c)  
-- [2024-07-14-探索LLM安全漏洞新视角：植入后门的RAG会对大模型推理带来哪些风险？](https://posts.careerengine.us/p/6693d712e7f7a74a42320e40)  
+- [2024-07-15-单卡A100实现百万token推理！微软提出全新加速预填充稀疏计算方法](https://posts.careerengine.us/p/6694bae01b8bf8626f4aac78)  
+- [2024-07-15-原来文章的idea都是这么找的？这方法简直“-杀疯了-”！](https://posts.careerengine.us/p/6694bad1ad2023623cfbac61)  
+- [2024-07-15-ECCV-2024-|-数字人也懂惯性定律！上海AI-Lab团队提出3D人体姿态序列建模](https://posts.careerengine.us/p/6694bad1ad2023623cfbac69)  
 - [2024-07-14-WizardLM新作！ArenaLearning：通过模拟LLM竞技场来构建大规模数据飞轮](https://posts.careerengine.us/p/6693d712e7f7a74a42320e38)  
-- [2024-07-12-与全参数微调相比，LoRA微调的性能到底如何？](https://posts.careerengine.us/p/6690b6e0509f4258bd57f853)  
-- [2024-07-12-当Mamba遇上视觉压缩：首个具有选择性状态空间的视觉压缩网络](https://posts.careerengine.us/p/6690b6e0509f4258bd57f85b)  
-- [2024-07-12-ICML-2024-|-南开大学提出反向传播全新改进策略，不降速、大幅提升显存效率](https://posts.careerengine.us/p/6690b6eea835fa58e6419795)  
+- [2024-07-14-探索LLM安全漏洞新视角：植入后门的RAG会对大模型推理带来哪些风险？](https://posts.careerengine.us/p/6693d712e7f7a74a42320e40)  
+- [2024-07-14-CVPR最佳论文候选：NeRF新突破！用启发式引导分割去除瞬态干扰物](https://posts.careerengine.us/p/6693d721e247ce4ad4318d5c)  
+- [2024-07-14-北京内推-|-​百度搜索策略部视频搜索团队招聘多模态方向算法实习生](https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e)  
 - [2024-07-12-北京内推-|-​度小满金融AI-LAB招聘数字人/文生视频方向研究型实习生](https://posts.careerengine.us/p/6690b6efa835fa58e641979d)  
-- [2024-07-11-ACM-MM-2024-以人为中心多媒体分析研讨会，诚邀各界专家学者参与](https://posts.careerengine.us/p/668fe86b3f7c4573e73a000c)  
-- [2024-07-11-博士申请-|-香港理工大学李青教授课题组招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/668fe86b3f7c4573e739fffc)  
-- [2024-07-11-“闭门造车”之多模态思路浅谈：自回归学习与生成](https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004)  
+- [2024-07-12-ICML-2024-|-南开大学提出反向传播全新改进策略，不降速、大幅提升显存效率](https://posts.careerengine.us/p/6690b6eea835fa58e6419795)  
+- [2024-07-12-当Mamba遇上视觉压缩：首个具有选择性状态空间的视觉压缩网络](https://posts.careerengine.us/p/6690b6e0509f4258bd57f85b)  
+- [2024-07-12-与全参数微调相比，LoRA微调的性能到底如何？](https://posts.careerengine.us/p/6690b6e0509f4258bd57f853)  
 - [2024-07-11-厦门大学首发多模态阅读理解新任务：-图文深度融合数据集VEGA](https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4)  
-- [2024-07-10-快速“水”论文必备：82个即插即用涨点模块！](https://posts.careerengine.us/p/668e183943b3d07a69262ef1)  
-- [2024-07-10-什么是大模型所需要的知识？人大提出DPA-RAG高效对齐检索器与大模型偏好](https://posts.careerengine.us/p/668e183943b3d07a69262f01)  
-- [2024-07-10-ACL-2024-|-OceanGPT（沧渊）：面向海洋科学任务的大型语言模型初探](https://posts.careerengine.us/p/668e183943b3d07a69262ef9)  
+- [2024-07-11-“闭门造车”之多模态思路浅谈：自回归学习与生成](https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004)  
+- [2024-07-11-博士申请-|-香港理工大学李青教授课题组招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/668fe86b3f7c4573e739fffc)  
+- [2024-07-11-ACM-MM-2024-以人为中心多媒体分析研讨会，诚邀各界专家学者参与](https://posts.careerengine.us/p/668fe86b3f7c4573e73a000c)  
 - [2024-07-10-深圳内推-|-​腾讯AI-Lab招聘自然语言处理方向算法实习生](https://posts.careerengine.us/p/668e184bf3d4967b1b49f014)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
@@ -176,9 +176,9 @@
 </summary>
 
 
-- [2024-07-16-特朗普-80-竞选搭档支持-AI-开源言论，赢得科技圈好评！网友：如果想让开发人支持你，就坚持](https://posts.careerengine.us/p/6696064a04f78a6a55a9ab23) ![](/assets/new.png)  
-- [2024-07-16-大模型正成为钢铁行业转型升级的关键力量](https://posts.careerengine.us/p/6696064a04f78a6a55a9ab2c) ![](/assets/new.png)  
-- [2024-07-16-OpenAI-被曝非法阻止员工披露-AI-安全风险](https://posts.careerengine.us/p/66960659764e176a98eaee10) ![](/assets/new.png)  
+- [2024-07-16-特朗普-80-竞选搭档支持-AI-开源言论，赢得科技圈好评！网友：如果想让开发人支持你，就坚持](https://posts.careerengine.us/p/6696064a04f78a6a55a9ab23)  
+- [2024-07-16-大模型正成为钢铁行业转型升级的关键力量](https://posts.careerengine.us/p/6696064a04f78a6a55a9ab2c)  
+- [2024-07-16-OpenAI-被曝非法阻止员工披露-AI-安全风险](https://posts.careerengine.us/p/66960659764e176a98eaee10)  
 - [2024-07-15-直击算力焦虑，这家清华系-AI-创企搞了个千卡异构混训平台，算力利用率最高达-97.6％](https://posts.careerengine.us/p/6694bffc5579011ed6acc15c)  
 - [2024-07-15-国产芯片大厂三年干到-70-亿市值，却一次性裁员-50-%？员工曝-CTO-不懂技术！](https://posts.careerengine.us/p/6694bfed2dde541eb3e422c7)  
 - [2024-07-14-AI-时代，网关更能打了？](https://posts.careerengine.us/p/669363b09985f1120b56319b)  

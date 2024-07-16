@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gpt-rss.com//atom.xml</id>
     <title>AIGC 相关文章 | gpt-rss | by 周三不Coding</title>
-    <updated>2024-07-16T13:00:25.592Z</updated>
+    <updated>2024-07-16T22:00:16.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tycho</name>
@@ -32,6 +32,27 @@
         <title type="html"><![CDATA[特朗普 80 竞选搭档支持 AI 开源言论，赢得科技圈好评！网友：如果想让开发人支持你，就坚持]]></title>
         <id>https://posts.careerengine.us/p/6696064a04f78a6a55a9ab23</id>
         <link href="https://posts.careerengine.us/p/6696064a04f78a6a55a9ab23"/>
+        <updated>2024-07-15T16:00:00.000Z</updated>
+        <published>2024-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对齐全量微调！这是我看过最精彩的LoRA改进]]></title>
+        <id>https://posts.careerengine.us/p/66968ce61b8eaa0be119c320</id>
+        <link href="https://posts.careerengine.us/p/66968ce61b8eaa0be119c320"/>
+        <updated>2024-07-15T16:00:00.000Z</updated>
+        <published>2024-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博士申请 | 密歇根州立大学崔梓筠老师招收2025级深度学习方向全奖博士生]]></title>
+        <id>https://posts.careerengine.us/p/66968ce61b8eaa0be119c318</id>
+        <link href="https://posts.careerengine.us/p/66968ce61b8eaa0be119c318"/>
+        <updated>2024-07-15T16:00:00.000Z</updated>
+        <published>2024-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECCV 2024 | 模型逆向攻击高性能新范式，人脸隐私安全问题新思考]]></title>
+        <id>https://posts.careerengine.us/p/66968ce61b8eaa0be119c310</id>
+        <link href="https://posts.careerengine.us/p/66968ce61b8eaa0be119c310"/>
         <updated>2024-07-15T16:00:00.000Z</updated>
         <published>2024-07-15T16:00:00.000Z</published>
     </entry>
@@ -113,16 +134,9 @@
         <published>2024-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上海内推 | ​​上海人工智能实验室招聘群体智能方向研究型实习生]]></title>
-        <id>https://posts.careerengine.us/p/6694baf11ad7a5629439563c</id>
-        <link href="https://posts.careerengine.us/p/6694baf11ad7a5629439563c"/>
-        <updated>2024-07-14T16:00:00.000Z</updated>
-        <published>2024-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[单卡A100实现百万token推理！微软提出全新加速预填充稀疏计算方法]]></title>
-        <id>https://posts.careerengine.us/p/6694bae01b8bf8626f4aac78</id>
-        <link href="https://posts.careerengine.us/p/6694bae01b8bf8626f4aac78"/>
+        <title type="html"><![CDATA[ECCV 2024 | 数字人也懂惯性定律！上海AI Lab团队提出3D人体姿态序列建模]]></title>
+        <id>https://posts.careerengine.us/p/6694bad1ad2023623cfbac69</id>
+        <link href="https://posts.careerengine.us/p/6694bad1ad2023623cfbac69"/>
         <updated>2024-07-14T16:00:00.000Z</updated>
         <published>2024-07-14T16:00:00.000Z</published>
     </entry>
@@ -134,9 +148,16 @@
         <published>2024-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECCV 2024 | 数字人也懂惯性定律！上海AI Lab团队提出3D人体姿态序列建模]]></title>
-        <id>https://posts.careerengine.us/p/6694bad1ad2023623cfbac69</id>
-        <link href="https://posts.careerengine.us/p/6694bad1ad2023623cfbac69"/>
+        <title type="html"><![CDATA[单卡A100实现百万token推理！微软提出全新加速预填充稀疏计算方法]]></title>
+        <id>https://posts.careerengine.us/p/6694bae01b8bf8626f4aac78</id>
+        <link href="https://posts.careerengine.us/p/6694bae01b8bf8626f4aac78"/>
+        <updated>2024-07-14T16:00:00.000Z</updated>
+        <published>2024-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海内推 | ​​上海人工智能实验室招聘群体智能方向研究型实习生]]></title>
+        <id>https://posts.careerengine.us/p/6694baf11ad7a5629439563c</id>
+        <link href="https://posts.careerengine.us/p/6694baf11ad7a5629439563c"/>
         <updated>2024-07-14T16:00:00.000Z</updated>
         <published>2024-07-14T16:00:00.000Z</published>
     </entry>
@@ -211,16 +232,9 @@
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WizardLM新作！ArenaLearning：通过模拟LLM竞技场来构建大规模数据飞轮]]></title>
-        <id>https://posts.careerengine.us/p/6693d712e7f7a74a42320e38</id>
-        <link href="https://posts.careerengine.us/p/6693d712e7f7a74a42320e38"/>
-        <updated>2024-07-13T16:00:00.000Z</updated>
-        <published>2024-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索LLM安全漏洞新视角：植入后门的RAG会对大模型推理带来哪些风险？]]></title>
-        <id>https://posts.careerengine.us/p/6693d712e7f7a74a42320e40</id>
-        <link href="https://posts.careerengine.us/p/6693d712e7f7a74a42320e40"/>
+        <title type="html"><![CDATA[北京内推 | ​百度搜索策略部视频搜索团队招聘多模态方向算法实习生]]></title>
+        <id>https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e</id>
+        <link href="https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e"/>
         <updated>2024-07-13T16:00:00.000Z</updated>
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
@@ -232,9 +246,16 @@
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北京内推 | ​百度搜索策略部视频搜索团队招聘多模态方向算法实习生]]></title>
-        <id>https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e</id>
-        <link href="https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e"/>
+        <title type="html"><![CDATA[探索LLM安全漏洞新视角：植入后门的RAG会对大模型推理带来哪些风险？]]></title>
+        <id>https://posts.careerengine.us/p/6693d712e7f7a74a42320e40</id>
+        <link href="https://posts.careerengine.us/p/6693d712e7f7a74a42320e40"/>
+        <updated>2024-07-13T16:00:00.000Z</updated>
+        <published>2024-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WizardLM新作！ArenaLearning：通过模拟LLM竞技场来构建大规模数据飞轮]]></title>
+        <id>https://posts.careerengine.us/p/6693d712e7f7a74a42320e38</id>
+        <link href="https://posts.careerengine.us/p/6693d712e7f7a74a42320e38"/>
         <updated>2024-07-13T16:00:00.000Z</updated>
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[大模型剧本杀开源：6个Claude里藏一个凶手！刚上线服务器就被挤爆，免费免下载免注册]]></title>
         <id>https://posts.careerengine.us/p/6691edd00a628530f7c3b3bb</id>
         <link href="https://posts.careerengine.us/p/6691edd00a628530f7c3b3bb"/>
-        <updated>2024-07-12T16:00:00.000Z</updated>
-        <published>2024-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大厂掀起视频生成「军备竞赛」，AI 真能干掉好莱坞？]]></title>
-        <id>https://posts.careerengine.us/p/6691f68accf5cf52b8791e9f</id>
-        <link href="https://posts.careerengine.us/p/6691f68accf5cf52b8791e9f"/>
-        <updated>2024-07-12T16:00:00.000Z</updated>
-        <published>2024-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Lilian Weng万字长文解读LLM幻觉：从理解到克服]]></title>
-        <id>https://posts.careerengine.us/p/6691f68bccf5cf52b8791ea8</id>
-        <link href="https://posts.careerengine.us/p/6691f68bccf5cf52b8791ea8"/>
-        <updated>2024-07-12T16:00:00.000Z</updated>
-        <published>2024-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[豆包大模型团队发布全新Detail Image Caption评估基准，提升VLM Caption评测可靠性]]></title>
-        <id>https://posts.careerengine.us/p/6691f69c1cca2b52db4bb4ba</id>
-        <link href="https://posts.careerengine.us/p/6691f69c1cca2b52db4bb4ba"/>
         <updated>2024-07-12T16:00:00.000Z</updated>
         <published>2024-07-12T16:00:00.000Z</published>
     </entry>

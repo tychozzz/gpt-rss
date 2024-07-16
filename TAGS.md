@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-16 21:00:25。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-17 06:00:16。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -258,8 +258,8 @@
 - [【量子位】多模态CoT思维链架构来了，现已开源｜来自厦大&腾讯优图](https://posts.careerengine.us/p/66555e775f0f6a4465891cc6)
 - [【量子位】上海交大新框架解锁CLIP长文本能力，多模态生成细节拿捏，图像检索能力显著提升](https://posts.careerengine.us/p/66092091d73fb76a9f0353da)
 - [【量子位】北大&腾讯打造多模态15边形战士！语言作“纽带”，拳打脚踢各模态，超越Imagebind](https://posts.careerengine.us/p/65504ca2d8a0792896491abe)
-- [【PaperWeekly】“闭门造车”之多模态思路浅谈：自回归学习与生成](https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004)
 - [【PaperWeekly】厦门大学首发多模态阅读理解新任务：-图文深度融合数据集VEGA](https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4)
+- [【PaperWeekly】“闭门造车”之多模态思路浅谈：自回归学习与生成](https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004)
 - [【PaperWeekly】上海内推-|-​上海人工智能实验室招聘多模态与具身智能方向算法实习生](https://posts.careerengine.us/p/66823de810f198218a3b578c)
 - [......【查看更多】......](/details/tags/duomotai.md)
 
