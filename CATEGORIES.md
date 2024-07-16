@@ -1,11 +1,11 @@
 ##
 
-:alarm_clock: 更新时间: 2024-07-16 15:00:14，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-16 18:01:43，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [机器之心](#机器之心)![](/assets/dot.png)   
-- [量子位](#量子位)  
+- [机器之心](#机器之心)  
+- [量子位](#量子位)![](/assets/dot.png)   
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
 - [PaperWeekly](#paperweekly)  
@@ -21,11 +21,11 @@
 </summary>
 
 
-- [2024-07-16-全程免费！「真格星球AI+创业营」与十数位大咖导师一道，碰撞AI灵感、寻找落地商机](https://posts.careerengine.us/p/6695f7663f5fa12a02049f9d) ![](/assets/new.png)  
-- [2024-07-16-太酷了！iPhone、iPad、MacBook老旧设备组成异构集群，能跑Llama-3](https://posts.careerengine.us/p/6695f775506e722c8ba2a04a) ![](/assets/new.png)  
-- [2024-07-16-抛弃视觉编码器，这个「原生版」多模态大模型也能媲美主流方法](https://posts.careerengine.us/p/6695f7879b5bd52cb1e90436) ![](/assets/new.png)  
-- [2024-07-16-谷歌机器人专家：机器人在现实中碰过的壁，AI也会碰](https://posts.careerengine.us/p/6695f7879b5bd52cb1e9042e) ![](/assets/new.png)  
-- [2024-07-16-公理训练让LLM学会因果推理：6700万参数模型比肩万亿参数级GPT-4](https://posts.careerengine.us/p/6695f7879b5bd52cb1e9043f) ![](/assets/new.png)  
+- [2024-07-16-全程免费！「真格星球AI+创业营」与十数位大咖导师一道，碰撞AI灵感、寻找落地商机](https://posts.careerengine.us/p/6695f7663f5fa12a02049f9d)  
+- [2024-07-16-太酷了！iPhone、iPad、MacBook老旧设备组成异构集群，能跑Llama-3](https://posts.careerengine.us/p/6695f775506e722c8ba2a04a)  
+- [2024-07-16-抛弃视觉编码器，这个「原生版」多模态大模型也能媲美主流方法](https://posts.careerengine.us/p/6695f7879b5bd52cb1e90436)  
+- [2024-07-16-谷歌机器人专家：机器人在现实中碰过的壁，AI也会碰](https://posts.careerengine.us/p/6695f7879b5bd52cb1e9042e)  
+- [2024-07-16-公理训练让LLM学会因果推理：6700万参数模型比肩万亿参数级GPT-4](https://posts.careerengine.us/p/6695f7879b5bd52cb1e9043f)  
 - [2024-07-15-MotionClone：无需训练，一键克隆视频运动](https://posts.careerengine.us/p/6694a164661b1e782145bd0f)  
 - [2024-07-15-登顶开源AI软件工程师榜首，UIUC无Agent方案轻松解决SWE-bench真实编程问题](https://posts.careerengine.us/p/6694a15006faf477e744e97a)  
 - [2024-07-15-赶时髦的-AIGC-营销人，如何实现「里子」与「面子」的双赢？](https://posts.careerengine.us/p/6694a13d37c1e777ae4e7194)  
@@ -52,26 +52,26 @@
 </summary>
 
 
-- [2024-07-15-谷歌DeepMind被曝抄袭开源成果，论文还中了顶流会议](https://posts.careerengine.us/p/6694b738be21f372ffd92fb8)  
-- [2024-07-15-Kimi豆包，最近都盯上了浏览器](https://posts.careerengine.us/p/6694b739be21f372ffd92fc0)  
+- [2024-07-16-大模型集体失智！9.11和9.9哪个大，几乎全翻车了](https://posts.careerengine.us/p/6695f5b4d0705f25c605d6fb) ![](/assets/new.png)  
+- [2024-07-16-初创公司硬刚英伟达：在AMD卡上模拟CUDA，原版程序直接编译运行](https://posts.careerengine.us/p/6695f5c2d65a27264e730301) ![](/assets/new.png)  
+- [2024-07-16-大模型“玩”Excel更6了，微软搞的](https://posts.careerengine.us/p/6695f5d432696b267bba4344) ![](/assets/new.png)  
+- [2024-07-16-从草稿到样品图，只需要一步AI｜AI产品测评](https://posts.careerengine.us/p/6695f5d432696b267bba434d) ![](/assets/new.png)  
 - [2024-07-15-蚂蚁区块链高管蒋国飞，履新国企首席科学家](https://posts.careerengine.us/p/6694b7477c9eee547f695150)  
-- [2024-07-14-揭秘快手可灵背后的「关键7人」](https://posts.careerengine.us/p/66934f89974d1a412d65bcfa)  
-- [2024-07-14-明年，每个人都能零基础创作3D内容-|-对话VAST宋亚宸](https://posts.careerengine.us/p/66934f88974d1a412d65bce3)  
-- [2024-07-14-设计师+AI，3个月就能完成一套千字中文字库@智琮科技](https://posts.careerengine.us/p/66934f88974d1a412d65bcf2)  
-- [2024-07-14-自动驾驶雨天也能平稳规划，北理港中文腾讯提出端到端学习道路几何图形](https://posts.careerengine.us/p/66934f5f3ce5884096a57a42)  
+- [2024-07-15-Kimi豆包，最近都盯上了浏览器](https://posts.careerengine.us/p/6694b739be21f372ffd92fc0)  
+- [2024-07-15-谷歌DeepMind被曝抄袭开源成果，论文还中了顶流会议](https://posts.careerengine.us/p/6694b738be21f372ffd92fb8)  
 - [2024-07-14-OpenAI被举报：非法限制员工披露AI安全风险](https://posts.careerengine.us/p/66934f5e3ce5884096a57a3a)  
-- [2024-07-13-OpenAI新模型「草莓」曝光：强推理/长任务规划/超大规模训练！还给出AGI分级](https://posts.careerengine.us/p/6691edc09edc44304b1eb84e)  
-- [2024-07-13-MSRA：视觉生成六大技术问题](https://posts.careerengine.us/p/6691edcf0a628530f7c3b3b3)  
+- [2024-07-14-自动驾驶雨天也能平稳规划，北理港中文腾讯提出端到端学习道路几何图形](https://posts.careerengine.us/p/66934f5f3ce5884096a57a42)  
+- [2024-07-14-设计师+AI，3个月就能完成一套千字中文字库@智琮科技](https://posts.careerengine.us/p/66934f88974d1a412d65bcf2)  
+- [2024-07-14-明年，每个人都能零基础创作3D内容-|-对话VAST宋亚宸](https://posts.careerengine.us/p/66934f88974d1a412d65bce3)  
+- [2024-07-14-揭秘快手可灵背后的「关键7人」](https://posts.careerengine.us/p/66934f89974d1a412d65bcfa)  
 - [2024-07-13-大模型剧本杀开源：6个Claude里藏一个凶手！刚上线服务器就被挤爆，免费免下载免注册](https://posts.careerengine.us/p/6691edd00a628530f7c3b3bb)  
-- [2024-07-12-AI慢思考蒸馏进快思考，Llama2跃升至GPT-4水平，不写过程也能做对题](https://posts.careerengine.us/p/6690a39314002a07999d05df)  
-- [2024-07-12-一分钟原画变3D角色，清华VAST成果入选图形学顶会SIGGRAPH](https://posts.careerengine.us/p/6690a39314002a07999d05d7)  
-- [2024-07-12-程序员如何用好“AI搭子”？实操演示来了，揭秘多元业务场景如何用AI工具提效降本](https://posts.careerengine.us/p/6690a384671097071ef6ec6f)  
-- [2024-07-12-苏妈掷48亿现金吞下AI模型公司，英伟达有的AMD也要有](https://posts.careerengine.us/p/6690a384671097071ef6ec67)  
+- [2024-07-13-MSRA：视觉生成六大技术问题](https://posts.careerengine.us/p/6691edcf0a628530f7c3b3b3)  
+- [2024-07-13-OpenAI新模型「草莓」曝光：强推理/长任务规划/超大规模训练！还给出AGI分级](https://posts.careerengine.us/p/6691edc09edc44304b1eb84e)  
 - [2024-07-12-H100利用率飙升至75％！英伟达亲自下场FlashAttention三代升级，比标准注意力快16倍](https://posts.careerengine.us/p/6690a373918e31365f321277)  
-- [2024-07-11-大模型权威测试被曝翻车！更偏袒GPT-4等闭源模型，连提示词都区别对待](https://posts.careerengine.us/p/668f56f2b2d5011966bddf04)  
-- [2024-07-11-“云计算一哥”深夜放大招：几分钟，纯靠Prompt打造一个App！](https://posts.careerengine.us/p/668f56f2b2d5011966bddefc)  
-- [2024-07-11-Llama3比GPT-4o更爱说谎，首个大模型“诚实性”评估基准来了-|-上海交大](https://posts.careerengine.us/p/668f5701ed0b8119c5139792)  
-- [2024-07-11-CVPR成全球第二大学术出版物，超越Science！AI顶会占领前20｜谷歌学术指标2024](https://posts.careerengine.us/p/668f5701ed0b8119c513978a)  
+- [2024-07-12-苏妈掷48亿现金吞下AI模型公司，英伟达有的AMD也要有](https://posts.careerengine.us/p/6690a384671097071ef6ec67)  
+- [2024-07-12-程序员如何用好“AI搭子”？实操演示来了，揭秘多元业务场景如何用AI工具提效降本](https://posts.careerengine.us/p/6690a384671097071ef6ec6f)  
+- [2024-07-12-一分钟原画变3D角色，清华VAST成果入选图形学顶会SIGGRAPH](https://posts.careerengine.us/p/6690a39314002a07999d05d7)  
+- [2024-07-12-AI慢思考蒸馏进快思考，Llama2跃升至GPT-4水平，不写过程也能做对题](https://posts.careerengine.us/p/6690a39314002a07999d05df)  
 - [......【查看更多】......](/details/量子位.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

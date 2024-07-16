@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gpt-rss.com//atom.xml</id>
     <title>AIGC 相关文章 | gpt-rss | by 周三不Coding</title>
-    <updated>2024-07-16T07:00:14.385Z</updated>
+    <updated>2024-07-16T10:01:43.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tycho</name>
@@ -14,6 +14,34 @@
     <subtitle>订阅 AIGC 相关文章</subtitle>
     <icon>https://www.gpt-rss.com//static/favicon.ico</icon>
     <rights>All rights reserved 2024 by Tycho</rights>
+    <entry>
+        <title type="html"><![CDATA[从草稿到样品图，只需要一步AI｜AI产品测评]]></title>
+        <id>https://posts.careerengine.us/p/6695f5d432696b267bba434d</id>
+        <link href="https://posts.careerengine.us/p/6695f5d432696b267bba434d"/>
+        <updated>2024-07-15T16:00:00.000Z</updated>
+        <published>2024-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型“玩”Excel更6了，微软搞的]]></title>
+        <id>https://posts.careerengine.us/p/6695f5d432696b267bba4344</id>
+        <link href="https://posts.careerengine.us/p/6695f5d432696b267bba4344"/>
+        <updated>2024-07-15T16:00:00.000Z</updated>
+        <published>2024-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初创公司硬刚英伟达：在AMD卡上模拟CUDA，原版程序直接编译运行]]></title>
+        <id>https://posts.careerengine.us/p/6695f5c2d65a27264e730301</id>
+        <link href="https://posts.careerengine.us/p/6695f5c2d65a27264e730301"/>
+        <updated>2024-07-15T16:00:00.000Z</updated>
+        <published>2024-07-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型集体失智！9.11和9.9哪个大，几乎全翻车了]]></title>
+        <id>https://posts.careerengine.us/p/6695f5b4d0705f25c605d6fb</id>
+        <link href="https://posts.careerengine.us/p/6695f5b4d0705f25c605d6fb"/>
+        <updated>2024-07-15T16:00:00.000Z</updated>
+        <published>2024-07-15T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公理训练让LLM学会因果推理：6700万参数模型比肩万亿参数级GPT-4]]></title>
         <id>https://posts.careerengine.us/p/6695f7879b5bd52cb1e9043f</id>
@@ -92,9 +120,9 @@
         <published>2024-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[蚂蚁区块链高管蒋国飞，履新国企首席科学家]]></title>
-        <id>https://posts.careerengine.us/p/6694b7477c9eee547f695150</id>
-        <link href="https://posts.careerengine.us/p/6694b7477c9eee547f695150"/>
+        <title type="html"><![CDATA[谷歌DeepMind被曝抄袭开源成果，论文还中了顶流会议]]></title>
+        <id>https://posts.careerengine.us/p/6694b738be21f372ffd92fb8</id>
+        <link href="https://posts.careerengine.us/p/6694b738be21f372ffd92fb8"/>
         <updated>2024-07-14T16:00:00.000Z</updated>
         <published>2024-07-14T16:00:00.000Z</published>
     </entry>
@@ -106,9 +134,9 @@
         <published>2024-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谷歌DeepMind被曝抄袭开源成果，论文还中了顶流会议]]></title>
-        <id>https://posts.careerengine.us/p/6694b738be21f372ffd92fb8</id>
-        <link href="https://posts.careerengine.us/p/6694b738be21f372ffd92fb8"/>
+        <title type="html"><![CDATA[蚂蚁区块链高管蒋国飞，履新国企首席科学家]]></title>
+        <id>https://posts.careerengine.us/p/6694b7477c9eee547f695150</id>
+        <link href="https://posts.careerengine.us/p/6694b7477c9eee547f695150"/>
         <updated>2024-07-14T16:00:00.000Z</updated>
         <published>2024-07-14T16:00:00.000Z</published>
     </entry>
@@ -190,23 +218,9 @@
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI被举报：非法限制员工披露AI安全风险]]></title>
-        <id>https://posts.careerengine.us/p/66934f5e3ce5884096a57a3a</id>
-        <link href="https://posts.careerengine.us/p/66934f5e3ce5884096a57a3a"/>
-        <updated>2024-07-13T16:00:00.000Z</updated>
-        <published>2024-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自动驾驶雨天也能平稳规划，北理港中文腾讯提出端到端学习道路几何图形]]></title>
-        <id>https://posts.careerengine.us/p/66934f5f3ce5884096a57a42</id>
-        <link href="https://posts.careerengine.us/p/66934f5f3ce5884096a57a42"/>
-        <updated>2024-07-13T16:00:00.000Z</updated>
-        <published>2024-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[设计师+AI，3个月就能完成一套千字中文字库@智琮科技]]></title>
-        <id>https://posts.careerengine.us/p/66934f88974d1a412d65bcf2</id>
-        <link href="https://posts.careerengine.us/p/66934f88974d1a412d65bcf2"/>
+        <title type="html"><![CDATA[揭秘快手可灵背后的「关键7人」]]></title>
+        <id>https://posts.careerengine.us/p/66934f89974d1a412d65bcfa</id>
+        <link href="https://posts.careerengine.us/p/66934f89974d1a412d65bcfa"/>
         <updated>2024-07-13T16:00:00.000Z</updated>
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
@@ -218,9 +232,23 @@
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[揭秘快手可灵背后的「关键7人」]]></title>
-        <id>https://posts.careerengine.us/p/66934f89974d1a412d65bcfa</id>
-        <link href="https://posts.careerengine.us/p/66934f89974d1a412d65bcfa"/>
+        <title type="html"><![CDATA[设计师+AI，3个月就能完成一套千字中文字库@智琮科技]]></title>
+        <id>https://posts.careerengine.us/p/66934f88974d1a412d65bcf2</id>
+        <link href="https://posts.careerengine.us/p/66934f88974d1a412d65bcf2"/>
+        <updated>2024-07-13T16:00:00.000Z</updated>
+        <published>2024-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自动驾驶雨天也能平稳规划，北理港中文腾讯提出端到端学习道路几何图形]]></title>
+        <id>https://posts.careerengine.us/p/66934f5f3ce5884096a57a42</id>
+        <link href="https://posts.careerengine.us/p/66934f5f3ce5884096a57a42"/>
+        <updated>2024-07-13T16:00:00.000Z</updated>
+        <published>2024-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI被举报：非法限制员工披露AI安全风险]]></title>
+        <id>https://posts.careerengine.us/p/66934f5e3ce5884096a57a3a</id>
+        <link href="https://posts.careerengine.us/p/66934f5e3ce5884096a57a3a"/>
         <updated>2024-07-13T16:00:00.000Z</updated>
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
@@ -274,9 +302,9 @@
         <published>2024-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大模型剧本杀开源：6个Claude里藏一个凶手！刚上线服务器就被挤爆，免费免下载免注册]]></title>
-        <id>https://posts.careerengine.us/p/6691edd00a628530f7c3b3bb</id>
-        <link href="https://posts.careerengine.us/p/6691edd00a628530f7c3b3bb"/>
+        <title type="html"><![CDATA[OpenAI新模型「草莓」曝光：强推理/长任务规划/超大规模训练！还给出AGI分级]]></title>
+        <id>https://posts.careerengine.us/p/6691edc09edc44304b1eb84e</id>
+        <link href="https://posts.careerengine.us/p/6691edc09edc44304b1eb84e"/>
         <updated>2024-07-12T16:00:00.000Z</updated>
         <published>2024-07-12T16:00:00.000Z</published>
     </entry>
@@ -288,9 +316,9 @@
         <published>2024-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI新模型「草莓」曝光：强推理/长任务规划/超大规模训练！还给出AGI分级]]></title>
-        <id>https://posts.careerengine.us/p/6691edc09edc44304b1eb84e</id>
-        <link href="https://posts.careerengine.us/p/6691edc09edc44304b1eb84e"/>
+        <title type="html"><![CDATA[大模型剧本杀开源：6个Claude里藏一个凶手！刚上线服务器就被挤爆，免费免下载免注册]]></title>
+        <id>https://posts.careerengine.us/p/6691edd00a628530f7c3b3bb</id>
+        <link href="https://posts.careerengine.us/p/6691edd00a628530f7c3b3bb"/>
         <updated>2024-07-12T16:00:00.000Z</updated>
         <published>2024-07-12T16:00:00.000Z</published>
     </entry>
@@ -333,34 +361,6 @@
         <title type="html"><![CDATA[Karpathy又整活儿了！一天训练出GPT-2、成本还骤降100倍，网友：dream老黄把价格再打下来]]></title>
         <id>https://posts.careerengine.us/p/6690d289315ca8471248c605</id>
         <link href="https://posts.careerengine.us/p/6690d289315ca8471248c605"/>
-        <updated>2024-07-11T16:00:00.000Z</updated>
-        <published>2024-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI提出AGI五级标准，高管：我们仍处第一级]]></title>
-        <id>https://posts.careerengine.us/p/6690d2976bad67474698d63d</id>
-        <link href="https://posts.careerengine.us/p/6690d2976bad67474698d63d"/>
-        <updated>2024-07-11T16:00:00.000Z</updated>
-        <published>2024-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大模型产品琳琅满目，企业应该如何选择？]]></title>
-        <id>https://posts.careerengine.us/p/6690d2976bad67474698d635</id>
-        <link href="https://posts.careerengine.us/p/6690d2976bad67474698d635"/>
-        <updated>2024-07-11T16:00:00.000Z</updated>
-        <published>2024-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京内推 | ​度小满金融AI LAB招聘数字人/文生视频方向研究型实习生]]></title>
-        <id>https://posts.careerengine.us/p/6690b6efa835fa58e641979d</id>
-        <link href="https://posts.careerengine.us/p/6690b6efa835fa58e641979d"/>
-        <updated>2024-07-11T16:00:00.000Z</updated>
-        <published>2024-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICML 2024 | 南开大学提出反向传播全新改进策略，不降速、大幅提升显存效率]]></title>
-        <id>https://posts.careerengine.us/p/6690b6eea835fa58e6419795</id>
-        <link href="https://posts.careerengine.us/p/6690b6eea835fa58e6419795"/>
         <updated>2024-07-11T16:00:00.000Z</updated>
         <published>2024-07-11T16:00:00.000Z</published>
     </entry>
