@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-17 06:00:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-17 18:00:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 微软
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-07-17-早半年发arXiv，却被质疑抄袭：活在微软AutoGen阴影里的CAMEL](https://posts.careerengine.us/p/6697440ee5cfd55a0aa2ca43) 
 - [2024-05-14-微软让MoE长出多个头，大幅提升专家激活率](https://posts.careerengine.us/p/664276a90bec36466fe1718d) 
 - [2024-04-23-微软发布Phi-3，性能超Llama-3，可手机端运行](https://posts.careerengine.us/p/66279764b03d8851588da4a0) 
 - [2024-03-22-微软NaturalSpeech语音合成推出第三代，网友惊呼：超自然！实至名归](https://posts.careerengine.us/p/65fd0df1165eb62579f9cfa3) 
