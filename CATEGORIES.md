@@ -1,16 +1,16 @@
 ##
 
-:alarm_clock: 更新时间: 2024-07-17 21:00:37，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-18 08:00:13，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [机器之心](#机器之心)  
-- [量子位](#量子位)![](/assets/dot.png)   
+- [量子位](#量子位)  
 - [新智元](#新智元)  
 - [腾讯AI实验室](#腾讯ai实验室)  
-- [PaperWeekly](#paperweekly)  
+- [PaperWeekly](#paperweekly)![](/assets/dot.png)   
 - [我爱自然语言处理](#我爱自然语言处理)  
-- [AI前线](#ai前线)![](/assets/dot.png)   
+- [AI前线](#ai前线)  
 - [ChatGPT](#chatgpt)  
 
 ## 文章链接
@@ -52,8 +52,8 @@
 </summary>
 
 
-- [2024-07-17-国内开店卷不动，换上AI出海试试](https://posts.careerengine.us/p/66977c02250e3b3a294d0936) ![](/assets/new.png)  
-- [2024-07-17-Mamba写代码真的超越Transformer！原始论文入选顶流新会议](https://posts.careerengine.us/p/66977c11a4ee333a5a2b8bcf) ![](/assets/new.png)  
+- [2024-07-17-国内开店卷不动，换上AI出海试试](https://posts.careerengine.us/p/66977c02250e3b3a294d0936)  
+- [2024-07-17-Mamba写代码真的超越Transformer！原始论文入选顶流新会议](https://posts.careerengine.us/p/66977c11a4ee333a5a2b8bcf)  
 - [2024-07-16-从草稿到样品图，只需要一步AI｜AI产品测评](https://posts.careerengine.us/p/6695f5d432696b267bba434d)  
 - [2024-07-16-大模型“玩”Excel更6了，微软搞的](https://posts.careerengine.us/p/6695f5d432696b267bba4344)  
 - [2024-07-16-初创公司硬刚英伟达：在AMD卡上模拟CUDA，原版程序直接编译运行](https://posts.careerengine.us/p/6695f5c2d65a27264e730301)  
@@ -118,26 +118,26 @@
 </summary>
 
 
-- [2024-07-16-ECCV-2024-|-模型逆向攻击高性能新范式，人脸隐私安全问题新思考](https://posts.careerengine.us/p/66968ce61b8eaa0be119c310)  
-- [2024-07-16-博士申请-|-密歇根州立大学崔梓筠老师招收2025级深度学习方向全奖博士生](https://posts.careerengine.us/p/66968ce61b8eaa0be119c318)  
+- [2024-07-17-一句话应付面试！2024年大模型微调对齐面试指南](https://posts.careerengine.us/p/669752d27a31a517dfff6097) ![](/assets/new.png)  
+- [2024-07-17-北京内推-|-百度​​文心一言对齐策略算法团队招聘NLP算法实习生](https://posts.careerengine.us/p/669752e5711bc1180afdb564) ![](/assets/new.png)  
+- [2024-07-17-ICML-2024-|-具有O（L）训练存储和O（1）推理功耗的时间可逆脉冲神经网络](https://posts.careerengine.us/p/669752e5711bc1180afdb55c) ![](/assets/new.png)  
+- [2024-07-17-港大联合微信推出DiffMM：扩散模型重塑多模态推荐系统的全新范式](https://posts.careerengine.us/p/669752e5711bc1180afdb554) ![](/assets/new.png)  
 - [2024-07-16-对齐全量微调！这是我看过最精彩的LoRA改进](https://posts.careerengine.us/p/66968ce61b8eaa0be119c320)  
-- [2024-07-15-上海内推-|-​​上海人工智能实验室招聘群体智能方向研究型实习生](https://posts.careerengine.us/p/6694baf11ad7a5629439563c)  
-- [2024-07-15-单卡A100实现百万token推理！微软提出全新加速预填充稀疏计算方法](https://posts.careerengine.us/p/6694bae01b8bf8626f4aac78)  
-- [2024-07-15-原来文章的idea都是这么找的？这方法简直“-杀疯了-”！](https://posts.careerengine.us/p/6694bad1ad2023623cfbac61)  
+- [2024-07-16-博士申请-|-密歇根州立大学崔梓筠老师招收2025级深度学习方向全奖博士生](https://posts.careerengine.us/p/66968ce61b8eaa0be119c318)  
+- [2024-07-16-ECCV-2024-|-模型逆向攻击高性能新范式，人脸隐私安全问题新思考](https://posts.careerengine.us/p/66968ce61b8eaa0be119c310)  
 - [2024-07-15-ECCV-2024-|-数字人也懂惯性定律！上海AI-Lab团队提出3D人体姿态序列建模](https://posts.careerengine.us/p/6694bad1ad2023623cfbac69)  
-- [2024-07-14-WizardLM新作！ArenaLearning：通过模拟LLM竞技场来构建大规模数据飞轮](https://posts.careerengine.us/p/6693d712e7f7a74a42320e38)  
-- [2024-07-14-探索LLM安全漏洞新视角：植入后门的RAG会对大模型推理带来哪些风险？](https://posts.careerengine.us/p/6693d712e7f7a74a42320e40)  
-- [2024-07-14-CVPR最佳论文候选：NeRF新突破！用启发式引导分割去除瞬态干扰物](https://posts.careerengine.us/p/6693d721e247ce4ad4318d5c)  
+- [2024-07-15-原来文章的idea都是这么找的？这方法简直“-杀疯了-”！](https://posts.careerengine.us/p/6694bad1ad2023623cfbac61)  
+- [2024-07-15-单卡A100实现百万token推理！微软提出全新加速预填充稀疏计算方法](https://posts.careerengine.us/p/6694bae01b8bf8626f4aac78)  
+- [2024-07-15-上海内推-|-​​上海人工智能实验室招聘群体智能方向研究型实习生](https://posts.careerengine.us/p/6694baf11ad7a5629439563c)  
 - [2024-07-14-北京内推-|-​百度搜索策略部视频搜索团队招聘多模态方向算法实习生](https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e)  
-- [2024-07-12-北京内推-|-​度小满金融AI-LAB招聘数字人/文生视频方向研究型实习生](https://posts.careerengine.us/p/6690b6efa835fa58e641979d)  
-- [2024-07-12-ICML-2024-|-南开大学提出反向传播全新改进策略，不降速、大幅提升显存效率](https://posts.careerengine.us/p/6690b6eea835fa58e6419795)  
-- [2024-07-12-当Mamba遇上视觉压缩：首个具有选择性状态空间的视觉压缩网络](https://posts.careerengine.us/p/6690b6e0509f4258bd57f85b)  
+- [2024-07-14-CVPR最佳论文候选：NeRF新突破！用启发式引导分割去除瞬态干扰物](https://posts.careerengine.us/p/6693d721e247ce4ad4318d5c)  
+- [2024-07-14-探索LLM安全漏洞新视角：植入后门的RAG会对大模型推理带来哪些风险？](https://posts.careerengine.us/p/6693d712e7f7a74a42320e40)  
+- [2024-07-14-WizardLM新作！ArenaLearning：通过模拟LLM竞技场来构建大规模数据飞轮](https://posts.careerengine.us/p/6693d712e7f7a74a42320e38)  
 - [2024-07-12-与全参数微调相比，LoRA微调的性能到底如何？](https://posts.careerengine.us/p/6690b6e0509f4258bd57f853)  
-- [2024-07-11-厦门大学首发多模态阅读理解新任务：-图文深度融合数据集VEGA](https://posts.careerengine.us/p/668fe86a3f7c4573e739fff4)  
-- [2024-07-11-“闭门造车”之多模态思路浅谈：自回归学习与生成](https://posts.careerengine.us/p/668fe86b3f7c4573e73a0004)  
-- [2024-07-11-博士申请-|-香港理工大学李青教授课题组招收人工智能全奖博士/博后/RA](https://posts.careerengine.us/p/668fe86b3f7c4573e739fffc)  
+- [2024-07-12-当Mamba遇上视觉压缩：首个具有选择性状态空间的视觉压缩网络](https://posts.careerengine.us/p/6690b6e0509f4258bd57f85b)  
+- [2024-07-12-ICML-2024-|-南开大学提出反向传播全新改进策略，不降速、大幅提升显存效率](https://posts.careerengine.us/p/6690b6eea835fa58e6419795)  
+- [2024-07-12-北京内推-|-​度小满金融AI-LAB招聘数字人/文生视频方向研究型实习生](https://posts.careerengine.us/p/6690b6efa835fa58e641979d)  
 - [2024-07-11-ACM-MM-2024-以人为中心多媒体分析研讨会，诚邀各界专家学者参与](https://posts.careerengine.us/p/668fe86b3f7c4573e73a000c)  
-- [2024-07-10-深圳内推-|-​腾讯AI-Lab招聘自然语言处理方向算法实习生](https://posts.careerengine.us/p/668e184bf3d4967b1b49f014)  
 - [......【查看更多】......](/details/PaperWeekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -176,7 +176,7 @@
 </summary>
 
 
-- [2024-07-17-快手-AIGC-原创神话短剧上线，首次曝光可灵技术如何降低制作成本](https://posts.careerengine.us/p/669781f2b5ca73504532c1b7) ![](/assets/new.png)  
+- [2024-07-17-快手-AIGC-原创神话短剧上线，首次曝光可灵技术如何降低制作成本](https://posts.careerengine.us/p/669781f2b5ca73504532c1b7)  
 - [2024-07-16-OpenAI-被曝非法阻止员工披露-AI-安全风险](https://posts.careerengine.us/p/66960659764e176a98eaee10)  
 - [2024-07-16-大模型正成为钢铁行业转型升级的关键力量](https://posts.careerengine.us/p/6696064a04f78a6a55a9ab2c)  
 - [2024-07-16-特朗普-80-竞选搭档支持-AI-开源言论，赢得科技圈好评！网友：如果想让开发人支持你，就坚持](https://posts.careerengine.us/p/6696064a04f78a6a55a9ab23)  

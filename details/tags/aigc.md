@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-17 21:00:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-18 08:00:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -37,6 +37,7 @@
 - [2023-08-02-北大团队用Diffusion升级DragGAN，泛化更强生成质量更高，点一点「大山拔地而起」](https://posts.careerengine.us/p/64c9d2be26bca5709d3539b6) 
 - [2023-07-16-Midjourney最新「平移扩图」玩法，自定义无限延展，轻松创造超长画卷](https://posts.careerengine.us/p/64b4aab3074f163d50ae9a75) 
 - [2023-07-04-文心一言APP国区可下载！免费体验120+玩法，PPT大纲Excel公式一键生成](https://posts.careerengine.us/p/64a3aad81cf43a681c3f51f3) 
+- [2024-07-17-北京内推-|-百度​​文心一言对齐策略算法团队招聘NLP算法实习生](https://posts.careerengine.us/p/669752e5711bc1180afdb564) 
 - [2024-03-29-​249篇文献！北邮发布文本到图像Diffusion可控生成最新综述，已开源！](https://posts.careerengine.us/p/6606c51611a970270c37e6a7) 
 - [2023-10-22-简单有效！Direct-Inversion：三行代码提升基于Diffusion的图像编辑效果](https://posts.careerengine.us/p/653540d3b40b6c39bb494403) 
 - [2023-09-28-NeurIPS-2023-|-MSRA、清华、复旦等联合提出AR-Diffusion：基于自回归扩散的文本生成](https://posts.careerengine.us/p/6514ff55c1d7df4ab458e844) 

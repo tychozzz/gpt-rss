@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gpt-rss.com//atom.xml</id>
     <title>AIGC 相关文章 | gpt-rss | by 周三不Coding</title>
-    <updated>2024-07-17T13:00:37.872Z</updated>
+    <updated>2024-07-18T00:00:13.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Tycho</name>
@@ -18,6 +18,34 @@
         <title type="html"><![CDATA[快手 AIGC 原创神话短剧上线，首次曝光可灵技术如何降低制作成本]]></title>
         <id>https://posts.careerengine.us/p/669781f2b5ca73504532c1b7</id>
         <link href="https://posts.careerengine.us/p/669781f2b5ca73504532c1b7"/>
+        <updated>2024-07-16T16:00:00.000Z</updated>
+        <published>2024-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[港大联合微信推出DiffMM：扩散模型重塑多模态推荐系统的全新范式]]></title>
+        <id>https://posts.careerengine.us/p/669752e5711bc1180afdb554</id>
+        <link href="https://posts.careerengine.us/p/669752e5711bc1180afdb554"/>
+        <updated>2024-07-16T16:00:00.000Z</updated>
+        <published>2024-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICML 2024 | 具有O（L）训练存储和O（1）推理功耗的时间可逆脉冲神经网络]]></title>
+        <id>https://posts.careerengine.us/p/669752e5711bc1180afdb55c</id>
+        <link href="https://posts.careerengine.us/p/669752e5711bc1180afdb55c"/>
+        <updated>2024-07-16T16:00:00.000Z</updated>
+        <published>2024-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京内推 | 百度​​文心一言对齐策略算法团队招聘NLP算法实习生]]></title>
+        <id>https://posts.careerengine.us/p/669752e5711bc1180afdb564</id>
+        <link href="https://posts.careerengine.us/p/669752e5711bc1180afdb564"/>
+        <updated>2024-07-16T16:00:00.000Z</updated>
+        <published>2024-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一句话应付面试！2024年大模型微调对齐面试指南]]></title>
+        <id>https://posts.careerengine.us/p/669752d27a31a517dfff6097</id>
+        <link href="https://posts.careerengine.us/p/669752d27a31a517dfff6097"/>
         <updated>2024-07-16T16:00:00.000Z</updated>
         <published>2024-07-16T16:00:00.000Z</published>
     </entry>
@@ -92,9 +120,9 @@
         <published>2024-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[对齐全量微调！这是我看过最精彩的LoRA改进]]></title>
-        <id>https://posts.careerengine.us/p/66968ce61b8eaa0be119c320</id>
-        <link href="https://posts.careerengine.us/p/66968ce61b8eaa0be119c320"/>
+        <title type="html"><![CDATA[ECCV 2024 | 模型逆向攻击高性能新范式，人脸隐私安全问题新思考]]></title>
+        <id>https://posts.careerengine.us/p/66968ce61b8eaa0be119c310</id>
+        <link href="https://posts.careerengine.us/p/66968ce61b8eaa0be119c310"/>
         <updated>2024-07-15T16:00:00.000Z</updated>
         <published>2024-07-15T16:00:00.000Z</published>
     </entry>
@@ -106,9 +134,9 @@
         <published>2024-07-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECCV 2024 | 模型逆向攻击高性能新范式，人脸隐私安全问题新思考]]></title>
-        <id>https://posts.careerengine.us/p/66968ce61b8eaa0be119c310</id>
-        <link href="https://posts.careerengine.us/p/66968ce61b8eaa0be119c310"/>
+        <title type="html"><![CDATA[对齐全量微调！这是我看过最精彩的LoRA改进]]></title>
+        <id>https://posts.careerengine.us/p/66968ce61b8eaa0be119c320</id>
+        <link href="https://posts.careerengine.us/p/66968ce61b8eaa0be119c320"/>
         <updated>2024-07-15T16:00:00.000Z</updated>
         <published>2024-07-15T16:00:00.000Z</published>
     </entry>
@@ -190,16 +218,9 @@
         <published>2024-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECCV 2024 | 数字人也懂惯性定律！上海AI Lab团队提出3D人体姿态序列建模]]></title>
-        <id>https://posts.careerengine.us/p/6694bad1ad2023623cfbac69</id>
-        <link href="https://posts.careerengine.us/p/6694bad1ad2023623cfbac69"/>
-        <updated>2024-07-14T16:00:00.000Z</updated>
-        <published>2024-07-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原来文章的idea都是这么找的？这方法简直“ 杀疯了 ”！]]></title>
-        <id>https://posts.careerengine.us/p/6694bad1ad2023623cfbac61</id>
-        <link href="https://posts.careerengine.us/p/6694bad1ad2023623cfbac61"/>
+        <title type="html"><![CDATA[上海内推 | ​​上海人工智能实验室招聘群体智能方向研究型实习生]]></title>
+        <id>https://posts.careerengine.us/p/6694baf11ad7a5629439563c</id>
+        <link href="https://posts.careerengine.us/p/6694baf11ad7a5629439563c"/>
         <updated>2024-07-14T16:00:00.000Z</updated>
         <published>2024-07-14T16:00:00.000Z</published>
     </entry>
@@ -211,9 +232,16 @@
         <published>2024-07-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上海内推 | ​​上海人工智能实验室招聘群体智能方向研究型实习生]]></title>
-        <id>https://posts.careerengine.us/p/6694baf11ad7a5629439563c</id>
-        <link href="https://posts.careerengine.us/p/6694baf11ad7a5629439563c"/>
+        <title type="html"><![CDATA[原来文章的idea都是这么找的？这方法简直“ 杀疯了 ”！]]></title>
+        <id>https://posts.careerengine.us/p/6694bad1ad2023623cfbac61</id>
+        <link href="https://posts.careerengine.us/p/6694bad1ad2023623cfbac61"/>
+        <updated>2024-07-14T16:00:00.000Z</updated>
+        <published>2024-07-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECCV 2024 | 数字人也懂惯性定律！上海AI Lab团队提出3D人体姿态序列建模]]></title>
+        <id>https://posts.careerengine.us/p/6694bad1ad2023623cfbac69</id>
+        <link href="https://posts.careerengine.us/p/6694bad1ad2023623cfbac69"/>
         <updated>2024-07-14T16:00:00.000Z</updated>
         <published>2024-07-14T16:00:00.000Z</published>
     </entry>
@@ -288,16 +316,9 @@
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北京内推 | ​百度搜索策略部视频搜索团队招聘多模态方向算法实习生]]></title>
-        <id>https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e</id>
-        <link href="https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e"/>
-        <updated>2024-07-13T16:00:00.000Z</updated>
-        <published>2024-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVPR最佳论文候选：NeRF新突破！用启发式引导分割去除瞬态干扰物]]></title>
-        <id>https://posts.careerengine.us/p/6693d721e247ce4ad4318d5c</id>
-        <link href="https://posts.careerengine.us/p/6693d721e247ce4ad4318d5c"/>
+        <title type="html"><![CDATA[WizardLM新作！ArenaLearning：通过模拟LLM竞技场来构建大规模数据飞轮]]></title>
+        <id>https://posts.careerengine.us/p/6693d712e7f7a74a42320e38</id>
+        <link href="https://posts.careerengine.us/p/6693d712e7f7a74a42320e38"/>
         <updated>2024-07-13T16:00:00.000Z</updated>
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
@@ -309,9 +330,16 @@
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WizardLM新作！ArenaLearning：通过模拟LLM竞技场来构建大规模数据飞轮]]></title>
-        <id>https://posts.careerengine.us/p/6693d712e7f7a74a42320e38</id>
-        <link href="https://posts.careerengine.us/p/6693d712e7f7a74a42320e38"/>
+        <title type="html"><![CDATA[CVPR最佳论文候选：NeRF新突破！用启发式引导分割去除瞬态干扰物]]></title>
+        <id>https://posts.careerengine.us/p/6693d721e247ce4ad4318d5c</id>
+        <link href="https://posts.careerengine.us/p/6693d721e247ce4ad4318d5c"/>
+        <updated>2024-07-13T16:00:00.000Z</updated>
+        <published>2024-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京内推 | ​百度搜索策略部视频搜索团队招聘多模态方向算法实习生]]></title>
+        <id>https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e</id>
+        <link href="https://posts.careerengine.us/p/6693d730339e294b2d3d7e7e"/>
         <updated>2024-07-13T16:00:00.000Z</updated>
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
@@ -333,34 +361,6 @@
         <title type="html"><![CDATA[设计师+AI，3个月就能完成一套千字中文字库@智琮科技]]></title>
         <id>https://posts.careerengine.us/p/66934f88974d1a412d65bcf2</id>
         <link href="https://posts.careerengine.us/p/66934f88974d1a412d65bcf2"/>
-        <updated>2024-07-13T16:00:00.000Z</updated>
-        <published>2024-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[明年，每个人都能零基础创作3D内容 | 对话VAST宋亚宸]]></title>
-        <id>https://posts.careerengine.us/p/66934f88974d1a412d65bce3</id>
-        <link href="https://posts.careerengine.us/p/66934f88974d1a412d65bce3"/>
-        <updated>2024-07-13T16:00:00.000Z</updated>
-        <published>2024-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭秘快手可灵背后的「关键7人」]]></title>
-        <id>https://posts.careerengine.us/p/66934f89974d1a412d65bcfa</id>
-        <link href="https://posts.careerengine.us/p/66934f89974d1a412d65bcfa"/>
-        <updated>2024-07-13T16:00:00.000Z</updated>
-        <published>2024-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[直击真实的甲方AGI需求，人工智能赋能产业融通发展论坛顺利召开]]></title>
-        <id>https://posts.careerengine.us/p/669359a1959bd06a3b7770cd</id>
-        <link href="https://posts.careerengine.us/p/669359a1959bd06a3b7770cd"/>
-        <updated>2024-07-13T16:00:00.000Z</updated>
-        <published>2024-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非法阻止员工披露AI安全风险，OpenAI严厉「封口协议」再遭举报]]></title>
-        <id>https://posts.careerengine.us/p/669359b2f902966a577edf51</id>
-        <link href="https://posts.careerengine.us/p/669359b2f902966a577edf51"/>
         <updated>2024-07-13T16:00:00.000Z</updated>
         <published>2024-07-13T16:00:00.000Z</published>
     </entry>
